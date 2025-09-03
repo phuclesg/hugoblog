@@ -17,7 +17,7 @@ defaultContentLanguage = "vi"
 
 [menu]
     [[menu.main]]
-        name = 'Trang Chủ'
+        name = 'Trang chủ'
         url = '/'
         weight = 1
     [[menu.main]]

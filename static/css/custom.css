@@ -14,9 +14,18 @@ font-family: 'Times New Roman', Times, serif;
 .avenir {
   font-family: "Roboto", sans-serif;
 }
+
+.f-subheadline-l {
+  font-family: "Playfair Display", serif;
+}
+
 .social-follow a  {
   margin-left: 10px;
   color: white;
+}
+.social-follow a:hover {
+  color:cornflowerblue;
+  transition: color 0.5s ease;
 }
 .sharing-social {
   display: flex;
