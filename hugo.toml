@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'vi'
+title = 'Miền Tây Nhớ'
+theme = 'ananke'
+
+[params]
+    name = "Phúc Ú"
+    link = "https://google.com"
+
+[menu]
+    [[menu.main]]
+        name = 'Trang Chủ'
+        url = '/'
+        weight = 1
+    [[menu.main]]
+        name = 'Món ăn miền tây'
+        url = 'categories/mon-an-mien-tay'
+        weight = 2
+[permalinks]
+    [permalinks.page]
+        posts = '/:slug/'
+
+[taxonomies]
+    category = "categories"
