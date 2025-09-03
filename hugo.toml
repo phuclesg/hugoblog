@@ -10,9 +10,10 @@ defaultContentLanguage = "vi"
     languageName = 'vietnames'
     weight = 1
 [params]
-    name = "Phúc Ú"
-    link = "https://google.com"
-    custom_css = ["css/custom.css"]
+    name = 'Phúc Ú'
+    link = 'https://google.com'
+    custom_css = ['css/custom.css']
+    date_format = '02/01/2006'
 
 [menu]
     [[menu.main]]

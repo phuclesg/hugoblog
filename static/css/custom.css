@@ -4,3 +4,31 @@ font-family: 'Times New Roman', Times, serif;
 .serif {
   font-family: 'Times New Roman', Times, serif;
 }
+
+.athelas {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 2rem;
+}
+.avenir {
+  font-family: "Roboto", sans-serif;
+}
+.social-follow a  {
+  margin-left: 10px;
+  color: white;
+}
+.sharing-social {
+  display: flex;
+  justify-content: center;
+  width: 66.6%;
+  gap: 1rem;
+}
+.sharing-social a {
+  color: burlywood;
+}
+.sharing-social a:hover svg {
+  transform: scale(1.1);
+  transition: transform 0.5s ease;
+  color: chocolate;
+}
