@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'vi-vietnam'
 title = 'Miền Tây Nhớ'
 theme = 'ananke'
+defaultContentLanguage = "vi"
 [languages]
   [languages.vi]
     languageCode = 'vi-vietnam'
@@ -11,6 +12,7 @@ theme = 'ananke'
 [params]
     name = "Phúc Ú"
     link = "https://google.com"
+    custom_css = ["css/custom.css"]
 
 [menu]
     [[menu.main]]

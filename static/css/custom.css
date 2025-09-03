@@ -1,36 +1,6 @@
-/* Menu cha */
-.dropdown {
-  position: relative;
+body {
+font-family: 'Times New Roman', Times, serif;
 }
-
-/* Menu con */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #111;
-  min-width: 180px;
-  z-index: 1;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-/* Hiển thị khi hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* Style menu con */
-.dropdown-content li {
-  display: block;
-  padding: 0.5rem 1rem;
-}
-
-.dropdown-content li a {
-  color: white;
-  text-decoration: none;
-}
-
-.dropdown-content li a:hover {
-  background-color: #333;
+.serif {
+  font-family: 'Times New Roman', Times, serif;
 }
