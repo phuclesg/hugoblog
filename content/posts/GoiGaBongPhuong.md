@@ -5,10 +5,11 @@ title = 'Gỏi Gà Bông Phượng'
 slug = 'goi-ga-bong-phuong'
 categories = 'mon-an-mien-tay'
 author = 'Phúc Mập'
+featured_image = 'images/goi-ga-hoa-phuong3.jpg'
 +++
 
 Gỏi gà hoa phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi hoa phượng nở rộ ở khắp nơi. Trong bài viết này, hãy cùng mình tìm hiểu cách thực hiện gỏi gà hoa phượng để chiêu đãi cả nhà nhé.
-
+<!--more-->
 ## Nguyên liệu làm gỏi gà hoa phượng
 
 ### Nguyên liệu chính (cho 3 người ăn)
