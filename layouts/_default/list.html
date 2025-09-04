@@ -8,7 +8,7 @@
               <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}" class="w-100 h5 object-cover br2">
             </div>
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary | plainify}}</p>
           {{ else }}
             {{ .Render "summary" }}
           {{ end }}
