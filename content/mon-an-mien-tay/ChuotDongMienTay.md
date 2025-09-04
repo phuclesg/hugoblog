@@ -5,7 +5,9 @@ title = 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đ�
 slug = 'chuot-dong-mien-tay'
 chuyen-muc = 'mon-an-mien-tay'
 author = 'Phúc Mập'
-featured_image = '/images/chuot-dong-nuong2.jpg'
+[thumbnail]
+    src = '/images/chuot-dong-nuong2.jpg'
+    visibility = ['list']
 +++
 
 Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo. Trong những món ăn đặc sắc của vùng đất này, "Chuột Đồng Miền Tây" nổi bật như một biểu tượng của sự sáng tạo và đa dạng văn hóa ẩm thực.<!--more-->

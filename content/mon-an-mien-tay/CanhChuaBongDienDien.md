@@ -5,7 +5,9 @@ draft = false
 slug = "canh-chua-ca-linh-bong-dien-dien"
 chuyen-muc = "mon-an-mien-tay"
 author = "Phúc Mập"
-featured_image = "/images/canhchuacalinh.jpg"
+[thumbnail] 
+    src = "/images/canhchuacalinh.jpg"
+    visibility = ['list']
 +++
 
 Canh chua cá linh bông điên điển mang đến cho bạn một trải nghiệm ẩm thực độc đáo với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon từ thiên nhiên. Cá linh, một loại cá nước ngọt phổ biến trong mùa nước nổi, có thịt mềm mại và vị ngọt tự nhiên. Bông điên điển, với màu vàng tươi và hương vị hơi đắng, không chỉ làm tăng thêm độ phong phú cho món canh mà còn tạo nên sự tương phản hấp dẫn với vị chua ngọt của nước dùng
