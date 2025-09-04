@@ -10,7 +10,7 @@ featured_image = '/images/nguyen-huu-canh.jpg'
 # Nguyễn Hữu Cảnh – Vị danh tướng mở cõi phương Nam
 **1. Bối cảnh lịch sử**
 
-Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa. Chúa Nguyễn lúc bấy giờ đang trong công cuộc Nam tiến, cần tổ chức quản lý, lập làng xã để ổn định đời sống, vừa phát triển kinh tế, vừa khẳng định chủ quyền.
+Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa. Chúa Nguyễn lúc bấy giờ đang trong công cuộc Nam tiến, cần tổ chức quản lý, lập làng xã để ổn định đời sống, vừa phát triển kinh tế, vừa khẳng định chủ quyền.<!--more-->
 
 Trong bối cảnh đó, Nguyễn Hữu Cảnh (1650 – 1700), một danh tướng tài năng và trung thành của chúa Nguyễn Phúc Chu, được giao trọng trách vào Nam kinh lược và thiết lập hệ thống hành chính.
 

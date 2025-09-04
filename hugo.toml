@@ -14,13 +14,14 @@ defaultContentLanguage = "vi"
     link = 'https://google.com'
     custom_css = ['css/custom.css']
     date_format = '02/01/2006'
+    mainSections = ['mon-an-mien-tay','nhan-vat']
 [permalinks]
     [permalinks.page]
         mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'
         NhanVat = '/nhan-vat/:slug/'
     [permalinks.section]
         mon-an-mien-tay = '/mon-an-mien-tay/'
-        NhanVat = '/nhan-vat/'
+        nhan-vat = '/nhan-vat/'
 [menus]
     [[menus.main]]
         name = 'Trang chủ'
