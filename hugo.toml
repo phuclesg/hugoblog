@@ -14,19 +14,16 @@ defaultContentLanguage = "vi"
     link = 'https://google.com'
     custom_css = ['css/custom.css']
     date_format = '02/01/2006'
-
-[menu]
-    [[menu.main]]
+[permalinks]
+    [permalinks.page]
+        mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'
+    [permalinks.section]
+        mon-an-mien-tay = '/mon-an-mien-tay/'
+[menus]
+    [[menus.main]]
         name = 'Trang chủ'
         url = '/'
         weight = 1
-    [[menu.main]]
-        name = 'Món ăn miền tây'
-        url = '/chuyen-muc/mon-an-mien-tay'
-        weight = 2
-[permalinks]
-    [permalinks.page]
-        posts = '/:slug/'
+    
 
-[taxonomies]
-    category = "chuyen-muc"
+
