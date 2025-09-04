@@ -4,7 +4,9 @@ draft = false
 title = 'Nguyễn Hữu Cảnh'
 author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
-featured_image = '/images/nguyen-huu-canh.jpg'
+[thumbnail] 
+    src = '/images/nguyen-huu-canh.jpg'
+    visibility = ['list']
 +++
 
 # Nguyễn Hữu Cảnh – Vị danh tướng mở cõi phương Nam

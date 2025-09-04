@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'vi-vietnam'
 title = 'Miền Tây Nhớ'
-theme = 'ananke'
+theme = 'mainroad'
 defaultContentLanguage = "vi"
 [languages]
   [languages.vi]
@@ -15,6 +15,14 @@ defaultContentLanguage = "vi"
     custom_css = ['css/custom.css']
     date_format = '02/01/2006'
     mainSections = ['mon-an-mien-tay','nhan-vat']
+    readmore = true
+[params.thumbnail]
+    visibility = ['list']
+[params.sidebar]
+    home = 'right'
+    list = 'right'
+    single = 'right'
+    widgets = ['search']
 [permalinks]
     [permalinks.page]
         mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'
