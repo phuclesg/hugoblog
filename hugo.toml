@@ -22,11 +22,11 @@ defaultContentLanguage = "vi"
         weight = 1
     [[menu.main]]
         name = 'Món ăn miền tây'
-        url = 'categories/mon-an-mien-tay'
+        url = '/chuyen-muc/mon-an-mien-tay'
         weight = 2
 [permalinks]
     [permalinks.page]
         posts = '/:slug/'
 
 [taxonomies]
-    category = "categories"
+    category = "chuyen-muc"

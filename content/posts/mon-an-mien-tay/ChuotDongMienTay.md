@@ -3,7 +3,7 @@ date = '2025-09-03T12:12:19Z'
 draft = false
 title = 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đất Lúa Non'
 slug = 'chuot-dong-mien-tay'
-categories = 'mon-an-mien-tay'
+chuyen-muc = 'mon-an-mien-tay'
 author = 'Phúc Mập'
 featured_image = '/images/chuot-dong-nuong2.jpg'
 +++

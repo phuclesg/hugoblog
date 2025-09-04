@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/chuyen-muc/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/goi-ga-bong-phuong/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/mon-an-mien-tay/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/chuyen-muc/mon-an-mien-tay/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/chuot-dong-mien-tay/</loc>
     <lastmod>2025-09-03T12:12:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chuot-dong-mien-tay/</loc>
-    <lastmod>2025-09-03T12:12:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-03T12:12:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/mon-an-mien-tay/</loc>
-    <lastmod>2025-09-03T12:12:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-03T12:12:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/canh-chua-ca-linh-bong-dien-dien/</loc>
+    <loc>//localhost:1313/canh-chua-ca-linh-bong-dien-dien/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

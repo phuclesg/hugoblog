@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Miền Tây Nhớ</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Miền Tây Nhớ</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
-    <lastBuildDate>Wed, 03 Sep 2025 12:12:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 00:01:16 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon-an-Mien-Tay</title>
-      <link>http://localhost:1313/categories/mon-an-mien-tay/</link>
-      <pubDate>Wed, 03 Sep 2025 12:12:19 +0000</pubDate>
-      <guid>http://localhost:1313/categories/mon-an-mien-tay/</guid>
+      <link>//localhost:1313/categories/mon-an-mien-tay/</link>
+      <pubDate>Thu, 04 Sep 2025 00:01:16 +0700</pubDate>
+      <guid>//localhost:1313/categories/mon-an-mien-tay/</guid>
       <description></description>
     </item>
   </channel>

@@ -10,7 +10,7 @@
       {{ range $term := .Data.Pages }}
         <h2 class="f1">
           <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
-            {{ $.Data.Singular | inflect.Humanize }}: {{ $term.LinkTitle }}
+            {{ $.Data.Singular | inflect.Humanize }}: {{ $term.Page.Title | default (humanize $term.LinkTitle) }}
           </a>
         </h2>
         {{ range $term.Pages }}
