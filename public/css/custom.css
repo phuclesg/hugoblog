@@ -19,30 +19,22 @@ font-family: 'Times New Roman', Times, serif;
   font-family: "Playfair Display", serif;
 }
 
-.social-follow a  {
-  margin-left: 10px;
-  color: white;
-}
-.social-follow a:hover {
-  color:cornflowerblue;
-  transition: color 0.5s ease;
-}
-.sharing-social {
-  display: flex;
-  justify-content: center;
-  width: 66.6%;
-  gap: 1rem;
-}
-.sharing-social a {
-  color: burlywood;
-}
-.sharing-social a:hover svg {
-  transform: scale(1.1);
-  transition: transform 0.5s ease;
-  color: chocolate;
+
+.list__thumbnail img {
+  width: 100%;
+  max-width: 300px;
 }
 @media screen and (max-width: 620px) {
+  .list__item {
+    display: flex;
+    flex-direction: column;
+  }
   .list__thumbnail {
-    max-width: 150px;
+    max-width: 100%;
+    align-self: center;
+  }
+  .list__thumbnail img{
+    width: 300px;
+    padding-bottom: 15px;
   }
 }
