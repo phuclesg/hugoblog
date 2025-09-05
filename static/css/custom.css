@@ -41,3 +41,8 @@ font-family: 'Times New Roman', Times, serif;
   transition: transform 0.5s ease;
   color: chocolate;
 }
+@media screen and (max-width: 620px) {
+  .list__thumbnail {
+    max-width: 150px;
+  }
+}
