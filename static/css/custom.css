@@ -11,6 +11,10 @@ font-size: 1.2em;
 .list__title {
   font-size: 1.2em;
 }
+.list__excerpt {
+  font-size: 0.9em;
+}
+
 .list__thumbnail img {
   width: 100%;
   max-width: 300px;
