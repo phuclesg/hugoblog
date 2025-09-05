@@ -23,6 +23,8 @@ defaultContentLanguage = "vi"
     list = 'right'
     single = 'right'
     widgets = ['search','social']
+[params.widgets.social]
+    facebook = 'phucsg.lhp'
 [permalinks]
     [permalinks.page]
         mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'

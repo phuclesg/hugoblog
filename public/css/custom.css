@@ -1,25 +1,16 @@
 body {
 font-family: 'Times New Roman', Times, serif;
+font-size: 1.2em;
 }
-.serif {
-  font-family: 'Times New Roman', Times, serif;
+.menu {
+  font-size: 0.8em;
 }
-
-.athelas {
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-size: 2rem;
+.list__footer-readmore {
+  font-size: 0.6em;
 }
-.avenir {
-  font-family: "Roboto", sans-serif;
+.list__title {
+  font-size: 1.2em;
 }
-
-.f-subheadline-l {
-  font-family: "Playfair Display", serif;
-}
-
-
 .list__thumbnail img {
   width: 100%;
   max-width: 300px;
