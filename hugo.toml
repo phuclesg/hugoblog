@@ -22,7 +22,7 @@ defaultContentLanguage = "vi"
     home = 'right'
     list = 'right'
     single = 'right'
-    widgets = ['search']
+    widgets = ['search','social']
 [permalinks]
     [permalinks.page]
         mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'
