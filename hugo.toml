@@ -37,6 +37,9 @@ defaultContentLanguage = "vi"
         name = 'Trang chủ'
         url = '/'
         weight = 1
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
     
 
 
