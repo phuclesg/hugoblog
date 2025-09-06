@@ -5,6 +5,7 @@ title = 'Gỏi Gà Bông Phượng'
 slug = 'goi-ga-bong-phuong'
 chuyen-muc = 'mon-an-mien-tay'
 author = 'Phúc Mập'
+categories = "Món ngon miền tây"
 [thumbnail] 
     src = '/images/goi-ga-hoa-phuong3.jpg'
     visibility = ['list']

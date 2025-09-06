@@ -5,6 +5,7 @@ title = 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đ�
 slug = 'chuot-dong-mien-tay'
 chuyen-muc = 'mon-an-mien-tay'
 author = 'Phúc Mập'
+categories = "Món ngon miền tây"
 [thumbnail]
     src = '/images/chuot-dong-nuong2.jpg'
     visibility = ['list']

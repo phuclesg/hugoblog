@@ -4,6 +4,7 @@ draft = false
 title = 'Nguyễn Hữu Cảnh'
 author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
+categories = 'Danh Nhân Miền Tây'
 [thumbnail] 
     src = '/images/nguyen-huu-canh.jpg'
     visibility = ['list']

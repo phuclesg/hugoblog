@@ -5,6 +5,7 @@ draft = false
 slug = "canh-chua-ca-linh-bong-dien-dien"
 chuyen-muc = "mon-an-mien-tay"
 author = "Phúc Mập"
+categories = "Món ngon miền tây"
 [thumbnail] 
     src = "/images/canhchuacalinh.jpg"
     visibility = ['list']

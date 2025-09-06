@@ -3,7 +3,7 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Search Results - Miền Tây Nhớ</title>
+	<title>Tìm kiếm - Miền Tây Nhớ</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -57,6 +57,9 @@
 				
 			</a>
 		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/search/">Tìm kiếm</a>
+		</li>
 	</ul>
 </nav>
 
@@ -65,36 +68,50 @@
 		<div class="wrapper flex">
 			<div class="primary">
 			
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" >
-    <form action="//localhost:1313/search">
-      <input id="search-query" name="s"/>
-    </form>
-    <div id="search-results">
-     <h3>Matching pages</h3>
-    </div>
-  </div>
-</section>
-
-<script id="search-result-template" type="text/x-js-template">
-    <div id="summary-${key}">
-      <h4><a href="${link}">${title}</a></h4>
-      <p>${snippet}</p>
-      ${ isset tags }<p>Tags: ${tags}</p>${ end }
-      ${ isset categories }<p>Categories: ${categories}</p>${ end }
-    </div>
-</script>
-
-			</div>
-			<aside class="sidebar"><input type="search" id="search-input">
-
-<div class="search-results">
-<section>
-<h2><a target="_blank"></a></h2>
-<div class="search-preview"></div>
-</section>
+<div class="search-box">
+  <input id="search-query" type="search" placeholder="🔍 Gõ để tìm bài..." autocomplete="off">
+  <ul id="search-results"></ul>
 </div>
 
+<style>
+.search-box { position: relative; max-width: 400px; margin: 0 auto; }
+#search-query {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  font-size: 16px;
+}
+#search-results {
+  list-style: none;
+  margin: 5px 0 0;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  max-height: 250px;
+  overflow-y: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+#search-results li {
+  padding: 8px 12px;
+}
+#search-results li a {
+  text-decoration: none;
+  color: #333;
+}
+#search-results li:hover {
+  background: #f5f5f5;
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+<script src="/js/search.js"></script>
+
+			</div>
+			<aside class="sidebar">
 <div class="widget-social widget">
 	<h4 class="widget-social__title widget__title">Mạng Xã hội</h4>
 	<div class="widget-social__content widget__content">
@@ -106,6 +123,17 @@
 		</div>
 
 		
+	</div>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">Chủ đề</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/danh-nh%C3%A2n-mi%E1%BB%81n-t%C3%A2y/">Danh Nhân Miền Tây</a></li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/m%C3%B3n-ngon-mi%E1%BB%81n-t%C3%A2y/">Món Ngon Miền Tây</a></li>
+		</ul>
 	</div>
 </div>
 </aside>

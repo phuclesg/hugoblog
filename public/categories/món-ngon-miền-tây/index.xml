@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miền Tây Nhớ</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Miền Tây Nhớ</description>
+    <title>Món Ngon Miền Tây on Miền Tây Nhớ</title>
+    <link>//localhost:1313/categories/m%C3%B3n-ngon-mi%E1%BB%81n-t%C3%A2y/</link>
+    <description>Recent content in Món Ngon Miền Tây on Miền Tây Nhớ</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
-    <lastBuildDate>Thu, 04 Sep 2025 21:40:03 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nguyễn Hữu Cảnh</title>
-      <link>//localhost:1313/nhan-vat/nguyen-huu-canh/</link>
-      <pubDate>Thu, 04 Sep 2025 21:40:03 +0700</pubDate>
-      <guid>//localhost:1313/nhan-vat/nguyen-huu-canh/</guid>
-      <description>&lt;h1 id=&#34;vị-danh-tướng-mở-cõi-phương-nam&#34;&gt;Vị danh tướng mở cõi phương Nam&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Bối cảnh lịch sử&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa. Chúa Nguyễn lúc bấy giờ đang trong công cuộc Nam tiến, cần tổ chức quản lý, lập làng xã để ổn định đời sống, vừa phát triển kinh tế, vừa khẳng định chủ quyền.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 00:01:16 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/m%C3%B3n-ngon-mi%E1%BB%81n-t%C3%A2y/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gỏi Gà Bông Phượng</title>
       <link>//localhost:1313/mon-an-mien-tay/goi-ga-bong-phuong/</link>
@@ -35,13 +28,6 @@
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/mon-an-mien-tay/canh-chua-ca-linh-bong-dien-dien/</guid>
       <description>&lt;p&gt;Canh chua cá linh bông điên điển mang đến cho bạn một trải nghiệm ẩm thực độc đáo với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon từ thiên nhiên. Cá linh, một loại cá nước ngọt phổ biến trong mùa nước nổi, có thịt mềm mại và vị ngọt tự nhiên. Bông điên điển, với màu vàng tươi và hương vị hơi đắng, không chỉ làm tăng thêm độ phong phú cho món canh mà còn tạo nên sự tương phản hấp dẫn với vị chua ngọt của nước dùng&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tìm kiếm</title>
-      <link>//localhost:1313/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/search/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

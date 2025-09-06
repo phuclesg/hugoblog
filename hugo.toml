@@ -22,7 +22,7 @@ defaultContentLanguage = "vi"
     home = 'right'
     list = 'right'
     single = 'right'
-    widgets = ['search','social']
+    widgets = ['social','categories']
 [params.widgets.social]
     facebook = 'phucsg.lhp'
 [permalinks]
@@ -37,8 +37,8 @@ defaultContentLanguage = "vi"
         name = 'Trang chủ'
         url = '/'
         weight = 1
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+[taxonomy]
+    category = 'categories'
 
     
 
