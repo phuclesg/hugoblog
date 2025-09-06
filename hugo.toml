@@ -3,6 +3,7 @@ languageCode = 'vi-vietnam'
 title = 'Miền Tây Nhớ'
 theme = 'mainroad'
 defaultContentLanguage = "vi"
+comment = 'true'
 [languages]
   [languages.vi]
     languageCode = 'vi-vietnam'
