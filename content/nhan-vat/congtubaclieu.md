@@ -1,6 +1,6 @@
 +++
 date = '2025-09-09T15:31:30+07:00'
-draft = true
+draft = false
 title = 'Công tử Bạc Liêu – Hào hoa và giai thoại một thời'
 slug = 'cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi'
 categories = 'nhân vật nổi tiếng miền tây'
