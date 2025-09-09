@@ -14,7 +14,9 @@ font-size: 1.2em;
 .list__excerpt {
   font-size: 0.9em;
 }
-
+figcaption p {
+  text-align: center;
+}
 .list__thumbnail img {
   width: 100%;
   max-width: 300px;

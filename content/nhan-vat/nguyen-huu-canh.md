@@ -4,7 +4,7 @@ draft = false
 title = 'Nguyễn Hữu Cảnh'
 author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
-categories = 'Danh Nhân Miền Tây'
+categories = 'nhân vật nổi tiếng miền tây'
 [thumbnail] 
     src = '/images/nguyen-huu-canh.jpg'
     visibility = ['list']
@@ -17,7 +17,7 @@ Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớ
 
 Trong bối cảnh đó, Nguyễn Hữu Cảnh (1650 – 1700), một danh tướng tài năng và trung thành của chúa Nguyễn Phúc Chu, được giao trọng trách vào Nam kinh lược và thiết lập hệ thống hành chính.
 
-{{< figure src="/images/nguyen-huu-canh2.jpg" alt="tướng nguyễn hữu cảnh" caption="Danh Tướng Nguyễn Hữu Cảnh" class="center tc" >}}
+{{< figure src="/images/nguyen-huu-canh2.jpg" alt="tướng nguyễn hữu cảnh" caption="Danh Tướng Nguyễn Hữu Cảnh" class="center" >}}
 
 **2. Tiểu sử ngắn gọn**
 

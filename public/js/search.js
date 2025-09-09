@@ -22,7 +22,7 @@ async function initSearch() {
     matches.slice(0, 8).forEach(match => {
       const item = data.find(d => d.permalink === match.ref);
       if (item) {
-        results.innerHTML += `<li><a href="${item.permalink}">${item.title}</a></li>`;
+        results.innerHTML += `<li><a href="${item.permalink}">${item.title}${item.summary}</a></li>`;
       }
     });
   });

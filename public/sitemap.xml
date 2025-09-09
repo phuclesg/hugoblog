@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-09-04T21:40:03+07:00</lastmod>
+    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/danh-nh%C3%A2n-mi%E1%BB%81n-t%C3%A2y/</loc>
-    <lastmod>2025-09-04T21:40:03+07:00</lastmod>
+    <loc>//localhost:1313/nhan-vat/cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi/</loc>
+    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-09-04T21:40:03+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/nhan-vat/nguyen-huu-canh/</loc>
-    <lastmod>2025-09-04T21:40:03+07:00</lastmod>
+    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/nhan-vat/</loc>
+    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/nh%C3%A2n-v%E1%BA%ADt-n%E1%BB%95i-ti%E1%BA%BFng-mi%E1%BB%81n-t%C3%A2y/</loc>
+    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/nhan-vat/nguyen-huu-canh/</loc>
     <lastmod>2025-09-04T21:40:03+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/goi-ga-bong-phuong/</loc>

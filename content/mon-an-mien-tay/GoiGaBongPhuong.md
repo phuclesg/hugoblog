@@ -11,7 +11,7 @@ categories = "Món ngon miền tây"
     visibility = ['list']
 +++
 
-Gỏi gà hoa phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi hoa phượng nở rộ ở khắp nơi. Trong bài viết này, hãy cùng mình tìm hiểu cách thực hiện gỏi gà hoa phượng để chiêu đãi cả nhà nhé.
+Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi bông phượng nở rộ ở khắp nơi. Trong bài viết này, hãy cùng mình tìm hiểu cách thực hiện gỏi gà bông phượng để chiêu đãi cả nhà nhé.
 <!--more-->
 ## Nguyên liệu làm gỏi gà hoa phượng
 
