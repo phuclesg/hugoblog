@@ -29,13 +29,17 @@
     <loc>//localhost:1313/categories/m%C3%B3n-ngon-mi%E1%BB%81n-t%C3%A2y/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/m%C3%B3n-g%E1%BB%8Fi/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/chuot-dong-mien-tay/</loc>
     <lastmod>2025-09-03T12:12:19+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/canh-chua-ca-linh-bong-dien-dien/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/search/</loc>
   </url>
