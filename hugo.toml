@@ -3,7 +3,9 @@ languageCode = 'vi-vietnam'
 title = 'Miền Tây Nhớ'
 theme = 'mainroad'
 defaultContentLanguage = "vi"
-comment = 'true'
+[services]
+  [services.disqus]
+    shortname = 'disqus_zSvaLrpCW9'
 [languages]
   [languages.vi]
     languageCode = 'vi-vietnam'
