@@ -5,7 +5,7 @@ theme = 'mainroad'
 defaultContentLanguage = "vi"
 [services]
   [services.disqus]
-    shortname = 'disqus_zSvaLrpCW9'
+    shortname = 'mientayblog'
 [languages]
   [languages.vi]
     languageCode = 'vi-vietnam'
