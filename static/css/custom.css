@@ -4,6 +4,34 @@ font-size: 1.2em;
 }
 .menu {
   font-size: 0.8em;
+  border-bottom: 5px solid #76eab3;
+}
+.menu__list {
+  background-color: #ff484a;
+}
+.menu__item--active, .menu__item--active a {
+  background: #76eab3;
+  color: #484848;
+}
+.btn {
+  background-color: #ff484a;
+}
+.btn:hover {
+  background-color: #76eab3;
+  color: #484848;
+  transition: 0.3s ease-out !important;
+}
+.btn:hover > svg {
+  fill: #484848;
+  transition: 0.3s ease-out !important;
+}
+.menu__list a:hover {
+  background-color: #76eab3;
+  color: #484848;
+  transition: 0.3s ease-out !important;
+}
+.widget__title {
+  border-bottom: 3px solid #76eab3;
 }
 .list__footer-readmore {
   font-size: 0.6em;
