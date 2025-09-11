@@ -2,12 +2,27 @@ body {
 font-family: 'Times New Roman', Times, serif;
 font-size: 1.2em;
 }
+.header__container {
+  background: url(/images/logo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .menu {
   font-size: 0.8em;
   border-bottom: 5px solid #76eab3;
 }
+.menu__btn {
+  background-color: #ff484a;
+}
+.menu__btn-title {
+  color: #fff;
+}
 .menu__list {
   background-color: #ff484a;
+}
+.menu__list--active, .menu__list--active a{
+  background-color: #76eab3;
+  color: #484848;
 }
 .menu__item--active, .menu__item--active a {
   background: #76eab3;
@@ -49,6 +64,14 @@ figcaption p {
   width: 100%;
   max-width: 300px;
 }
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
 @media screen and (max-width: 620px) {
   .list__item {
     display: flex;

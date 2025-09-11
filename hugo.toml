@@ -3,6 +3,9 @@ languageCode = 'vi-vietnam'
 title = 'Miền Tây Nhớ'
 theme = 'mainroad'
 defaultContentLanguage = "vi"
+
+[pagination]
+    pagerSize = 8
 [services]
   [services.disqus]
     shortname = 'mientayblog'
