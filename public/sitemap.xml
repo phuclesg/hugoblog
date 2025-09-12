@@ -5,10 +5,19 @@
     <loc>//localhost:1313/mon-an-mien-tay/bun-bo-choc/</loc>
     <lastmod>2025-09-12T16:06:42+07:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/b%C3%BAn-b%C3%B2-ch%C3%B3c/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/c%C3%A1c-m%C3%B3n-m%E1%BA%AFm/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-09-12T16:06:42+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-09-12T16:06:42+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/m%C3%B3n-g%E1%BB%8Fi/</loc>
-    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/chuot-dong-mien-tay/</loc>

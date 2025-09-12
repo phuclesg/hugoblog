@@ -4,6 +4,7 @@ draft = false
 title = 'Bún bò chóc - Một trải nghiệm ẩm thực độc đáo'
 slug = 'bun-bo-choc'
 catagories = 'Món ngon miền tây'
+tags = ['bún-bò-chóc','Các-món-mắm']
 author = 'Phúc Mập'
 comment = true
 [thumbnail]
