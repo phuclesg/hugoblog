@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/mon-an-mien-tay/bun-bo-choc/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/mon-an-mien-tay/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-09-09T15:31:30+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/nhan-vat/cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi/</loc>
-    <lastmod>2025-09-09T15:31:30+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
     <lastmod>2025-09-09T15:31:30+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/nhan-vat/</loc>
@@ -21,9 +27,6 @@
     <lastmod>2025-09-04T21:40:03+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mon-an-mien-tay/goi-ga-bong-phuong/</loc>
-    <lastmod>2025-09-04T00:01:16+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/mon-an-mien-tay/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/m%C3%B3n-ngon-mi%E1%BB%81n-t%C3%A2y/</loc>
