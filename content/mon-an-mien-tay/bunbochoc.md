@@ -11,16 +11,16 @@ comment = true
     src = '/images/bun-bo-choc.webp'
     visibility = ['list']
 +++
-**Bạn đã bao giờ nghe đến món bún bò chóc chưa**? Đây là một món ăn khá lạ tai nhưng lại vô cùng hấp dẫn, đặc biệt là với những ai yêu thích ẩm thực Khmer. Bún bò chóc không phổ biến như bún bò Huế, nhưng hương vị độc đáo của nó chắc chắn sẽ để lại ấn tượng khó quên.
+Bạn đã bao giờ nghe đến món **bún bò chóc** chưa? Đây là một món ăn khá lạ tai nhưng lại vô cùng hấp dẫn, đặc biệt là với những ai yêu thích ẩm thực Khmer. Bún bò chóc không phổ biến như bún bò Huế, nhưng hương vị độc đáo của nó chắc chắn sẽ để lại ấn tượng khó quên.
 
-Bún bò chóc có gì đặc biệt?
+**Bún bò chóc có gì đặc biệt?**
 Bún bò chóc có nguồn gốc từ Campuchia, sau đó được du nhập và biến tấu để phù hợp với khẩu vị của người dân vùng Đồng bằng sông Cửu Long, đặc biệt là các tỉnh có cộng đồng người Khmer sinh sống như Sóc Trăng, Trà Vinh. Tên gọi "bún bò chóc" nghe có vẻ lạ, nhưng thực chất "chóc" trong tiếng Khmer có nghĩa là mắm.
 
 {{< figure src="/images/bun-bo-choc.webp" alt="Bún bò chóc" class="center" caption="Bún bò chóc" >}}
 
 Điểm làm nên sự khác biệt của món ăn này chính là nước dùng. Thay vì nước hầm xương thông thường, nước dùng bún bò chóc được nấu từ mắm bò hóc, một loại mắm làm từ cá sặt hoặc cá lóc ủ trong thời gian dài. Mắm bò hóc có mùi nồng đặc trưng, nhưng khi được nấu cùng với sả, ngải bún, nghệ và nhiều loại gia vị khác, nó sẽ tạo ra một thứ nước dùng đậm đà, thơm lừng và ngọt thanh một cách lạ kì.
 
-Nước lèo - Linh hồn của món ăn
+**Nước lèo - Linh hồn của món ăn**
 Để có được nồi nước lèo bún bò chóc chuẩn vị, người ta phải chuẩn bị rất cầu kỳ. Mắm bò hóc được rã ra, lọc kỹ để lấy phần nước cốt. Nước cốt mắm này sau đó được nấu cùng với sả băm và ngải bún. Ngải bún là một loại củ cùng họ với gừng và nghệ, có mùi thơm đặc trưng giúp món ăn thêm phần hấp dẫn. Ngoài ra, nước lèo còn được nêm nếm thêm đường, bột ngọt và đặc biệt là khô cá lóc, giúp tạo thêm vị ngọt tự nhiên và béo ngậy.
 
 {{< figure src="/images/bun-bo-choc2.jpg" alt="Bún bò chóc" class="center" caption="Bún bò chóc" >}}
