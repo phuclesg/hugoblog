@@ -27,6 +27,7 @@ defaultContentLanguage = "vi"
     name = 'Phúc Mập'
     email = 'Lhp0988@gmail.com'
     phone = '0567377979'
+    avatar = '/images/avatar.webp'
     description = 'Là một người con của Miền Tây sông nước với mong muốn tạo ra một nơi hoài niệm về Nam kỳ xưa và Miền Tây. Nếu mọi người muốn đóng góp thì có thể gửi mail về cho mình về những bài viết những điểm du lịch đẹp ở miền Nam và miền Tây'
 
 [params.thumbnail]

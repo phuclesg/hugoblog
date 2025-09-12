@@ -28,7 +28,7 @@
 
 # Authorbox
 - id: authorbox_name
-  translation: "Về {{ .Name }}"
+  translation: "Về tác giả: {{ .Name }}"
 
 # Sidebar
 - id: sidebar_warning

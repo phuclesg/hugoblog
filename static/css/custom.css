@@ -64,6 +64,13 @@ figcaption p {
   width: 100%;
   max-width: 300px;
 }
+.authorbox__avatar, .authorbox__avatar img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  padding: 0;
+}
+
 .pagination {
   display: flex;
   justify-content: center;
