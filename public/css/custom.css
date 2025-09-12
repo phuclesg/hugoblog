@@ -10,6 +10,7 @@ font-size: 1.2em;
 .menu {
   font-size: 0.8em;
   border-bottom: 5px solid #76eab3;
+  position: relative;
 }
 .menu__btn {
   background-color: #ff484a;
