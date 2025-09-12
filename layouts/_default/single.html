@@ -14,11 +14,11 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix post__single">
 			{{ .Content }}
-			{{- with .Site.Params.author }}
+			{{ with .Params.author }}
 			<div class="author__single">
-				{{ .name }}
+				<p>{{ . }}</p>
 			</div>
-			{{- end }}
+			{{ end }}
 		</div>
 		{{- if .Params.tags }}
 		<footer class="post__footer">
