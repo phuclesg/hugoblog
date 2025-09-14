@@ -44,6 +44,7 @@ defaultContentLanguage = "vi"
 [permalinks]
     mon-tan-mien-tay = '/mon-ngon-mien-tay/:slug/'
     NhanVat = '/nhan-vat-noi-tieng-mien-nam/:slug/'
+    tag = '/tags/:slug'
 [menus]
     [[menus.main]]
         name = 'Trang chủ'
