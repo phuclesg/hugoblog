@@ -3,7 +3,10 @@ languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
 theme = 'mainroad'
 defaultContentLanguage = "vi"
-
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 [pagination]
     pagerSize = 8
 [services]
