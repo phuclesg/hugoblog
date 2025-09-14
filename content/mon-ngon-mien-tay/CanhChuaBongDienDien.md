@@ -3,9 +3,8 @@ title = "Canh chua cá linh bông điên điển"
 date = 2025-09-02
 draft = false
 slug = "canh-chua-ca-linh-bong-dien-dien"
-chuyen-muc = "mon-an-mien-tay"
 author = "Phúc Mập"
-categories = "Món ngon miền tây"
+categories = "mon-ngon-mien-tay"
 comments = true
 [thumbnail] 
     src = "/images/canhchuacalinh.jpg"

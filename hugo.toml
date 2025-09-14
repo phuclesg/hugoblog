@@ -19,7 +19,7 @@ defaultContentLanguage = "vi"
     name = 'Phúc Ú'
     link = 'https://google.com'
     date_format = '02/01/2006'
-    mainSections = ['mon-an-mien-tay','nhan-vat']
+    mainSections = [' mon-ngon-mien-tay','nhan-vat-noi-tieng-mien-nam']
     readmore = true
     customCss = ['css/custom.css']
     authorbox = true
@@ -39,12 +39,8 @@ defaultContentLanguage = "vi"
 [params.widgets.social]
     facebook = 'phucsg.lhp'
 [permalinks]
-    [permalinks.page]
-        mon-tan-mien-tay = '/mon-an-mien-tay/:slug/'
-        NhanVat = '/nhan-vat/:slug/'
-    [permalinks.section]
-        mon-an-mien-tay = '/mon-an-mien-tay/'
-        nhan-vat = '/nhan-vat/'
+    mon-tan-mien-tay = '/mon-ngon-mien-tay/:slug/'
+    NhanVat = '/nhan-vat-noi-tieng-mien-nam/:slug/'
 [menus]
     [[menus.main]]
         name = 'Trang chủ'

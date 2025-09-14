@@ -4,7 +4,7 @@ draft = false
 title = 'Công tử Bạc Liêu – Hào hoa và giai thoại một thời'
 author = 'Phúc Mập'
 slug = 'cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi'
-categories = 'nhân vật nổi tiếng miền tây'
+categories = 'nhan-vat-noi-tieng-mien-nam'
 [thumbnail]
     src = '/images/cong-tu-bac-lieu.jpg'
     visibility = ['list']
