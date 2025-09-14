@@ -5,12 +5,12 @@ title = 'Nhím học dốt - nhân vật học dốt nhất miền tây'
 categories = 'Nhân vật nổi tiếng miền tây'
 slug = 'nhim-hoc-dot'
 [thumbnail]
-    src='/images/nhimdot.jpeg'
+    src='/images/nhim-dot.jpeg'
     visibility = ['list']
 +++
 Ở tận mé rạch dừa, có một con bé tên **Nhím**. Nó nhỏ xíu, tóc lúc nào cũng rối như ổ quạ, đi học thì mang cái cặp to gấp đôi cái người. Cái tiếng “học dốt” của Nhím thì nổi khắp xóm, ai cũng biết.
 
-{{< figure src="/images/nhimdot.jpeg" alt="Nhím học dốt" caption="Nhím học dốt" >}}
+{{< figure src="/images/nhim-dot.jpeg" alt="Nhím học dốt" caption="Nhím học dốt" >}}
 
 Hôm đầu tiên đi học, cô giáo kêu:
 – Nhím, đọc chữ A!
