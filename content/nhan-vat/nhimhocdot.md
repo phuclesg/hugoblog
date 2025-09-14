@@ -28,5 +28,5 @@ Có hôm làm văn, đề bài: “Em hãy tả buổi sáng ở thành phố”
 – Buổi sáng ở thành phố, má em la: “Nhanh lên, kẹt xe chết giờ!”
 Đọc tới đâu, thầy giáo gật gù: “Ừ, cũng… thật đó chớ!”
 
-Thành ra, ở Sài Gòn, bé Nhím nổi tiếng dốt mà dễ thương. Người ta đùa với nhau:
-– Sài Gòn có hai thứ không bao giờ hết: kẹt xe và… con bé Nhím học dốt!
+Thành ra, ở Bến Tre, bé Nhím nổi tiếng dốt mà dễ thương. Người ta đùa với nhau:
+– Bến Tre có hai thứ không bao giờ hết: dừa và… con bé Nhím học dốt!
