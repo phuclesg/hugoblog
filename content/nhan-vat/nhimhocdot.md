@@ -9,7 +9,7 @@ author= 'Phúc Mập'
     src='/images/nhim-dot.jpeg'
     visibility = ['list']
 +++
-Ở trong hẻm gần chợ Bà Chiểu có bé Nhím, nổi tiếng… học dốt từ lớp tới hẻm. Mấy bà bán bún riêu, bán hủ tiếu đều biết mặt, ai thấy cũng cười:
+Ở trong hẻm gần chợ Thạnh Phú có bé Nhím, nổi tiếng… học dốt từ lớp tới hẻm. Mấy bà bán bún riêu, bán hủ tiếu đều biết mặt, ai thấy cũng cười:
 – Trời, con nhỏ Nhím đi học về chưa? Bữa nay có thuộc bài không đó?
 {{< figure src="/images/nhim-dot.jpeg" caption="Đây là Nhím học dốt" >}}
 Một lần, cô giáo kêu:
