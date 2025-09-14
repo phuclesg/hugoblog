@@ -97,9 +97,10 @@ figure.center {
   top:0;
   left: 0;
   height: 10px;
-  width: 50%;
+  width: 100%;
   background-color: #76eab3;
   border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
 }
 .authorbox::after {
   content: "";
@@ -109,10 +110,10 @@ figure.center {
   display: block;
   height: 10px;
   border-bottom-right-radius: 50px;
-  width: 50%;
+  border-bottom-left-radius: 50px;
+  width: 100%;
   visibility: visible;
   background-color: #76eab3;
-  z-index: 999;
 }
 .pagination {
   display: flex;

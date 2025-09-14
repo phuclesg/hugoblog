@@ -10,7 +10,7 @@ slug = 'nhim-hoc-dot'
 +++
 Ở tận mé rạch dừa, có một con bé tên **Nhím**. Nó nhỏ xíu, tóc lúc nào cũng rối như ổ quạ, đi học thì mang cái cặp to gấp đôi cái người. Cái tiếng “học dốt” của Nhím thì nổi khắp xóm, ai cũng biết.
 
-{{< figure src="/images/nhimdot.jpeg' caption="Đây là nhím dốt" >}}
+{{< figure src="/images/nhimdot.jpeg" alt="Nhím học dốt" caption="Nhím học dốt" >}}
 
 Hôm đầu tiên đi học, cô giáo kêu:
 – Nhím, đọc chữ A!

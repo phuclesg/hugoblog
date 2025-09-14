@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nhân Vật Nổi Tiếng Miền Nam on Miền Tây Nhớ</title>
+    <title>Nhân Vật Nổi Tiếng Miền Nam on Nam Kỳ Xưa</title>
     <link>//localhost:1313/nhan-vat/</link>
-    <description>Recent content in Nhân Vật Nổi Tiếng Miền Nam on Miền Tây Nhớ</description>
+    <description>Recent content in Nhân Vật Nổi Tiếng Miền Nam on Nam Kỳ Xưa</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
-    <lastBuildDate>Tue, 09 Sep 2025 15:31:30 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 09:19:51 +0700</lastBuildDate>
     <atom:link href="//localhost:1313/nhan-vat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nhím học dốt - nhân vật học dốt nhất miền tây</title>
+      <link>//localhost:1313/nhan-vat/nhim-hoc-dot/</link>
+      <pubDate>Sun, 14 Sep 2025 09:19:51 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/nhan-vat/nhim-hoc-dot/</guid>
+      <description>&lt;p&gt;Ở tận mé rạch dừa, có một con bé tên &lt;strong&gt;Nhím&lt;/strong&gt;. Nó nhỏ xíu, tóc lúc nào cũng rối như ổ quạ, đi học thì mang cái cặp to gấp đôi cái người. Cái tiếng “học dốt” của Nhím thì nổi khắp xóm, ai cũng biết.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/nhimdot.jpeg&#34;&#xA;    alt=&#34;Nhím học dốt&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Nhím học dốt&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Hôm đầu tiên đi học, cô giáo kêu:&#xA;– Nhím, đọc chữ A!&#xA;Nó đứng dậy, chống nạnh, la lớn:&#xA;– Dạ… chữ này giống con gà gáy ò ó o!&#xA;Cả lớp cười ngã nghiêng, còn cô giáo chỉ biết thở dài.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Công tử Bạc Liêu – Hào hoa và giai thoại một thời</title>
       <link>//localhost:1313/nhan-vat/cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi/</link>
