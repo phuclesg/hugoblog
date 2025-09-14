@@ -9,24 +9,36 @@ author= 'Phúc Mập'
     src='/images/nhim-dot.jpeg'
     visibility = ['list']
 +++
-Ở trong hẻm gần chợ Thạnh Phú có bé Nhím, nổi tiếng… học dốt từ lớp tới hẻm. Mấy bà bán bún riêu, bán hủ tiếu đều biết mặt, ai thấy cũng cười:
-– Trời, con nhỏ Nhím đi học về chưa? Bữa nay có thuộc bài không đó?
-{{< figure src="/images/nhim-dot.jpeg" caption="Đây là Nhím học dốt" >}}
-Một lần, cô giáo kêu:
-– Nhím, đứng lên đọc chữ Ô tô.
-Bé Nhím nhìn chữ, suy nghĩ dữ lắm rồi trả lời tỉnh queo:
-– Dạ… chữ này đọc là… Grab!
-Cả lớp cười muốn xỉu, cô giáo cũng dở khóc dở cười.
+Bé Nhím học dốt ở Bến Tre
 
-Qua môn toán, thầy hỏi:
-– Ba cộng bốn bằng mấy?
-Nhím nheo mắt, nói chắc nịch:
-– Dạ… bằng… bảy.
-Nguyên lớp ôm bụng, cười muốn banh cửa sổ.
+Trong một con hẻm nhỏ gần chợ Thạnh Phú, có bé Nhím, học lớp ba. Con bé lanh chanh, hay cười, chạy nhảy suốt ngày, chỉ có cái tội… học dốt nổi tiếng cả xóm.
 
-Có hôm làm văn, đề bài: “Em hãy tả buổi sáng ở thành phố”. Bạn bè viết nào là “tiếng chim hót”, “ánh nắng chan hòa”. Riêng bé Nhím viết:
-– Buổi sáng ở thành phố, má em la: “Nhanh lên, kẹt xe chết giờ!”
-Đọc tới đâu, thầy giáo gật gù: “Ừ, cũng… thật đó chớ!”
+{{< figure src="/images/nhim-dot.jpeg" caption="Đây Là Nhím Dốt" >}}
 
-Thành ra, ở Bến Tre, bé Nhím nổi tiếng dốt mà dễ thương. Người ta đùa với nhau:
-– Bến Tre có hai thứ không bao giờ hết: dừa và… con bé Nhím học dốt!
+Mỗi buổi sáng, má Nhím gọi:
+– Nhím ơi, đi học kẻo trễ!
+Con bé lồm cồm thức dậy, vội nhét tập vở vào cặp mà không bao giờ nhớ nổi hôm nay học môn gì. Má phải nhắc:
+– Bữa nay có toán, nhớ đem thước kẻ!
+Vậy mà tới lớp, mở cặp ra, trong đó toàn… bánh mì và hộp sữa.
+
+Trong lớp, Nhím được bạn bè thương lắm, vì cái gì nó cũng trả lời ngây ngô. Cô giáo hỏi:
+– Bài này ai làm được, giơ tay!
+Cả lớp im ru, Nhím giơ tay thật cao. Cô mừng rỡ:
+– Giỏi quá, Nhím lên bảng làm thử coi!
+Nó hí hửng bước lên, rồi quay lại hỏi nhỏ:
+– Dạ… cô, đề ở đâu ạ?
+Cả lớp cười ầm, cô giáo vừa tức vừa buồn cười.
+
+Học văn cũng khổ. Có lần cô cho đề: “Hãy tả buổi sáng ở thành phố”. Bạn bè viết nào là “ánh nắng chiếu qua hàng cây”, “tiếng chim ríu rít”. Nhím thì viết một mạch:
+
+“Buổi sáng, má em chửi: dậy nhanh, trễ học rồi! Ngoài đường xe kẹt cứng, còi inh ỏi. Em ngáp một cái rồi muốn quay về ngủ tiếp.”
+Đọc lên, cả lớp cười ngất. Cô giáo chấm điểm 4 mà vẫn ghi thêm: “Rất thật, nhưng chưa phải văn miêu tả.”
+
+Chiều nào về, Nhím cũng bị ba má hỏi:
+– Học được mấy điểm?
+Nó cười toe:
+– Dạ, được hai điểm… nhưng con vẽ thêm cái mặt cười vô cho vui!
+Ba má nhìn nhau lắc đầu, nhưng cũng không nỡ la, vì con bé dốt mà dễ thương quá.
+
+Ở trong hẻm, bà con thương Nhím lắm. Ai buồn buồn gặp nó cũng bật cười. Người ta nói đùa:
+– Bến Tre mà thiếu bé Nhím chắc bớt tiếng cười mất phân nửa
