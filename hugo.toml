@@ -3,6 +3,8 @@ languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
 theme = 'mainroad'
 defaultContentLanguage = "vi"
+removePathAccents = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
