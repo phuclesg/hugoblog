@@ -4,7 +4,7 @@ draft = false
 title = 'Nguyễn Hữu Cảnh'
 author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
-categories = 'nhân vật nổi tiếng miền tây'
+categories = 'Nhân vật nổi tiếng miền tây'
 [thumbnail] 
     src = '/images/nguyen-huu-canh.jpg'
     visibility = ['list']
