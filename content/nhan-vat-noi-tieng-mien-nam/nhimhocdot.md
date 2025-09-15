@@ -1,6 +1,6 @@
 +++
 date = '2025-09-14T09:19:51+07:00'
-draft = false
+draft = true
 title = 'Nhím học dốt - nhân vật học dốt nhất miền tây'
 categories = ['nhan-vat-noi-tieng-mien-nam']
 slug = 'nhim-hoc-dot'
