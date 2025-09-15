@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nam Kỳ Xưa</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Nam Kỳ Xưa</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
     <lastBuildDate>Fri, 12 Sep 2025 16:06:42 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bún-Bò-Chóc</title>
-      <link>//localhost:1313/tags/bun-bo-choc/</link>
+      <link>/tags/bun-bo-choc/</link>
       <pubDate>Fri, 12 Sep 2025 16:06:42 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>//localhost:1313/tags/bun-bo-choc/</guid>
+      <guid>/tags/bun-bo-choc/</guid>
       <description></description>
     </item>
     <item>
       <title>Các-Món-Mắm</title>
-      <link>//localhost:1313/tags/cac-mon-mam/</link>
+      <link>/tags/cac-mon-mam/</link>
       <pubDate>Fri, 12 Sep 2025 16:06:42 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>//localhost:1313/tags/cac-mon-mam/</guid>
+      <guid>/tags/cac-mon-mam/</guid>
       <description></description>
     </item>
     <item>
       <title>Món-Gỏi</title>
-      <link>//localhost:1313/tags/mon-goi/</link>
+      <link>/tags/mon-goi/</link>
       <pubDate>Thu, 04 Sep 2025 00:01:16 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>//localhost:1313/tags/mon-goi/</guid>
+      <guid>/tags/mon-goi/</guid>
       <description></description>
     </item>
   </channel>
