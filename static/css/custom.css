@@ -2,11 +2,7 @@ body {
 font-family: 'Times New Roman', Times, serif;
 font-size: 1.2em;
 }
-.header__container {
-  background: url(/images/logo.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 .menu {
   font-size: 0.8em;
   border-bottom: 5px solid #76eab3;
