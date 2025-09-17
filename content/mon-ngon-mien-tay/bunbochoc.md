@@ -5,7 +5,7 @@ title = 'Bún bò chóc - Một trải nghiệm ẩm thực độc đáo'
 slug = 'bun-bo-choc'
 catagories = 'mon-ngon-mien-tay'
 description = 'Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh'
-tags = ['bún-bò-chóc','Các-món-mắm']
+tags = ['các-món-bún']
 author = 'Phúc Mập'
 comment = true
 [thumbnail]
