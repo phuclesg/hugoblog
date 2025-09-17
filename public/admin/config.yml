@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: phuclesg/hugoblog
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/images
+public_folder: /images
+collections:
+  - name: 'Nam Kỳ Xưa'
+    label: 'Nam Kỳ Xưa'
+    folder: 'content'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
