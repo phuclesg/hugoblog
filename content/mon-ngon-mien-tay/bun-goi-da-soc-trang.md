@@ -21,7 +21,7 @@ Cái tên “gỏi dà” bắt nguồn từ cách ăn và hương vị khá gi�
 
 Hương vị khó quên của bún gỏi dà
 
-{{< figure src="/images/bun-goi-da-2.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" >}}
+{{< figure src="/images/bun-goi-da-2.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" class="center" >}}
 
 Một tô bún gỏi dà chuẩn vị thường gồm:
 
@@ -35,13 +35,13 @@ Nước chấm: chén nước mắm ớt cay nồng không thể thiếu, giúp 
 
 Điểm đặc biệt của món ăn chính là sự kết hợp hài hòa giữa vị chua thanh của me, vị ngọt từ nước hầm xương, chút béo bùi của đậu phộng rang và độ cay của ớt, khiến ai ăn một lần cũng nhớ mãi.
 
-{{< figure src="/images/bun-goi-da.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" >}}
+{{< figure src="/images/bun-goi-da.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" class="center" >}}
 
 Món ăn gắn liền với đời sống miền Tây
 
 Bún gỏi dà không chỉ là món ăn no bụng, mà còn là một phần văn hóa ẩm thực của người dân miền Tây. Vào những ngày tụ họp gia đình hay tiếp đãi khách phương xa, một nồi bún gỏi dà nóng hổi luôn tạo không khí ấm áp, thân tình.
 
-{{< figure src="/images/bun-goi-da-3.jpg" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" >}}
+{{< figure src="/images/bun-goi-da-3.jpg" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" class="center" >}}
 
 Thưởng thức bún gỏi dà ở đâu?
 
