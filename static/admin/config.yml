@@ -2,14 +2,14 @@ backend:
   name: github
   repo: phuclesg/hugoblog
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://namkyxua.com
+  base_url: https://auth.namkyxua.com
   auth_endpoint: auth
 media_folder: static/images
 public_folder: /images
 
 collections:
-  - name: 'Nam Kỳ Xưa'
-    label: 'Nam Kỳ Xưa'
+  - name: 'Posts'
+    label: 'Bài Viết'
     folder: 'content'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
