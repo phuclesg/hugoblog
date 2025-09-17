@@ -25,7 +25,7 @@ Công tử Bạc Liêu nổi tiếng khắp Nam Kỳ Lục Tỉnh không chỉ v
 Xài tiền như nước: Ông thường lái xe hơi vòng quanh thành phố, ghé quán cà phê, nhà hàng sang trọng, bao hết bàn cho bạn bè và trả tiền bằng… bóp bạc.
 
 Tình trường lãng mạn: Công tử Bạc Liêu cũng nổi danh là người đào hoa, quen biết nhiều giai nhân, nghệ sĩ nổi tiếng thời bấy giờ.
-{{< figure src="/images/nha-cong-tu-bac-lieu.jpg" alt="Nhà công tử bạc liêu" caption="Nhà công tử Bạc Liêu" class="center" >}}
+{{< figure src="/images/nha-cong-tu-bac-lieu.webp" alt="Nhà công tử bạc liêu" caption="Nhà công tử Bạc Liêu" class="center" >}}
 
 **3. Hình ảnh biểu tượng của miền Tây trù phú**
 
