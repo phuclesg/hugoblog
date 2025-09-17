@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   repo: phuclesg/hugoblog
   branch: main # Branch to update (optional; defaults to master)
+  site_url: https://admin-namkyxua.netlify.app/.netlify/identity
 media_folder: static/images
 public_folder: /images
 
