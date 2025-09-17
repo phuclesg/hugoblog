@@ -2,8 +2,6 @@ backend:
   name: github
   repo: phuclesg/hugoblog
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://auth.namkyxua.com
-  auth_endpoint: auth
 media_folder: static/images
 public_folder: /images
 
