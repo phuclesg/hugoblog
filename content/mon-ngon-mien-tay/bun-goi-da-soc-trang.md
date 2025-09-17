@@ -14,7 +14,7 @@ comment = true
 **Bún gỏi dà – Hương vị dân dã đặc trưng Sóc Trăng - miền Tây**
 
 Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương: bún gỏi dà. Đây là món ăn tuy mộc mạc nhưng lại chinh phục thực khách bởi sự hài hòa giữa vị chua, ngọt, mặn, cay, tạo nên trải nghiệm ẩm thực khó quên.
-{{< figure src="/images/bun-goi-da.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" >}}
+{{< figure src="/images/bun-goi-da.webp" alt="bún gỏi dà" caption="Bún gỏi dà đặc sản Sóc Trăng" class="center" >}}
 **Nguồn gốc và ý nghĩa cái tên “bún gỏi dà”**
 
 Cái tên “gỏi dà” bắt nguồn từ cách ăn và hương vị khá giống món gỏi, nhưng lại được chan thêm nước lèo nóng hổi. Người dân địa phương dùng từ “dà” để chỉ động tác ***"lùa"*** sợi bún khi ăn, từ đó món ăn dân dã này có cái tên độc đáo: bún gỏi dà.
