@@ -39,11 +39,11 @@ Nhờ các cuộc hôn nhân và quan hệ chính trị, gia tộc Huyện Sỹ 
 
 Một công trình gắn liền với tên tuổi ông chính là nhà thờ **Huyện Sỹ**, tọa lạc tại trung tâm Quận 1, TP. Hồ Chí Minh ngày nay. Nhà thờ được gia đình xây dựng và cũng là nơi an táng vợ chồng ông.
 
-{{< figure src="/images/nha-tho-huyen-sy.webp" alt="Nhà thờ huyện sỹ" cation="Nhà Thờ Huyện Sỹ" class="center" >}}
+{{< figure src="/images/nha-tho-huyen-sy.webp" alt="Nhà thờ huyện sỹ" caption="Nhà Thờ Huyện Sỹ" class="center" >}}
 
 Với kiến trúc cổ kính và quy mô lớn, nhà thờ không chỉ là nơi sinh hoạt tôn giáo của giáo dân mà còn là một di tích mang đậm dấu ấn lịch sử – văn hóa của Sài Gòn xưa.
 
-{{< figure src="/images/mo-huyen-sy.webp" alt="Mộ huyện sỹ" cation="Mộ Huyện Sỹ" class="center" >}}
+{{< figure src="/images/mo-huyen-sy.webp" alt="Mộ huyện sỹ" caption="Mộ Huyện Sỹ" class="center" >}}
 
 Cuộc đời khép lại, tên tuổi còn mãi
 
