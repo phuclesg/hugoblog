@@ -32,6 +32,7 @@ Trong quá trình cộng tác với chính quyền Pháp, ông được bổ nhi
 ### Gia đình và hậu duệ
 
 **Huyện Sỹ** kết hôn với bà **Huỳnh Thị Tài**. Hai ông bà sinh được 4 người con, trong đó nổi bật nhất là bà Lê Thị Bình – về sau chính là bà ngoại của Hoàng hậu Nam Phương.
+{{< figure src="/images/nam-phuong-hoang-hau.webp" alt="Nam phương hoàng hậu" cation="Cháu ngoại Huyễn Sỹ - Nam Phương Hoàng Hậu" class="center" >}}
 
 Nhờ các cuộc hôn nhân và quan hệ chính trị, gia tộc Huyện Sỹ trở thành một trong những dòng họ có ảnh hưởng lớn nhất Nam Kỳ. Việc cháu ngoại của ông trở thành hoàng hậu cuối cùng của triều Nguyễn đã minh chứng cho thế lực và tầm vóc của gia đình.
 
