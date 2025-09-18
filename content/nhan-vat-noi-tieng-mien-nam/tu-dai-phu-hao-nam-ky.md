@@ -3,6 +3,7 @@ date = '2025-09-18T13:06:58+07:00'
 draft = false
 title = 'Nhất Sỹ - nhì Phương - tam Xường - tứ Hoả | Tứ đại phú hào Nam Kỳ xưa'
 description = 'Tứ đại phú hào Nam Kỳ xưa - nhất Sỹ nhì Phương tam Xường tứ Hoả'
+author = 'Phúc Mập'
 slug = 'nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua'
 tags = ['Tứ-đại-phú-hộ-Nam-Ky-xưa']
 catefories = 'nhan-vat-noi-tieng-mien-nam'
