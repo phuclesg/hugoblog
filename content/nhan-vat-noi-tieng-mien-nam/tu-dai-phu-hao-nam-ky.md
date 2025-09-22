@@ -5,7 +5,7 @@ title = 'Nhất Sỹ - nhì Phương - tam Xường - tứ Hoả | Tứ đại p
 description = 'Tứ đại phú hào Nam Kỳ xưa - nhất Sỹ nhì Phương tam Xường tứ Hoả'
 author = 'Phúc Mập'
 slug = 'nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua'
-tags = ['Tứ-đại-phú-hộ-Nam-Ky-xưa']
+tags = ['Tứ-đại-phú-hộ-Nam-Kỳ-xưa']
 catefories = 'nhan-vat-noi-tieng-mien-nam'
 comment = true
 [thumbnail]
