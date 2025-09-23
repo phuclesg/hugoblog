@@ -38,7 +38,7 @@ removePathAccents = true
 [params.thumbnail]
     visibility = ['list']
 [params.logo]
-    src = '/images/logo.png'
+    image = '/images/logo.png'
     title = 'Nam Kỳ Xưa'
     subtitle = 'Lưu giữ lại những kỷ niệm về một Miền Nam xưa'
 [params.sidebar]
