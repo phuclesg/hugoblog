@@ -28,6 +28,7 @@ removePathAccents = true
     readmore = true
     customCss = ['css/custom.css']
     authorbox = true
+    favico = '/imgaes/favico.png'
 [params.author]
     name = 'Phúc Mập'
     email = 'Lhp0988@gmail.com'
