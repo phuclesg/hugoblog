@@ -1,46 +1,51 @@
 baseURL = '/'
 languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
-theme = 'mainroad'
+theme = 'lightbi-hugo-main'
 defaultContentLanguage = "vi"
 removePathAccents = true
-
+DisqusShortname = "mientayblog"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-[pagination]
-    pagerSize = 8
-[services]
-  [services.disqus]
-    shortname = 'mientayblog'
+
 [languages]
   [languages.vi]
     languageCode = 'vi-vietnam'
     languageDirection = 'ltr'
     languageName = 'vietnames'
     weight = 1
+[pagination]
+    pagerSize = 6
 [params]
-    name = 'Phúc Ú'
-    link = 'https://google.com'
-    date_format = '02/01/2006'
-    mainSections = ['mon-ngon-mien-tay','nhan-vat-noi-tieng-mien-nam']
-    readmore = true
-    customCss = ['css/custom.css']
-    authorbox = true
-    favico = '/images/favico.png'
+    selfHosted = true
+    mainSections = ["mon-ngon-mien-tay"]
+    dateFormat = "02 January 2006"
+    comments = false
+    readingTime = false
+    wordCount = false
+    hideAuthor = false
+    useHLJS = true
+    socialShare = true
+    delayDisqus = true
+    showRelatedPosts = true 
+    gcse = false
+    Lastmod = false
+    rss = true 
+    description="Là nơi lưu giữ những kỷ niệm về một Nam Kỳ xưa"
+    lunrSearch = true
+    previewCardImagePlacement = "bottom"
+    hidePostImage = false
+    tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
+    homepageLayout = "profile" #blog
 [params.author]
     name = 'Phúc Mập'
     email = 'Lhp0988@gmail.com'
     phone = '0567377979'
     avatar = '/images/avatar.webp'
     description = 'Là một người con của Miền Tây sông nước với mong muốn tạo ra một nơi hoài niệm về Nam kỳ xưa và Miền Tây. Nếu mọi người muốn đóng góp thì có thể gửi mail về cho mình về những bài viết những điểm du lịch đẹp ở miền Nam và miền Tây'
-[params.thumbnail]
-    visibility = ['list']
-[params.logo]
-    image = '/images/logo.png'
-    title = 'Nam Kỳ Xưa'
-    subtitle = 'Lưu giữ lại những kỷ niệm về một Miền Nam xưa'
+    
 [params.sidebar]
     home = false
     list = 'right'

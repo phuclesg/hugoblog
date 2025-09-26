@@ -8,20 +8,20 @@
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
-    <lastBuildDate>Wed, 17 Sep 2025 08:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 06:32:35 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nhan-Vat-Noi-Tieng-Mien-Nam</title>
+      <link>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</link>
+      <pubDate>Mon, 22 Sep 2025 06:32:35 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mon-Ngon-Mien-Tay</title>
       <link>//localhost:1313/categories/mon-ngon-mien-tay/</link>
       <pubDate>Wed, 17 Sep 2025 08:16:34 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
       <guid>//localhost:1313/categories/mon-ngon-mien-tay/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nhan-Vat-Noi-Tieng-Mien-Nam</title>
-      <link>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</link>
-      <pubDate>Tue, 09 Sep 2025 15:31:30 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</guid>
       <description></description>
     </item>
   </channel>

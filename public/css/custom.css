@@ -54,8 +54,9 @@ font-size: 1.2em;
 .list__excerpt {
   font-size: 0.9em;
 }
-figcaption p {
+figcaption {
   text-align: center;
+  font-style: italic;
 }
 figure.center {
   text-align: center;
