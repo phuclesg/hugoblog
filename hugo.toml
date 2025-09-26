@@ -54,8 +54,8 @@ DisqusShortname = "mientayblog"
 [params.widgets.social]
     facebook = 'phucsg.lhp'
 [permalinks]
-    mon-tan-mien-tay = '/mon-ngon-mien-tay/:slug/'
-    NhanVat = '/nhan-vat-noi-tieng-mien-nam/:slug/'
+    mon-tan-mien-tay = '/posts/mon-ngon-mien-tay/:slug/'
+    NhanVat = '/posts/nhan-vat-noi-tieng-mien-nam/:slug/'
     tag = '/tags/:slug/'
 [menus]
     [[menus.main]]
