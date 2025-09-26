@@ -42,7 +42,7 @@ removePathAccents = true
     title = 'Nam Kỳ Xưa'
     subtitle = 'Lưu giữ lại những kỷ niệm về một Miền Nam xưa'
 [params.sidebar]
-    home = 'right'
+    home = false
     list = 'right'
     single = 'right'
     widgets = ['social','categories','taglist']
