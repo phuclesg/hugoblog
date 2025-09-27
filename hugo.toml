@@ -3,6 +3,7 @@ languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
 theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
+description = 'Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.'
 removePathAccents = true
 [sitemap]
   changefreq = "monthly"
