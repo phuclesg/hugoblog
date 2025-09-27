@@ -4,6 +4,29 @@
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 <!-- Dynamic description for SEO -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else if .Site.Params.description }}{{ .Site.Params.description }}{{ end }}">
+<meta name="keywords" content="{{ with .Params.keywords }}{{ . }}{{ else if .Site.Params.keywords }}{{ .Site.Params.keywords }}{{ end }}">
+<meta name="robots" content="index, follow">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph (Facebook, Messenger, WhatsApp) -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else if .Site.Params.description }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:image" content="{{ with .Params.featured_image }}{{ . }}{{ else if .Site.Params.default_image }}{{ .Site.Params.default_image }}{{ end }}">
+<meta property="og:image:alt" content="{{ .Title }}">
+<meta property="og:locale" content="vi_VN">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else if .Site.Params.description }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:image" content="{{ with .Params.featured_image }}{{ . }}{{ else if .Site.Params.default_image }}{{ .Site.Params.default_image }}{{ end }}">
+<meta name="twitter:site" content="@YourTwitterHandle">
 {{- partialCached "head/css.html" . -}}
 {{- partialCached "head/favicon.html" . -}}
 {{- /* template "_internal/google_analytics.html" . */ -}}
