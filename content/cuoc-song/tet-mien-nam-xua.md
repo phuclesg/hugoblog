@@ -18,7 +18,7 @@ Nhớ những ngày cuối năm, khắp các con hẻm Sài Gòn, những gánh 
 
 Trên những con đường nhỏ, cây mai vàng được bày bán khắp nơi. Ai cũng muốn chọn một cành mai thật đẹp để về trang trí trong nhà. Những gia đình miền Nam xưa tin rằng mai vàng nở đúng vào ngày Tết sẽ mang may mắn, tài lộc cả năm. Trong khi đó, cây tắt với quả tròn căng mọng được trưng trong phòng khách, là biểu tượng của sự đủ đầy, sum vầy.
 
-{{< figure src="/images/tet-nam-ky-xua1.webp" alt="Tết nam kỳ xưa" caption="Cảnh mua bán tấp nập tết xưa" >}}
+{{< figure src="/images/tet-nam-ky1.webp" alt="Tết nam kỳ xưa" caption="Cảnh mua bán tấp nập tết xưa" >}}
 
 Không khí Tết miền Nam xưa còn tràn ngập tiếng cười của trẻ con. Chúng ríu rít chạy quanh nhà, háo hức chờ lì xì, những bao lì xì đỏ in hình hoa mai, hoa đào mà ông bà trao tay với nụ cười hiền hậu. Trong từng câu chuyện, từng lời chúc, người ta gửi gắm bao ước mơ và hy vọng cho một năm mới bình an.
 
