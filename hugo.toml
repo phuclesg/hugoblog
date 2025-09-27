@@ -20,7 +20,7 @@ removePathAccents = true
     pagerSize = 6
 [params]
     selfHosted = true
-    mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam']
+    mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam','cuoc-song']
     dateFormat = "02 January 2006"
     comments = true
 
