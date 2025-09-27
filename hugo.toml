@@ -22,6 +22,24 @@ removePathAccents = true
     mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam']
     dateFormat = "02 January 2006"
     comments = true
+
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = true
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 50
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 [params.author]
     name = 'Phúc Mập'
     email = 'Lhp0988@gmail.com'

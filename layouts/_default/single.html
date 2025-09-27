@@ -51,7 +51,7 @@
 
         {{- if ( strings.HasPrefix .Params.image "http" ) }}
 
-          <img class="rounded-lg" src="{{ .Params.image }}" alt="{{ .Params.title }}">
+          <img class="rounded-lg center" src="{{ .Params.image }}" alt="{{ .Params.title }}">
 
         {{- else }}
 
