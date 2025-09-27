@@ -1,10 +1,9 @@
 baseURL = '/'
 languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
-theme = 'lightbi-hugo-main'
+theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
 removePathAccents = true
-DisqusShortname = "mientayblog"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -20,49 +19,27 @@ DisqusShortname = "mientayblog"
     pagerSize = 6
 [params]
     selfHosted = true
-    mainSections = ["mon-ngon-mien-tay"]
+    mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam']
     dateFormat = "02 January 2006"
-    comments = false
-    readingTime = false
-    wordCount = false
-    hideAuthor = false
-    useHLJS = true
-    socialShare = true
-    delayDisqus = true
-    showRelatedPosts = true 
-    gcse = false
-    Lastmod = false
-    rss = true 
-    description="Là nơi lưu giữ những kỷ niệm về một Nam Kỳ xưa"
-    lunrSearch = true
-    previewCardImagePlacement = "bottom"
-    hidePostImage = false
-    tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
-    homepageLayout = "profile" #blog
+    comments = true
 [params.author]
     name = 'Phúc Mập'
     email = 'Lhp0988@gmail.com'
     phone = '0567377979'
     avatar = '/images/avatar.webp'
-    description = 'Là một người con của Miền Tây sông nước với mong muốn tạo ra một nơi hoài niệm về Nam kỳ xưa và Miền Tây. Nếu mọi người muốn đóng góp thì có thể gửi mail về cho mình về những bài viết những điểm du lịch đẹp ở miền Nam và miền Tây'
-    
-[params.sidebar]
-    home = false
-    list = 'right'
-    single = 'right'
-    widgets = ['social','categories','taglist']
-[params.widgets.social]
-    facebook = 'phucsg.lhp'
+    bio = 'Là một người con của Miền Tây sông nước với mong muốn tạo ra một nơi hoài niệm về Nam kỳ xưa và Miền Tây. Nếu mọi người muốn đóng góp thì có thể gửi mail về cho mình về những bài viết những điểm du lịch đẹp ở miền Nam và miền Tây'
+[services.disqus]
+    shortname = 'mientayblog'
 [permalinks]
-    mon-tan-mien-tay = '/posts/mon-ngon-mien-tay/:slug/'
-    NhanVat = '/posts/nhan-vat-noi-tieng-mien-nam/:slug/'
+    mon-ngon-mien-tay = '/mon-ngon-mien-tay/:slug/'
+    NhanVat = '/nhan-vat-noi-tieng-mien-nam/:slug/'
     tag = '/tags/:slug/'
 [menus]
     [[menus.main]]
         name = 'Trang chủ'
         url = '/'
         weight = 1
-[taxonomy]
+[taxonomies]
     category = 'categories'
     tag = 'tags'
 
