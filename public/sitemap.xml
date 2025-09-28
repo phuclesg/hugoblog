@@ -2,136 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/categories/nhan-vat-noi-tieng-mien-nam/</loc>
+    <loc>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/cuoc-song/</loc>
+    <loc>//localhost:1313/cuoc-song/</loc>
     <lastmod>2025-09-27T20:24:46+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/categories/cuoc-song/</loc>
+    <loc>//localhost:1313/categories/cuoc-song/</loc>
     <lastmod>2025-09-27T15:09:56+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/cuoc-song/</loc>
+    <loc>//localhost:1313/tags/cuoc-song/</loc>
     <lastmod>2025-09-27T15:09:56+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-09-27T15:09:56+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</loc>
+    <loc>//localhost:1313/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</loc>
     <lastmod>2025-09-27T15:09:56+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/nhi-phuong-tu-dai-phu-hao-nam-ky-xua/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/nhi-phuong-tu-dai-phu-hao-nam-ky-xua/</loc>
     <lastmod>2025-09-22T06:32:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</loc>
+    <loc>//localhost:1313/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</loc>
     <lastmod>2025-09-22T06:32:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua/</loc>
     <lastmod>2025-09-18T13:06:58+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/bun-goi-da-soc-trang/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/bun-goi-da-soc-trang/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/cac-mon-bun/</loc>
+    <loc>//localhost:1313/tags/cac-mon-bun/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/categories/mon-ngon-mien-tay/</loc>
+    <loc>//localhost:1313/categories/mon-ngon-mien-tay/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/bun-bo-choc/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/bun-bo-choc/</loc>
     <lastmod>2025-09-12T16:06:42+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi/</loc>
     <lastmod>2025-09-09T15:31:30+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/nhan-vat-noi-tieng-mien-nam/nguyen-huu-canh/</loc>
+    <loc>//localhost:1313/nhan-vat-noi-tieng-mien-nam/nguyen-huu-canh/</loc>
     <lastmod>2025-09-04T21:40:03+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/feature/</loc>
+    <loc>//localhost:1313/tags/feature/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/goi-ga-bong-phuong/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/goi-ga-bong-phuong/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/mon-goi/</loc>
+    <loc>//localhost:1313/tags/mon-goi/</loc>
     <lastmod>2025-09-04T00:01:16+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/chuot-dong-mien-tay/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/chuot-dong-mien-tay/</loc>
     <lastmod>2025-09-03T12:12:19+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/mon-ngon-mien-tay/canh-chua-ca-linh-bong-dien-dien/</loc>
+    <loc>//localhost:1313/mon-ngon-mien-tay/canh-chua-ca-linh-bong-dien-dien/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1313/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

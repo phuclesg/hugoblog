@@ -19,11 +19,11 @@
 
         {{- $name := .Site.Params.Author.name -}}
 
-        <!-- {{- with $avatar := resources.Get .Site.Params.Author.avatar }}
+        {{- with $avatar := resources.Get .Site.Params.Author.avatar }}
 
         <img class="w-12 h-12 bg-black rounded-full" src="{{ $avatar.Permalink }}" alt="{{ $name }} avatar" width="{{ $avatar.Width }}" height="{{ $avatar.Height }}">
 
-        {{ end -}} -->
+        {{ end -}}
         
         <ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
           
@@ -45,7 +45,7 @@
       
     </header>
 
-    <figure id="featureimage" class="rounded-xl aspect-video">
+    <!-- <figure id="featureimage" class="rounded-xl aspect-video">
 
       {{- if .Params.image }}
 
@@ -68,7 +68,7 @@
         <figcaption class="text-center italic text-xs">{{ .Params.caption }}</figcaption>
       {{- end }}
 
-    </figure>
+    </figure> -->
 
     <div id="content" class="mb-14">
       <!-- Content -->
