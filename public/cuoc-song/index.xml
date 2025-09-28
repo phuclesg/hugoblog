@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cuoc-Songs on Nam Kỳ Xưa</title>
-    <link>//localhost:1313/cuoc-song/</link>
-    <description>Recent content in Cuoc-Songs on Nam Kỳ Xưa</description>
+    <title>Cuộc sống người Miền Nam xưa on Nam Kỳ Xưa</title>
+    <link>/cuoc-song/</link>
+    <description>Recent content in Cuộc sống người Miền Nam xưa on Nam Kỳ Xưa</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
     <lastBuildDate>Sat, 27 Sep 2025 15:09:56 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/cuoc-song/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/cuoc-song/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tết miền nam xưa - Những ký ức không bao giờ phai</title>
-      <link>//localhost:1313/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</link>
+      <link>/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</link>
       <pubDate>Sat, 27 Sep 2025 15:09:56 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>//localhost:1313/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</guid>
-      <description>&lt;p&gt;Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/tet-nam-ky-xua.webp&#34;&#xA;    alt=&#34;Tết nam kỳ xưa&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cảnh mua bán tấp nập tết xưa&lt;/p&gt;</description>
+      <guid>/cuoc-song/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</guid>
+      <description>&lt;p&gt;Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;/images/tet-nam-ky-xua.webp&#34;&#xA;    alt=&#34;Tết nam kỳ xưa&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cảnh mua bán tấp nập tết xưa&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
