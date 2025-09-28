@@ -23,6 +23,9 @@ removePathAccents = true
     mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam','cuoc-song']
     dateFormat = "02 January 2006"
     comments = true
+    facebook = 'phucsg.lhp'
+    instagram = 'lphuc88'
+    x = 'p__lux'
 
 [related]
   includeNewer = true
