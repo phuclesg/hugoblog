@@ -100,7 +100,7 @@
         <h2 class="text-xl font-bold my-4">Tác giả : {{ .Site.Params.author.name }}</h2>
 
         <p class="mb-4">{{ .Site.Params.Author.bio }}</p>
-
+        <p class="mb-4">Email: <a href="mailto:{{ .Site.Params.Author.email }}">{{ .Site.Params.Author.email }}</a></p>
         <ul class="flex flex-wrap space-x-4">
           <li>
             <a class="flex items-center decoration-auto hover:underline" href="{{ printf "https://facebook.com/%s" .Site.Params.facebook }}" target="_blank" rel="noopener">

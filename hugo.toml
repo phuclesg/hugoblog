@@ -26,6 +26,7 @@ removePathAccents = true
     facebook = 'phucsg.lhp'
     instagram = 'lphuc88'
     x = 'p__lux'
+    logos = '/images/logo.png'
 
 [related]
   includeNewer = true
