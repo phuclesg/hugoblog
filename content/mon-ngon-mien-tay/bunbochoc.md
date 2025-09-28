@@ -17,7 +17,7 @@ Bún bò chóc có nguồn gốc từ Campuchia, sau đó được du nhập và
 
 {{< figure src="/images/bun-bo-choc.webp" alt="Bún bò chóc" class="center" caption="Bún bò chóc" >}}
 
-Điểm làm nên sự khác biệt của món ăn này chính là nước dùng. Thay vì nước hầm xương thông thường, nước dùng bún bò chóc được nấu từ mắm bò hóc, một loại mắm làm từ cá sặt hoặc cá lóc ủ trong thời gian dài. Mắm bò hóc có mùi nồng đặc trưng, nhưng khi được nấu cùng với sả, ngải bún, nghệ và nhiều loại gia vị khác, nó sẽ tạo ra một thứ nước dùng đậm đà, thơm lừng và ngọt thanh một cách lạ kì.
+Điểm làm nên sự khác biệt của món ăn này chính là nước dùng. Thay vì nước hầm xương thông thường, nước dùng bún bò chóc được nấu từ mắm bò hóc, một loại mắm làm từ cá sặc hoặc cá lóc ủ trong thời gian dài. Mắm bò hóc có mùi nồng đặc trưng, nhưng khi được nấu cùng với sả, ngải bún, nghệ và nhiều loại gia vị khác, nó sẽ tạo ra một thứ nước dùng đậm đà, thơm lừng và ngọt thanh một cách lạ kì.
 
 **Nước lèo - Linh hồn của món ăn**
 Để có được nồi nước lèo bún bò chóc chuẩn vị, người ta phải chuẩn bị rất cầu kỳ. Mắm bò hóc được rã ra, lọc kỹ để lấy phần nước cốt. Nước cốt mắm này sau đó được nấu cùng với sả băm và ngải bún. Ngải bún là một loại củ cùng họ với gừng và nghệ, có mùi thơm đặc trưng giúp món ăn thêm phần hấp dẫn. Ngoài ra, nước lèo còn được nêm nếm thêm đường, bột ngọt và đặc biệt là khô cá lóc, giúp tạo thêm vị ngọt tự nhiên và béo ngậy.

@@ -5,7 +5,8 @@ draft = false
 slug = "canh-chua-ca-linh-bong-dien-dien"
 author = "Phúc Mập"
 description = 'Canh chua cá linh bông điên điển mang đến cho bạn một trải nghiệm ẩm thực độc đáo với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon từ thiên nhiên.'
-categories = ["mon-ngon-mien-tay"]
+categories = ["mon-ngon-mien-tay",]
+tags = ['Canh-chua']
 comments = true
 image = "/images/canhchuacalinh.jpg"
 +++
