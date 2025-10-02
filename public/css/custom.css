@@ -9,6 +9,3 @@ figure.center {
   flex-direction: column;
   align-items: center;
 }
-figure.center img {
-  max-width: 600px;
-}
