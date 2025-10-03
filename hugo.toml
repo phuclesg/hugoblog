@@ -3,7 +3,6 @@ languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
 theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
-description = 'Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.'
 removePathAccents = true
 [sitemap]
   changefreq = "monthly"
@@ -21,6 +20,7 @@ removePathAccents = true
 [params]
     selfHosted = true
     mainSections = ["mon-ngon-mien-tay",'nhan-vat-noi-tieng-mien-nam','cuoc-song']
+    description = 'Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.'
     dateFormat = "02 January 2006"
     comments = true
     facebook = 'phucsg.lhp'
