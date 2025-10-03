@@ -3,11 +3,9 @@ figcaption {
   text-align: center !important;
   font-style: italic !important;
 }
-figure {
+figure.center {
   display: flex;
   justify-content: center;
   flex-direction: column;
-}
-figure img {
-  text-align: center;
+  align-items: center;
 }
