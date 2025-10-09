@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nam Kỳ Xưa</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Nam Kỳ Xưa</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
-    <lastBuildDate>Thu, 02 Oct 2025 11:01:46 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cuộc_Sống</title>
-      <link>/tags/cuoc_song/</link>
-      <pubDate>Thu, 02 Oct 2025 11:01:46 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/cuoc_song/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cuộc-Sống</title>
-      <link>/tags/cuoc-song/</link>
-      <pubDate>Tue, 30 Sep 2025 14:54:06 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/cuoc-song/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 14:49:59 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tứ-Đại-Phú-Hộ-Nam-Kỳ-Xưa</title>
-      <link>/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</link>
-      <pubDate>Mon, 22 Sep 2025 06:32:35 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</guid>
+      <link>//localhost:1313/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</link>
+      <pubDate>Thu, 09 Oct 2025 14:49:59 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/tags/tu-%C4%91ai-phu-ho-nam-ky-xua/</guid>
       <description></description>
     </item>
     <item>
-      <title>Các-Món-Bún</title>
-      <link>/tags/cac-mon-bun/</link>
-      <pubDate>Wed, 17 Sep 2025 08:16:34 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/cac-mon-bun/</guid>
+      <title>Cuộc_Sống</title>
+      <link>//localhost:1313/tags/cuoc_song/</link>
+      <pubDate>Thu, 02 Oct 2025 11:01:46 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/tags/cuoc_song/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature</title>
-      <link>/tags/feature/</link>
-      <pubDate>Thu, 04 Sep 2025 00:01:16 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/feature/</guid>
+      <link>//localhost:1313/tags/feature/</link>
+      <pubDate>Thu, 02 Oct 2025 11:01:46 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/tags/feature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuộc-Sống</title>
+      <link>//localhost:1313/tags/cuoc-song/</link>
+      <pubDate>Tue, 30 Sep 2025 14:54:06 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/tags/cuoc-song/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Các-Món-Bún</title>
+      <link>//localhost:1313/tags/cac-mon-bun/</link>
+      <pubDate>Wed, 17 Sep 2025 08:16:34 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>//localhost:1313/tags/cac-mon-bun/</guid>
       <description></description>
     </item>
     <item>
       <title>Món-Gỏi</title>
-      <link>/tags/mon-goi/</link>
+      <link>//localhost:1313/tags/mon-goi/</link>
       <pubDate>Thu, 04 Sep 2025 00:01:16 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/mon-goi/</guid>
+      <guid>//localhost:1313/tags/mon-goi/</guid>
       <description></description>
     </item>
     <item>
       <title>Canh-Chua</title>
-      <link>/tags/canh-chua/</link>
+      <link>//localhost:1313/tags/canh-chua/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/tags/canh-chua/</guid>
+      <guid>//localhost:1313/tags/canh-chua/</guid>
       <description></description>
     </item>
   </channel>
