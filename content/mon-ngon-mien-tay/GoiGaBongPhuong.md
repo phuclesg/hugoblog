@@ -7,7 +7,7 @@ slug = 'goi-ga-bong-phuong'
 chuyen-muc = 'mon-an-mien-tay'
 author = 'Phúc Mập'
 categories = ["mon-ngon-mien-tay"]
-tags = ['Món-Gỏi','feature']
+tags = ['Món-Gỏi']
 comments = true
 image = '/images/goi-ga-hoa-phuong3.jpg'
 +++
