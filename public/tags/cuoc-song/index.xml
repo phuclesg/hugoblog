@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuộc-Sống on Nam Kỳ Xưa</title>
-    <link>/tags/cuoc-song/</link>
+    <link>//localhost:1313/tags/cuoc-song/</link>
     <description>Recent content in Cuộc-Sống on Nam Kỳ Xưa</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
     <lastBuildDate>Tue, 30 Sep 2025 14:54:06 +0700</lastBuildDate>
-    <atom:link href="/tags/cuoc-song/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cuoc-song/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chợ Bà Chiểu - Khu chợ sầm uất bậc nhất Bình Thạnh</title>
-      <link>/cuoc-song-nguoi-nam-ky/cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh/</link>
+      <link>//localhost:1313/cuoc-song-nguoi-nam-ky/cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh/</link>
       <pubDate>Tue, 30 Sep 2025 14:54:06 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/cuoc-song-nguoi-nam-ky/cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh/</guid>
-      <description>&lt;h2 id=&#34;chợ-bà-chiểu-là-một-trong-những-ngôi-chợ-lâu-đời-và-nổi-tiếng-của-sài-gòn&#34;&gt;Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn.&lt;/h2&gt;&#xA;&lt;p&gt;Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phường 1, Quận Bình Thạnh, với diện tích khoảng 8.465 m² và gần 800 sạp hàng.&lt;/p&gt;&#xA;&lt;p&gt;Nơi đây kinh doanh đa dạng các mặt hàng như đồ gia dụng, quần áo, giày dép, nón lá, nhu yếu phẩm hàng ngày và đặc biệt nổi tiếng với các gian hàng “đồ si” (hàng thanh lý).&lt;/p&gt;</description>
+      <guid>//localhost:1313/cuoc-song-nguoi-nam-ky/cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh/</guid>
+      <description>Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn. Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phường 1, Quận Bình Thạnh, với diện tích khoảng 8.465 m² và gần 800 sạp hàng.&#xA;Nơi đây kinh doanh đa dạng các mặt hàng như đồ gia dụng, quần áo, giày dép, nón lá, nhu yếu phẩm hàng ngày và đặc biệt nổi tiếng với các gian hàng “đồ si” (hàng thanh lý).</description>
     </item>
     <item>
       <title>Tết miền nam xưa - Những ký ức không bao giờ phai</title>
-      <link>/cuoc-song-nguoi-nam-ky/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</link>
+      <link>//localhost:1313/cuoc-song-nguoi-nam-ky/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</link>
       <pubDate>Sat, 27 Sep 2025 15:09:56 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/cuoc-song-nguoi-nam-ky/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</guid>
-      <description>&lt;p&gt;Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;/images/tet-nam-ky-xua.webp&#34;&#xA;    alt=&#34;Tết nam kỳ xưa&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cảnh mua bán tấp nập tết xưa&lt;/p&gt;</description>
+      <guid>//localhost:1313/cuoc-song-nguoi-nam-ky/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/</guid>
+      <description>Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.&#xA;Cảnh mua bán tấp nập tết xưa</description>
     </item>
   </channel>
 </rss>

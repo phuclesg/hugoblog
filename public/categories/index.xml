@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nam Kỳ Xưa</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Nam Kỳ Xưa</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
     <lastBuildDate>Thu, 02 Oct 2025 11:01:46 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuoc-Song</title>
-      <link>/categories/cuoc-song/</link>
+      <link>//localhost:1313/categories/cuoc-song/</link>
       <pubDate>Thu, 02 Oct 2025 11:01:46 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/categories/cuoc-song/</guid>
+      <guid>//localhost:1313/categories/cuoc-song/</guid>
       <description></description>
     </item>
     <item>
       <title>Nhan-Vat-Noi-Tieng-Mien-Nam</title>
-      <link>/categories/nhan-vat-noi-tieng-mien-nam/</link>
+      <link>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</link>
       <pubDate>Sun, 28 Sep 2025 11:12:25 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/categories/nhan-vat-noi-tieng-mien-nam/</guid>
+      <guid>//localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</guid>
       <description></description>
     </item>
     <item>
       <title>Mon-Ngon-Mien-Tay</title>
-      <link>/categories/mon-ngon-mien-tay/</link>
+      <link>//localhost:1313/categories/mon-ngon-mien-tay/</link>
       <pubDate>Wed, 17 Sep 2025 08:16:34 +0000</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>/categories/mon-ngon-mien-tay/</guid>
+      <guid>//localhost:1313/categories/mon-ngon-mien-tay/</guid>
       <description></description>
     </item>
   </channel>
