@@ -7,6 +7,7 @@ comment = true
 slug = 'tu-hoa-tu-dai-phu-hoa-nam-ky-xua'
 categories = ['nhan-vat-noi-tieng-mien-nam']
 tags = ['Nhân-Vật-Nổi-Tiếng-Nam-Kỳ']
+author = 'Phúc Mập'
 image = '/images/chu-hoa1.webp'
 keywords = ['chú hỏa','huỳnh văn hoa','chú hỏa sài gòn','tứ đại phú hộ sài gòn','doanh nhân sài gòn xưa','nhà họ hứa','con ma nhà họ hứa','bảo tàng mỹ thuật thành phố hồ chí minh','người giàu nhất sài gòn xưa','doanh nhân việt gốc hoa','ký ức sài gòn xưa']
 +++
