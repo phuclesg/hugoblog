@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://namkyxua.com/'
 languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
 theme = 'pehtheme-hugo-main'
