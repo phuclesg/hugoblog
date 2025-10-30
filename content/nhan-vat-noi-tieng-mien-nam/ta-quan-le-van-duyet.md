@@ -6,7 +6,7 @@ author = 'Phúc Mập'
 description = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
 slug = 'ta-quan-le-van-duyet'
 categories = 'nhan-vat-noi-tieng-mien-nam'
-tags = ['Nhân-Vật-nổi-tiếng-miền-nam']
+tags = ['Nhân-Vật-nổi-tiếng-miền-nam','feature']
 image = '/images/le-van-duyet.webp'
 +++
 ## I. Tiểu sử và bối cảnh lịch sử
