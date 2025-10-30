@@ -4,6 +4,7 @@ title = 'Nam Kỳ Xưa'
 theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
 removePathAccents = true
+paginate = 6
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
