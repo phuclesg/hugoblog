@@ -3,12 +3,14 @@ date = '2025-09-17T08:16:34Z'
 draft = false
 title = 'Bún gỏi dà Sóc Trăng'
 slug = 'bun-goi-da-soc-trang'
-tags = ['Các-món-bún']
+tags = ['Các món bún']
 categories = ['mon-ngon-mien-tay']
 description = 'Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương bún gỏi dà.'
 author = 'Phúc mập'
 comment = true
 image = '/images/bun-goi-da.webp'
+keywords = ['bún gỏi dà', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng']
+summary = 'Món bún gỏi dà – đặc sản dân dã Sóc Trăng với vị chua ngọt hài hòa, đậm chất miền Tây Nam Bộ.'
 +++
 **Bún gỏi dà – Hương vị dân dã đặc trưng Sóc Trăng - miền Tây**
 
