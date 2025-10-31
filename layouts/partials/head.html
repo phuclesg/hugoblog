@@ -27,7 +27,7 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 {{ with .Params.image }}
-<meta name="twitter:image" content="{{ . |absURL }}">
+<meta property="twitter:image" content="{{ . |absURL }}">
 {{ else }}
 <meta property="twitter:image" content="{{ .Site.Params.default_image | absURL }}">
 {{ end }}
