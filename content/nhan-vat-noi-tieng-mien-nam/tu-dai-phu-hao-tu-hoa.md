@@ -13,7 +13,7 @@ keywords = ['chú hỏa','huỳnh văn hoa','chú hỏa sài gòn','tứ đại 
 +++
 **Huỳnh Văn Hoa (1845 – 1901)**, thường được biết đến với tên gọi Chú Hỏa, là một thương nhân người Việt gốc Hoa, có quốc tịch Pháp. Ông sinh ra tại làng Văn Tang, thuộc Gia Hòa Sơn, huyện Tư Minh, tỉnh Phúc Kiến (Trung Quốc) và sau đó đến Việt Nam sinh sống và kinh doanh.
 Chú Hỏa được người dân Sài Gòn xưa nhắc tới trong bộ **“Tứ đại Phú hộ”** của Sài Gòn – tuy xếp thứ tư nhưng để lại nhiều dấu ấn đặc biệt.
-{{< figure src="/images/chu-hoa.webp" alt="Nhà Chú Hoả" caption="Chú Hoả - Huỳnh Văn Hoa" class="center" >}}
+{{< figure src="/images/chu-hoa1.webp" alt="Nhà Chú Hoả" caption="Chú Hoả - Huỳnh Văn Hoa" class="center" >}}
 
 ## Tên gọi
 
