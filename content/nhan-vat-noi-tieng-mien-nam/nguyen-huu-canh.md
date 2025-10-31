@@ -40,6 +40,9 @@ Chia đất thành huyện, xã, thôn, ấp theo mô hình quản lý truyền 
 
 Cử quan lại cai trị, đưa vùng đất Nam Bộ chính thức nhập vào bản đồ Đại Việt.
 
+{{< figure src="/images/nguyen-huu-canh.jpg" alt="tướng nguyễn hữu cảnh" caption="Đền tướng Nguyễn Hữu Cảnh" class="center" >}}
+
+
 **b. Khuyến khích khai hoang, lập làng**
 
 Đưa lưu dân từ miền Trung vào khai khẩn ruộng đất, lập nên nhiều làng xã mới.

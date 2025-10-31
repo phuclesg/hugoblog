@@ -9,6 +9,8 @@ tags = ['Cuộc-Sống']
 comment = true
 image = '/images/lang-cha-ca.webp'
 +++
+{{< figure src="/images/lang-cha-ca.webp" alt="Lăng cha cả" caption="Lăng Cha Cả" class="center" >}}
+
 ## Nguồn gốc & nhân vật “Cha Cả”
 
 Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ của vị giáo sĩ người Pháp Pierre Joseph Georges Pigneau de Béhaine (tiếng Việt thường gọi là Bá Đa Lộc) — người phụ giúp chúa Nguyễn Phúc Ánh khi ông này đánh lại nhà Tây Sơn cuối thế kỷ XVIII. Khi ấy, Pigneau cùng giới truyền giáo và các thương nhân Pháp đã hỗ trợ vũ khí, quân sự và ngoại giao.
