@@ -16,28 +16,9 @@
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 {{ with .Params.image }}
-  {{/* Ưu tiên tìm ảnh trong assets hoặc bundle của bài viết */}}
-  {{ $img := "" }}
-  {{ $imgPath := . }}
-
-  {{ if (fileExists (printf "assets%s" $imgPath)) }}
-    {{ $img = resources.Get $imgPath }}
-  {{ else if (fileExists (printf "static%s" $imgPath)) }}
-    {{ $img = $imgPath | absURL }}
-  {{ else if .Page.Resources.GetMatch $imgPath }}
-    {{ $img = .Page.Resources.GetMatch $imgPath }}
-  {{ end }}
-
-  {{/* Nếu tìm thấy ảnh là resource (assets hoặc bundle), ép resize để sinh file thật */}}
-  {{ if (and $img (reflect.IsMap $img)) }}
-    {{ $img = $img.Resize "720x Q85" }}
-    <meta property="og:image" content="{{ $img.Permalink }}">
-  {{ else if $img }}
-    <meta property="og:image" content="{{ $img }}">
-  {{ end }}
+  <meta property="og:image" content="{{ . | absURL }}">
 {{ else }}
-  {{/* Ảnh mặc định nếu bài không có image */}}
-  <meta property="og:image" content="{{ site.Params.logos | absURL }}">
+  <meta property="og:image" content="{{ .Site.Params.logos | absURL }}">
 {{ end }}
 
 <meta property="og:image:alt" content="{{ .Title }}">
@@ -46,28 +27,9 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 {{ with .Params.image }}
-  {{/* Ưu tiên tìm ảnh trong assets hoặc bundle của bài viết */}}
-  {{ $img := "" }}
-  {{ $imgPath := . }}
-
-  {{ if (fileExists (printf "assets%s" $imgPath)) }}
-    {{ $img = resources.Get $imgPath }}
-  {{ else if (fileExists (printf "static%s" $imgPath)) }}
-    {{ $img = $imgPath | absURL }}
-  {{ else if .Page.Resources.GetMatch $imgPath }}
-    {{ $img = .Page.Resources.GetMatch $imgPath }}
-  {{ end }}
-
-  {{/* Nếu tìm thấy ảnh là resource (assets hoặc bundle), ép resize để sinh file thật */}}
-  {{ if (and $img (reflect.IsMap $img)) }}
-    {{ $img = $img.Resize "720x Q85" }}
-    <meta property="twitter:image" content="{{ $img.Permalink }}">
-  {{ else if $img }}
-    <meta property="twitter:image" content="{{ $img }}">
-  {{ end }}
+<meta property="twitter:image" content="{{ . |absURL }}">
 {{ else }}
-  {{/* Ảnh mặc định nếu bài không có image */}}
-  <meta property="twitter:image" content="{{ site.Params.logos | absURL }}">
+<meta property="twitter:image" content="{{ .Site.Params.logos | absURL }}">
 {{ end }}
 <meta name="twitter:site" content="@YourTwitterHandle">
 <script type="application/ld+json">
