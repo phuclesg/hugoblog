@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cuộc-Sống on Nam Kỳ Xưa</title>
+    <title>Cuộc Sống on Nam Kỳ Xưa</title>
     <link>http://localhost:1313/tags/cuoc-song/</link>
-    <description>Recent content in Cuộc-Sống on Nam Kỳ Xưa</description>
+    <description>Recent content in Cuộc Sống on Nam Kỳ Xưa</description>
     <generator>Hugo</generator>
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
-    <lastBuildDate>Sun, 19 Oct 2025 14:23:16 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 12:46:15 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cuoc-song/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiếng rao giữa khuya - ký ức không quên</title>
+      <link>http://localhost:1313/cuoc-song-nguoi-nam-ky/tieng-rao-giua-khua-ky-uc-khong-quen/</link>
+      <pubDate>Sat, 01 Nov 2025 12:46:15 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>http://localhost:1313/cuoc-song-nguoi-nam-ky/tieng-rao-giua-khua-ky-uc-khong-quen/</guid>
+      <description>&lt;h1 id=&#34;tiếng-rao---nốt-nhạc-khuya-của-đời-sống-chợt-vang&#34;&gt;Tiếng rao - nốt nhạc khuya của đời sống chợt vang&lt;/h1&gt;&#xA;&lt;p&gt;Giữa đêm khuya, khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng “Ai bánh mì không?”, “Ai bánh chưng, bánh giò, bánh gai không!” vang lên len lỏi giữa những con hẻm nhỏ, như một lời nhắc rằng thành phố vẫn đang thức - bởi vẫn còn đó những con người gánh hàng rong, gánh mưu sinh.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lăng Cha Cả - Di tích và địa danh chuyển mình của Sài Gòn xưa</title>
       <link>http://localhost:1313/cuoc-song-nguoi-nam-ky/lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua/</link>
