@@ -10,6 +10,7 @@ tags = ['Cuộc Sống']
 author = 'Phúc Mập'
 image = '/images/tieng-rao-khuya.webp'
 +++
+
 # Tiếng rao - nốt nhạc khuya của đời sống chợt vang
 
 Giữa đêm khuya, khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng “Ai bánh mì không?”, “Ai bánh chưng, bánh giò, bánh gai không!” vang lên len lỏi giữa những con hẻm nhỏ, như một lời nhắc rằng thành phố vẫn đang thức - bởi vẫn còn đó những con người gánh hàng rong, gánh mưu sinh.
