@@ -70,6 +70,7 @@ removePathAccents = true
 [taxonomies]
     category = 'categories'
     tag = 'tags'
+    keyword = 'keywords'
 
     
 

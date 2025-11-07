@@ -2,28 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/keywords/ben/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/cho/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/cho-ben-thanh-bieu-tuong-sai-gon-xua/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/cuoc-song/</loc>
-    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/cuoc-song/</loc>
-    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/%C4%91uoc/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/hinh/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/lich/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nao/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nam/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/su/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/thanh/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/thanh/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xay/</loc>
+    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -32,7 +97,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/tieng-rao-giua-khuya-%C4%91em-khuya-sai-gon-muu-sinh-giua-sai-gon-nam-ky-xua/</loc>
+    <lastmod>2025-11-01T12:46:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/bo/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/duyet/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/feature/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ky/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/le/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nam/</loc>
     <lastmod>2025-10-26T20:08:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,7 +147,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/quan/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ta/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/ta-quan-le-van-duyet/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/van/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xua/</loc>
+    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xua/</loc>
     <lastmod>2025-10-26T20:08:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -62,7 +182,62 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/bao-tang-my-thuat-thanh-pho-ho-chi-minh/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/chu-hoa/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/chu-hoa-sai-gon/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/con-ma-nha-ho-hua/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/doanh-nhan-sai-gon-xua/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/doanh-nhan-viet-goc-hoa/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/huynh-van-hoa/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ky-uc-sai-gon-xua/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nguoi-giau-nhat-sai-gon-xua/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nha-ho-hua/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/nhan-vat-noi-tieng-nam-ky/</loc>
+    <lastmod>2025-10-18T13:06:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/tu-%C4%91ai-phu-ho-sai-gon/</loc>
     <lastmod>2025-10-18T13:06:49+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -97,7 +272,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/giai-thoai-ong-gia-ba-tri/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/lich-su-ben-tre/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nam-ky-xua/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ong-gia-ba-tri/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/thai-huu-kiem/</loc>
+    <lastmod>2025-09-28T11:12:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/van-hoa-dan-gian-nam-bo/</loc>
     <lastmod>2025-09-28T11:12:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -122,12 +327,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/am-thuc-mien-tay/</loc>
+    <lastmod>2025-09-17T08:16:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/bun-goi-da/</loc>
+    <lastmod>2025-09-17T08:16:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/mon-ngon-mien-tay/bun-goi-da-soc-trang/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/cac-mon-bun/</loc>
+    <lastmod>2025-09-17T08:16:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/%C4%91ac-san-soc-trang/</loc>
     <lastmod>2025-09-17T08:16:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -142,7 +362,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/keywords/bun-bo-choc/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/mon-ngon-mien-tay/bun-bo-choc/</loc>
+    <lastmod>2025-09-12T16:06:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/%C4%91ac-san-soc-trang-tra-vinh/</loc>
     <lastmod>2025-09-12T16:06:42+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
