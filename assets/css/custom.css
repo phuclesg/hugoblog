@@ -9,3 +9,6 @@ figure.center {
   flex-direction: column;
   align-items: center;
 }
+.gray img {
+  filter: grayscale(100%);
+}
