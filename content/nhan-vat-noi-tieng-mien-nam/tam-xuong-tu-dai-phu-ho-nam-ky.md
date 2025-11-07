@@ -7,7 +7,7 @@ tags = ['Tứ-đại-phú-hộ-nam-kỳ-xưa']
 slug = 'tam-xuong-tu-dai-phu-ho-nam-ky-xua'
 description = 'Bá Hộ Xường – Phú hộ Nam Kỳ và Những Dấu Ấn Lịch Sử Còn Lại'
 comment = true
-image = '/images/tam-xuong.webp'
+image = 'https://media.namkyxua.com/images/tam-xuong.webp'
 +++
 Bá hộ Xường, một trong “Tứ đại phú hộ” của Nam Kỳ đầu thế kỷ XX, là nhân vật lịch sử gắn liền với giai đoạn Pháp đô hộ và sự phát triển của **Sài Gòn – Chợ Lớn**. Dù tài sản khổng lồ đã tan biến, những di sản kiến trúc mà ông để lại vẫn là minh chứng cho một thời kỳ vàng son của giới thương nhân giàu có.
 
@@ -22,7 +22,7 @@ Bá hộ Xường, một trong “Tứ đại phú hộ” của Nam Kỳ đầu
 
     - Danh xưng: Do rất giàu có và có tên Xường, ông được gọi là Bá hộ Xường hay Hộ Xường.
 
-{{< figure src="/images/tam-xuong.webp" alt="tứ xường" caption="Tứ đại phú hộ Nam Kỳ xưa - Tam Xường" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/tam-xuong.webp" alt="tứ xường" caption="Tứ đại phú hộ Nam Kỳ xưa - Tam Xường" class="center" >}}
 
 2. ## Con Đường Trở Thành Cự Phú
 - Cuộc đời và sự nghiệp của Bá hộ Xường tuy được sách vở ghi chép không nhiều, nhưng đủ để phác họa nên hình ảnh một thương nhân giỏi giang, nắm bắt thời cơ.

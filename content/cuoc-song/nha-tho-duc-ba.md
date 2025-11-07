@@ -8,16 +8,16 @@ categories = ['cuoc-song']
 tags = ['Cuộc_Sống']
 comment = true
 author = 'Phúc Mập'
-image = '/images/nha-tho-duc-ba.webp'
+image = 'https://media.namkyxua.com/images/nha-tho-duc-ba.webp'
 +++
 Giữa trung tâm Sài Gòn, nơi phố xá tấp nập và dòng người hối hả, có một công trình vẫn lặng lẽ đứng đó hơn trăm năm nay: **Nhà thờ Đức Bà**. Với người Sài Gòn, hình ảnh hai tháp chuông đỏ vươn cao đã trở thành một phần quen thuộc, đi vào ký ức bao thế hệ.
 
 Nhà thờ được người Pháp khởi công năm 1877 và hoàn thành năm 1880. Tất cả gạch ngói, kính màu đều chở từ Marseille, Pháp sang, nên đến nay sắc gạch vẫn đỏ au, chưa cần tô lại. Kiến trúc theo phong cách Roman pha Gothic, bên trong có thể chứa đến hơn ngàn giáo dân. Đến năm 1895, hai tháp chuông mới được dựng hoàn chỉnh, cao gần 60 mét – từng là điểm cao nhất Sài Gòn thuở ấy.
-{{< figure src="/images/nha-tho-duc-ba.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/nha-tho-duc-ba.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
 Trước sân nhà thờ, năm 1959, một bức tượng Đức Mẹ Hòa Bình bằng cẩm thạch trắng được dựng lên, cũng từ đó trở thành nơi lui tới của bao người con Công giáo, và cũng là điểm hẹn quen thuộc của giới trẻ Sài Gòn một thuở.
 
 Nhà thờ Đức Bà không chỉ là một công trình tôn giáo. Nó là biểu tượng của một Sài Gòn từng mang danh Hòn ngọc Viễn Đông, là nơi chứng kiến bao đổi thay, từ thời thuộc địa đến những năm tháng chiến tranh, rồi thời mở cửa. Giữa nhịp sống hiện đại, tòa thánh đường vẫn đứng đó, uy nghiêm mà gần gũi – một chứng nhân lặng lẽ của đất Nam Kỳ.
-{{< figure src="/images/nha-tho-duc-ba-2.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/nha-tho-duc-ba-2.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
 ## Tóm lược về Nhà thờ Đức Bà Sài Gòn
 
 - Tên chính thức: Nhà thờ chính tòa Đức Bà Vô Nhiễm Nguyên Tội, thường gọi Nhà thờ Đức Bà.
@@ -33,7 +33,7 @@ Nhà thờ Đức Bà không chỉ là một công trình tôn giáo. Nó là bi
 - Do kiến trúc sư J. Bourard thiết kế, vật liệu chính như gạch, ngói, kính đều nhập từ Pháp.
 
 - Ban đầu có tên Nhà thờ Nhà nước (Église d’État) vì do chính quyền bảo hộ trực tiếp quản lý.
-{{< figure src="/images/nha-tho-duc-ba-3.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/nha-tho-duc-ba-3.webp" alt="Nhà thờ Đức Bà" caption="Nhà thờ Đức Bà" class="center" >}}
 
 ## Kiến trúc
 

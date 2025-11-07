@@ -36,7 +36,7 @@ Với giới thương gia bản xứ, ông là người vừa đáng nể vừa 
 Ông cũng tham gia nhiều hoạt động xây dựng công trình công cộng, trường học, bệnh viện ở Sài Gòn – Chợ Lớn.
 
 Tuy nhiên, cũng có không ít lời chê trách: ông là tay sai đắc lực cho thực dân Pháp, nhờ vậy mà giàu có, đồng thời góp phần củng cố ách đô hộ.
-{{< figure src="/images/nha-do-doc-phuong.webp" alt="Nhà Đô Đốc Phương" caption="Nhà Đô Đốc Phương | Tứ đại phú hộ nam kỳ xưa" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/nha-do-doc-phuong.webp" alt="Nhà Đô Đốc Phương" caption="Nhà Đô Đốc Phương | Tứ đại phú hộ nam kỳ xưa" class="center" >}}
 ### 4. Đời sống riêng và gia thế
 
 Gia đình họ Đỗ nổi tiếng giàu có, sở hữu nhiều đất đai và bất động sản ở Chợ Lớn, Sài Gòn và vùng phụ cận. Đám tang của ông năm 1914 được tổ chức vô cùng long trọng, rước linh cữu qua nhiều con phố, hàng ngàn người tham dự, từ quan chức Pháp đến dân buôn Hoa – Việt.

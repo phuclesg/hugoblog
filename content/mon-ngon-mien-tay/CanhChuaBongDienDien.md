@@ -8,7 +8,7 @@ description = 'Canh chua cá linh bông điên điển mang đến cho bạn m�
 categories = ["mon-ngon-mien-tay",]
 tags = ['Canh-chua']
 comments = true
-image = "/images/canhchuacalinh.jpg"
+image = "https://media.namkyxua.com/images/canhchuacalinh.jpg"
 +++
 
 Canh chua cá linh bông điên điển mang đến cho bạn một trải nghiệm ẩm thực độc đáo với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon từ thiên nhiên. Cá linh, một loại cá nước ngọt phổ biến trong mùa nước nổi, có thịt mềm mại và vị ngọt tự nhiên. Bông điên điển, với màu vàng tươi và hương vị hơi đắng, không chỉ làm tăng thêm độ phong phú cho món canh mà còn tạo nên sự tương phản hấp dẫn với vị chua ngọt của nước lèo
@@ -17,7 +17,7 @@ Với vị chua nhẹ từ me hoặc dưa chua, kết hợp cùng vị ngọt th
 
 Hãy cùng khám phá và thưởng thức món ăn đặc sản này để cảm nhận sự phong phú và tinh tế của ẩm thực miền Tây Nam Bộ. 
 
-{{< figure src="/images/canhchuacalinh.jpg" alt="Canh chua cá linh"  caption="Canh Chua Cá Linh" class="tc center">}}
+{{< figure src="https://media.namkyxua.com/images/canhchuacalinh.jpg" alt="Canh chua cá linh"  caption="Canh Chua Cá Linh" class="tc center">}}
 
 **Cách Nấu Canh Chua Cá Linh Bông Điên Điển**
 * Bước 1: Chuẩn Bị Nguyên Liệu
@@ -32,7 +32,7 @@ Thêm cá linh vào nồi, đun cho đến khi cá chín và bắt đầu chảy
 * Bước 4: Hoàn Thiện
 Khi cá và cà chua đã chín, cho bông điên điển vào nồi. Đun trong vài phút cho đến khi bông điên điển chín nhưng vẫn giữ được độ giòn. Nếm lại gia vị, điều chỉnh cho vừa ăn.
 
-{{< figure src="/images/canhchuacalinh2.jpg" alt="Canh chua cá linh"  class="center tc" caption="Canh Chua Cá Linh" >}}
+{{< figure src="https://media.namkyxua.com/images/canhchuacalinh2.jpg" alt="Canh chua cá linh"  class="center tc" caption="Canh Chua Cá Linh" >}}
 
 * Bước 5: Trình Bày và Thưởng Thức
 Múc canh ra tô, rắc thêm ít ngò gai và húng quế nếu thích. Canh chua cá linh bông điên điển thường được thưởng thức nóng cùng cơm trắng hoặc bún.

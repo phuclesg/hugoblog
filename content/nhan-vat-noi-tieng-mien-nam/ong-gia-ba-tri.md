@@ -8,13 +8,13 @@ slug = 'ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly'
 categories = ['nhan-vat-noi-tieng-mien-nam']
 author = 'Phúc Mập'
 comment = true
-image = '/images/ong-gia-ba-tri.webp'
+image = 'https://media.namkyxua.com/images/ong-gia-ba-tri.webp'
 +++
 ## Tiểu sử và nguồn gốc
 
 “Ông già Ba Tri” (còn gọi là Già Ba Tri) là tên gọi dân gian của Thái Hữu Kiểm (còn gọi là Cả Kiểm), người sống vào đầu thời Minh Mạng (đầu thế kỷ XIX). 
 
-{{< figure src="/images/ong-gia-ba-tri.webp" alt="Ông già ba tri" caption="Ông Già Ba Tri - Thái Hữu Kiểm" class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/ong-gia-ba-tri.webp" alt="Ông già ba tri" caption="Ông Già Ba Tri - Thái Hữu Kiểm" class="center" >}}
 
 Ông vốn là cháu nội của Thái Hữu Xưa, người gốc Quảng Ngãi, lập nghiệp ở Ba Tri – tỉnh Bến Tre. 
 Thái Hữu Xưa từng giúp chúa Nguyễn Ánh và được phong chức “Trùm cả An Bình Đông” tại quận Ba Tri. 
@@ -34,7 +34,7 @@ Trong quá trình lưu truyền, có nhiều biến thể về tên nhân vật 
 
 Trong tiếng Việt, “ông già Ba Tri” dần trở thành một thành ngữ để chỉ những người lớn tuổi nhưng vẫn kiên quyết, cương trực, không chịu khuất phục trước bất công. 
 
-{{< figure src="/images/dinh-phu-le.webp" alt="Đình phú lễ" caption="Đình cổ Phú Lễ ở Ba Tri xây dựng năm 1826 để tưởng nhớ các bậc tiền nhân khai phá xứ này." class="center" >}}
+{{< figure src="https://media.namkyxua.com/images/dinh-phu-le.webp" alt="Đình phú lễ" caption="Đình cổ Phú Lễ ở Ba Tri xây dựng năm 1826 để tưởng nhớ các bậc tiền nhân khai phá xứ này." class="center" >}}
 
 Tự điển Tiếng Việt của Lê Văn Đức – Lê Ngọc Trụ định nghĩa:
 

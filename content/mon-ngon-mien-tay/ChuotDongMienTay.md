@@ -7,22 +7,22 @@ slug = 'chuot-dong-mien-tay'
 author = 'Phúc Mập'
 comments = true
 categories = ["mon-ngon-mien-tay"]
-image = '/images/chuot-dong-nuong2.jpg'
+image = 'https://media.namkyxua.com/images/chuot-dong-nuong2.jpg'
 +++
 
 Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo. Trong những món ăn đặc sắc của vùng đất này, "Chuột Đồng Miền Tây" nổi bật như một biểu tượng của sự sáng tạo và đa dạng văn hóa ẩm thực.<!--more-->
 
 ### Hương Vị Độc Đáo:
 
-{{< figure src="/images/chuot-dong-nuong2.jpg" alt="Chuột đồng nướng" caption="Chuột đồng nướng" class="center tc" >}}
+{{< figure src="https://media.namkyxua.com/images/chuot-dong-nuong2.jpg" alt="Chuột đồng nướng" caption="Chuột đồng nướng" class="center tc" >}}
 
-{{< figure src="/images/chuot-dong-nuong.png" alt="Chuột đồng nướng" caption="Chuột đồng nướng" class="center tc" >}}
+{{< figure src="https://media.namkyxua.com/images/chuot-dong-nuong.png" alt="Chuột đồng nướng" caption="Chuột đồng nướng" class="center tc" >}}
 
 Món chuột đồng nướng miền Tây không chỉ là một biểu tượng của sự sáng tạo trong nấu ăn mà còn là một trải nghiệm hương vị độc đáo. Thịt chuột được chế biến một cách tinh tế, ướp gia vị và nướng chín tới, tạo nên hương vị đậm đà, thơm ngon. Sự kết hợp tinh tế của nước mắm, tiêu, tỏi, ớt tạo ra một hương vị khó quên, làm cho bữa ăn trở nên phong phú và độc đáo.
 
 ### Nguyên Liệu Tươi Ngon:
 
-{{< figure src="/images/thit-chuot-dong.jpg" alt="thịt chuột đồng" caption="Thịt chuột đồng" class="center tc" >}}
+{{< figure src="https://media.namkyxua.com/images/thit-chuot-dong.jpg" alt="thịt chuột đồng" caption="Thịt chuột đồng" class="center tc" >}}
 
 Để đảm bảo chất lượng, người làm chuột đồng miền Tây chọn lựa chuột tươi ngon, sau đó làm sạch bằng nước muối và chút rượu để loại bỏ mùi đặt trưng của chuột. Quá trình chuẩn bị nguyên liệu này đã trở thành một nghệ thuật, là bí quyết quan trọng để giữ cho thịt chuột ngon miệng.
 
