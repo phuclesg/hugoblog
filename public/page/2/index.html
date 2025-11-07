@@ -142,7 +142,7 @@
 
   </figure>
   <div class="basis-1/2 self-center">
-    <h2 class="text-2xl md:text-3xl lg:text-5xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/nhan-vat-noi-tieng-mien-nam/ta-quan-le-van-duyet/">Tả quân Lê Văn Duyệt – Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ</a></h2>
+    <h2 class="text-2xl md:text-3xl lg:text-5xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/nhan-vat-noi-tieng-mien-nam/ta-quan-le-van-duyet/">Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ</a></h2>
     <time datetime="2025-10-26T20:08:10&#43;07:00"><span class="font-bold">26 tháng 10,2025</span></time>
   </div>
 </section>
@@ -186,7 +186,8 @@
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn. Chợ tọa lạc tại trung tâm Quận Bình Thạnh</p>
 
 	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/nhan-vat-noi-tieng-mien-nam/ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly/"></a>
 
@@ -203,7 +204,8 @@
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Câu chuyện ông già Ba Tri – Thái Hữu Kiểm ở Bến Tre, biểu tượng cho tinh thần đấu tranh của người Nam Bộ xưa.</p>
 
 	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/cuoc-song-nguoi-nam-ky/tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai/"></a>
 
@@ -220,7 +222,8 @@
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới</p>
 
 	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/nhan-vat-noi-tieng-mien-nam/nhi-phuong-tu-dai-phu-hao-nam-ky-xua/"></a>
 
@@ -237,7 +240,8 @@
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn </p>
 
 	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/nhan-vat-noi-tieng-mien-nam/nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua/"></a>
 
@@ -254,7 +258,8 @@
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Trong lịch sử Nam Bộ cuối thế kỷ XIX, cái tên Huyện Sỹ(tên thật Lê Phát Đạt, 1841–1900) luôn được nhắc đến như một biểu tượng giàu sang và quyền thế</p>
 
 	</div>
-</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/mon-ngon-mien-tay/bun-goi-da-soc-trang/"></a>
 
@@ -272,6 +277,7 @@
 
 	</div>
 </article>
+
 
     </div>
 
@@ -368,6 +374,29 @@
 
   </div>
   
+  <audio id="nhacnen" autoplay loop>
+  <source src="/musics/jinglebell.aac" type="audio/mpeg">
+</audio>
+
+
+<button id="nutnhac" style="position:fixed;bottom:10px;right:10px;z-index:999;border-radius:30px;color:white;font-weight:600;background:red;padding:10px;">Tắt nhạc</button>
+
+<script>
+const audio = document.getElementById('nhacnen');
+const nut = document.getElementById('nutnhac');
+const vol = document.getElementById('nhacnen');
+vol.volume = 0.25;
+nut.addEventListener('click', () => {
+  if (audio.paused) {
+    audio.play();
+    nut.textContent = 'Tắt nhạc';
+  } else {
+    audio.pause();
+    nut.textContent = 'Bật nhạc';
+  }
+});
+</script>
+
 </div>
   
 </footer>

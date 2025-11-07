@@ -1,7 +1,7 @@
 +++
 date = '2025-10-26T20:08:10+07:00'
 draft = false
-title = 'Tả quân Lê Văn Duyệt – Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
+title = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
 author = 'Phúc Mập'
 description = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
 slug = 'ta-quan-le-van-duyet'
