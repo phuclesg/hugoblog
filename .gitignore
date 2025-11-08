@@ -1,0 +1,7 @@
+# Hugo built artifacts
+/public/
+/resources/
+.hugo_build.lock
+# OS-specific files
+.DS_Store
+._*
