@@ -8,7 +8,7 @@ slug = 'nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua'
 tags = ['Tứ-đại-phú-hộ-Nam-Kỳ-xưa']
 categories = ['nhan-vat-noi-tieng-mien-nam']
 comment = true
-image = 'https://media.namkyxua.com/images/huyen-sy.webp'
+image = '/images/huyen-sy.webp'
 featured = true
 +++
 **Kỳ 1: Nhất Sỹ**
@@ -16,7 +16,7 @@ featured = true
 
 Trong lịch sử Nam Bộ cuối thế kỷ XIX, cái tên **Huyện Sỹ** (tên thật ***Lê Phát Đạt***, 1841–1900) luôn được nhắc đến như một biểu tượng giàu sang và quyền thế. Ông không chỉ là một trong những điền chủ sở hữu nhiều ruộng đất nhất Nam Kỳ, mà còn để lại dấu ấn sâu đậm qua gia tộc và những công trình mang giá trị văn hóa – tôn giáo.
 
-{{< figure src="https://media.namkyxua.com/images/huyen-sy.webp" alt="Huyện Sỹ" caption="Huyện Sỹ và gia đình" class="center" >}}
+{{< figure src="/images/huyen-sy.webp" alt="Huyện Sỹ" caption="Huyện Sỹ và gia đình" class="center" >}}
 
 ### Xuất thân và con đường làm giàu
 
@@ -31,7 +31,7 @@ Trong quá trình cộng tác với chính quyền Pháp, ông được bổ nhi
 ### Gia đình và hậu duệ
 
 **Huyện Sỹ** kết hôn với bà **Huỳnh Thị Tài**. Hai ông bà sinh được 4 người con, trong đó nổi bật nhất là bà Lê Thị Bình – về sau chính là bà ngoại của Hoàng hậu Nam Phương.
-{{< figure src="https://media.namkyxua.com/images/nam-phuong-hoang-hau.webp" alt="Nam phương hoàng hậu" caption="Cháu ngoại Huyện Sỹ - Nam Phương Hoàng Hậu" class="center" >}}
+{{< figure src="/images/nam-phuong-hoang-hau.webp" alt="Nam phương hoàng hậu" caption="Cháu ngoại Huyện Sỹ - Nam Phương Hoàng Hậu" class="center" >}}
 
 Nhờ các cuộc hôn nhân và quan hệ chính trị, gia tộc Huyện Sỹ trở thành một trong những dòng họ có ảnh hưởng lớn nhất Nam Kỳ. Việc cháu ngoại của ông trở thành hoàng hậu cuối cùng của triều Nguyễn đã minh chứng cho thế lực và tầm vóc của gia đình.
 
@@ -39,11 +39,11 @@ Nhờ các cuộc hôn nhân và quan hệ chính trị, gia tộc Huyện Sỹ 
 
 Một công trình gắn liền với tên tuổi ông chính là nhà thờ **Huyện Sỹ**, tọa lạc tại trung tâm Quận 1, TP. Hồ Chí Minh ngày nay. Nhà thờ được gia đình xây dựng và cũng là nơi an táng vợ chồng ông.
 
-{{< figure src="https://media.namkyxua.com/images/nha-tho-huyen-sy.webp" alt="Nhà thờ huyện sỹ" caption="Nhà Thờ Huyện Sỹ" class="center" >}}
+{{< figure src="/images/nha-tho-huyen-sy.webp" alt="Nhà thờ huyện sỹ" caption="Nhà Thờ Huyện Sỹ" class="center" >}}
 
 Với kiến trúc cổ kính và quy mô lớn, nhà thờ không chỉ là nơi sinh hoạt tôn giáo của giáo dân mà còn là một di tích mang đậm dấu ấn lịch sử – văn hóa của Sài Gòn xưa.
 
-{{< figure src="https://media.namkyxua.com/images/mo-huyen-sy.webp" alt="Mộ huyện sỹ" caption="Mộ Huyện Sỹ" class="center" >}}
+{{< figure src="/images/mo-huyen-sy.webp" alt="Mộ huyện sỹ" caption="Mộ Huyện Sỹ" class="center" >}}
 
 Cuộc đời khép lại, tên tuổi còn mãi
 

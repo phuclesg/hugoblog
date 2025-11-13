@@ -6,12 +6,12 @@ author = 'Phúc Mập'
 description = 'Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ'
 slug = 'cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi'
 categories = ['nhan-vat-noi-tieng-mien-nam']
-image = 'https://media.namkyxua.com/images/cong-tu-bac-lieu.jpg'
+image = '/images/cong-tu-bac-lieu.jpg'
 +++
 Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ. Dù đã đi vào dĩ vãng, cái tên này vẫn gợi nhắc về một thời vàng son của vùng đất trù phú phương Nam.
 
 **1. Công tử Bạc Liêu là ai?**
-{{< figure src="https://media.namkyxua.com/images/cong-tu-bac-lieu.jpg" alt="Công tử bạc liêu" class="center" caption="Công Tử Bạc Liêu" >}}
+{{< figure src="/images/cong-tu-bac-lieu.jpg" alt="Công tử bạc liêu" class="center" caption="Công Tử Bạc Liêu" >}}
 Công tử Bạc Liêu chính là Trần Trinh Huy (1900 – 1974), con trai của Hộ Giàu (Trần Trinh Trạch) – một trong những điền chủ giàu có bậc nhất miền Tây Nam Bộ đầu thế kỷ 20. Gia đình ông sở hữu hàng chục ngàn hecta ruộng lúa, được mệnh danh là “vua lúa gạo Nam Kỳ”.
 
 Từ nhỏ, Trần Trinh Huy được cho sang Pháp học hành, tiếp xúc văn hóa phương Tây, nên khi về nước mang phong thái phóng khoáng, hiện đại, khác hẳn với lối sống truyền thống ở quê nhà.
@@ -24,7 +24,7 @@ Công tử Bạc Liêu nổi tiếng khắp Nam Kỳ Lục Tỉnh không chỉ v
 Xài tiền như nước: Ông thường lái xe hơi vòng quanh thành phố, ghé quán cà phê, nhà hàng sang trọng, bao hết bàn cho bạn bè và trả tiền bằng… bóp bạc.
 
 Tình trường lãng mạn: Công tử Bạc Liêu cũng nổi danh là người đào hoa, quen biết nhiều giai nhân, nghệ sĩ nổi tiếng thời bấy giờ.
-{{< figure src="https://media.namkyxua.com/images/nha-cong-tu-bac-lieu.webp" alt="Nhà công tử bạc liêu" caption="Nhà công tử Bạc Liêu" class="center" >}}
+{{< figure src="/images/nha-cong-tu-bac-lieu.webp" alt="Nhà công tử bạc liêu" caption="Nhà công tử Bạc Liêu" class="center" >}}
 
 **3. Hình ảnh biểu tượng của miền Tây trù phú**
 

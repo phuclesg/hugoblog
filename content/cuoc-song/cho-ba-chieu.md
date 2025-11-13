@@ -8,7 +8,7 @@ tags = ['Cuộc-Sống']
 categories = ['cuoc-song']
 comment = true
 author = 'Phúc Mập'
-image = 'https://media.namkyxua.com/images/cho-ba-chieu.webp'
+image = '/images/cho-ba-chieu.webp'
 +++
 ## Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn.
 Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phường 1, Quận Bình Thạnh, với diện tích khoảng 8.465 m² và gần 800 sạp hàng.
@@ -16,7 +16,7 @@ Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phườn
 Nơi đây kinh doanh đa dạng các mặt hàng như đồ gia dụng, quần áo, giày dép, nón lá, nhu yếu phẩm hàng ngày và đặc biệt nổi tiếng với các gian hàng “đồ si” (hàng thanh lý).
 
 Chợ Bà Chiểu vốn là chợ *"chồm hổm"* xưa kia, sau trở thành chợ trung tâm của tỉnh Gia Định và hiện nay là chợ trung tâm của quận Bình Thạnh.
-{{< figure src="https://media.namkyxua.com/images/cho-ba-chieu.webp" alt="Chợ Bà Chiểu" caption="Chợ Bà Chiểu" class="center" >}}
+{{< figure src="/images/cho-ba-chieu.webp" alt="Chợ Bà Chiểu" caption="Chợ Bà Chiểu" class="center" >}}
 ## Lịch sử hình thành
 
 Chợ Bà Chiểu xuất hiện từ thế kỷ XIX.
@@ -38,7 +38,7 @@ Theo nhiều tài liệu xưa, từ “Chiểu” có nghĩa là ao nước thi�
 Một cách giải thích khác cho rằng trước kia chợ Bà Chiểu quay mặt ra một rạch nhỏ nối từ kênh Nhiêu Lộc. Việc chợ gắn liền với khu vực sông nước tự nhiên này khiến tên gọi “Bà Chiểu” được hình thành.
 
 Cả hai cách lý giải đều thống nhất rằng trước kia có một ao hoặc rạch tự nhiên trước mặt chợ và người dân đặt miếu thờ nữ thần tại đó, từ đó tên gọi “Chợ Bà Chiểu” ra đời.
-{{< figure src="https://media.namkyxua.com/images/cho-ba-chieu-2.webp" alt="Chợ Bà Chiểu" caption="Chợ Bà Chiểu" class="center" >}}
+{{< figure src="/images/cho-ba-chieu-2.webp" alt="Chợ Bà Chiểu" caption="Chợ Bà Chiểu" class="center" >}}
 ## Thông tin hiện tại
 
 - Chủ quản lý: Ban quản lý chợ Bà Chiểu

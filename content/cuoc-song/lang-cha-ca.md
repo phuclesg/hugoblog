@@ -7,21 +7,21 @@ slug = 'lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua'
 categories = ['cuoc-song']
 tags = ['Cuộc-Sống']
 comment = true
-image = 'https://media.namkyxua.com/images/lang-cha-ca.webp'
+image = '/images/lang-cha-ca.webp'
 +++
-{{< figure src="https://media.namkyxua.com/images/lang-cha-ca.webp" alt="Lăng cha cả" caption="Lăng Cha Cả" class="center" >}}
+{{< figure src="/images/lang-cha-ca.webp" alt="Lăng cha cả" caption="Lăng Cha Cả" class="center" >}}
 ## Nguồn gốc & nhân vật “Cha Cả”
 
 Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ của vị giáo sĩ người Pháp Pierre Joseph Georges Pigneau de Béhaine (tiếng Việt thường gọi là Bá Đa Lộc) - người phụ giúp chúa Nguyễn Phúc Ánh khi ông này đánh lại nhà Tây Sơn cuối thế kỷ XVIII. Khi ấy, Pigneau cùng giới truyền giáo và các thương nhân Pháp đã hỗ trợ vũ khí, quân sự và ngoại giao.
 Vì thế, khi ông qua đời năm 1799 tại Thị Nại (Quy Nhơn), chúa Nguyễn đã phong ông làm “Bi-nhu Quận công” và cho xây dựng lăng mộ trang nghiêm để an táng tại vùng Gia Định (thuộc Sài Gòn xưa).
-{{< figure src="https://media.namkyxua.com/images/lang-cha-ca2.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
+{{< figure src="/images/lang-cha-ca2.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
 
 ## Kiến trúc lăng mộ
 
 Lăng được xây dựng theo kiểu Việt Nam - có bình phong, bái đường, hậu cung - dù chủ nhân là người Pháp. Khuôn viên lăng rộng khoảng 2.000 m², gồm một dãy nhà lợp ngói, cột và vách bằng gỗ quý, phía trước có bia đá lớn ghi công đức.
 Trong hồi ký năm 1918, lăng được mô tả như “xây kín như kiểu một cái đình lối ta; chính mộ Cha Cả là cái sập đá lớn ở giữa, xung quanh đặt cửa bức bàn; hai mộ nhỏ hai bên…”.
 
-{{< figure src="https://media.namkyxua.com/images/lang-cha-ca5.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
+{{< figure src="/images/lang-cha-ca5.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
 
 ## Vị trí & biến chuyển đô thị
 
@@ -36,6 +36,6 @@ Về sau, lăng bị thu hẹp trong không gian đô thị. Khu vực này hi�
 
 Dù lăng mộ vật chất đã không còn, tên gọi Lăng Cha Cả vẫn hiện diện mạnh mẽ trong ký ức người dân Sài Gòn - như một dấu ấn lịch sử, một mốc địa danh chịu ảnh hưởng của quá trình đô thị hóa.
 Khu vực này không chỉ là nơi yên nghỉ của một nhân vật lịch sử mà còn phản ánh sự chuyển mình từ ngoại ô, vùng đất linh thiêng, sang một phần của thành phố hiện đại.
-{{< figure src="https://media.namkyxua.com/images/lang-cha-ca4.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
+{{< figure src="/images/lang-cha-ca4.webp" alt="Lăng Cha Cả" caption="Lăng Cha Cả" class="center" >}}
 
 Lăng Cha Cả là một trang sử vừa mang yếu tố truyền giáo - ngoại giao - kiến trúc - đô thị. Khi viết về Nam Kỳ xưa, nhắc đến lăng mộ Bá Đa Lộc hay vòng xoay Lăng Cha Cả là bạn đang chạm tới lớp lịch sử đa chiều của Sài Gòn-Gia Định: từ mộ phần đến con đường, từ linh thiêng đến giao thông đô thị.

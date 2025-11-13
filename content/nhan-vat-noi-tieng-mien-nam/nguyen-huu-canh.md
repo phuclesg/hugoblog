@@ -6,7 +6,7 @@ author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
 description = 'Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa.'
 categories = ['nhan-vat-noi-tieng-mien-nam']
-image = 'https://media.namkyxua.com/images/nguyen-huu-canh.jpg'
+image = '/images/nguyen-huu-canh.jpg'
 +++
 
 # Vị danh tướng mở cõi phương Nam
@@ -16,7 +16,7 @@ Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớ
 
 Trong bối cảnh đó, Nguyễn Hữu Cảnh (1650 – 1700), một danh tướng tài năng và trung thành của chúa Nguyễn Phúc Chu, được giao trọng trách vào Nam kinh lược và thiết lập hệ thống hành chính.
 
-{{< figure src="https://media.namkyxua.com/images/nguyen-huu-canh2.jpg" alt="tướng nguyễn hữu cảnh" caption="Danh Tướng Nguyễn Hữu Cảnh" class="center" >}}
+{{< figure src="/images/nguyen-huu-canh2.jpg" alt="tướng nguyễn hữu cảnh" caption="Danh Tướng Nguyễn Hữu Cảnh" class="center" >}}
 
 **2. Tiểu sử ngắn gọn**
 
@@ -40,7 +40,7 @@ Chia đất thành huyện, xã, thôn, ấp theo mô hình quản lý truyền 
 
 Cử quan lại cai trị, đưa vùng đất Nam Bộ chính thức nhập vào bản đồ Đại Việt.
 
-{{< figure src="https://media.namkyxua.com/images/nguyen-huu-canh.jpg" alt="tướng nguyễn hữu cảnh" caption="Đền tướng Nguyễn Hữu Cảnh" class="center" >}}
+{{< figure src="/images/nguyen-huu-canh.jpg" alt="tướng nguyễn hữu cảnh" caption="Đền tướng Nguyễn Hữu Cảnh" class="center" >}}
 
 
 **b. Khuyến khích khai hoang, lập làng**

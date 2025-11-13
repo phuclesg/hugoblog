@@ -9,14 +9,14 @@ author = 'Phúc Mập'
 categories = ["mon-ngon-mien-tay"]
 tags = ['Món-Gỏi']
 comments = true
-image = 'https://media.namkyxua.com/images/goi-ga-hoa-phuong3.jpg'
+image = '/images/goi-ga-hoa-phuong3.jpg'
 +++
 Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi bông phượng nở rộ ở khắp nơi. Trong bài viết này, hãy cùng mình tìm hiểu cách thực hiện gỏi gà bông phượng để chiêu đãi cả nhà nhé.
 ## Nguyên liệu làm gỏi gà hoa phượng
 
 ### Nguyên liệu chính (cho 3 người ăn)
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong3.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong3.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 - Gà 1 con
 - Thân chuối non 1 cây
@@ -36,7 +36,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 
 ## Hoa phượng tìm ở đâu?
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong2.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong2.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 - Công viên công cộng.
 - Khuôn viên trường học.
@@ -46,7 +46,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 ## Cách chế biến gỏi gà hoa phượng
 **Bước 1**: Sơ chế và luộc thịt gà-
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong4.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong4.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 - Làm sạch gà bằng cách rửa với nước lạnh, sát lên thân gà một ít muối và giấm để khử mùi.
 - Rửa gà lần nữa để đảm bảo sạch. Luộc gà trong nước sôi khoảng 30-40 phút hoặc cho đến khi thịt gà chín.
@@ -54,7 +54,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 
 **Bước 2:** Sơ chế các nguyên liệu khác
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong6.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong6.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 - Lột vỏ ngoài thân chuối non và cắt thành sợi nhỏ .
 - Rửa sạch hoa phượng, ngâm trong nước lạnh để giữ  độ tươi và làm mát.
@@ -64,7 +64,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 
 **Bước 3:** Xé thịt gà
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong1.jpeg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong1.jpeg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 Bạn xé gà luộc thành từng miếng vừa ăn hoặc miếng mỏng, tùy theo sở thích.
 **Bước 4:** Pha mắm trộn gỏi gà hoa phượng
@@ -76,6 +76,6 @@ Lúc này bạn lấy một tô lớn và cho thịt gà, thân chuối non, hoa
 **Bước 6:** Thành phẩm
 Thành phẩm
 
-{{< figure src="https://media.namkyxua.com/images/goi-ga-hoa-phuong5.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
+{{< figure src="/images/goi-ga-hoa-phuong5.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 Thêm rau thơm như ngò gai, húng quế hoặc rau răm để tạo thêm hương vị và màu sắc, sau đó bày món gỏi gà hoa phượng lên đĩa là đã hoàn thành. Đừng quên nêm nếm, điều chỉnh gia vị theo khẩu vị riêng của mình để đảm bảo món ăn ngon và đúng vị theo sở thích nhất bạn nhé!

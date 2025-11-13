@@ -8,10 +8,10 @@ keywords = "lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa"
 slug = 'ta-quan-le-van-duyet'
 categories = ['nhan-vat-noi-tieng-mien-nam']
 tags = ['Nhân-Vật-nổi-tiếng-miền-nam','feature']
-image = 'https://media.namkyxua.com/images/le-van-duyet.webp'
+image = '/images/le-van-duyet.webp'
 +++
 ## I. Tiểu sử và bối cảnh lịch sử
-{{< figure src="https://media.namkyxua.com/images/le-van-duyet2.webp" atl="Tả quân Lê Văn Duyệt" caption="Tả quân Lê Văn Duyệt" class="center" >}}
+{{< figure src="/images/le-van-duyet2.webp" atl="Tả quân Lê Văn Duyệt" caption="Tả quân Lê Văn Duyệt" class="center" >}}
 Lê Văn Duyệt sinh khoảng năm 1763 tại vùng Vàm Trà Lọt, thuộc tỉnh Định Tường xưa (nay là Tiền Giang). Gia đình ông vốn gốc Quảng Ngãi, ông nội là Lê Văn Hiếu vào Nam khai khẩn lập nghiệp. Từ nhỏ, Lê Văn Duyệt đã nổi tiếng thông minh, cương trực và có chí lớn.
 
 Cuối thế kỷ XVIII, đất nước rơi vào thời loạn khi phong trào Tây Sơn nổi dậy. Chúa Nguyễn Ánh (sau này là vua Gia Long) phải nhiều lần bôn ba, ẩn náu ở miền Nam. Trong thời điểm đó, Lê Văn Duyệt theo phò Nguyễn Ánh, trở thành một trong những tướng lĩnh trung thành và kiệt xuất nhất. Chính từ giai đoạn gian khổ này, tài năng quân sự và bản lĩnh của ông được rèn luyện, khẳng định qua nhiều chiến dịch lớn.
@@ -33,7 +33,7 @@ Về mặt hành chính, *Lê Văn Duyệt* nổi tiếng là người công min
 “Dưới trướng Tả quân, quan sợ dân thương.”
 
 Ông được người dân kính trọng vì dám đứng ra bảo vệ dân chúng, chống lại sự lạm quyền của quan lại. Nhờ vậy, vùng đất Gia Định thời ông trị nhậm yên bình, trật tự và sung túc.
-{{< figure src="https://media.namkyxua.com/images/le-van-duyet.webp" atl="Tả quân Lê Văn Duyệt" caption="Lăng - Tả quân Lê Văn Duyệt" class="center" >}}
+{{< figure src="/images/le-van-duyet.webp" atl="Tả quân Lê Văn Duyệt" caption="Lăng - Tả quân Lê Văn Duyệt" class="center" >}}
 ## IV. Chính sách khoan dung và tấm lòng nhân hậu
 
 Một điểm đáng quý ở Lê Văn Duyệt là tinh thần cởi mở, khoan dung. Ông không quá khắt khe về tôn giáo, đặc biệt là với đạo Thiên Chúa - vốn bị hạn chế dưới triều Minh Mạng sau này. Dưới thời ông, các giáo sĩ và người theo đạo Công giáo vẫn được sinh hoạt tự do, điều đó giúp vùng Nam Bộ thu hút thêm dân cư, thợ thủ công, thương nhân nước ngoài đến làm ăn.
