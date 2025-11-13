@@ -2,12 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/keywords/ben/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
+    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/bac_ba_phi/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/nhan-vat-noi-tieng-mien-nam/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ben/</loc>
     <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,11 +87,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/keywords/nao/</loc>
     <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -68,11 +98,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/keywords/su/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -128,21 +153,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/keywords/nam/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2025-10-26T20:08:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
