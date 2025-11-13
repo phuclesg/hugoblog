@@ -55,8 +55,6 @@ Bác Ba Phi là biểu tượng cho tinh thần “vừa lao động vừa kể 
 Câu chuyện của ông giúp chúng ta hiểu sâu hơn về đời sống khai hoang Nam Bộ - vùng rừng tràm, đồng nước, kênh rạch, nơi người dân phải đối diện thiên nhiên khắc nghiệt nhưng vẫn giữ được tinh thần lạc quan, hài hước.
 
 Việc bảo tồn và phát huy “truyện kể Bác Ba Phi” là cách giữ gìn văn hóa dân gian - truyền miệng - kết nối quá khứ với hiện tại, cho người trẻ hôm nay hiểu giá trị lao động, sáng tạo, cộng đồng.
-
-Trên trang web về miền Nam xưa của ông (tui) thì hình ảnh Bác Ba Phi rất phù hợp để làm chủ đề: khai hoang, đời sống người Nam Bộ, kể chuyện dân gian… giúp người đọc hiểu nhân vật lẫn bối cảnh Nam Bộ xưa.
 {{< figure src="/images/bac-ba-phi-3.webp" alt="Bác Ba Phi - Nam Kỳ xưa" caption="Mộ phần Bác ba Phi - Nam Kỳ xưa" class="center" >}}
 
 ## 6. Kết luận
