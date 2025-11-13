@@ -7,8 +7,9 @@
 		  {{- if (strings.HasPrefix .Params.image "http") }}
 
 		  <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}" style="width: 100%; height: 100%; object-fit: cover;" style="width: 100%; height: 100%; object-fit: cover;">
-
-		  {{- else }}
+			{{- else if (strings.HasPrefix .Params.image "/") }}
+			 <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}" style="width: 100%; height: 100%; object-fit: cover;" style="width: 100%; height: 100%; object-fit: cover;">
+		  	{{- else }}
 
 			{{- with $imglist := resources.Get .Params.image -}}
 			  {{- $imglist := $imglist.Crop "250x250 Center" -}}
