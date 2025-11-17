@@ -33,9 +33,9 @@ Tuy nhiên, đến giữa thập niên 1960, xe lam được nhập khẩu vào 
 
 * Vật liệu chủ yếu là gỗ quý như giáng hương hoặc gỗ cây chò - loại gỗ này bền, đàn hồi tốt.
 
-* Bánh xe được ghép từ 6 miếng gỗ, có 12 căm cắm vào trục, rồi bọc bởi vòng sắt và nẹp cao su từ lớp vỏ lốp xe hơi, khiến bánh xe khi lăn tạo ra tiếng “lách cách” đặc trưng.
+* Bánh xe được ghép từ 6 miếng gỗ, có 12 căm cắm vào trục, rồi bọc bởi vòng sắt và nẹp cao su từ lớp vỏ xe hơi, khiến bánh xe khi lăn tạo ra tiếng “lách cách” đặc trưng.
 
-* Khách ngồi trong thùng xe trên một sàn chiếu (không có ghế cố định), co chân bó gối — đây là thiết kế giản dị, giúp tiết kiệm trọng lượng và thuận tiện cho việc lên xuống.
+* Khách ngồi trong thùng xe trên một sàn chiếu (không có ghế cố định), co chân bó gối - đây là thiết kế giản dị, giúp tiết kiệm trọng lượng và thuận tiện cho việc lên xuống.
 
 * Mui xe có hình cong như một vành mũ, làm từ thiếc, kéo ra che phủ khoảng nửa phần ngựa.
 
@@ -61,12 +61,12 @@ Ngày nay, trên đường phố Sài Gòn không còn thấy bóng dáng xe th�
 
 Một số nghệ nhân tái chế xe thổ mộ thành vật trang trí: nguyên chiếc xe được đánh vecni, lau dầu rồi bán cho người thích hoài cổ - giá có thể khoảng vài chục triệu đồng.
 
-Một số bộ phận được chế lại: ví dụ ghế dựa từ trục bánh xe, hoặc bàn làm từ bánh xe — đều trở thành món đồ độc, mang nét cổ xưa.
+Một số bộ phận được chế lại: ví dụ ghế dựa từ trục bánh xe, hoặc bàn làm từ bánh xe - đều trở thành món đồ độc, mang nét cổ xưa.
 
-Những người yêu xe ngày nay còn dùng xe thổ mộ như biểu tượng văn hóa — xuất hiện trong phim, chương trình truyền hình, hoặc các hoạt động bảo tồn.
+Những người yêu xe ngày nay còn dùng xe thổ mộ như biểu tượng văn hóa - xuất hiện trong phim, chương trình truyền hình, hoặc các hoạt động bảo tồn.
 
 Vai Trò Trong Văn Hóa Nam Bộ
 
 Xe thổ mộ không chỉ là phương tiện - nó là biểu tượng văn hóa. Trong âm nhạc, có ca khúc “Chiếc xe thổ mộ” nói đến nỗi nhớ, nhớ về quá khứ, về miền Nam xưa. Trong văn học, chuyện “chiếc xe thổ mộ” cũng xuất hiện như hình ảnh gợi buồn, gợi kỷ niệm.
 
-Chiếc xe này gợi nhớ một thời Nam Bộ mộc mạc, hiền hòa, khi cuộc sống còn chậm, khi người ta vẫn sử dụng ngựa kéo để vừa di chuyển, vừa trao đổi hàng hóa - một phần ký ức mà mỗi người Sài Gòn – Gia Định xưa đều quen thuộc.
+Chiếc xe này gợi nhớ một thời Nam Bộ mộc mạc, hiền hòa, khi cuộc sống còn chậm, khi người ta vẫn sử dụng ngựa kéo để vừa di chuyển, vừa trao đổi hàng hóa - một phần ký ức mà mỗi người Sài Gòn - Gia Định xưa đều quen thuộc.
