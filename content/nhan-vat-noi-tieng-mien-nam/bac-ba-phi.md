@@ -44,7 +44,6 @@ Khu lưu niệm “Nghệ nhân dân gian Nguyễn Long Phi (Bác Ba Phi)” n�
 
 
 Ông được truy tặng danh hiệu “Nghệ nhân dân gian” và nhận Huy chương “Vì sự nghiệp văn nghệ dân gian” vào năm 2003. 
-Báo Kinh Tế Đô Thị
 
 Năm 2015, khu lưu niệm được công nhận là Di tích lịch sử - văn hóa cấp tỉnh tại Cà Mau. 
 
@@ -59,4 +58,4 @@ Việc bảo tồn và phát huy “truyện kể Bác Ba Phi” là cách giữ
 
 ## 6. Kết luận
 
-Bác Ba Phi - Nguyễn Long Phi - không chỉ là nhân vật “kể chuyện” mà là nhân vật “ký ức sống” của miền Nam. Sống giữa rừng U Minh, lao động khai hoang, kể chuyện và truyền cảm hứng; rồi được lưu truyền thành văn hóa. Khi viết cho website về Nam Kỳ xưa của ông thì nhân vật này sẽ làm nổi bật đời sống nông dân Nam Bộ, văn hóa truyền miệng, tinh thần mở đất và kể chuyện - chủ đề rất phù hợp.
+Bác Ba Phi - Nguyễn Long Phi - không chỉ là nhân vật “kể chuyện” mà là nhân vật “ký ức sống” của miền Nam. Sống giữa rừng U Minh, lao động khai hoang, kể chuyện và truyền cảm hứng; rồi được lưu truyền thành văn hóa.

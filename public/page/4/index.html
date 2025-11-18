@@ -171,6 +171,29 @@
 
     <article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
+	<a class="insert-link" href="http://localhost:1313/mon-ngon-mien-tay/goi-ga-bong-phuong/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl">
+		    
+			<img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" 
+			     src="https://media.namkyxua.com/images/goi-ga-hoa-phuong3.jpg" 
+			     alt="Gỏi Gà Bông Phượng" 
+			     style="width: 100%; height: 100%; object-fit: cover;">
+
+	  </figure>
+
+	<div class="p-6">
+
+		<time datetime="2025-09-04T00:01:16&#43;07:00">04/09/2025</time>
+
+		<h3 class="my-4 text-2xl font-bold">Gỏi Gà Bông Phượng</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi bông phượng nở rộ ở khắp nơi.</p>
+
+	</div>
+</article>
+<article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+	
 	<a class="insert-link" href="http://localhost:1313/mon-ngon-mien-tay/chuot-dong-mien-tay/"></a>
 
 	<figure class="w-full aspect-video overflow-hidden rounded-3xl">
@@ -292,57 +315,7 @@
     
   </div>
 
-  <div class="my-8">
-    <ul class="flex items-center space-x-4">
-      
-        <li><a class="decoration-auto hover:underline font-semibold" href="/">Trang chủ</a></li>
-      
-        <li><a class="decoration-auto hover:underline font-semibold" href="/cuoc-song/">Cuộc sống người Miền Nam xưa</a></li>
-      
-        <li><a class="decoration-auto hover:underline font-semibold" href="/mon-ngon-mien-tay/">Món ngon Miền Tây</a></li>
-      
-        <li><a class="decoration-auto hover:underline font-semibold" href="/nhan-vat-noi-tieng-mien-nam/">Nhân Vật Nổi Tiếng Miền Nam</a></li>
-      
-    </ul>
-  </div>
-
-  <div class="border-t pt-4">
-
-    <p class="text-sm">Copyright © 2025. All rights reserved. <a href="https://namkyxua.com/" target="_blank" rel="noopener">www.namkyxua.com</a> 0.152.2</p>
-
-  </div>
   
-  <audio id="nhacnen" autoplay loop>
-  <source src="/musics/jinglebell.aac" type="audio/mpeg">
-</audio>
-
-<script>
-  
-  document.addEventListener('click', () => {
-    const audio = document.getElementById('nhacnen');
-    audio.muted = false;
-    audio.play();
-  }, { once: true });
-</script>
-<button id="nutnhac" style="position:fixed;bottom:10px;right:10px;z-index:999;border-radius:30px;color:white;font-weight:600;background:red;padding:10px;">Tắt nhạc</button>
-
-<script>
-const audio = document.getElementById('nhacnen');
-const nut = document.getElementById('nutnhac');
-const vol = document.getElementById('nhacnen');
-vol.volume = 0.25;
-nut.addEventListener('click', () => {
-  if (audio.paused) {
-    audio.play();
-    nut.textContent = 'Tắt nhạc';
-  } else {
-    audio.pause();
-    nut.textContent = 'Bật nhạc';
-  }
-});
-</script>
-
-</div>
   
 </footer>
       <script src="/js/insertoggle.js"></script>

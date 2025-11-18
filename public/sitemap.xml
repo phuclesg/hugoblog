@@ -2,6 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/keywords/gon/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/hoai/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/ky/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ky_uc_sai_gon_mien_nam_xua/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/mien/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/mo/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/nam/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/niem/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/sai/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/tho/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/uc/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xe/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/xe-tho-mo-ky-uc-mot-thoi-mien-nam-xua/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/xe_tho_mo/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xua/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/keywords/xua/</loc>
+    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh/</loc>
     <lastmod>2025-11-13T15:13:20+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,11 +112,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2025-11-13T15:13:20+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,11 +123,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/nhan-vat-noi-tieng-mien-nam/</loc>
-    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-13T15:13:20+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -73,11 +158,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/keywords/hinh/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/keywords/</loc>
     <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,11 +232,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/keywords/nam/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/keywords/quan/</loc>
     <lastmod>2025-10-26T20:08:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -173,16 +248,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/keywords/van/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/keywords/xua/</loc>
-    <lastmod>2025-10-26T20:08:10+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/keywords/xua/</loc>
     <lastmod>2025-10-26T20:08:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
