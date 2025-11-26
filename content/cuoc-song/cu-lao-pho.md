@@ -17,9 +17,9 @@ Nếu Sài Gòn (Chợ Lớn) được mệnh danh là “Hòn ngọc Viễn Đ�
 # 1. Vị Trí Địa Lý: Hòn Đảo Chiến Lược Giữa Lòng Sông
 Cù lao Phố, ngày nay thuộc phường Hiệp Hòa, thành phố Biên Hòa, tỉnh Đồng Nai, là một dải đất sa bồi được bao bọc trọn vẹn bởi hai nhánh sông Đồng Nai.
 {{< figure src="/images/cu-lao-pho-2.webp" alt="Cù Lao Phố - thương cảng đồng nai xưa" caption="Cù Lao Phố - Thương Cảng Đồng Nai Xưa" class="center" >}}
-Đặc điểm: Tuy nằm sâu trong đất liền, nơi đây lại có sông sâu, nước chảy, cực kỳ thuận lợi cho tàu thuyền lớn ra vào, kết nối giao thương cả đường thủy lẫn đường bộ. Từ đây, thuyền bè có thể ngược lên phía Bắc khai thác lâm thổ sản hoặc xuôi về phía Nam ra biển Cần Giờ và sang tận Cao Miên (Campuchia).
+* Đặc điểm: Tuy nằm sâu trong đất liền, nơi đây lại có sông sâu, nước chảy, cực kỳ thuận lợi cho tàu thuyền lớn ra vào, kết nối giao thương cả đường thủy lẫn đường bộ. Từ đây, thuyền bè có thể ngược lên phía Bắc khai thác lâm thổ sản hoặc xuôi về phía Nam ra biển Cần Giờ và sang tận Cao Miên (Campuchia).
 
-Tên gọi lịch sử: Cù lao Phố còn được biết đến với nhiều cái tên khác nhau trong lịch sử như Đông Phố, Giản Phố, Cù Châu, hay mỹ danh Nông Nại Đại Phố (chợ lớn của xứ Đồng Nai).
+* Tên gọi lịch sử: Cù lao Phố còn được biết đến với nhiều cái tên khác nhau trong lịch sử như Đông Phố, Giản Phố, Cù Châu, hay mỹ danh Nông Nại Đại Phố (chợ lớn của xứ Đồng Nai).
 
 # 2. Sự Ra Đời Và Thời Kỳ Vàng Son Nhờ Vị Tổng Binh Người Hoa
 Lịch sử phồn thịnh của Cù lao Phố gắn liền với một nhân vật kiệt xuất: Trần Thượng Xuyên (tự Trần Thắng Tài, 1626–1720).
@@ -27,9 +27,9 @@ Lịch sử phồn thịnh của Cù lao Phố gắn liền với một nhân v�
 Vốn là Tổng binh ba châu Cao-Lôi-Liêm dưới triều Minh (Trung Quốc), ông cùng hơn 3.000 thuộc hạ đã không chịu thần phục nhà Thanh. Năm 1679, họ sang thần phục chúa Nguyễn Phúc Tần và được cho phép cư trú, khai khẩn vùng đất hoang sơ ở xứ Đồng Nai.
 Thương cảng quốc tế rực rỡ:
 
-Với biệt tài tổ chức và kinh nghiệm giao thương, Trần Thượng Xuyên đã biến Cù lao Phố thành một thương cảng sầm uất chỉ trong thời gian ngắn. Nơi đây trở thành trung tâm thương mại và giao dịch quốc tế lớn nhất của cả vùng Gia Định (tức Nam Bộ ngày nay).
+Với biệt tài tổ chức và kinh nghiệm giao thương, Trần Thượng Xuyên đã biến Cù lao Phố thành một thương cảng sầm uất chỉ trong thời gian ngắn. **Nơi đây trở thành trung tâm thương mại và giao dịch quốc tế lớn nhất của cả vùng Gia Định (tức Nam Bộ ngày nay).**
 
-Đại đô hội: Sách Đại Nam nhất thống chí mô tả sự huy hoàng: "Xây dựng đường phố, lầu quá đôi từng rực rỡ trên bờ sông, liền lạc năm dặm...".
+* Đại đô hội: Sách Đại Nam nhất thống chí mô tả sự huy hoàng: "Xây dựng đường phố, lầu quá đôi từng rực rỡ trên bờ sông, liền lạc năm dặm...".
 
 * Phân loại đường phố: Trần Thượng Xuyên phân chia đường phố thành ba nhai lộ rõ ràng:
 
@@ -39,9 +39,9 @@ Với biệt tài tổ chức và kinh nghiệm giao thương, Trần Thượng 
 
     * Nhai nhỏ lót đá xanh.
 
-Hoạt động thương mại: Cảnh mua bán được Trịnh Hoài Đức ghi lại là vô cùng tấp nập. "Tàu biển, ghe sông đến đậu chen lấn nhau", các thuyền ngoại quốc đến đây bỏ neo, mướn nhà ở, giao dịch nhanh chóng và thuận tiện đến mức khách chỉ việc "đàn hát vui chơi, đã có nước ngọt đầy đủ".
+* Hoạt động thương mại: Cảnh mua bán được Trịnh Hoài Đức ghi lại là vô cùng tấp nập. "Tàu biển, ghe sông đến đậu chen lấn nhau", các thuyền ngoại quốc đến đây bỏ neo, mướn nhà ở, giao dịch nhanh chóng và thuận tiện đến mức khách chỉ việc "đàn hát vui chơi, đã có nước ngọt đầy đủ".
 
-Thủ công nghiệp: Sự phát đạt của thương nghiệp kéo theo nhiều ngành nghề thủ công khác như dệt chiếu, tơ lụa, gốm sứ, đúc đồng, nấu đường, làm bột, đồ gỗ và đóng thuyền phát triển rầm rộ.
+* Thủ công nghiệp: Sự phát đạt của thương nghiệp kéo theo nhiều ngành nghề thủ công khác như dệt chiếu, tơ lụa, gốm sứ, đúc đồng, nấu đường, làm bột, đồ gỗ và đóng thuyền phát triển rầm rộ.
 
 # 3. Bóng Đen Suy Tàn: Chợ Lớn Lên Ngôi
 Sau 97 năm thịnh vượng (1679–1776), Cù lao Phố dần đánh mất vị thế trung tâm thương mại vì hai biến cố lớn:
