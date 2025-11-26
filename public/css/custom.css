@@ -12,3 +12,10 @@ figure.center {
 .gray img {
   filter: grayscale(100%);
 }
+div#content h1 {
+  font-size: 1.8em !important;
+  line-height: 1.2em;
+}
+div#content {
+  margin-top: 1em;
+}
