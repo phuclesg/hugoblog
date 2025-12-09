@@ -28,7 +28,7 @@ Miếu Bà Chúa Xứ Núi Sam nằm dưới chân Núi Sam thuộc phường V�
 
     - Các năm 1965, 1972 và 1976 tiếp tục mở rộng và xây dựng để có diện mạo như ngày nay.
 
-* Đến năm 2009, Miếu Bà Chúa Xứ được ghi nhận là một trong những ngôi miếu lớn nhất Việt Nam.
+    - Đến năm 2009, Miếu Bà Chúa Xứ được ghi nhận là một trong những ngôi miếu lớn nhất Việt Nam.
 
 # Kiến trúc của Miếu
 
