@@ -2,12 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/cu-lao-pho-thuong-cang-dau-tien-cua-dong-nai-xua/</loc>
-    <lastmod>2025-11-26T12:05:26+07:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/cuoc-song/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/cuoc-song/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/mieu-ba-chua-xu-nui-sam-an-giang/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/mieu-ba-chua-xu-an-giang/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-09T13:21:47+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/cu-lao-pho-thuong-cang-dau-tien-cua-dong-nai-xua/</loc>
     <lastmod>2025-11-26T12:05:26+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -62,11 +92,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-17T15:15:42+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/keywords/tho/</loc>
     <lastmod>2025-11-17T15:15:42+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -112,11 +137,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-13T15:13:20+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2025-11-13T15:13:20+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -143,16 +163,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/cho-ben-thanh-bieu-tuong-sai-gon-xua/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/cuoc-song/</loc>
-    <lastmod>2025-11-07T17:37:28+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/cuoc-song/</loc>
     <lastmod>2025-11-07T17:37:28+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
