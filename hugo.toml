@@ -72,7 +72,8 @@ removePathAccents = true
     category = 'categories'
     tag = 'tags'
     keyword = 'keywords'
+[outputs]
+home = ["HTML", "JSON"]
 
-    
 
 
