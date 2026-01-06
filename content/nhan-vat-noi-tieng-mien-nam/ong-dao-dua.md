@@ -6,6 +6,7 @@ slug = 'dao-dua-ton-giao-doc-dao-o-nam-bo'
 categories = 'nhan-vat-noi-tieng-mien-nam'
 description = 'Đạo Dừa là một tôn giáo được sáng lập tại miền Nam Việt Nam, mang phong cách độc đáo và giàu tính biểu tượng - một phần thú vị trong lịch sử văn hóa tâm linh của xứ Nam Bộ'
 tags = ['Đạo-dừa-miền-nam','Nam-kỳ-xưa']
+image = '/images/dao-dua.webp'
 +++
 Đạo Dừa là một tôn giáo được sáng lập tại miền Nam Việt Nam, mang phong cách độc đáo và giàu tính biểu tượng - một phần thú vị trong lịch sử văn hóa tâm linh của xứ Nam Bộ. Tôn giáo này được biết đến với cái tên “Hòa Đồng Tôn Giáo”, do Nguyễn Thành Nam, tức Ông Đạo Dừa, sáng lập tại Bến Tre vào giữa thế kỷ 20. 
 {{< figure src="/images/dao-dua.webp" alt="Đạo dừa tôn giáo độ đáo ở miền nam" caption="Đạo dừa - Tôn giáo độc đáo ở miền Nam" class="center" >}}
