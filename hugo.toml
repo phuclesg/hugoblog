@@ -60,7 +60,7 @@ removePathAccents = true
     id = 'G-BBNTN7HEBR'   
 [permalinks]
     mon-ngon-mien-tay = '/mon-ngon-mien-tay/:slug/'
-    nhan-vat-noi-tieng-mien-nam = '/nhan-vat-noi-tieng-mien-nam/:slug/'
+    nhan-vat = '/nhan-vat/:slug/'
     cuoc-song = '/cuoc-song-nguoi-nam-ky/:slug'
     tag = '/tags/:slug/'
 [menus]

@@ -6,7 +6,7 @@ description = 'Đỗ Hữu Phương (1841–1914), thường được gọi là 
 author = 'Phúc Mập'
 slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
 tags = ['Tứ-đại-phú-hộ-nam-kỳ-xưa']
-categories = ['nhan-vat-noi-tieng-mien-nam']
+categories = ['nhan-vat']
 comment = true
 image = 'images/do-doc-phuong.webp'
 +++

@@ -5,7 +5,7 @@ title = 'Nguyễn Hữu Cảnh'
 author = 'Phúc Mập'
 slug = 'nguyen-huu-canh'
 description = 'Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa.'
-categories = ['nhan-vat-noi-tieng-mien-nam']
+categories = ['nhan-vat']
 image = '/images/nguyen-huu-canh.jpg'
 +++
 

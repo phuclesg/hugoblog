@@ -4,7 +4,7 @@ draft = false
 title = 'Bùi Giáng - Kẻ điên hay bậc kỳ tài'
 slug = 'bui-giang-ke-dien-hay-bac-ky-tai'
 decsription = 'Bùi Giáng sinh ngày 17-12-1926, quê tại làng Thanh Châu, xã Vĩnh Trinh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông sinh ra trong một gia đình nông dân trung lưu, sớm tiếp xúc với chữ Hán và văn hóa truyền thống.'
-categories = 'nhan-vat-noi-tieng-mien-nam'
+categories = 'nhan-vat'
 tags = ['Thi-sĩ-Bùi-Giáng']
 image = '/images/bui-giang.webp'
 +++

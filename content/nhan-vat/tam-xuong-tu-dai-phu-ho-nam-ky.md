@@ -2,7 +2,7 @@
 date = '2025-10-09T14:49:59+07:00'
 draft = false
 title = 'Tam Xường - Tứ đại phú hộ Nam Kỳ xưa'
-categories = ['nhan-vat-noi-tieng-mien-nam']
+categories = ['nhan-vat']
 tags = ['Tứ-đại-phú-hộ-nam-kỳ-xưa']
 slug = 'tam-xuong-tu-dai-phu-ho-nam-ky-xua'
 description = 'Bá Hộ Xường – Phú hộ Nam Kỳ và Những Dấu Ấn Lịch Sử Còn Lại'
