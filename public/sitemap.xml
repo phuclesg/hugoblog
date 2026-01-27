@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/bui-giang-ke-%C4%91ien-hay-bac-ky-tai/</loc>
+    <lastmod>2026-01-27T19:19:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-27T19:19:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/</loc>
+    <lastmod>2026-01-27T19:19:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-01-06T16:07:26+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,22 +32,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-06T16:07:26+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/nam-ky-xua/</loc>
     <lastmod>2026-01-06T16:07:26+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</loc>
-    <lastmod>2026-01-06T16:07:26+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/nhan-vat-noi-tieng-mien-nam/</loc>
     <lastmod>2026-01-06T16:07:26+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
