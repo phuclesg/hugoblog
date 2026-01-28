@@ -1,6 +1,6 @@
 +++
 title = 'Nhân Vật'
-slug = 'nhan-vat-noi-tieng-mien-nam'
+slug = 'nhan-vat'
 draft = false
 menus = 'main'
 +++
