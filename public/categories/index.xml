@@ -8,27 +8,20 @@
     <language>vi-vietnam</language>
     <managingEditor>Lhp0988@gmail.com (Phúc Mập)</managingEditor>
     <webMaster>Lhp0988@gmail.com (Phúc Mập)</webMaster>
-    <lastBuildDate>Tue, 27 Jan 2026 19:19:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 18:01:51 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuoc-Song</title>
+      <link>http://localhost:1313/categories/cuoc-song/</link>
+      <pubDate>Thu, 05 Feb 2026 18:01:51 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
+      <guid>http://localhost:1313/categories/cuoc-song/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Nhan-Vat</title>
       <link>http://localhost:1313/categories/nhan-vat/</link>
       <pubDate>Tue, 27 Jan 2026 19:19:42 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
       <guid>http://localhost:1313/categories/nhan-vat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nhan-Vat-Noi-Tieng-Mien-Nam</title>
-      <link>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</link>
-      <pubDate>Tue, 06 Jan 2026 16:07:26 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>http://localhost:1313/categories/nhan-vat-noi-tieng-mien-nam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cuoc-Song</title>
-      <link>http://localhost:1313/categories/cuoc-song/</link>
-      <pubDate>Tue, 09 Dec 2025 13:21:47 +0700</pubDate><author>Lhp0988@gmail.com (Phúc Mập)</author>
-      <guid>http://localhost:1313/categories/cuoc-song/</guid>
       <description></description>
     </item>
     <item>
