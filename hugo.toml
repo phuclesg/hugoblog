@@ -28,7 +28,6 @@ removePathAccents = true
     x = 'p__lux'
     logos = '/images/logo.png'
     mediaBaseURL = 'https://media.namkyxua.com'
-
 [related]
   includeNewer = true
   threshold = 20

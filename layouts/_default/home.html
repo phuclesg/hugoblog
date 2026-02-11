@@ -82,6 +82,28 @@
     {{ end }}
 
     </div>
+    {{ range site.Params.homeBlocks }}
+  {{ $pages := where site.RegularPages "Section" .section | first .limit }}
+
+  {{ if gt (len $pages) 0 }}
+  <section class="home-block">
+    <h2 class="block-title">{{ .title }}</h2>
+
+    <div class="post-grid">
+      {{ range $pages }}
+        <article class="post-card">
+          <a href="{{ .Permalink }}">
+            <h3>{{ .Title }}</h3>
+            <p>{{ .Date.Format "02-01-2006" }}</p>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+
+    <a class="view-more" href="/{{ .section }}/">Xem thêm →</a>
+  </section>
+  {{ end }}
+{{ end }}
 
     <!-- Paginate here -->
 
