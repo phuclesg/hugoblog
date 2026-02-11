@@ -1,7 +1,7 @@
 baseURL = 'https://namkyxua.com/'
 languageCode = 'vi-vietnam'
 title = 'Nam Kỳ Xưa'
-theme = 'pehtheme-hugo-main'
+theme = 'newsroom'
 defaultContentLanguage = "vi"
 removePathAccents = true
 [sitemap]
@@ -61,6 +61,7 @@ removePathAccents = true
     mon-ngon-mien-tay = '/mon-ngon-mien-tay/:slug/'
     nhan-vat = '/nhan-vat/:slug/'
     cuoc-song = '/cuoc-song-nguoi-nam-ky/:slug'
+    hinh-anh = '/hinh-anh-nam-ky-xua/:slug'
     tag = '/tags/:slug/'
 [menus]
     [[menus.main]]
