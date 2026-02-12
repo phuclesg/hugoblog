@@ -31,5 +31,4 @@ div#backtop button.hidden {
 }
 div#backtop button.visible {
   opacity: 1;
-  transition: all ease-in 1s;
 }

@@ -69,7 +69,7 @@
       </script>
 </head>
 <body>
-  <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+  <header name="top" class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
 	<div class="flex items-center">
 		<div class="flex items-center">
 			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
@@ -480,10 +480,32 @@ fetch("/index.json")
   
 </footer>
       <script src="/js/insertoggle.js"></script>
-  <div class="backtop">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-18">
+  <div class="button-btt">
+    <button id="backtop" class="hidden"><svg xmlns="http://www.w3.org/2000/svg" width="60" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="size-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="m15 11.25-3-3m0 0-3 3m3-3v7.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-</svg>
+</svg></button>
+<script>
+  const backToTopButton = document.getElementById('backtop');
+
+  
+  window.addEventListener('scroll', () => {
+    if (window.pageYOffset > 300) { 
+      backToTopButton.classList.remove('hidden');
+      backToTopButton.classList.add('visible');
+    } else {
+      backToTopButton.classList.remove('visible');
+      backToTopButton.classList.add('hidden');
+    }
+  });
+
+  
+  backToTopButton.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth' 
+    });
+  });
+</script>
   </div>
 </body>
 </html>
