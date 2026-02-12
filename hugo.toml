@@ -16,7 +16,7 @@ removePathAccents = true
     languageName = 'vietnames'
     weight = 1
 [pagination]
-    pagerSize = 6
+    pagerSize = 3
 [params]
     selfHosted = true
     mainSections = ["mon-ngon-mien-tay",'nhan-vat','cuoc-song']
