@@ -35,3 +35,6 @@ div#backtop button.hidden {
 div#backtop button.visible {
   opacity: 1;
 }
+.bg-viewall {
+  background-color: #ffb341;
+}
