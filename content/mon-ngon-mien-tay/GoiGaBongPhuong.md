@@ -12,7 +12,7 @@ comments = true
 image = '/images/goi-ga-hoa-phuong3.jpg'
 +++
 Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi bông phượng nở rộ ở khắp nơi. Trong bài viết này, hãy cùng mình tìm hiểu cách thực hiện gỏi gà bông phượng để chiêu đãi cả nhà nhé.
-## Nguyên liệu làm gỏi gà hoa phượng
+## Nguyên liệu làm gỏi gà bông phượng
 
 ### Nguyên liệu chính (cho 3 người ăn)
 
@@ -20,7 +20,7 @@ Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Vi�
 
 - Gà 1 con
 - Thân chuối non 1 cây
-- Hoa phượng 5 nhánh
+- Bông phượng 5 nhánh
 - Ớt đỏ 3 trái
 - Hành tím 5 củ
 - Chanh 1 trái
