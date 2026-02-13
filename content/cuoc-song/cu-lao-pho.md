@@ -4,7 +4,7 @@ draft = false
 title = 'Cù Lao Phố - Thương cảng đầu tiên của Đồng Nai xưa'
 slug = 'cu-lao-pho-thuong-cang-dau-tien-của-dong-nai-xua'
 description = 'Cù lao Phố không chỉ là một dải đất nhỏ bé giữa lòng sông Đồng Nai; nó là chứng nhân của một thời kỳ khai mở vĩ đại'
-categories = 'cuoc-song'
+categories = ['cuoc-song']
 author = 'Mập'
 image = '/images/cu-lao-pho.webp'
 +++

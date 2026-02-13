@@ -6,7 +6,7 @@ description = 'Miền Tây, vùng đất của những cánh đồng lúa bát n
 slug = 'chuot-dong-mien-tay'
 author = 'Phúc Mập'
 comments = true
-categories = ["mon-ngon-mien-tay"]
+categories = ['mon-ngon-mien-tay']
 image = '/images/chuot-dong-nuong2.jpg'
 +++
 
