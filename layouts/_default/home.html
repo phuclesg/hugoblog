@@ -3,7 +3,7 @@
 <!-- Feature post by tag = "feature" -->
  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
   {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 4 -}}
-  <section class="relative group p-6 lg:p-10 mt-10 bg-zinc-100 rounded-3xl hover:bg-blue-100">
+  <section class="relative group p-6 lg:p-10  mt-10 bg-zinc-100 rounded-3xl hover:bg-blue-100">
     <figure class="w-full aspect-video overflow-hidden rounded-2xl border">
 
       {{- if .Params.image }}
@@ -111,10 +111,10 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-      {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
-        {{ range $pages.ByDate.Reverse | first 3 }}
-        {{- partial "content/card" . -}}
-      {{ end }}
+  {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
+    {{ range $pages.ByDate.Reverse | first 3 }}
+    {{- partial "content/card" . -}}
+  {{ end }}
 
     </div>
 
@@ -133,9 +133,10 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-      {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
-        {{ range $pages.ByDate.Reverse | first 3 }}
-        {{- partial "content/card" . -}}
+    {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+
+      {{- partial "content/card" . -}}
+
     {{ end }}
 
     </div>
@@ -156,9 +157,10 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
-    {{ range $pages.ByDate.Reverse | first 3 }}
+    {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+
       {{- partial "content/card" . -}}
+
     {{ end }}
 
     </div>
