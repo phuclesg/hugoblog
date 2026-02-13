@@ -26,6 +26,8 @@ div.button-btt > button {
   right: 30px;
   bottom: 20px;
   z-index: 999;
+  color: #fff;
+  background-color: rgb(255, 179, 65);
 }
 div#backtop button.hidden {
   opacity: 0;
