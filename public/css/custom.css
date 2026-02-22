@@ -56,3 +56,15 @@ div#backtop button.visible {
   font-family:'Courier New', Courier, monospace;
   font-weight: 500;
 }
+
+
+/* responsive */
+
+@media (max-width: 768px) {
+  .title-site h1 {
+    font-size: 2rem;
+  }
+  .title-site p {
+    font-size: 1rem;
+  }
+}
