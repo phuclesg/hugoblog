@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-05T18:01:51+07:00</lastmod>
+    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/cuoc-song/</loc>
-    <lastmod>2026-02-05T18:01:51+07:00</lastmod>
+    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/</loc>
+    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/ho-con-rua/</loc>
-    <lastmod>2026-02-05T18:01:51+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-05T18:01:51+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

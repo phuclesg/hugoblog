@@ -1,8 +1,9 @@
 {{ define "main" }}
 
 <!-- Feature post by tag = "feature" -->
- <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-10">
-  {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 4 -}}
+ <h1 style="color:black;font-size:2rem;font-weight: 600;margin: 1rem 1rem;">Bài viết mới</h1>
+ <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-3">
+  {{- range where .Site.RegularPages "Type" "in" site.Params.mainSections | first 4 -}}
   <section class="relative group p-6 lg:p-10  mb-5 bg-zinc-100 rounded-3xl hover:bg-blue-100">
     <figure class="w-full aspect-video overflow-hidden rounded-2xl border">
 
