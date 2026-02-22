@@ -38,3 +38,21 @@ div#backtop button.visible {
 .bg-viewall {
   background-color: #ffb341;
 }
+.title-site {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 3rem 3rem;
+}
+.title-site h1 {
+  font-size: 4rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  margin: 0 0 1rem;
+}
+.title-site p {
+  font-size: 1.5rem;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 500;
+}
