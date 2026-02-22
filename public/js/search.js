@@ -5,7 +5,7 @@ async function initSearch() {
   const idx = lunr(function () {
     this.ref("permalink");
     this.field("title");
-    this.field("contents");
+    this.field("content");
 
     data.forEach(doc => this.add(doc));
   });
