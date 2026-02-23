@@ -111,13 +111,13 @@
       <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/">Trang chủ</a>
     </li>
     <li class="my-2">
-      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/categories/cuoc-song/">Cuộc sống</a>
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/cuoc-song/">Cuộc sống</a>
     </li>
     <li class="my-2">
-      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/categories/mon-ngon-mien-tay/">Món ngon</a>
+      <a aria-current="true" class="ancestor" href="/mon-ngon-mien-tay/">Món ngon</a>
     </li>
     <li class="my-2">
-      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/categories/nhan-vat/">Nhân Vật</a>
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/nhan-vat/">Nhân vật</a>
     </li>
     </ul>
   </nav>
@@ -173,7 +173,7 @@ fetch("/index.json")
 			<a href="http://localhost:1313/">Nam Kỳ Xưa</a>
 		</li>
 		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
-			<a href="http://localhost:1313/mon-ngon-mien-tay/">Mon-Ngon-Mien-Tays</a>
+			<a href="http://localhost:1313/mon-ngon-mien-tay/">Món ngon</a>
 		</li>
 	</ul>
 </div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
@@ -310,12 +310,6 @@ Thành phẩm</p>
 
 <p>Thêm rau thơm như ngò gai, húng quế hoặc rau răm để tạo thêm hương vị và màu sắc, sau đó bày món gỏi gà hoa phượng lên đĩa là đã hoàn thành. Đừng quên nêm nếm, điều chỉnh gia vị theo khẩu vị riêng của mình để đảm bảo món ăn ngon và đúng vị theo sở thích nhất bạn nhé!</p>
 
-
-    <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
-
-      <li class="font-semibold my-4">Tags:</li>
-        <li ><a class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300" href="/tags/mon-goi/">Món-Gỏi</a></li>
-    </ul>
 </div>
 
     <footer id="content-footer" class="not-prose">
@@ -402,9 +396,7 @@ Thành phẩm</p>
 	<div class="p-6">
 		<div class="flex">
 			<h3 style="margin-right: 0.5rem;border: 1px solid;border-radius: 1.5rem;padding: 0 1rem;">
-				
 				Món ngon
-				
 			</h3>
 
 			<time datetime="2025-09-17T08:16:34&#43;00:00">17/09/2025</time>
@@ -431,9 +423,7 @@ Thành phẩm</p>
 	<div class="p-6">
 		<div class="flex">
 			<h3 style="margin-right: 0.5rem;border: 1px solid;border-radius: 1.5rem;padding: 0 1rem;">
-				
 				Món ngon
-				
 			</h3>
 
 			<time datetime="2025-09-03T12:12:19&#43;00:00">03/09/2025</time>
@@ -521,9 +511,9 @@ Thành phẩm</p>
 </main>
   <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
 
-  <div class="flex flex-wrap space-y-6 mb-4">
+  <div class="grid grid-cols-1 md:grid-cols-3 space-y-6 mb-4">
 
-    <div class="w-full md:w-2/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+    <div class="w-full space-y-4 md:pr-8 lg:pr-10">
 
       <a class="flex items-center group" href="http://localhost:1313/">
         <svg width="20" viewBox="0 0 1024 1024" class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier">
@@ -550,9 +540,9 @@ Thành phẩm</p>
 
     </div>
 
-    <div class="self-center flex flex-col w-full md:w-2/5">
+    <div class="self-center">
 
-<ul id="social-media" class="flex items-center space-x-4">
+      <ul id="social-media" class="flex items-center space-x-4">
 	<li>
 		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/phucsg.lhp" target="_blank" rel="noopener noreferrer">
 			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
@@ -578,6 +568,48 @@ Thành phẩm</p>
 </ul>
 
     </div>
+    <div class="resenpost">
+      <section class="max-w-md mx-auto mt-16 mb-24">
+        <h3 class="text-xl uppercase text-gray-400 mb-4">Recent Posts</h3>
+
+        <ul class="space-y-3">
+          
+          <li class="flex gap-3 items-center">
+            <a href="/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/">
+            
+              <img src="https://media.namkyxua.com/images/lai-thieu.webp" class="w-12 h-12 object-cover rounded-md shrink-0 my-4 mr-2">
+            
+             </a>
+            <a href="/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/" class="text-sm hover:underline">
+              Lái Thiêu - &#34;Vùng đất trái ngọt Gốm xưa&#34;
+            </a>
+          </li>
+          
+          <li class="flex gap-3 items-center">
+            <a href="/cuoc-song-nguoi-nam-ky/ho-con-rua-mot-goc-sai-gon-xua-giua-vong-xoay-thoi-gian/">
+            
+              <img src="https://media.namkyxua.com/images/ho-con-rua-v2.jpg" class="w-12 h-12 object-cover rounded-md shrink-0 my-4 mr-2">
+            
+             </a>
+            <a href="/cuoc-song-nguoi-nam-ky/ho-con-rua-mot-goc-sai-gon-xua-giua-vong-xoay-thoi-gian/" class="text-sm hover:underline">
+              Hồ Con Rùa - Một góc Sài Gòn xưa giữa vòng xoay thời gian
+            </a>
+          </li>
+          
+          <li class="flex gap-3 items-center">
+            <a href="/nhan-vat/bui-giang-ke-dien-hay-bac-ky-tai/">
+            
+              <img src="https://media.namkyxua.com/images/bui-giang.webp" class="w-12 h-12 object-cover rounded-md shrink-0 my-4 mr-2">
+            
+             </a>
+            <a href="/nhan-vat/bui-giang-ke-dien-hay-bac-ky-tai/" class="text-sm hover:underline">
+              Bùi Giáng - Kẻ điên hay bậc kỳ tài
+            </a>
+          </li>
+          
+        </ul>
+      </section>
+    </div>
     
   </div>
 
@@ -586,11 +618,11 @@ Thành phẩm</p>
       
         <li><a class="decoration-auto hover:underline font-semibold" href="/">Trang chủ</a></li>
       
-        <li><a class="decoration-auto hover:underline font-semibold" href="/categories/cuoc-song/">Cuộc sống</a></li>
+        <li><a class="decoration-auto hover:underline font-semibold" href="/cuoc-song/">Cuộc sống</a></li>
       
-        <li><a class="decoration-auto hover:underline font-semibold" href="/categories/mon-ngon-mien-tay/">Món ngon</a></li>
+        <li><a class="decoration-auto hover:underline font-semibold" href="/mon-ngon-mien-tay/">Món ngon</a></li>
       
-        <li><a class="decoration-auto hover:underline font-semibold" href="/categories/nhan-vat/">Nhân Vật</a></li>
+        <li><a class="decoration-auto hover:underline font-semibold" href="/nhan-vat/">Nhân vật</a></li>
       
     </ul>
   </div>
