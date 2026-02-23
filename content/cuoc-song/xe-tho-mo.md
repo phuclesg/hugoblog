@@ -5,7 +5,6 @@ title = 'Xe thổ mộ - ký ức một thời Miền Nam xưa'
 slug = 'xe-tho-mo-ky-uc-mot-thoi-mien-nam-xua'
 catgories = ['cuoc-song']
 description = 'Xe thổ mộ là phương tiện ngựa kéo rất đặc trưng của Sài Gòn – Gia Định vào những năm đầu thế kỷ XIX'
-tags = ['Xe_thổ_mộ','Ký_ức_Sài_Gòn_Miền_Nam_xưa']
 keywords = 'xe thổ mộ, ký ức Sài Gòn, miền nam xưa, hoài niệm miền nam xưa'
 image = '/images/xe-tho-mo-2.webp'
 +++

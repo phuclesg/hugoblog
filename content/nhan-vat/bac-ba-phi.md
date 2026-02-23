@@ -5,7 +5,6 @@ title = 'Bác Ba Phi - Hình tượng dân gian Nam Bộ với những câu chuy
 slug = 'bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh'
 categories = ['nhan-vat']
 description = 'Bác Ba Phi là một nhân vật dân gian nổi tiếng của vùng Cà Mau – Nam Bộ, được người dân truyền miệng qua nhiều thế hệ với những câu chuyện tiếu lâm phóng đại, hài hước,dân giã'
-tags = ['Bác_ba_phi','Nhân-vật-nổi-tiếng-miền-nam']
 author = 'Phúc Mập'
 image = '/images/bac-ba-phi.webp'
 +++

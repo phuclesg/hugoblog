@@ -6,7 +6,6 @@ description = 'Giữa nhịp sống hiện đại của Sài Gòn hôm nay, gi�
 keywords = "chợ bến thành, lịch sử hình thành chợ bến thành, chợ bến thành được xây năm nào"
 slug = 'cho-ben-thanh-bieu-tuong-sai-gon-xua'
 categories = ['cuoc-song']
-tags = ['Cuộc sống']
 author = 'Phúc Mập'
 image = '/images/cho-ben-thanh.webp'
 

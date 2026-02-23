@@ -7,7 +7,6 @@ catagories = ['mon-ngon-mien-tay']
 description = 'Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh'
 keywords = ['bún bò chóc', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng, Trà Vinh']
 summary = 'Món bún bò chóc – đặc sản dân dã Trà Vinh với mặn mà đậm đà, trải nghiệm ẩm thực Miền Tây Nam Bộ.'
-tags = ['các-món-bún']
 author = 'Phúc Mập'
 comment = true
 image = "/images/bun-bo-choc.webp"
