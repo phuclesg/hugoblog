@@ -1,4 +1,10 @@
-
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+#content {
+  font-weight: 600;
+  color: #697177;
+}
 figcaption {
   text-align: center !important;
   font-style: italic !important;
