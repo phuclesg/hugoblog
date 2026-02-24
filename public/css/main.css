@@ -7,7 +7,6 @@
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
-    --color-red-500: oklch(63.7% 0.237 25.331);
     --color-blue-100: oklch(93.2% 0.032 255.585);
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-gray-400: oklch(70.7% 0.022 261.325);
@@ -678,12 +677,6 @@
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
-  .mt-14 {
-    margin-top: calc(var(--spacing) * 14);
-  }
-  .mt-16 {
-    margin-top: calc(var(--spacing) * 16);
-  }
   .mr-2 {
     margin-right: calc(var(--spacing) * 2);
   }
@@ -775,18 +768,6 @@
   .h-full {
     height: 100%;
   }
-  .w-1\/4 {
-    width: calc(1 / 4 * 100%);
-  }
-  .w-1\/5 {
-    width: calc(1 / 5 * 100%);
-  }
-  .w-3\/4 {
-    width: calc(3 / 4 * 100%);
-  }
-  .w-4\/5 {
-    width: calc(4 / 5 * 100%);
-  }
   .w-12 {
     width: calc(var(--spacing) * 12);
   }
@@ -852,6 +833,9 @@
   }
   .justify-center {
     justify-content: center;
+  }
+  .justify-end {
+    justify-content: flex-end;
   }
   .gap-3 {
     gap: calc(var(--spacing) * 3);
@@ -1118,9 +1102,6 @@
   .text-gray-400 {
     color: var(--color-gray-400);
   }
-  .text-red-500 {
-    color: var(--color-red-500);
-  }
   .text-white {
     color: var(--color-white);
   }
@@ -1376,11 +1357,6 @@
   .md\:w-4\/5 {
     @media (width >= 48rem) {
       width: calc(4 / 5 * 100%);
-    }
-  }
-  .md\:max-w-\[80ch\] {
-    @media (width >= 48rem) {
-      max-width: 80ch;
     }
   }
   .md\:grid-cols-2 {
@@ -1730,6 +1706,30 @@
   .prose {
     max-width: 80ch;
   }
+}
+body {
+  font-family: 'Lora';
+}
+#content {
+  font-family: 'Lora', serif;
+  font-weight: 600;
+  color: #697177;
+}
+figcaption {
+  text-align: center !important;
+  font-style: italic !important;
+}
+figure.center {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.gray img {
+  filter: grayscale(100%);
+}
+figure img {
+  border-radius: 16px;
 }
 @property --tw-rotate-x {
   syntax: "*";

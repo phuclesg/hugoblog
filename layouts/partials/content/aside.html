@@ -1,6 +1,6 @@
-<div class="lg:sticky lg:top-8">
+<div class="lg:top-8">
 	<div class="space-y-6">
-
+		{{ partial "content/author.html" . }}
 		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
 
 		{{ range where .Site.RegularPages "Type" "in" site.Params.mainSections | first 5}}

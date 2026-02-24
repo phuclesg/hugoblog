@@ -6,6 +6,9 @@
 
 <title>Thái Hữu Kiểm | Nam Kỳ Xưa</title>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 <meta name="description" content="Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.">
 
 <meta name="keywords" content="">
@@ -241,10 +244,17 @@ fetch("/index.json")
   
   </section>
 
-  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8">
-<h1 class="text-red-500">hahahahaha</h1>
+  <aside class="md:col-span-1"><div class="lg:top-8">
 	<div class="space-y-6">
-
+		<div class="autho-sidebar">
+    <div class="avatar flex justify-end items-center">
+        <img class="rounded-full" width="100" height="100" src="/images/avatar.jpg" alt="">
+    </div>
+    <div class="info mt-1 text-right">
+        <h3 class="font-bold">Phúc Mập</h3>
+        <p>Là một người miền Tây muốn lưu giữ lại những kỷ niệm về miền Tây và Nam Kỳ xưa</p>
+    </div>
+</div>
 		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
 
 		<article class="relative group flex flex-row">
@@ -362,7 +372,7 @@ fetch("/index.json")
 
     </div>
     <div class="resenpost w-full">
-      <section class="max-w-md mx-auto mt-16 mb-24">
+      <section class="max-w-md mx-auto mb-24">
         <h3 class="text-xl uppercase text-gray-400 mb-4">Recent Posts</h3>
 
         <ul class="space-y-3">
