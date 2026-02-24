@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "notwatching/hugo_stats.json";
+
+@layer component {
+    .prose {
+        max-width: 80ch;
+    }
+}
