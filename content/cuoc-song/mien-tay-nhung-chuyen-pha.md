@@ -1,0 +1,119 @@
++++
+date = '2026-02-25T15:58:31+07:00'
+draft = false
+title = 'Những chuyến phà miền Tây'
+slugs = 'nhung-chuyen-pha-mien-tay'
+description = 'Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.'
+categories = ['cuoc-song']
+image = '/images/pha-ham-luong.webp'
++++
+
+# Khi con sông là ranh giới của hành trình
+
+Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.
+
+Phà không chỉ là phương tiện giao thông. Nó là nơi:
+
+-Người bán hàng rong len lỏi giữa dòng xe.
+
+-Đứa nhỏ lần đầu xa quê ngồi nép bên cửa sổ.
+
+-Người lớn sốt ruột nhìn kim đồng hồ vì sợ “trễ chuyến”.
+
+Có khi chờ nửa tiếng. Có khi chờ cả tiếng. Lúc cao điểm lễ Tết, xe xếp hàng dài cả cây số.
+
+# Những bến phà từng là “huyết mạch” miền Tây
+1. **Phà Mỹ Thuận - cửa ngõ miền Tây**
+
+{{< figure src="/images/pha-my-thuan.webp" alt="những chuyến phà miền tây" caption="Phà Mỹ Thuận" class="center" >}}
+
+Phà Mỹ Thuận từng là cái tên ám ảnh với bất kỳ ai đi từ Sài Gòn về miền Tây.
+
+Bến phà nối Tiền Giang với Vĩnh Long. Trước khi cầu Mỹ Thuận khánh thành năm 2000, đây là tuyến qua sông lớn nhất, đông đúc nhất khu vực. Xe đò, xe tải, xe máy chen nhau từng mét.
+
+Ai từng đi phà Mỹ Thuận những năm 80–90 chắc còn nhớ cảm giác:
+
+Mùi khói dầu.
+
+Tiếng máy phà nổ trầm trầm.
+
+Gió sông thổi lồng lộng giữa trưa nắng.
+
+Khi cầu hoàn thành, phà dừng hoạt động. Một thời khép lại.
+
+{{< figure src="/images/pha-my-thuan-2.webp" alt="những chuyến phà miền tây" caption="Phà Mỹ Thuận" class="center" >}}
+
+2. **Phà Cần Thơ - ký ức của Tây Đô**
+
+{{< figure src="/images/pha-can-tho.webp" alt="những chuyến phà miền tây" caption="Phà Cần Thơ" class="center" >}}
+
+Phà Cần Thơ nối Vĩnh Long với thành phố Cần Thơ. Đây từng là trục giao thông quan trọng bậc nhất miền Tây.
+
+Những năm cao điểm, bến phà này kẹt xe kéo dài nhiều giờ. Người ta ăn cơm hộp ngay trên xe, trẻ con ngủ gục trên yên.
+
+Khi cầu Cần Thơ khánh thành năm 2010, phà chính thức ngừng hoạt động. Nhiều người vui vì đỡ cực, nhưng cũng không ít người tiếc một phần ký ức.
+
+3. **Phà Rạch Miễu - con đường về xứ dừa**
+{{< figure src="/images/pha-rach-mieu.webp" alt="những chuyến phà miền tây" caption="Phà Rạch Miễu" class="center" >}}
+
+Trước khi có cầu, muốn qua Bến Tre phải đi Phà Rạch Miễu.
+
+Bến phà này nối Tiền Giang với Bến Tre. Những ngày giáp Tết, người ta chờ phà từ sáng tới chiều. Ai cũng nóng ruột muốn về quê sum họp.
+
+Khi cầu Rạch Miễu hoàn thành năm 2009, phà dừng lại. Nhưng trong ký ức nhiều người miền Tây, “qua Rạch Miễu” vẫn là một câu nói quen thuộc.
+
+4. **Phà Hàm Luông - nhịp nối miền sông nước**
+
+{{< figure src="/images/pha-ham-luong.webp" alt="những chuyến phà miền tây" caption="Phà Hàm Luông" class="center" >}}
+
+Phà Hàm Luông từng nối trung tâm Bến Tre với các huyện phía trong. Dòng sông rộng, nước chảy xiết, những chuyến phà phải căn giờ con nước.
+
+Giờ đây cầu Hàm Luông thay thế, nhưng với người lớn tuổi, ký ức chờ phà giữa buổi chiều mưa vẫn còn nguyên.
+
+5. **Phà Cổ Chiên - cửa ngõ Trà Vinh**
+
+{{< figure src="/images/pha-co-chien.webp" alt="những chuyến phà miền tây" caption="Phà Cổ Chiên" class="center" >}}
+
+Muốn về Trà Vinh trước đây phải qua Phà Cổ Chiên.
+
+Dòng sông rộng, gió mạnh, có những ngày nước lớn, phà chòng chành khiến nhiều người say sóng. Nhưng cũng chính nơi đó, bao mối tình, bao cuộc mưu sinh bắt đầu.
+
+Khi cầu Cổ Chiên khánh thành năm 2015, phà chính thức rút lui.
+
+Đi phà - một trải nghiệm không thể lặp lại
+
+Đi phà khác với đi cầu ở một điều: nó buộc người ta phải chậm lại.
+
+-Không thể vội.
+
+-Không thể vượt.
+
+-Không thể “chạy cho kịp”.
+
+Giữa dòng sông mênh mông, mọi người đều bình đẳng như nhau. Xe sang hay xe đạp cũng đứng chung một boong phà.
+
+Trẻ con thích cảm giác gió thổi tung tóc.
+Người lớn nhìn nước đục phù sa mà nhớ ruộng đồng.
+
+Khi những cây cầu mọc lên
+
+Từ đầu những năm 2000, hàng loạt cây cầu lớn được xây dựng. Giao thông thuận tiện hơn, kinh tế phát triển nhanh hơn. Những tỉnh như Đồng Tháp hay An Giang cũng dần kết nối dễ dàng hơn với trung tâm.
+
+Phà dần biến mất.
+
+Nhưng với nhiều người, miền Tây “thiệt tình” nhất vẫn là miền Tây của những bến phà. Nơi người ta từng đứng nhìn hoàng hôn đỏ rực trên sông, nghe tiếng máy nổ chậm rãi và chờ một chuyến qua bờ bên kia.
+
+Một chút hoài niệm
+
+Ngày nay, chạy xe qua cầu chỉ mất vài phút.
+
+Nhưng có những ký ức không cây cầu nào thay thế được:
+
+-Tiếng gọi “Phà tới rồi!”
+
+-Cảm giác phà tách bến.
+
+Khoảnh khắc bánh xe chạm bờ bên kia, biết rằng mình đã… về gần tới nhà.
+
+Miền Tây bây giờ hiện đại hơn, sáng đèn hơn.
+Nhưng miền Tây thời chưa có cầu - thời của những chuyến phà - mới thật sự là một miền ký ức khó quên.

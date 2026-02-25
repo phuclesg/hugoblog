@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
+    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/cuoc-song/</loc>
-    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
+    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/cuoc-song/</loc>
-    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/</loc>
-    <lastmod>2026-02-14T20:48:08+07:00</lastmod>
+    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/nhung-chuyen-pha-mien-tay/</loc>
+    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/</loc>
     <lastmod>2026-02-14T20:48:08+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
