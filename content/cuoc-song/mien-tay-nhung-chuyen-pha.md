@@ -14,11 +14,11 @@ Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh 
 
 Phà không chỉ là phương tiện giao thông. Nó là nơi:
 
--Người bán hàng rong len lỏi giữa dòng xe.
+- Người bán hàng rong len lỏi giữa dòng xe.
 
--Đứa nhỏ lần đầu xa quê ngồi nép bên cửa sổ.
+- Đứa nhỏ lần đầu xa quê ngồi nép bên cửa sổ.
 
--Người lớn sốt ruột nhìn kim đồng hồ vì sợ “trễ chuyến”.
+- Người lớn sốt ruột nhìn kim đồng hồ vì sợ “trễ chuyến”.
 
 Có khi chờ nửa tiếng. Có khi chờ cả tiếng. Lúc cao điểm lễ Tết, xe xếp hàng dài cả cây số.
 
