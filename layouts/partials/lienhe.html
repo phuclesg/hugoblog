@@ -1,10 +1,11 @@
-<form id="contact-form">
-  <input type="text" name="name" placeholder="Your name" required />
-  <input type="email" name="email" placeholder="Your email" required />
-  <textarea name="message" placeholder="Your message" required></textarea>
-  <button type="submit">Send</button>
-</form>
-
+<div class="form-email">
+    <form id="contact-form">
+    <input type="text" name="name" placeholder="Your name" required />
+    <input type="email" name="email" placeholder="Your email" required />
+    <textarea name="message" placeholder="Your message" required></textarea>
+    <button type="submit">Send</button>
+    </form>
+</div>
 <script>
 document.getElementById("contact-form").addEventListener("submit", async function(e) {
   e.preventDefault();
