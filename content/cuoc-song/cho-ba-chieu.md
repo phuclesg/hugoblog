@@ -7,7 +7,7 @@ description = 'Chợ Bà Chiểu là một trong những ngôi chợ lâu đời
 categories = ['cuoc-song']
 comment = true
 author = 'Phúc Mập'
-image = '/images/cho-ba-chieu.webp'
+image = '/images/cho-ba-chieu.jpg'
 +++
 ## Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn.
 Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phường 1, Quận Bình Thạnh, với diện tích khoảng 8.465 m² và gần 800 sạp hàng.

@@ -7,7 +7,7 @@ description = 'Tiếng rao giữa khuya , khi xe cộ đã vắng hơn và ánh 
 keywords = ['tiếng rao giữa khuya, Đêm khuya sài gòn, mưu sinh giữa sài gòn, nam kỳ xưa']
 categories = ['cuoc-song']
 author = 'Phúc Mập'
-image = '/images/tieng-rao-khuya.webp'
+image = '/images/tieng-rao-khuya.jpg'
 +++
 
 # Tiếng rao - nốt nhạc khuya của đời sống chợt vang

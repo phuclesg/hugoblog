@@ -7,7 +7,7 @@ keywords = "chợ bến thành, lịch sử hình thành chợ bến thành, ch�
 slug = 'cho-ben-thanh-bieu-tuong-sai-gon-xua'
 categories = ['cuoc-song']
 author = 'Phúc Mập'
-image = '/images/cho-ben-thanh.webp'
+image = '/images/cho-ben-thanh.jpg'
 
 +++
 ## Chợ Bến Thành - biểu tượng Sài Gòn xưa

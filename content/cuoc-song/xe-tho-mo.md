@@ -6,7 +6,7 @@ slug = 'xe-tho-mo-ky-uc-mot-thoi-mien-nam-xua'
 catgories = ['cuoc-song']
 description = 'Xe thổ mộ là phương tiện ngựa kéo rất đặc trưng của Sài Gòn – Gia Định vào những năm đầu thế kỷ XIX'
 keywords = 'xe thổ mộ, ký ức Sài Gòn, miền nam xưa, hoài niệm miền nam xưa'
-image = '/images/xe-tho-mo-2.webp'
+image = '/images/xe-tho-mo-2.jpg'
 +++
 Xe thổ mộ là phương tiện ngựa kéo rất đặc trưng của Sài Gòn - Gia Định vào những năm đầu thế kỷ XIX, trở thành hình ảnh quen thuộc trong đời sống Nam Bộ. Loại xe này là kết quả của sự giao thoa văn hóa: bắt nguồn từ xe ngựa sang trọng kiểu Pháp, song mã, nhưng người dân Nam Bộ đã sáng tạo, cải tiến lại để phù hợp với điều kiện địa phương - và chịu ảnh hưởng từ truyền thống xe ngựa Trung Quốc.
 {{< figure src="/images/xe-tho-mo.webp" alt="Xe thổ mộ - ký ức một thời miền nam xưa" caption="Xe thổ mộ - ký ức một thời miền nam xưa" class="center" >}}

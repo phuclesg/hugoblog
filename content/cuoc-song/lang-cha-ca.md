@@ -6,7 +6,7 @@ description = 'Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ củ
 slug = 'lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua'
 categories = ['cuoc-song']
 comment = true
-image = '/images/lang-cha-ca.webp'
+image = '/images/lang-cha-ca.jpg'
 +++
 {{< figure src="/images/lang-cha-ca.webp" alt="Lăng cha cả" caption="Lăng Cha Cả" class="center" >}}
 ## Nguồn gốc & nhân vật “Cha Cả”

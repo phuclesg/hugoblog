@@ -7,7 +7,7 @@ categories = ['cuoc-song']
 description = 'Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu – một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian'
 comment = true
 author = 'Phúc Mập'
-image = '/images/lai-thieu.webp'
+image = '/images/lai-thieu.jpg'
 +++
 
 # Lái Thiêu: Từ Vùng Đất "Trái Ngọt Gốm Xưa" Đến Phường Đô Thị Sầm Uất

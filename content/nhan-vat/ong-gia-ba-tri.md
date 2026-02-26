@@ -8,7 +8,7 @@ slug = 'ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly'
 categories = ['nhan-vat']
 author = 'Phúc Mập'
 comment = true
-image = '/images/ong-gia-ba-tri.webp'
+image = '/images/ong-gia-ba-tri.jpg'
 +++
 ## Tiểu sử và nguồn gốc
 

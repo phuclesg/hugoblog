@@ -7,7 +7,7 @@ description = 'Nhà thờ Đức Bà – chứng nhân trăm năm giữa lòng S
 categories = ['cuoc-song']
 comment = true
 author = 'Phúc Mập'
-image = '/images/nha-tho-duc-ba.webp'
+image = '/images/nha-tho-duc-ba.jpg'
 +++
 Giữa trung tâm Sài Gòn, nơi phố xá tấp nập và dòng người hối hả, có một công trình vẫn lặng lẽ đứng đó hơn trăm năm nay: **Nhà thờ Đức Bà**. Với người Sài Gòn, hình ảnh hai tháp chuông đỏ vươn cao đã trở thành một phần quen thuộc, đi vào ký ức bao thế hệ.
 

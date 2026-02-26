@@ -8,7 +8,7 @@ slug = 'nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua'
 tags = ['Tứ-đại-phú-hộ-Nam-Kỳ-xưa']
 categories = ['nhan-vat']
 comment = true
-image = '/images/huyen-sy.webp'
+image = '/images/huyen-sy.jpg'
 featured = true
 +++
 **Kỳ 1: Nhất Sỹ**

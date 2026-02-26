@@ -7,7 +7,7 @@ categories = ['mon-ngon-mien-tay']
 description = 'Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương bún gỏi dà.'
 author = 'Phúc mập'
 comment = true
-image = '/images/bun-goi-da.webp'
+image = '/images/bun-goi-da.jpg'
 keywords = ['bún gỏi dà', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng']
 summary = 'Món bún gỏi dà – đặc sản dân dã Sóc Trăng với vị chua ngọt hài hòa, đậm chất miền Tây Nam Bộ.'
 +++

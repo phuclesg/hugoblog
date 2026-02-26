@@ -8,7 +8,7 @@ keywords = "lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa"
 slug = 'ta-quan-le-van-duyet'
 categories = ['nhan-vat']
 tags = ['feature']
-image = '/images/le-van-duyet.webp'
+image = '/images/le-van-duyet.jpg'
 +++
 ## I. Tiểu sử và bối cảnh lịch sử
 {{< figure src="/images/le-van-duyet2.webp" atl="Tả quân Lê Văn Duyệt" caption="Tả quân Lê Văn Duyệt" class="center" >}}

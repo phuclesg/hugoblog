@@ -8,7 +8,7 @@ slug = 'tu-hoa-tu-dai-phu-hoa-nam-ky-xua'
 categories = ['nhan-vat']
 tags = ['Tứ-đại-phú-hộ-Nam-Kỳ-xưa']
 author = 'Phúc Mập'
-image = '/images/chu-hoa1.webp'
+image = '/images/chu-hoa4.jpg'
 keywords = ['chú hỏa','huỳnh văn hoa','chú hỏa sài gòn','tứ đại phú hộ sài gòn','doanh nhân sài gòn xưa','nhà họ hứa','con ma nhà họ hứa','bảo tàng mỹ thuật thành phố hồ chí minh','người giàu nhất sài gòn xưa','doanh nhân việt gốc hoa','ký ức sài gòn xưa']
 +++
 **Huỳnh Văn Hoa (1845 – 1901)**, thường được biết đến với tên gọi Chú Hỏa, là một thương nhân người Việt gốc Hoa, có quốc tịch Pháp. Ông sinh ra tại làng Văn Tang, thuộc Gia Hòa Sơn, huyện Tư Minh, tỉnh Phúc Kiến (Trung Quốc) và sau đó đến Việt Nam sinh sống và kinh doanh.

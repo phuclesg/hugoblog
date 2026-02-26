@@ -8,7 +8,7 @@ slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
 tags = ['Tứ-đại-phú-hộ-nam-kỳ-xưa']
 categories = ['nhan-vat']
 comment = true
-image = 'images/do-doc-phuong.webp'
+image = 'images/do-doc-phuong.jpg'
 +++
 ## Tứ đại phú hộ nam kỳ xưa - Kỳ 2:
 ## Nhì Phương – Đỗ Hữu Phương, vị phú hộ nhiều quyền thế ở Nam Kỳ
