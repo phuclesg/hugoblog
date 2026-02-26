@@ -1,7 +1,9 @@
 # Hugo built artifacts
 /public/
 /resources/
+/node_modules/
 .hugo_build.lock
 # OS-specific files
 .DS_Store
 ._*
+pakage-lock.json

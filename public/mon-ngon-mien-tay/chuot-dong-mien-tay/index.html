@@ -287,13 +287,15 @@ fetch("/index.json")
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><form id="contact-form">
-  <input type="text" name="name" placeholder="Your name" required />
-  <input type="email" name="email" placeholder="Your email" required />
-  <textarea name="message" placeholder="Your message" required></textarea>
-  <button type="submit">Send</button>
-</form>
-
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><div class="form-email">
+    <h1 class="text-xl mt-4">Liên lạc với tôi</h1>
+    <form id="contact-form" class="flex flex-col gap-12">
+    <input class="border-1 rounded-[16px] w-[400px] px-[20px]" type="text" name="name" placeholder="Your name" required />
+    <input type="email" name="email" placeholder="Your email" required />
+    <textarea name="message" placeholder="Your message" required></textarea>
+    <button type="submit">Send</button>
+    </form>
+</div>
 <script>
 document.getElementById("contact-form").addEventListener("submit", async function(e) {
   e.preventDefault();

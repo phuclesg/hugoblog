@@ -59,17 +59,11 @@
     <footer id="content-footer" class="not-prose">
 
       <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl">
-
-        <h2 class="text-xl font-semibold">Bình Luận</h2>
-
-        <p>Hãy bình luận vui vẻ lịch sự nhé!</p>
-
-        {{-  template "_internal/disqus.html" . -}}
         {{- partial "lienhe.html" . -}}
       </div>
      <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Bài viết liên quan</h2>
+        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2>
 
         {{- $related := .Site.RegularPages.Related . | first 2 -}}
 

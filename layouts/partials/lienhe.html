@@ -1,9 +1,10 @@
-<div class="form-email">
-    <form id="contact-form">
-    <input type="text" name="name" placeholder="Your name" required />
-    <input type="email" name="email" placeholder="Your email" required />
-    <textarea name="message" placeholder="Your message" required></textarea>
-    <button type="submit">Send</button>
+<div class="form-email my-4">
+    <h1 class="text-xl mb-4 uppercase font-bold">Liên lạc với tôi</h1>
+    <form id="contact-form" class="flex flex-col gap-12">
+    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
+    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-[400px] pl-[10px] h-12" type="email" name="email" placeholder="Nhâp Email bạn" required />
+    <textarea class="border-1 focus:outline-none border-[#e5e7eb] p-3 rounded-2xl" name="message" placeholder="Nhập nội dung của bạn" required></textarea>
+    <button class=" w-30 bg-[#ffb341] rounded-[16px] h-10 border-1 border-[#e5e7eb]" type="submit">Gửi</button>
     </form>
 </div>
 <script>
