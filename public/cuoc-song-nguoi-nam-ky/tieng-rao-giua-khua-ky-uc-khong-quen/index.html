@@ -65,7 +65,7 @@
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-BBNTN7HEBR"></script>
       <script>
         var doNotTrack = false;
-        if ( false ) {
+        if ( true ) {
           var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
           var doNotTrack = (dnt == "1" || dnt == "yes");
         }
@@ -282,63 +282,57 @@ Tiếng “Ai xôi đậu đây!”, “Ai bánh mì nóng hổi đây!” nghe 
 
     <footer id="content-footer" class="not-prose">
 
-      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl">
-
-        <h2 class="text-xl font-semibold">Bình Luận</h2>
-
-        <p>Hãy bình luận vui vẻ lịch sự nhé!</p><div id="disqus_thread"></div>
-<script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "mientayblog" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><div class="form-email">
-    <h1 class="text-xl mt-4">Liên lạc với tôi</h1>
+      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl"><div class="form-email my-4">
+    <h1 class="text-xl mb-4 uppercase font-bold">Liên lạc với tôi</h1>
     <form id="contact-form" class="flex flex-col gap-12">
-    <input class="border-1 rounded-[16px] w-[400px] px-[20px]" type="text" name="name" placeholder="Your name" required />
-    <input type="email" name="email" placeholder="Your email" required />
-    <textarea name="message" placeholder="Your message" required></textarea>
-    <button type="submit">Send</button>
+    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-auto md:w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
+    <input type="hidden" name="postTitle" value="Tiếng rao giữa khuya - ký ức không quên"/>
+    <input type="hidden" name="postUrl" value="http://localhost:1313/cuoc-song-nguoi-nam-ky/tieng-rao-giua-khua-ky-uc-khong-quen/"/>
+    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-auto md:w-[400px] pl-[10px] h-12" type="email" name="email" placeholder="Nhâp Email bạn" required />
+    <textarea class="border-1 focus:outline-none border-[#e5e7eb] p-3 rounded-2xl" name="message" placeholder="Nhập nội dung của bạn" required></textarea>
+    <button class=" w-30 bg-[#ffb341] rounded-[16px] h-10 border-1 border-[#e5e7eb]" type="submit">Gửi</button>
     </form>
 </div>
+<div id="response-msg" style="display:none;">Cảm ơn bạn đã liên lạc!</div>
 <script>
-document.getElementById("contact-form").addEventListener("submit", async function(e) {
-  e.preventDefault();
+  const form = document.getElementById('contact-form');
 
-  const formData = new FormData(this);
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
 
-  const data = {
-    name: formData.get("name"),
-    email: formData.get("email"),
-    message: formData.get("message")
-  };
+    const formData = new FormData(form);
 
-  await fetch("/api/contact", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(data)
+    const data = {
+      name: formData.get('name'),
+      email: formData.get('email'),
+      message: formData.get('message'),
+      title: formData.get('postTitle'),
+      link: formData.get('postUrl')
+    };
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+      });
+
+      if (response.ok) {
+        form.style.display = 'none';
+        document.getElementById('response-msg').style.display = 'block';
+      } else {
+        alert("Gửi thất bại");
+      }
+    } catch (err) {
+      alert("Có lỗi xảy ra");
+    }
   });
-
-  alert("Message sent!");
-});
-</script>
-</div>
+</script></div>
      <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
+        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl">
 	
 	<a class="insert-link" href="http://localhost:1313/cuoc-song-nguoi-nam-ky/mieu-ba-chua-xu-nui-sam-an-giang/"></a>
 
@@ -622,7 +616,7 @@ document.getElementById("contact-form").addEventListener("submit", async functio
 
   <div class="border-t pt-4">
 
-    <p class="text-sm">Copyright © 2026. All rights reserved. <a href="https://namkyxua.com/" target="_blank" rel="noopener">www.namkyxua.com</a> 0.152.2</p>
+    <p class="text-sm">Copyright © 2026. All rights reserved. <a href="https://namkyxua.com/" target="_blank" rel="noopener">www.namkyxua.com</a> 0.157.0</p>
 
   </div>
   

@@ -8,7 +8,6 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-amber-200: oklch(92.4% 0.12 95.746);
-    --color-amber-400: oklch(82.8% 0.189 84.429);
     --color-blue-100: oklch(93.2% 0.032 255.585);
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-gray-400: oklch(70.7% 0.022 261.325);
@@ -225,9 +224,6 @@
   }
   .mx-2 {
     margin-inline: calc(var(--spacing) * 2);
-  }
-  .mx-4 {
-    margin-inline: calc(var(--spacing) * 4);
   }
   .mx-auto {
     margin-inline: auto;
@@ -674,9 +670,6 @@
   .mt-3 {
     margin-top: calc(var(--spacing) * 3);
   }
-  .mt-4 {
-    margin-top: calc(var(--spacing) * 4);
-  }
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
@@ -762,12 +755,6 @@
     width: calc(var(--spacing) * 16);
     height: calc(var(--spacing) * 16);
   }
-  .h-4 {
-    height: calc(var(--spacing) * 4);
-  }
-  .h-8 {
-    height: calc(var(--spacing) * 8);
-  }
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
@@ -776,12 +763,6 @@
   }
   .h-20 {
     height: calc(var(--spacing) * 20);
-  }
-  .h-28 {
-    height: calc(var(--spacing) * 28);
-  }
-  .h-36 {
-    height: calc(var(--spacing) * 36);
   }
   .h-full {
     height: 100%;
@@ -792,20 +773,11 @@
   .w-20 {
     width: calc(var(--spacing) * 20);
   }
-  .w-24 {
-    width: calc(var(--spacing) * 24);
-  }
-  .w-25 {
-    width: calc(var(--spacing) * 25);
-  }
-  .w-28 {
-    width: calc(var(--spacing) * 28);
-  }
   .w-30 {
     width: calc(var(--spacing) * 30);
   }
-  .w-\[400px\] {
-    width: 400px;
+  .w-auto {
+    width: auto;
   }
   .w-full {
     width: 100%;
@@ -1014,9 +986,6 @@
   .bg-\[\#ffb341\] {
     background-color: #ffb341;
   }
-  .bg-amber-400 {
-    background-color: var(--color-amber-400);
-  }
   .bg-black {
     background-color: var(--color-black);
   }
@@ -1065,21 +1034,6 @@
   .px-8 {
     padding-inline: calc(var(--spacing) * 8);
   }
-  .px-25 {
-    padding-inline: calc(var(--spacing) * 25);
-  }
-  .px-36 {
-    padding-inline: calc(var(--spacing) * 36);
-  }
-  .px-\[20px\] {
-    padding-inline: 20px;
-  }
-  .px-\[40px\] {
-    padding-inline: 40px;
-  }
-  .px-\[100px\] {
-    padding-inline: 100px;
-  }
   .py-1 {
     padding-block: calc(var(--spacing) * 1);
   }
@@ -1103,18 +1057,6 @@
   }
   .py-14 {
     padding-block: calc(var(--spacing) * 14);
-  }
-  .py-16 {
-    padding-block: calc(var(--spacing) * 16);
-  }
-  .py-\[1rem\] {
-    padding-block: 1rem;
-  }
-  .py-\[2rem\] {
-    padding-block: 2rem;
-  }
-  .py-\[20px\] {
-    padding-block: 20px;
   }
   .pt-1 {
     padding-top: calc(var(--spacing) * 1);
@@ -1448,6 +1390,11 @@
   .md\:w-4\/5 {
     @media (width >= 48rem) {
       width: calc(4 / 5 * 100%);
+    }
+  }
+  .md\:w-\[400px\] {
+    @media (width >= 48rem) {
+      width: 400px;
     }
   }
   .md\:grid-cols-2 {
