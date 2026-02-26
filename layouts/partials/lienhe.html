@@ -1,7 +1,7 @@
 <div class="form-email my-4">
     <h1 class="text-xl mb-4 uppercase font-bold">Liên lạc với tôi</h1>
     <form id="contact-form" class="flex flex-col gap-12">
-    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
+    <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-auto md:w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
     <input type="hidden" name="postTitle" value="{{ .Title }}"/>
     <input type="hidden" name="postUrl" value="{{ .Permalink }}"/>
     <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-[400px] pl-[10px] h-12" type="email" name="email" placeholder="Nhâp Email bạn" required />
