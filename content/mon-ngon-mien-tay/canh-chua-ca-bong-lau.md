@@ -24,7 +24,7 @@ Cá bông lau sống nhiều ở sông Tiền, sông Hậu. Thịt cá trắng, 
 
 Chính lớp mỡ này làm cho nước canh béo nhẹ một cách tự nhiên - không ngấy - không tanh.
 
-{{< figure src="/images/canh-chua-ca-bong-lau.webp" alt="Canh chua cá trái bần cá bông lau" caption="Canh chua trái bần cá bông lau" class="center" >}}
+{{< figure src="/images/canh-chua-ca-bong-lau.webp" alt="Cá bông lau" caption="Cá bông lau" class="center" >}}
 
 ## Cá thường được:
 
@@ -38,7 +38,7 @@ Chính lớp mỡ này làm cho nước canh béo nhẹ một cách tự nhiên 
 
 # Trái bần - thứ quà mộc mạc của miền sông nước
 
-{{< figure src="/images/canh-chua-ca-bong-lau-2.webp" alt="Canh chua cá trái bần cá bông lau" caption="Canh chua trái bần cá bông lau" class="center" >}}
+{{< figure src="/images/canh-chua-ca-bong-lau-2.webp" alt="Trái bần" caption="Trái bần" class="center" >}}
 
 Bần mọc ven sông. Trái tròn, khi chín chuyển sang màu xanh vàng nhạt. Người miền Tây hái bần chín, dầm với nước ấm rồi lược lấy nước cốt.
 
