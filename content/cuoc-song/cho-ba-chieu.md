@@ -20,7 +20,7 @@ Chợ Bà Chiểu vốn là chợ *"chồm hổm"* xưa kia, sau trở thành ch
 
 Chợ Bà Chiểu xuất hiện từ thế kỷ XIX.
 
-Năm 1942, ông Trần Văn Chơi (thường gọi là “ông Tư Chơi”) đã xây dựng chợ với diện tích ban đầu khoảng 8.465 m².
+Chợ được xây dựng sau [chợ Bến Thành](https://namkyxua.com/cuoc-song-nguoi-nam-ky/cho-ben-thanh-bieu-tuong-sai-gon-xua/). Năm 1942, ông Trần Văn Chơi (thường gọi là “ông Tư Chơi”) đã xây dựng chợ với diện tích ban đầu khoảng 8.465 m².
 
 Đến năm 1987, chợ được nâng cấp và sửa chữa nhằm đáp ứng nhu cầu buôn bán ngày càng phát triển.
 
