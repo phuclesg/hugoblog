@@ -4,7 +4,6 @@ draft = false
 title = 'Chợ Bà Chiểu - Khu chợ sầm uất bậc nhất Bình Thạnh'
 slug = 'cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh'
 description = 'Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn. Chợ tọa lạc tại 40 Diên Hồng, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh'
-categories = ['cuoc-song']
 comment = true
 author = 'Phúc Mập'
 image = '/images/cho-ba-chieu.jpg'

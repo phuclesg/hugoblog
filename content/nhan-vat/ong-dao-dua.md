@@ -3,7 +3,6 @@ date = '2026-01-06T16:07:26+07:00'
 draft = false
 title = 'Đạo dừa - Tôn giáo độc đáo ở Nam Bộ'
 slug = 'dao-dua-ton-giao-doc-dao-o-nam-bo'
-categories = ['nhan-vat']
 description = 'Đạo Dừa là một tôn giáo được sáng lập tại miền Nam Việt Nam, mang phong cách độc đáo và giàu tính biểu tượng - một phần thú vị trong lịch sử văn hóa tâm linh của xứ Nam Bộ'
 image = '/images/dao-dua.jpg'
 +++

@@ -4,7 +4,6 @@ draft = false
 title = 'Lăng Cha Cả - Di tích và địa danh chuyển mình của Sài Gòn xưa'
 description = 'Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ của vị giáo sĩ người Pháp Pierre Joseph Georges Pigneau de Béhaine tiếng Việt thường gọi là Bá Đa Lộc'
 slug = 'lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua'
-categories = ['cuoc-song']
 comment = true
 image = '/images/lang-cha-ca.jpg'
 +++

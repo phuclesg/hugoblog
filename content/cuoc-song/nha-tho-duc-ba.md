@@ -4,7 +4,6 @@ draft = false
 title = 'Nhà thờ Đức Bà - Chứng nhân trăm năm giữa Sài Gòn'
 slug = 'nha-tho-duc-ba-chung-nhan-tram-nam-giua-sai-gon'
 description = 'Nhà thờ Đức Bà – chứng nhân trăm năm giữa lòng Sài Gòn'
-categories = ['cuoc-song']
 comment = true
 author = 'Phúc Mập'
 image = '/images/nha-tho-duc-ba.jpg'

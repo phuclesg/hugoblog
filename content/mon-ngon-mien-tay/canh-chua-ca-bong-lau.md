@@ -3,7 +3,6 @@ date = '2026-02-27T21:03:27+07:00'
 draft = false
 title = 'Canh chua trái bần cá bông lau'
 slugs = 'canh-chua-trai-ban-ca-bong-lau'
-categories = ['mon-ngon-mien-tay']
 description = 'Canh chua cá bông lau trái bần là món ăn đậm chất miền Tây với nước lèo chua thanh, béo nhẹ tự nhiên. Hương vị của dòng sông, của rặng bần ven bến nước.'
 image = '/images/canh-chua-ca-bong-lau-3.jpg'
 +++

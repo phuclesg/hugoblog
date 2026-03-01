@@ -6,7 +6,6 @@ author = 'Phúc Mập'
 description = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
 keywords = "lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa"
 slug = 'ta-quan-le-van-duyet'
-categories = ['nhan-vat']
 tags = ['feature']
 image = '/images/le-van-duyet.jpg'
 +++

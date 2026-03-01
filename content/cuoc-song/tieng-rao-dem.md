@@ -5,7 +5,6 @@ title = 'Tiếng rao giữa khuya - ký ức không quên'
 slug = 'tieng-rao-giua-khua-ky-uc-khong-quen'
 description = 'Tiếng rao giữa khuya , khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng Ai bánh mì không, Ai chưng giò gai - Sài gòn xưa - Nam kỳ xưa'
 keywords = ['tiếng rao giữa khuya, Đêm khuya sài gòn, mưu sinh giữa sài gòn, nam kỳ xưa']
-categories = ['cuoc-song']
 author = 'Phúc Mập'
 image = '/images/tieng-rao-khuya.jpg'
 +++

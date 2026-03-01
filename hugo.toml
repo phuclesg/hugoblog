@@ -69,9 +69,7 @@ removePathAccents = true
         url = '/'
         weight = 1
 [taxonomies]
-    category = 'categories'
     tag = 'tags'
-    keyword = 'keywords'
 [outputs]
 home = ["HTML", "JSON"]
 [build]

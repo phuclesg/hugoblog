@@ -4,7 +4,6 @@ draft = false
 title = 'Miếu Bà Chúa Xứ núi Sam - An Giang'
 description = 'Miếu Bà Chúa Xứ Núi Sam nằm dưới chân Núi Sam thuộc phường Vĩnh Tế, thành phố Châu Đốc, tỉnh An Giang. Đây là một trong những địa điểm hành hương nổi tiếng và linh thiêng nhất miền Tây Nam Bộ'
 slug = 'mieu-ba-chua-xu-nui-sam-an-giang'
-categories = ['cuoc-song']
 image = '/images/mieu-ba-chua-xu.jpg'
 +++
 # Giới thiệu chung

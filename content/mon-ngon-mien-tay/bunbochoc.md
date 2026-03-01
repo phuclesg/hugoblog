@@ -3,7 +3,6 @@ date = '2025-09-12T16:06:42+07:00'
 draft = false
 title = 'Bún bò chóc - Một trải nghiệm ẩm thực độc đáo'
 slug = 'bun-bo-choc'
-catagories = ['mon-ngon-mien-tay']
 description = 'Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh'
 keywords = ['bún bò chóc', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng, Trà Vinh']
 summary = 'Món bún bò chóc – đặc sản dân dã Trà Vinh với mặn mà đậm đà, trải nghiệm ẩm thực Miền Tây Nam Bộ.'

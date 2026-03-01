@@ -3,7 +3,6 @@ date = '2025-11-17T15:15:42+07:00'
 draft = false
 title = 'Xe thổ mộ - ký ức một thời Miền Nam xưa'
 slug = 'xe-tho-mo-ky-uc-mot-thoi-mien-nam-xua'
-catgories = ['cuoc-song']
 description = 'Xe thổ mộ là phương tiện ngựa kéo rất đặc trưng của Sài Gòn – Gia Định vào những năm đầu thế kỷ XIX'
 keywords = 'xe thổ mộ, ký ức Sài Gòn, miền nam xưa, hoài niệm miền nam xưa'
 image = '/images/xe-tho-mo-2.jpg'

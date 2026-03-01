@@ -116,7 +116,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-  {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice $cat) }}
+  {{ $pages := where .Site.RegularPages "Section" $cat }}
     {{ range $pages.ByDate.Reverse | first 3 }}
     {{- partial "content/card" . -}}
   {{ end }}
@@ -138,7 +138,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+    {{ range where .Site.RegularPages "Section" $cat | first 3 }}
 
       {{- partial "content/card" . -}}
 
@@ -162,7 +162,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+    {{ range where .Site.RegularPages "Section" $cat | first 3 }}
 
       {{- partial "content/card" . -}}
 

@@ -3,7 +3,6 @@ date = '2026-02-14T20:48:08+07:00'
 draft = false
 title = 'Lái Thiêu - "Vùng đất trái ngọt Gốm xưa"'
 slug = 'lai-thieu-vung-dat-trai-ngot-gom-xua'
-categories = ['cuoc-song']
 description = 'Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu – một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian'
 comment = true
 author = 'Phúc Mập'

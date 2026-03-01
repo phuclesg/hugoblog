@@ -5,8 +5,6 @@ title = 'Nhì Phương | Tứ đại phú hào Nam Kỳ xưa'
 description = 'Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn '
 author = 'Phúc Mập'
 slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
-tags = ['Tứ-đại-phú-hộ-nam-kỳ-xưa']
-categories = ['nhan-vat']
 comment = true
 image = 'images/do-doc-phuong.jpg'
 +++

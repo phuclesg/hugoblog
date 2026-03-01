@@ -3,7 +3,6 @@ date = '2025-11-13T15:13:20+07:00'
 draft = false
 title = 'Bác Ba Phi - Hình tượng dân gian Nam Bộ với những câu chuyện cười trứ danh'
 slug = 'bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh'
-categories = ['nhan-vat']
 description = 'Bác Ba Phi là một nhân vật dân gian nổi tiếng của vùng Cà Mau – Nam Bộ, được người dân truyền miệng qua nhiều thế hệ với những câu chuyện tiếu lâm phóng đại, hài hước,dân giã'
 author = 'Phúc Mập'
 image = '/images/bac-ba-phi.jpg'
