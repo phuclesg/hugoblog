@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/cuoc-song/</loc>
+    <lastmod>2026-03-04T10:33:34+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-04T10:33:34+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/truong-petrus-ky-lich-su-va-dau-an-tai-sai-gon/</loc>
+    <lastmod>2026-03-04T10:33:34+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/mon-ngon-mien-tay/canh-chua-trai-ban-ca-bong-lau/</loc>
     <lastmod>2026-02-27T21:03:27+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -9,16 +24,6 @@
   </url><url>
     <loc>http://localhost:1313/mon-ngon-mien-tay/</loc>
     <lastmod>2026-02-27T21:03:27+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-27T21:03:27+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cuoc-song/</loc>
-    <lastmod>2026-02-25T15:58:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

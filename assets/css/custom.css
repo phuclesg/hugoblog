@@ -1,5 +1,5 @@
 div#content h1 {
-  font-size: 1.8em !important;
+  font-size: 1.8em;
   line-height: 1.2em;
 }
 div#content {
@@ -136,24 +136,10 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-size: inherit;
-  font-weight: inherit;
-}
-
 /*
 Reset links to optimize for opt-in styling instead of opt-out.
 */
 
-a {
-  color: inherit;
-  text-decoration: inherit;
-}
 
 /*
 Add the correct font weight in Edge and Safari.
@@ -1372,43 +1358,7 @@ video {
 }
 
 
-.text-center {
-  text-align: center;
-}
 
-.text-right {
-  text-align: right;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
 
 .font-bold {
   font-weight: 700;
@@ -1432,16 +1382,6 @@ video {
 
 .leading-normal {
   line-height: 1.5;
-}
-
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-zinc-500 {
-  --tw-text-opacity: 1;
-  color: rgb(113 113 122 / var(--tw-text-opacity));
 }
 
 .decoration-auto {

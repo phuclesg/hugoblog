@@ -33,3 +33,9 @@ figure.center {
 figure img {
   border-radius: 16px;
 }
+@media (max-width: 768px) {
+  div#content h1, div#content h2 {
+    font-size: 1.2rem !important;
+  }
+
+}
