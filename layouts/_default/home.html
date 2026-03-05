@@ -102,14 +102,13 @@
  <hr class="my-8 border-[#e5e7eb]">
 
 <!-- Category Post -->
-
 <section class="mb-16">
 
     {{ $cat := "nhan-vat" }}
-
+    {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Nhân vật</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Nhân vật</h2>
 
       <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-viewall hover:bg-blue-100" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>
@@ -128,10 +127,10 @@
   <section class="mb-16">
 
     {{ $cat := "cuoc-song" }}
-
+    {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Cuộc sống</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Cuộc sống</h2>
 
       <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-viewall hover:bg-blue-100" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>
@@ -151,11 +150,11 @@
   <hr class="my-8 border-[#e5e7eb]">
   <section class="mb-16">
 
-    {{ $cat := "mon-ngon-mien-tay" }}
-
+    {{ $cat := "mon-ngon" }}
+    {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Món ngon</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Món ngon</h2>
 
       <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-viewall hover:bg-blue-100" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>

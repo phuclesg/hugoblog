@@ -28,6 +28,11 @@ removePathAccents = true
     x = 'p__lux'
     logos = '/images/logo.png'
     mediaBaseURL = 'https://media.namkyxua.com'
+[params.section_color]
+    mon-ngon = "#cc2c60"
+    nhan-vat = "#22c55e"
+    cuoc-song = "#3b82f6"
+    default = "#6b7280"
 [related]
   includeNewer = true
   threshold = 20
@@ -58,7 +63,7 @@ removePathAccents = true
   [services.googleAnalytics]
     id = 'G-BBNTN7HEBR'   
 [permalinks]
-    mon-ngon-mien-tay = '/mon-ngon-mien-tay/:slug/'
+    mon-ngon = '/mon-ngon/:slug/'
     nhan-vat = '/nhan-vat/:slug/'
     cuoc-song = '/cuoc-song-nguoi-nam-ky/:slug'
     hinh-anh = '/hinh-anh-nam-ky-xua/:slug'

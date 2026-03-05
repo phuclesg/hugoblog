@@ -1,12 +1,15 @@
 {{ define "main" }}
 
 {{- partial "content/breadcrumb.html" . -}}
+{{- $sectionColors := .Site.Params.section_color -}}
+{{- $key := urlize .Title -}}
+{{- $color := index $sectionColors $key | default $sectionColors.default -}}
 
   <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-14">
 
   <section class="md:col-span-3">
 
-    <h2 class="text-3xl font-bold mb-10">{{ .Title | humanize }}</h2>
+    <h2 class="text-3xl font-bold mb-10 text-[{{ $color }}]">{{ .Title | humanize }}</h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-y-10 gap-x-4">
 
