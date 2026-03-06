@@ -7,9 +7,12 @@
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
+    --color-red-100: oklch(93.6% 0.032 17.717);
     --color-red-500: oklch(63.7% 0.237 25.331);
     --color-amber-200: oklch(92.4% 0.12 95.746);
+    --color-amber-500: oklch(76.9% 0.188 70.08);
     --color-blue-100: oklch(93.2% 0.032 255.585);
+    --color-blue-200: oklch(88.2% 0.059 254.128);
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-gray-400: oklch(70.7% 0.022 261.325);
     --color-gray-500: oklch(55.1% 0.027 264.364);
@@ -959,6 +962,14 @@
   .rounded-xl {
     border-radius: var(--radius-xl);
   }
+  .rounded-t-lg {
+    border-top-left-radius: var(--radius-lg);
+    border-top-right-radius: var(--radius-lg);
+  }
+  .rounded-l {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
   .rounded-l-full {
     border-top-left-radius: calc(infinity * 1px);
     border-bottom-left-radius: calc(infinity * 1px);
@@ -1228,6 +1239,11 @@
     transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
     transition-duration: var(--tw-duration, var(--default-transition-duration));
   }
+  .transition-transform {
+    transition-property: transform, translate, scale, rotate;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
   .duration-500 {
     --tw-duration: 500ms;
     transition-duration: 500ms;
@@ -1235,6 +1251,73 @@
   .ease-linear {
     --tw-ease: linear;
     transition-timing-function: linear;
+  }
+  .group-hover\:-translate-1\/4 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-x: calc(calc(1 / 4 * 100%) * -1);
+        --tw-translate-y: calc(calc(1 / 4 * 100%) * -1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:-translate-6 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * -6);
+        --tw-translate-y: calc(var(--spacing) * -6);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:translate-\[-25\%\,-25\%\] {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-x: -25%,-25%;
+        --tw-translate-y: -25%,-25%;
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:-translate-x-4 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * -4);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:translate-x-4 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * 4);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:-translate-y-1 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-y: calc(var(--spacing) * -1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:-translate-y-4 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-y: calc(var(--spacing) * -4);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .group-hover\:translate-y-6 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-translate-y: calc(var(--spacing) * 6);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
   }
   .group-hover\:scale-105 {
     &:is(:where(.group):hover *) {
@@ -1257,6 +1340,90 @@
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
         animation: var(--animate-spin);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#3b82f6\] {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: #3b82f6;
+      }
+    }
+  }
+  .group-hover\:bg-\[\#3b82f6\]\/10 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #3b82f6 10%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#3b82f6\]\/20 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #3b82f6 20%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#3b82f6\]\/30 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #3b82f6 30%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#22c55e\] {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: #22c55e;
+      }
+    }
+  }
+  .group-hover\:bg-\[\#22c55e\]\/10 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #22c55e 10%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#22c55e\]\/20 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #22c55e 20%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#22c55e\]\/30 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #22c55e 30%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#cc2c60\] {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: #cc2c60;
+      }
+    }
+  }
+  .group-hover\:bg-\[\#cc2c60\]\/10 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #cc2c60 10%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#cc2c60\]\/20 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #cc2c60 20%, transparent);
+      }
+    }
+  }
+  .group-hover\:bg-\[\#cc2c60\]\/30 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        background-color: color-mix(in oklab, #cc2c60 30%, transparent);
       }
     }
   }
@@ -1360,10 +1527,95 @@
       }
     }
   }
+  .hover\:-translate-1 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * -1);
+        --tw-translate-y: calc(var(--spacing) * -1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:translate-1 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * 1);
+        --tw-translate-y: calc(var(--spacing) * 1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:translate-6 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * 6);
+        --tw-translate-y: calc(var(--spacing) * 6);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:-translate-y-1 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-y: calc(var(--spacing) * -1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:translate-y-6 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-y: calc(var(--spacing) * 6);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:bg-\[\#3b82f6\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #3b82f6;
+      }
+    }
+  }
+  .hover\:bg-\[\#22c55e\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #22c55e;
+      }
+    }
+  }
+  .hover\:bg-\[\#cc2c60\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #cc2c60;
+      }
+    }
+  }
+  .hover\:bg-amber-500 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-amber-500);
+      }
+    }
+  }
   .hover\:bg-blue-100 {
     &:hover {
       @media (hover: hover) {
         background-color: var(--color-blue-100);
+      }
+    }
+  }
+  .hover\:bg-blue-200 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-blue-200);
+      }
+    }
+  }
+  .hover\:bg-red-100 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-red-100);
       }
     }
   }
@@ -1378,6 +1630,13 @@
     &:hover {
       @media (hover: hover) {
         background-color: var(--color-zinc-200);
+      }
+    }
+  }
+  .hover\:bg-zinc-300 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-zinc-300);
       }
     }
   }
@@ -1806,11 +2065,11 @@ body {
   font-weight: 600;
   color: #697177;
 }
-figcaption {
+#content figcaption {
   text-align: center !important;
   font-style: italic !important;
 }
-figure.center {
+#content figure.center {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -1819,7 +2078,7 @@ figure.center {
 .gray img {
   filter: grayscale(100%);
 }
-figure img {
+#content figure img {
   border-radius: 16px;
 }
 @media (max-width: 768px) {
@@ -1936,6 +2195,21 @@ figure img {
   syntax: "*";
   inherits: false;
 }
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
 @property --tw-scale-x {
   syntax: "*";
   inherits: false;
@@ -1995,6 +2269,9 @@ figure img {
       --tw-drop-shadow-size: initial;
       --tw-duration: initial;
       --tw-ease: initial;
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
       --tw-scale-x: 1;
       --tw-scale-y: 1;
       --tw-scale-z: 1;

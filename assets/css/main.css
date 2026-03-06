@@ -17,11 +17,11 @@ body {
   font-weight: 600;
   color: #697177;
 }
-figcaption {
+#content figcaption {
   text-align: center !important;
   font-style: italic !important;
 }
-figure.center {
+#content figure.center {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -30,7 +30,7 @@ figure.center {
 .gray img {
   filter: grayscale(100%);
 }
-figure img {
+#content figure img {
   border-radius: 16px;
 }
 @media (max-width: 768px) {
