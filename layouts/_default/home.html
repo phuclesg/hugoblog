@@ -8,7 +8,8 @@
  <h1 style="color:black;font-size:2rem;font-weight: 600;margin: 1rem 1rem;">Featured</h1>
  <div class="flex mt-3">
   {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature") | first 1 -}}
-  <section class="relative group flex p-6 lg:p-10  mb-5 bg-zinc-100 rounded-3xl hover:bg-blue-100">
+  {{- $color := index .Site.Params.section_color .Section -}}
+  <section class="relative group flex p-6 lg:p-10  mb-5 rounded-3xl hover:bg-[{{ $color }}]/30 bg-[#f4f4f5]">
     <figure class="w-full aspect-video overflow-hidden rounded-2xl border">
 
       {{- if .Params.image }}
@@ -42,15 +43,15 @@
 <!-- / End feature post  -->
 <!-- Start recent post  -->
 
-  <!-- <section class="my-16">
+  <section class="my-16">
 
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Bài viết mới</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Bài mới</h2>
 
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-10">
 
     {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.mainSections) }}
 
@@ -82,7 +83,7 @@
     <a class="view-more" href="/{{ .section }}/">Xem thêm →</a>
   </section>
   {{ end }}
-{{ end }} -->
+{{ end }}
 
     <!-- Paginate here -->
 
