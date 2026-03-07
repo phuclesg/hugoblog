@@ -1510,14 +1510,14 @@
       width: calc(3 / 5 * 100%);
     }
   }
-  .md\:w-4\/5 {
-    @media (width >= 48rem) {
-      width: calc(4 / 5 * 100%);
-    }
-  }
   .md\:w-\[400px\] {
     @media (width >= 48rem) {
       width: 400px;
+    }
+  }
+  .md\:w-full {
+    @media (width >= 48rem) {
+      width: 100%;
     }
   }
   .md\:grid-cols-2 {
@@ -1856,7 +1856,7 @@
 }
 @layer component {
   .prose {
-    max-width: 80ch;
+    max-width: 90ch;
   }
 }
 body {

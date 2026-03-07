@@ -5,7 +5,7 @@
 
 @layer component {
     .prose {
-        max-width: 80ch;
+        max-width: 90ch;
     }
 }
 

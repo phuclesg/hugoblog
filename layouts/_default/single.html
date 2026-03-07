@@ -3,18 +3,11 @@
 
 <div class="flex flex-col md:flex-row gap-12 mb-12">
 
-  <article class="md:w-4/5">
+  <article class="md:w-full flex flex-col items-center">
 
     <header class="not-prose" >
       
-      <h1 id="title" class="text-4xl font-bold leading-normal">{{ .Title }}</h1>
-
-      <!-- <div id="lead" class="my-6">
-
-        <p class="font-bold">{{ .Params.description }} </p>
-
-      </div> -->
-      
+      <h1 id="title" class="text-4xl font-bold leading-normal">{{ .Title }}</h1>      
       <div id="writer" class="flex items-center space-x-4">
 
         {{- $name := .Site.Params.Author.name -}}
@@ -65,11 +58,11 @@
 
         <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2>
 
-        {{- $related := where .Site.RegularPages "Section" .Section | first 2 -}}
+        {{- $related := where .Site.RegularPages "Section" .Section | first 3 -}}
 
         {{- with $related -}}
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
 
           {{- range . }}
 
@@ -87,11 +80,11 @@
   </article>
 
   <!-- Aside -->
-  <aside class="md:w-1/5">
+  <!-- <aside class="md:w-1/5">
 
     {{- partial "content/aside.html" . -}}
     
-  </aside>
+  </aside> -->
 
 </div>
 
