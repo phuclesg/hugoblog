@@ -12,6 +12,9 @@
 body {
   font-family: 'Lora';
 }
+.page {
+  background-color: #fff;
+}
 #content {
   font-family: 'Lora', serif;
   font-weight: 600;

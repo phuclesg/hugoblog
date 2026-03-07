@@ -6,7 +6,7 @@
     {{ partial "/head/css.html" . }}
   {{ end }}
 </head>
-<body class="bg-[#f1bb50]/50">
+<body class="{{ .Kind }} bg-[#f1bb50]/50">
   <header name="top" class="py-6 border-b bg-[#348993] border-[#e5e7eb]">
     {{- partial "header.html" . -}}
   </header>
