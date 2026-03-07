@@ -802,6 +802,9 @@
   .max-w-7xl {
     max-width: var(--container-7xl);
   }
+  .max-w-full {
+    max-width: 100%;
+  }
   .max-w-md {
     max-width: var(--container-md);
   }
@@ -959,10 +962,6 @@
   .rounded-xl {
     border-radius: var(--radius-xl);
   }
-  .rounded-t-lg {
-    border-top-left-radius: var(--radius-lg);
-    border-top-right-radius: var(--radius-lg);
-  }
   .rounded-l-full {
     border-top-left-radius: calc(infinity * 1px);
     border-bottom-left-radius: calc(infinity * 1px);
@@ -1022,6 +1021,15 @@
   }
   .border-zinc-400 {
     border-color: var(--color-zinc-400);
+  }
+  .bg-\[\#348993\] {
+    background-color: #348993;
+  }
+  .bg-\[\#f1bb50\] {
+    background-color: #f1bb50;
+  }
+  .bg-\[\#f1bb50\]\/50 {
+    background-color: color-mix(in oklab, #f1bb50 50%, transparent);
   }
   .bg-\[\#f4f4f5\] {
     background-color: #f4f4f5;
@@ -1196,6 +1204,9 @@
   }
   .text-\[\#cc2c60\] {
     color: #cc2c60;
+  }
+  .text-black {
+    color: var(--color-black);
   }
   .text-gray-400 {
     color: var(--color-gray-400);
@@ -1395,6 +1406,46 @@
         content: var(--tw-content);
         --tw-content: none;
         content: none;
+      }
+    }
+  }
+  .hover\:translate-x-4 {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-x: calc(var(--spacing) * 4);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:translate-x-\[20px\] {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-x: 20px;
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:-translate-y-\[20px\] {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-y: calc(20px * -1);
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:translate-y-\[20px\] {
+    &:hover {
+      @media (hover: hover) {
+        --tw-translate-y: 20px;
+        translate: var(--tw-translate-x) var(--tw-translate-y);
+      }
+    }
+  }
+  .hover\:border-l-1 {
+    &:hover {
+      @media (hover: hover) {
+        border-left-style: var(--tw-border-style);
+        border-left-width: 1px;
       }
     }
   }
@@ -2001,6 +2052,21 @@ body {
   initial-value: "";
   inherits: false;
 }
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
 @keyframes spin {
   to {
     transform: rotate(360deg);
@@ -2044,6 +2110,9 @@ body {
       --tw-scale-y: 1;
       --tw-scale-z: 1;
       --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
     }
   }
 }

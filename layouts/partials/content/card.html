@@ -2,10 +2,10 @@
 {{- $sectionColors := .Site.Params.section_color -}}
 {{- $color := index $sectionColors $currentSection | default $sectionColors.default -}}
 
-<a href="{{ .Permalink }}" class="group block bg-zinc-100 rounded-lg">
+<a href="{{ .Permalink }}" class="group block bg-white rounded-lg">
 	<article class="relative h-full transition-all group-hover:bg-[{{ $color }}]/30 rounded-lg border-t-[4px] border-[{{ $color }}]">
 
-		<figure class="w-full aspect-video overflow-hidden rounded-t-lg">
+		<figure class="w-full aspect-video overflow-hidden">
 
 			{{- if .Params.image }}
 			
