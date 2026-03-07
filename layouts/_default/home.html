@@ -102,7 +102,7 @@
 <!-- / End recent post  -->
 
 <!-- Category Post -->
-<section class="mb-16">
+<section class="mb-16 my-8">
 
     {{ $cat := "nhan-vat" }}
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
@@ -123,8 +123,8 @@
     </div>
 
   </section>
-<hr class="my-8 border-[#e5e7eb]">
-  <section class="mb-16">
+
+  <section class="mb-16 my-8">
 
     {{ $cat := "cuoc-song" }}
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
@@ -147,8 +147,7 @@
 
   </section>
 
-  <hr class="my-8 border-[#e5e7eb]">
-  <section class="mb-16">
+  <section class="mb-16 my-8">
 
     {{ $cat := "mon-ngon" }}
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
