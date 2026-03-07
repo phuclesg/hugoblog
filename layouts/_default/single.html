@@ -65,7 +65,7 @@
 
         <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2>
 
-        {{- $related := .Site.RegularPages.Related . | first 2 -}}
+        {{- $related := where .Site.RegularPages "Section" .Section | first 2 -}}
 
         {{- with $related -}}
 
