@@ -9,9 +9,8 @@ Renders a menu for the given menu ID.
 
 {{- $page := .page }}
 {{- $menuID := .menuID }}
-
 {{- with index site.Menus $menuID }}
-  <nav id="menu-bar" class="block mt-3 open">
+  <nav class="block mt-3">
     <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </ul>
@@ -23,7 +22,7 @@ Renders a menu for the given menu ID.
   {{- range .menuEntries }}
     {{- $attrs := dict "href" .URL }}
     {{- /* Add the "rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" class to all links */}}
-    {{- $attrs = merge $attrs (dict "class" "px-6 py-1 text-white transform hover:translate-x-4") }}
+    {{- $attrs = merge $attrs (dict "class" "px-6 py-1 text-white hover:text-red-300") }}
     
     {{- if $page.IsMenuCurrent .Menu . }}
       {{- /* Add the "active:bg-zinc-300" class if the link is the current page */}}

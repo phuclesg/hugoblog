@@ -91,8 +91,8 @@
 
   
 </head>
-<body class="bg-[#f1bb50]">
-  <header name="top" class="py-6 border-b border-[#e5e7eb]"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+<body class="bg-[#f1bb50]/50">
+  <header name="top" class="py-6 border-b bg-[#348993] border-[#e5e7eb]"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
 	<div class="flex items-center">
 		<div class="flex items-center">
 			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
@@ -128,19 +128,19 @@
 			</button>
 		</div>
 	</div>
-  <nav id="menu-bar" class="block mt-3 open">
+  <nav class="block mt-3">
     <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
     <li class="my-2">
-      <a class="rounded-full border border-[#e5e7eb] px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/">Trang chủ</a>
+      <a class="px-6 py-1 text-white transform hover:translate-x-4" href="/">Trang chủ</a>
     </li>
     <li class="my-2">
       <a aria-current="true" class="ancestor" href="/cuoc-song/">Cuộc sống</a>
     </li>
     <li class="my-2">
-      <a class="rounded-full border border-[#e5e7eb] px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/mon-ngon/">Món ngon</a>
+      <a class="px-6 py-1 text-white transform hover:translate-x-4" href="/mon-ngon/">Món ngon</a>
     </li>
     <li class="my-2">
-      <a class="rounded-full border border-[#e5e7eb] px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/nhan-vat/">Nhân vật</a>
+      <a class="px-6 py-1 text-white transform hover:translate-x-4" href="/nhan-vat/">Nhân vật</a>
     </li>
     </ul>
   </nav><div id="search-bar" class="block mt-3 close">
@@ -189,7 +189,7 @@ fetch("/index.json")
     })
   })
 </script></div></header>
-  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+  <main class="max-w-full mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
 	<ul class="flex space-x-4 text-sm text-zinc-500">
 		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
 			<a href="http://localhost:1313/">Nam Kỳ Xưa</a>
@@ -328,7 +328,7 @@ Khu vực này không chỉ là nơi yên nghỉ của một nhân vật lịch 
 </script></div>
      <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/truong-petrus-ky-lich-su-va-dau-an-tai-sai-gon/" class="group block bg-zinc-100 rounded-lg">
+        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/truong-petrus-ky-lich-su-va-dau-an-tai-sai-gon/" class="group block bg-white rounded-lg">
 	<article class="relative h-full transition-all group-hover:bg-[#3b82f6]/30 rounded-lg border-t-[4px] border-[#3b82f6]">
 
 		<figure class="w-full aspect-video overflow-hidden">
@@ -354,7 +354,7 @@ Khu vực này không chỉ là nơi yên nghỉ của một nhân vật lịch 
 
 		</div>
 	</article>
-</a><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/nhung-chuyen-pha-mien-tay/" class="group block bg-zinc-100 rounded-lg">
+</a><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/nhung-chuyen-pha-mien-tay/" class="group block bg-white rounded-lg">
 	<article class="relative h-full transition-all group-hover:bg-[#3b82f6]/30 rounded-lg border-t-[4px] border-[#3b82f6]">
 
 		<figure class="w-full aspect-video overflow-hidden">
@@ -490,7 +490,7 @@ Khu vực này không chỉ là nơi yên nghỉ của một nhân vật lịch 
 </div>
 
 </main>
-  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+  <footer class="bg-[#348993] py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 text-white">
 
   <div class="grid grid-cols-1 md:grid-cols-3 space-y-6 mb-4">
 
@@ -523,7 +523,7 @@ Khu vực này không chỉ là nơi yên nghỉ của một nhân vật lịch 
 
     <div class="flex items-start justify-center">
 
-      <ul id="social-media" class="flex items-center space-x-4">
+      <ul id="social-media" class="flex items-center space-x-4 text-black">
 	<li>
 		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/phucsg.lhp" target="_blank" rel="noopener noreferrer">
 			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
