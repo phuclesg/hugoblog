@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
 <meta name="description" content="Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.">
 
 <meta name="keywords" content="">
@@ -177,14 +178,11 @@ fetch("/index.json")
 	</ul>
 </div><div class="flex flex-col md:flex-row gap-12 mb-12">
 
-  <article class="md:w-full">
+  <article class="md:w-full flex flex-col items-center">
 
     <header class="not-prose" >
       
-      <h1 id="title" class="text-4xl font-bold leading-normal">Tìm kiếm</h1>
-
-      
-      
+      <h1 id="title" class="text-4xl font-bold leading-normal">Tìm kiếm</h1>      
       <div id="writer" class="flex items-center space-x-4"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
           
           <li class="font-semibold my-2">Phúc Mập</li>
@@ -208,7 +206,7 @@ fetch("/index.json")
 
     <footer id="content-footer" class="not-prose">
 
-      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl"><div class="form-email my-4">
+      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl"><div class="form-email flex flex-col items-center my-4">
     <h1 class="text-xl mb-4 uppercase font-bold">Liên lạc với tôi</h1>
     <form id="contact-form" class="flex flex-col gap-12">
     <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-auto md:w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
@@ -258,30 +256,7 @@ fetch("/index.json")
 </script></div>
      <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><a href="http://localhost:1313/search/" class="group block bg-white rounded-lg">
-	<article class="relative h-full transition-all group-hover:bg-[#6b7280]/30 rounded-lg border-t-[4px] border-[#6b7280]">
-
-		<figure class="w-full aspect-video overflow-hidden">
-
-		</figure>
-
-		<div class="p-6">
-			<div class="flex">
-				<h3 style="margin-right: 0.5rem;border: 1px solid;border-radius: 1.5rem;padding: 0 1rem;border-color: #e5e7eb;">
-					Nam Kỳ Xưa
-				</h3>
-
-				<time datetime="0001-01-01T00:00:00&#43;00:00">01/01/0001</time>
-			</div>
-			<h3 class="my-4 text-xl font-bold">Tìm kiếm</h3>
-
-			<p class="text-normal leading-normal text-zinc-500 line-clamp-2"></p>
-
-		</div>
-	</article>
-</a>
-          
-        </div>
+        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2>
       </div>
 
     </footer>
@@ -449,5 +424,12 @@ fetch("/index.json")
   });
 </script>
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+const lightbox = GLightbox({
+  selector: '.glightbox'
+})
+</script>
 </body>
 </html>

@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
 <meta name="description" content="Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới">
 
 <meta name="keywords" content="">
@@ -180,14 +181,11 @@ fetch("/index.json")
 	</ul>
 </div><div class="flex flex-col md:flex-row gap-12 mb-12">
 
-  <article class="md:w-full">
+  <article class="md:w-full flex flex-col items-center">
 
     <header class="not-prose" >
       
-      <h1 id="title" class="text-4xl font-bold leading-normal">Tết miền nam xưa - Những ký ức không bao giờ phai</h1>
-
-      
-      
+      <h1 id="title" class="text-4xl font-bold leading-normal">Tết miền nam xưa - Những ký ức không bao giờ phai</h1>      
       <div id="writer" class="flex items-center space-x-4"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
           
           <li class="font-semibold my-2">Phúc Mập</li>
@@ -208,30 +206,36 @@ fetch("/index.json")
     <div id="content" class="mb-14 prose lg:prose-lg">
       <p>Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.</p>
 <figure >
-    <img src="https://media.namkyxua.com/images/tet-nam-ky-xua.webp"
+    <a href="https://media.namkyxua.com/images/tet-nam-ky-xua.webp" class="glightbox">
+        <img src="https://media.namkyxua.com/images/tet-nam-ky-xua.webp"
          alt="Tết nam kỳ xưa"
          
          >
+    </a>
     <figcaption>Cảnh mua bán tấp nập tết xưa</figcaption>
 </figure>
 
 <p>Nhớ những ngày cuối năm, khắp các con hẻm Sài Gòn, những gánh hàng rong chở đầy <strong>bánh tét xanh mướt, bánh bông lan, mứt dừa, mứt gừng</strong> len lỏi trong không khí se lạnh đầu xuân. Tiếng rao của người bán “Bánh tét đây! Bánh tét đây!” vang vọng, như nhắc nhở mọi người chuẩn bị cho một mùa Tết ấm áp.</p>
 <p>Trên những con đường nhỏ, cây mai vàng được bày bán khắp nơi. Ai cũng muốn chọn một cành mai thật đẹp để về trang trí trong nhà. Những gia đình miền Nam xưa tin rằng mai vàng nở đúng vào ngày Tết sẽ mang may mắn, tài lộc cả năm. Trong khi đó, cây tắt với quả tròn căng mọng được trưng trong phòng khách, là biểu tượng của sự đủ đầy, sum vầy.</p>
 <figure >
-    <img src="https://media.namkyxua.com/images/tet-nam-ky1.webp"
+    <a href="https://media.namkyxua.com/images/tet-nam-ky1.webp" class="glightbox">
+        <img src="https://media.namkyxua.com/images/tet-nam-ky1.webp"
          alt="Tết nam kỳ xưa"
          
          >
+    </a>
     <figcaption>Cảnh mua bán tấp nập tết xưa</figcaption>
 </figure>
 
 <p>Không khí Tết miền Nam xưa còn tràn ngập tiếng cười của trẻ con. Chúng ríu rít chạy quanh nhà, háo hức chờ lì xì, những bao lì xì đỏ in hình hoa mai, hoa đào mà ông bà trao tay với nụ cười hiền hậu. Trong từng câu chuyện, từng lời chúc, người ta gửi gắm bao ước mơ và hy vọng cho một năm mới bình an.</p>
 <p>Bên bếp lửa hồng, những nồi bánh tét được gói cẩn thận, luộc trong nhiều giờ. Mùi nếp, đậu xanh, thịt mỡ lan tỏa khắp nhà, khiến bất cứ ai bước chân vào cũng thấy Tết đến thật gần. Mâm cỗ Tết miền Nam xưa giản dị nhưng đậm đà: <strong>dưa món, củ kiệu, thịt kho hột vịt, canh khổ qua nhồi</strong> – mỗi món đều gói trọn tình cảm của gia đình, của quê hương.</p>
 <figure >
-    <img src="https://media.namkyxua.com/images/tet-nam-ky-xua3.webp"
+    <a href="https://media.namkyxua.com/images/tet-nam-ky-xua3.webp" class="glightbox">
+        <img src="https://media.namkyxua.com/images/tet-nam-ky-xua3.webp"
          alt="Tết nam kỳ xưa"
          
          >
+    </a>
     <figcaption>Cảnh gói bánh tét</figcaption>
 </figure>
 
@@ -241,7 +245,7 @@ fetch("/index.json")
 
     <footer id="content-footer" class="not-prose">
 
-      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl"><div class="form-email my-4">
+      <div id="comment" class="border border-[#e5e7eb] p-8 bg-zinc-100 rounded-2xl"><div class="form-email flex flex-col items-center my-4">
     <h1 class="text-xl mb-4 uppercase font-bold">Liên lạc với tôi</h1>
     <form id="contact-form" class="flex flex-col gap-12">
     <input class="border-1 focus:outline-none border-[#e5e7eb] rounded-[16px] w-auto md:w-[400px] pl-[10px] h-12" type="text" name="name" placeholder="Nhập tên bạn" required />
@@ -291,7 +295,7 @@ fetch("/index.json")
 </script></div>
      <div id="related-post" class="">
 
-        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/truong-petrus-ky-lich-su-va-dau-an-tai-sai-gon/" class="group block bg-white rounded-lg">
+        <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2><div class="grid grid-cols-1 md:grid-cols-3 gap-6"><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/truong-petrus-ky-lich-su-va-dau-an-tai-sai-gon/" class="group block bg-white rounded-lg">
 	<article class="relative h-full transition-all group-hover:bg-[#3b82f6]/30 rounded-lg border-t-[4px] border-[#3b82f6]">
 
 		<figure class="w-full aspect-video overflow-hidden">
@@ -340,6 +344,32 @@ fetch("/index.json")
 			<h3 class="my-4 text-xl font-bold">Những chuyến phà miền Tây</h3>
 
 			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.</p>
+
+		</div>
+	</article>
+</a><a href="http://localhost:1313/cuoc-song-nguoi-nam-ky/lai-thieu-vung-dat-trai-ngot-gom-xua/" class="group block bg-white rounded-lg">
+	<article class="relative h-full transition-all group-hover:bg-[#3b82f6]/30 rounded-lg border-t-[4px] border-[#3b82f6]">
+
+		<figure class="w-full aspect-video overflow-hidden">
+				
+				<img class="object-cover cursor-pointer" 
+					src="https://media.namkyxua.com/images/lai-thieu.jpg" 
+					alt="Lái Thiêu - &#34;Vùng đất trái ngọt Gốm xưa&#34;" 
+					style="width: 100%; height: 100%; object-fit: cover;">
+
+		</figure>
+
+		<div class="p-6">
+			<div class="flex">
+				<h3 style="margin-right: 0.5rem;border: 1px solid;border-radius: 1.5rem;padding: 0 1rem;border-color: #e5e7eb;">
+					Cuộc sống
+				</h3>
+
+				<time datetime="2026-02-14T20:48:08&#43;07:00">14/02/2026</time>
+			</div>
+			<h3 class="my-4 text-xl font-bold">Lái Thiêu - &#34;Vùng đất trái ngọt Gốm xưa&#34;</h3>
+
+			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu – một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian</p>
 
 		</div>
 	</article>
@@ -513,5 +543,12 @@ fetch("/index.json")
   });
 </script>
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+const lightbox = GLightbox({
+  selector: '.glightbox'
+})
+</script>
 </body>
 </html>

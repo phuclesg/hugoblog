@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
 <meta name="description" content="Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động.">
 
 <meta name="keywords" content="">
@@ -437,5 +438,12 @@ fetch("/index.json")
   });
 </script>
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+const lightbox = GLightbox({
+  selector: '.glightbox'
+})
+</script>
 </body>
 </html>
