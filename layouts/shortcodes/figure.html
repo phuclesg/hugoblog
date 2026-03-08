@@ -1,6 +1,6 @@
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
     <a href="{{ .Site.Params.mediaBaseURL }}{{ .Get "src" }}" class="glightbox">
-        <img src="{{ .Site.Params.mediaBaseURL }}{{ .Get "src" }}"
+        <img class="full" src="{{ .Site.Params.mediaBaseURL }}{{ .Get "src" }}"
          {{ with .Get "alt" }}alt="{{ . }}"{{ end }}
          {{ with .Get "title" }}title="{{ . }}"{{ end }}
          {{ with .Get "style" }}style="{{ . }}"{{ end }}>

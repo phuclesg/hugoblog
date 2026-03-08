@@ -5,12 +5,18 @@
 
 @layer component {
     .prose {
-        max-width: 90ch;
+        max-width: 60ch;
     }
 }
-
 body {
   font-family: 'Lora';
+}
+.prose img.full {
+  position: relative;
+  left: 50%;
+  width: auto;
+  max-width: 110ch;
+  transform: translateX(-50%);
 }
 .page {
   background-color: #fff;
@@ -20,6 +26,7 @@ body {
   font-weight: 600;
   color: #697177;
 }
+
 #content figcaption {
   text-align: center !important;
   font-style: italic !important;
@@ -34,7 +41,7 @@ body {
   filter: grayscale(100%);
 }
 #content figure img {
-  border-radius: 16px;
+  border-radius: 4px;
 }
 @media (max-width: 768px) {
   div#content h1, div#content h2 {

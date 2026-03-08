@@ -803,9 +803,6 @@
   .max-w-7xl {
     max-width: var(--container-7xl);
   }
-  .max-w-full {
-    max-width: 100%;
-  }
   .max-w-md {
     max-width: var(--container-md);
   }
@@ -1505,6 +1502,11 @@
       width: 400px;
     }
   }
+  .md\:w-\[600px\] {
+    @media (width >= 48rem) {
+      width: 600px;
+    }
+  }
   .md\:w-full {
     @media (width >= 48rem) {
       width: 100%;
@@ -1846,11 +1848,18 @@
 }
 @layer component {
   .prose {
-    max-width: 90ch;
+    max-width: 60ch;
   }
 }
 body {
   font-family: 'Lora';
+}
+.prose img.full {
+  position: relative;
+  left: 50%;
+  width: auto;
+  max-width: 110ch;
+  transform: translateX(-50%);
 }
 .page {
   background-color: #fff;
@@ -1874,7 +1883,7 @@ body {
   filter: grayscale(100%);
 }
 #content figure img {
-  border-radius: 16px;
+  border-radius: 4px;
 }
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
