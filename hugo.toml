@@ -30,8 +30,8 @@ removePathAccents = true
     mediaBaseURL = 'https://media.namkyxua.com'
 [params.section_color]
     mon-ngon = "#cc2c60"
-    nhan-vat = "#6f99bf"
-    cuoc-song = "#7fd1d5"
+    nhan-vat = "#5a51bf"
+    cuoc-song = "#b07e44"
     default = "#348993"
 [related]
   includeNewer = true

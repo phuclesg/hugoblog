@@ -1,4 +1,4 @@
-<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+<figure {{ with .Get "class" }}class="{{ . }} not-prose"{{ end }}>
     <a href="{{ .Site.Params.mediaBaseURL }}{{ .Get "src" }}" class="glightbox">
         <img class="full" src="{{ .Site.Params.mediaBaseURL }}{{ .Get "src" }}"
          {{ with .Get "alt" }}alt="{{ . }}"{{ end }}

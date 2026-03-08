@@ -22,14 +22,27 @@ body {
   background-color: #fff;
 }
 #content {
-  font-family: 'Lora', serif;
-  font-weight: 600;
-  color: #697177;
+  font-family: 'Lora';
+  font-weight: 300;
+  color: #525252;
+}
+#content h1 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+#content h2 {
+  font-size: 1.8rem;
+  line-height: 2rem;
+}
+#content h3 {
+  font-size: 1.2rem;
+  line-height: 1.5rem;
 }
 
 #content figcaption {
   text-align: center !important;
   font-style: italic !important;
+  margin-top: 0.5rem !important;
 }
 #content figure.center {
   display: flex;

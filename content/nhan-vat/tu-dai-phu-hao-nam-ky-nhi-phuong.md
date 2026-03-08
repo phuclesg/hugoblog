@@ -6,7 +6,7 @@ description = 'Đỗ Hữu Phương (1841–1914), thường được gọi là 
 author = 'Phúc Mập'
 slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
 comment = true
-image = 'images/do-doc-phuong.jpg'
+image = '/images/do-doc-phuong.jpg'
 +++
 ## Tứ đại phú hộ nam kỳ xưa - Kỳ 2:
 ## Nhì Phương – Đỗ Hữu Phương, vị phú hộ nhiều quyền thế ở Nam Kỳ
@@ -14,7 +14,7 @@ image = 'images/do-doc-phuong.jpg'
 
 Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn – trung tâm thương mại phồn hoa của Nam Kỳ. Ông xuất thân trong một gia đình gốc Minh Hương khá giả, từ nhỏ đã quen môi trường buôn bán, giao thương, và được học chữ Nho lẫn chữ Pháp, nhờ vậy sớm trở thành người có uy tín cả với người Việt lẫn giới Hoa kiều.
 
-
+{{< figure src="/images/do-doc-phuong.webp" caption="Đô Đốc Phương" class="center" >}}
 
 ### 2. Bước vào hàng ngũ phú hộ
 

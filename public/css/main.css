@@ -1004,11 +1004,11 @@
     --tw-border-style: dashed;
     border-style: dashed;
   }
-  .border-\[\#6f99bf\] {
-    border-color: #6f99bf;
+  .border-\[\#5a51bf\] {
+    border-color: #5a51bf;
   }
-  .border-\[\#7fd1d5\] {
-    border-color: #7fd1d5;
+  .border-\[\#b07e44\] {
+    border-color: #b07e44;
   }
   .border-\[\#cc2c60\] {
     border-color: #cc2c60;
@@ -1025,14 +1025,14 @@
   .border-zinc-400 {
     border-color: var(--color-zinc-400);
   }
-  .bg-\[\#6f99bf\] {
-    background-color: #6f99bf;
-  }
-  .bg-\[\#7fd1d5\] {
-    background-color: #7fd1d5;
+  .bg-\[\#5a51bf\] {
+    background-color: #5a51bf;
   }
   .bg-\[\#348993\] {
     background-color: #348993;
+  }
+  .bg-\[\#b07e44\] {
+    background-color: #b07e44;
   }
   .bg-\[\#cc2c60\] {
     background-color: #cc2c60;
@@ -1202,14 +1202,14 @@
   .whitespace-nowrap {
     white-space: nowrap;
   }
-  .text-\[\#6f99bf\] {
-    color: #6f99bf;
-  }
-  .text-\[\#7fd1d5\] {
-    color: #7fd1d5;
+  .text-\[\#5a51bf\] {
+    color: #5a51bf;
   }
   .text-\[\#348993\] {
     color: #348993;
+  }
+  .text-\[\#b07e44\] {
+    color: #b07e44;
   }
   .text-\[\#cc2c60\] {
     color: #cc2c60;
@@ -1287,17 +1287,17 @@
       }
     }
   }
-  .group-hover\:bg-\[\#6f99bf\]\/30 {
+  .group-hover\:bg-\[\#5a51bf\]\/30 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #6f99bf 30%, transparent);
+        background-color: color-mix(in oklab, #5a51bf 30%, transparent);
       }
     }
   }
-  .group-hover\:bg-\[\#7fd1d5\]\/30 {
+  .group-hover\:bg-\[\#b07e44\]\/30 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #7fd1d5 30%, transparent);
+        background-color: color-mix(in oklab, #b07e44 30%, transparent);
       }
     }
   }
@@ -1408,10 +1408,10 @@
       }
     }
   }
-  .hover\:bg-\[\#6f99bf\]\/30 {
+  .hover\:bg-\[\#5a51bf\]\/30 {
     &:hover {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #6f99bf 30%, transparent);
+        background-color: color-mix(in oklab, #5a51bf 30%, transparent);
       }
     }
   }
@@ -1869,13 +1869,26 @@ body {
   background-color: #fff;
 }
 #content {
-  font-family: 'Lora', serif;
-  font-weight: 600;
-  color: #697177;
+  font-family: 'Lora';
+  font-weight: 300;
+  color: #525252;
+}
+#content h1 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+#content h2 {
+  font-size: 1.8rem;
+  line-height: 2rem;
+}
+#content h3 {
+  font-size: 1.2rem;
+  line-height: 1.5rem;
 }
 #content figcaption {
   text-align: center !important;
   font-style: italic !important;
+  margin-top: 0.5rem !important;
 }
 #content figure.center {
   display: flex;
