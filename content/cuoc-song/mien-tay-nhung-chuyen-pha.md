@@ -53,6 +53,7 @@ Những năm cao điểm, bến phà này kẹt xe kéo dài nhiều giờ. Ngư
 Khi cầu Cần Thơ khánh thành năm 2010, phà chính thức ngừng hoạt động. Nhiều người vui vì đỡ cực, nhưng cũng không ít người tiếc một phần ký ức.
 
 3. **Phà Rạch Miễu - con đường về xứ dừa**
+
 {{< figure src="/images/pha-rach-mieu.webp" alt="những chuyến phà miền tây" caption="Phà Rạch Miễu" class="center" >}}
 
 Trước khi có cầu, muốn qua Bến Tre phải đi Phà Rạch Miễu.

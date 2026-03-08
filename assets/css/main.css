@@ -87,5 +87,10 @@ div#backtop button.visible {
   .title-site h1 {
     font-size: 2rem;
   }
+  .prose img.full {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
 
 }

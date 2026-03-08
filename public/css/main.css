@@ -12,7 +12,6 @@
     --color-amber-200: oklch(92.4% 0.12 95.746);
     --color-blue-100: oklch(93.2% 0.032 255.585);
     --color-blue-500: oklch(62.3% 0.214 259.815);
-    --color-gray-400: oklch(70.7% 0.022 261.325);
     --color-gray-500: oklch(55.1% 0.027 264.364);
     --color-zinc-100: oklch(96.7% 0.001 286.375);
     --color-zinc-200: oklch(92% 0.004 286.32);
@@ -240,9 +239,6 @@
   .my-2 {
     margin-block: calc(var(--spacing) * 2);
   }
-  .my-3 {
-    margin-block: calc(var(--spacing) * 3);
-  }
   .my-4 {
     margin-block: calc(var(--spacing) * 4);
   }
@@ -257,9 +253,6 @@
   }
   .my-16 {
     margin-block: calc(var(--spacing) * 16);
-  }
-  .ms-auto {
-    margin-inline-start: auto;
   }
   .prose {
     color: var(--tw-prose-body);
@@ -1224,9 +1217,6 @@
   .text-black {
     color: var(--color-black);
   }
-  .text-gray-400 {
-    color: var(--color-gray-400);
-  }
   .text-gray-500 {
     color: var(--color-gray-500);
   }
@@ -1936,6 +1926,14 @@ div#backtop button.visible {
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
+  }
+  .title-site h1 {
+    font-size: 2rem;
+  }
+  .prose img.full {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
   }
 }
 @property --tw-rotate-x {
