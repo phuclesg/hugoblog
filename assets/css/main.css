@@ -90,7 +90,9 @@ div#backtop button.hidden {
 div#backtop button.visible {
   opacity: 1;
 }
-
+.ancestor {
+  color: rgb(0, 0, 0);
+}
 
 
 @media (max-width: 768px) {

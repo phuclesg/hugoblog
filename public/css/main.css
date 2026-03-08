@@ -868,9 +868,6 @@
   .justify-center {
     justify-content: center;
   }
-  .justify-evenly {
-    justify-content: space-evenly;
-  }
   .gap-3 {
     gap: calc(var(--spacing) * 3);
   }
@@ -1182,10 +1179,6 @@
     font-size: var(--text-7xl);
     line-height: var(--tw-leading, var(--text-7xl--line-height));
   }
-  .text-\[1rem\]\/8 {
-    font-size: 1rem;
-    line-height: calc(var(--spacing) * 8);
-  }
   .text-\[1rem\]\/10 {
     font-size: 1rem;
     line-height: calc(var(--spacing) * 10);
@@ -1201,9 +1194,6 @@
   .text-xs {
     font-size: var(--text-xs);
     line-height: var(--tw-leading, var(--text-xs--line-height));
-  }
-  .text-\[1rem\] {
-    font-size: 1rem;
   }
   .leading-none {
     --tw-leading: 1;
@@ -1604,16 +1594,6 @@
       line-height: var(--tw-leading, var(--text-4xl--line-height));
     }
   }
-  .md\:text-\[1rem\] {
-    @media (width >= 48rem) {
-      font-size: 1rem;
-    }
-  }
-  .md\:text-\[2rem\] {
-    @media (width >= 48rem) {
-      font-size: 2rem;
-    }
-  }
   .lg\:sticky {
     @media (width >= 64rem) {
       position: sticky;
@@ -1885,21 +1865,10 @@
       line-height: var(--tw-leading, var(--text-5xl--line-height));
     }
   }
-  .landscape\:text-\[0\.8rem\]\/6 {
-    @media (orientation: landscape) {
-      font-size: 0.8rem;
-      line-height: calc(var(--spacing) * 6);
-    }
-  }
   .landscape\:text-\[0\.8rem\]\/8 {
     @media (orientation: landscape) {
       font-size: 0.8rem;
       line-height: calc(var(--spacing) * 8);
-    }
-  }
-  .landscape\:text-\[0\.8rem\] {
-    @media (orientation: landscape) {
-      font-size: 0.8rem;
     }
   }
 }
@@ -1988,6 +1957,9 @@ div#backtop button.hidden {
 }
 div#backtop button.visible {
   opacity: 1;
+}
+.ancestor {
+  color: rgb(0, 0, 0);
 }
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
