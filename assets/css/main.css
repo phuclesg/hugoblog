@@ -84,5 +84,8 @@ div#backtop button.visible {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
   }
+  .title-site h1 {
+    font-size: 2rem;
+  }
 
 }
