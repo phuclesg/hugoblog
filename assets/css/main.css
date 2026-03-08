@@ -43,6 +43,43 @@ body {
 #content figure img {
   border-radius: 4px;
 }
+.title-site {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 3rem 3rem;
+}
+.title-site h1 {
+  font-size: 4rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  margin: 0 0 1rem;
+}
+.title-site p {
+  font-size: 1.5rem;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 500;
+}
+div.button-btt > button {
+  border-radius: 50%;
+  position: fixed;
+  right: 30px;
+  bottom: 20px;
+  z-index: 999;
+  color: #fff;
+  background-color: #ffb341;
+  cursor: pointer;
+}
+div#backtop button.hidden {
+  opacity: 0;
+}
+div#backtop button.visible {
+  opacity: 1;
+}
+
+
+
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
