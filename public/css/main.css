@@ -996,11 +996,11 @@
     --tw-border-style: dashed;
     border-style: dashed;
   }
-  .border-\[\#3b82f6\] {
-    border-color: #3b82f6;
+  .border-\[\#6f99bf\] {
+    border-color: #6f99bf;
   }
-  .border-\[\#22c55e\] {
-    border-color: #22c55e;
+  .border-\[\#7fd1d5\] {
+    border-color: #7fd1d5;
   }
   .border-\[\#cc2c60\] {
     border-color: #cc2c60;
@@ -1017,8 +1017,17 @@
   .border-zinc-400 {
     border-color: var(--color-zinc-400);
   }
+  .bg-\[\#6f99bf\] {
+    background-color: #6f99bf;
+  }
+  .bg-\[\#7fd1d5\] {
+    background-color: #7fd1d5;
+  }
   .bg-\[\#348993\] {
     background-color: #348993;
+  }
+  .bg-\[\#cc2c60\] {
+    background-color: #cc2c60;
   }
   .bg-\[\#f1bb50\]\/50 {
     background-color: color-mix(in oklab, #f1bb50 50%, transparent);
@@ -1185,14 +1194,14 @@
   .whitespace-nowrap {
     white-space: nowrap;
   }
-  .text-\[\#3b82f6\] {
-    color: #3b82f6;
+  .text-\[\#6f99bf\] {
+    color: #6f99bf;
   }
-  .text-\[\#6b7280\] {
-    color: #6b7280;
+  .text-\[\#7fd1d5\] {
+    color: #7fd1d5;
   }
-  .text-\[\#22c55e\] {
-    color: #22c55e;
+  .text-\[\#348993\] {
+    color: #348993;
   }
   .text-\[\#cc2c60\] {
     color: #cc2c60;
@@ -1273,17 +1282,17 @@
       }
     }
   }
-  .group-hover\:bg-\[\#3b82f6\]\/30 {
+  .group-hover\:bg-\[\#6f99bf\]\/30 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #3b82f6 30%, transparent);
+        background-color: color-mix(in oklab, #6f99bf 30%, transparent);
       }
     }
   }
-  .group-hover\:bg-\[\#22c55e\]\/30 {
+  .group-hover\:bg-\[\#7fd1d5\]\/30 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #22c55e 30%, transparent);
+        background-color: color-mix(in oklab, #7fd1d5 30%, transparent);
       }
     }
   }
@@ -1394,10 +1403,10 @@
       }
     }
   }
-  .hover\:bg-\[\#22c55e\]\/30 {
+  .hover\:bg-\[\#6f99bf\]\/30 {
     &:hover {
       @media (hover: hover) {
-        background-color: color-mix(in oklab, #22c55e 30%, transparent);
+        background-color: color-mix(in oklab, #6f99bf 30%, transparent);
       }
     }
   }
@@ -1495,11 +1504,6 @@
   .md\:w-3\/5 {
     @media (width >= 48rem) {
       width: calc(3 / 5 * 100%);
-    }
-  }
-  .md\:w-\[400px\] {
-    @media (width >= 48rem) {
-      width: 400px;
     }
   }
   .md\:w-\[600px\] {
@@ -1883,7 +1887,7 @@ body {
   filter: grayscale(100%);
 }
 #content figure img {
-  border-radius: 4px;
+  border-radius: 4%;
 }
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
