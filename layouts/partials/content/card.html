@@ -43,11 +43,11 @@
 
 		<div class="p-6">
 			<div class="flex">
-				<h3 class="mr-[1rem] border text-[1rem] landscape:text-[0.8rem]/6 rounded-[1.5rem] px-[1rem] py-0 border-[#e5e7eb]">
+				<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#e5e7eb]">
 					{{ .CurrentSection.Title }}
 				</h3>
 
-				<time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ .Date.Format "02/01/2006" }}</time>
+				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ .Date.Format "02/01/2006" }}</time>
 			</div>
 			<h3 class="my-4 text-xl font-bold">{{ .LinkTitle }}</h3>
 
