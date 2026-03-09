@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nhan-vat/cha-diep-vi-linh-muc-kinh-men-cua-mien-tay-nam-bo/</loc>
-    <lastmod>2026-03-07T17:55:21+07:00</lastmod>
+    <loc>http://localhost:1313/mon-ngon/huong-vi-lau-mam-mien-tay/</loc>
+    <lastmod>2026-03-09T17:05:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/mon-ngon/</loc>
+    <lastmod>2026-03-09T17:05:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-09T17:05:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/nhan-vat/cha-diep-vi-linh-muc-kinh-men-cua-mien-tay-nam-bo/</loc>
     <lastmod>2026-03-07T17:55:21+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,11 +38,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/mon-ngon/canh-chua-trai-ban-ca-bong-lau/</loc>
-    <lastmod>2026-02-27T21:03:27+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/mon-ngon/</loc>
     <lastmod>2026-02-27T21:03:27+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
