@@ -58,7 +58,7 @@
         <h2 class="text-xl md:text-2xl font-bold my-6 md:my-8">Bài viết liên quan</h2>
 
         {{- $related := where .Site.RegularPages "Section" .Section -}}
-        {{- $related = where $related "Permalink" "ne" .Permalink | first 3 -}}
+        {{- $related = shuffle (where $related "Permalink" "ne" .Permalink) | first 3 -}}
         {{- with $related -}}
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
