@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/cuoc-song/</loc>
+    <lastmod>2026-03-12T21:24:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cuoc-song-nguoi-nam-ky/%C4%91on-ca-tai-tu-nam-bo-net-van-hoa-cua-mien-song-nuoc/</loc>
+    <lastmod>2026-03-12T21:24:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-12T21:24:49+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/mon-ngon/huong-vi-lau-mam-mien-tay/</loc>
     <lastmod>2026-03-09T17:05:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/mon-ngon/</loc>
-    <lastmod>2026-03-09T17:05:31+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-09T17:05:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,11 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/nhan-vat/</loc>
     <lastmod>2026-03-07T17:55:21+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cuoc-song/</loc>
-    <lastmod>2026-03-04T10:33:34+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
