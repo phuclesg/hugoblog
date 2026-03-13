@@ -11,10 +11,11 @@
       <div id="writer" class="flex items-center my-6">
 
         {{- $name := .Params.author | default .Site.Params.Author.name -}}
+        {{- $avatarlink := .Site.Params.mediaBaseURL -}}
 
         {{- with $avatar := .Params.avatar | default .Site.Params.Author.avatar }}
 
-        <img class="w-12 h-12 bg-black rounded-full mx-2" src="{{ $.Site.Params.mediaBaseURL}}{{ $avatar }}" alt="{{ $name }} avatar" width="50" height="50">
+        <img class="w-12 h-12 bg-black rounded-full mx-2" src="{{ $avatarlink }}{{ $avatar }}" alt="{{ $name }} avatar" width="50" height="50">
 
         {{ end -}}
         
