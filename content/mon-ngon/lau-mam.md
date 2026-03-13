@@ -5,6 +5,7 @@ title = 'Hương vị lẩu mắm miền tây'
 slugs = 'huong-vi-lau-mam-mien-tay'
 description = 'Nếu có dịp về miền Tây, ngồi bên một nồi lẩu mắm nóng hổi giữa buổi chiều gió sông thổi nhẹ, mới thấy hết cái thú của ẩm thực miền Nam - giản dị nhưng khó quên'
 image = '/images/lau-mam.jpeg'
+author = 'Phúc mập'
 +++
 Nếu có một món ăn nào gói trọn hương vị của miền Tây Nam Bộ thì nhiều người sẽ nghĩ ngay đến lẩu mắm. Đây không chỉ là một món ăn ngon mà còn là cả một câu chuyện về đất, về người và về cách người miền Tây tận dụng những gì thiên nhiên ban tặng.
 
