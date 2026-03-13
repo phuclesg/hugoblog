@@ -1891,9 +1891,9 @@ body {
   background-color: #fff;
 }
 #content {
-  font-family: 'Lora';
+  font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  color: #525252;
+  color: #404040;
 }
 #content h1 {
   font-size: 2rem;
