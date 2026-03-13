@@ -1452,6 +1452,13 @@
       }
     }
   }
+  .hover\:text-black {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-black);
+      }
+    }
+  }
   .hover\:text-red-300 {
     &:hover {
       @media (hover: hover) {
@@ -1878,7 +1885,7 @@
   }
 }
 body {
-  font-family: 'Lora';
+  font-family: 'Quicksand', sans-serif;
 }
 .prose img.full {
   position: relative;
