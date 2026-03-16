@@ -7,6 +7,7 @@ keywords = ['ông già Ba Tri', 'Thái Hữu Kiểm', 'giai thoại ông già Ba
 slug = 'ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly'
 author = 'Phúc Mập'
 comment = true
+tags = ['feature']
 image = '/images/ong-gia-ba-tri.jpg'
 +++
 ## Tiểu sử và nguồn gốc

@@ -9,6 +9,7 @@ summary = 'Món bún bò chóc – đặc sản dân dã Trà Vinh với mặn m
 author = 'Phúc Mập'
 comment = true
 image = "/images/bun-bo-choc.jpg"
+tags = ['feature']
 +++
 Bạn đã bao giờ nghe đến món **bún bò chóc** chưa? Đây là một món ăn khá lạ tai nhưng lại vô cùng hấp dẫn, đặc biệt là với những ai yêu thích ẩm thực Khmer. Bún bò chóc không phổ biến như bún bò Huế, nhưng hương vị độc đáo của nó chắc chắn sẽ để lại ấn tượng khó quên.
 
