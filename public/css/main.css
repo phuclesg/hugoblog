@@ -233,14 +233,8 @@
   .col-span-2 {
     grid-column: span 2 / span 2;
   }
-  .col-span-3 {
-    grid-column: span 3 / span 3;
-  }
   .row-span-2 {
     grid-row: span 2 / span 2;
-  }
-  .row-span-3 {
-    grid-row: span 3 / span 3;
   }
   .mx-2 {
     margin-inline: calc(var(--spacing) * 2);
@@ -814,9 +808,6 @@
   .w-30 {
     width: calc(var(--spacing) * 30);
   }
-  .w-\[30\%\] {
-    width: 30%;
-  }
   .w-auto {
     width: auto;
   }
@@ -853,17 +844,8 @@
   .resize {
     resize: both;
   }
-  .grid-flow-col {
-    grid-auto-flow: column;
-  }
   .grid-cols-1 {
     grid-template-columns: repeat(1, minmax(0, 1fr));
-  }
-  .grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-  .grid-rows-3 {
-    grid-template-rows: repeat(3, minmax(0, 1fr));
   }
   .flex-col {
     flex-direction: column;
@@ -1448,13 +1430,6 @@
       }
     }
   }
-  .hover\:bg-\[\#5a51bf\]\/30 {
-    &:hover {
-      @media (hover: hover) {
-        background-color: color-mix(in oklab, #5a51bf 30%, transparent);
-      }
-    }
-  }
   .hover\:bg-blue-100 {
     &:hover {
       @media (hover: hover) {
@@ -1568,11 +1543,6 @@
       width: 100%;
     }
   }
-  .md\:grid-flow-col {
-    @media (width >= 48rem) {
-      grid-auto-flow: column;
-    }
-  }
   .md\:grid-cols-2 {
     @media (width >= 48rem) {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1591,11 +1561,6 @@
   .md\:grid-rows-2 {
     @media (width >= 48rem) {
       grid-template-rows: repeat(2, minmax(0, 1fr));
-    }
-  }
-  .md\:grid-rows-3 {
-    @media (width >= 48rem) {
-      grid-template-rows: repeat(3, minmax(0, 1fr));
     }
   }
   .md\:flex-row {
@@ -1955,7 +1920,7 @@ body {
 }
 #content {
   font-family: 'Quicksand', sans-serif;
-  font-weight: 300;
+  font-weight: 500;
   color: #000;
 }
 #content h1 {
