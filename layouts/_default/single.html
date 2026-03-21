@@ -40,6 +40,12 @@
     </header>
 
     <div id="content" class="mb-14 prose lg:prose-lg">
+      {{ if ne .Params.toc false }}
+        <div class="toc">
+          <h2>Mục lục:</h2>
+          {{ .TableOfContents }}
+        </div>
+      {{ end }}
       <!-- Content -->
       {{- .Content -}}
 

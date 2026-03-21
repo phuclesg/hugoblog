@@ -6,7 +6,7 @@ slugs = 'Cha-diep-vi-linh-muc-kinh-men-mien-tay-nam-bo'
 description = 'Tiểu sử Cha Phanxicô Xaviê Trương Bửu Diệp - vị linh mục gắn liền với nhà thờ Tắc Sậy, được nhiều người kính nhớ tại miền Tây Nam Bộ'
 image = '/images/cha-diep.jpg'
 +++
-# Giới thiệu
+## Giới thiệu
 
 Phanxicô Xaviê Trương Bửu Diệp (1897 - 1946), thường được người dân gọi thân mật là Cha Diệp, là một linh mục Công giáo nổi tiếng tại miền Tây Nam Bộ. Cuộc đời của ông gắn liền với giáo xứ Tắc Sậy và cộng đồng giáo dân nghèo ở vùng Bạc Liêu - Cà Mau.
 
@@ -14,7 +14,7 @@ Sau khi qua đời trong hoàn cảnh bi thương năm 1946, Cha Trương Bửu 
 
 {{< figure src="/images/cha-diep.webp" alt="Cha Diệp" caption="Cha Diệp" class="center" >}}
 
-# Tuổi thơ và gia đình
+## Tuổi thơ và gia đình
 
 Cha Phanxicô Xaviê Trương Bửu Diệp sinh ngày 1 tháng 1 năm 1897 tại làng Tấn Đức, vùng Cù Lao Giêng, thuộc tỉnh An Giang ngày nay. Gia đình ông là một gia đình Công giáo đạo đức và có truyền thống sống gắn bó với giáo hội.
 
@@ -24,7 +24,7 @@ Từ nhỏ, Trương Bửu Diệp đã được gia đình cho theo học tại 
 
 Trong quá trình tu học, ông tiếp tục được gửi sang chủng viện Nam Vang (Campuchia) để hoàn thành chương trình đào tạo linh mục.
 
-# Con đường trở thành linh mục
+## Con đường trở thành linh mục
 
 Sau nhiều năm học tập và tu luyện, Trương Bửu Diệp được thụ phong linh mục vào năm 1924. Từ đây, ông bắt đầu phục vụ trong các giáo xứ thuộc vùng Nam Bộ và cả Campuchia.
 
@@ -34,7 +34,7 @@ Là một linh mục trẻ, ông được đánh giá là người hiền hòa, 
 
 Sau một thời gian phục vụ ở nhiều nơi, Cha Diệp được bổ nhiệm làm chánh xứ Tắc Sậy, một vùng đất thuộc tỉnh Bạc Liêu thời bấy giờ.
 
-# Cuộc sống mục vụ tại Tắc Sậy
+## Cuộc sống mục vụ tại Tắc Sậy
 
 Khi đến Tắc Sậy, Cha Trương Bửu Diệp bắt đầu gắn bó sâu sắc với vùng đất này. Ông dành phần lớn thời gian để chăm lo đời sống tinh thần cho giáo dân và giúp đỡ những người có hoàn cảnh khó khăn.
 
@@ -44,7 +44,7 @@ Theo nhiều lời kể của người dân địa phương, Cha Diệp là ngư
 
 Trong suốt thời gian làm chánh xứ tại Tắc Sậy, ông trở thành một nhân vật được giáo dân rất kính trọng.
 
-# Cái chết bi thương năm 1946
+## Cái chết bi thương năm 1946
 
 Năm 1946, tình hình chính trị và xã hội tại miền Nam Việt Nam có nhiều biến động. Trong bối cảnh đó, Cha Trương Bửu Diệp đã gặp biến cố dẫn đến cái chết bi thảm.
 
@@ -54,7 +54,7 @@ Theo nhiều tài liệu, khi một số giáo dân bị bắt giữ và đối 
 
 Sự kiện này xảy ra vào ngày 12 tháng 3 năm 1946 tại Tắc Sậy. Cái chết của ông khiến nhiều người xem ông là một người đã hy sinh mạng sống để bảo vệ đoàn chiên của mình.
 
-# Mộ phần và trung tâm hành hương Tắc Sậy
+## Mộ phần và trung tâm hành hương Tắc Sậy
 
 Sau khi qua đời, thi hài Cha Trương Bửu Diệp được an táng tại khuôn viên nhà thờ Tắc Sậy.
 
@@ -64,7 +64,7 @@ Không chỉ có người Công giáo, nhiều người thuộc các tôn giáo 
 
 Ngày 12 tháng 3 hằng năm, ngày giỗ của Cha Diệp, khu vực nhà thờ Tắc Sậy thường đón rất đông người hành hương.
 
-# Tiến trình phong chân phước
+## Tiến trình phong chân phước
 
 Trong Giáo hội Công giáo, việc phong thánh cho một nhân vật thường trải qua nhiều giai đoạn.
 
@@ -72,7 +72,7 @@ Trong Giáo hội Công giáo, việc phong thánh cho một nhân vật thườ
 
 Nếu các bước tiếp theo được hoàn tất, Cha Trương Bửu Diệp có thể được phong Chân phước, trở thành một trong những nhân vật tôn giáo đặc biệt của Công giáo Việt Nam.
 
-# Ý nghĩa đối với người dân Nam Bộ
+## Ý nghĩa đối với người dân Nam Bộ
 
 Đối với nhiều người dân miền Tây Nam Bộ, Cha Trương Bửu Diệp không chỉ là một linh mục mà còn là biểu tượng của sự hy sinh và lòng nhân ái.
 

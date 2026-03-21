@@ -7,7 +7,7 @@ description = 'Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch
 image = '/images/pha-ham-luong.jpg'
 +++
 
-# Khi con sông là ranh giới của hành trình
+## Khi con sông là ranh giới của hành trình
 
 Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.
 
@@ -21,8 +21,9 @@ Phà không chỉ là phương tiện giao thông. Nó là nơi:
 
 Có khi chờ nửa tiếng. Có khi chờ cả tiếng. Lúc cao điểm lễ Tết, xe xếp hàng dài cả cây số.
 
-# Những bến phà từng là “huyết mạch” miền Tây
-1. **Phà Mỹ Thuận - cửa ngõ miền Tây**
+## Những bến phà từng là “huyết mạch” miền Tây
+
+### 1. **Phà Mỹ Thuận - cửa ngõ miền Tây**
 
 {{< figure src="/images/pha-my-thuan.webp" alt="những chuyến phà miền tây" caption="Phà Mỹ Thuận" class="center" >}}
 
@@ -42,7 +43,7 @@ Khi cầu hoàn thành, phà dừng hoạt động. Một thời khép lại.
 
 {{< figure src="/images/pha-my-thuan-2.webp" alt="những chuyến phà miền tây" caption="Phà Mỹ Thuận" class="center" >}}
 
-2. **Phà Cần Thơ - ký ức của Tây Đô**
+### 2. **Phà Cần Thơ - ký ức của Tây Đô**
 
 {{< figure src="/images/pha-can-tho.webp" alt="những chuyến phà miền tây" caption="Phà Cần Thơ" class="center" >}}
 
@@ -52,7 +53,7 @@ Những năm cao điểm, bến phà này kẹt xe kéo dài nhiều giờ. Ngư
 
 Khi cầu Cần Thơ khánh thành năm 2010, phà chính thức ngừng hoạt động. Nhiều người vui vì đỡ cực, nhưng cũng không ít người tiếc một phần ký ức.
 
-3. **Phà Rạch Miễu - con đường về xứ dừa**
+### 3. **Phà Rạch Miễu - con đường về xứ dừa**
 
 {{< figure src="/images/pha-rach-mieu.webp" alt="những chuyến phà miền tây" caption="Phà Rạch Miễu" class="center" >}}
 
@@ -62,7 +63,7 @@ Bến phà này nối Tiền Giang với Bến Tre. Những ngày giáp Tết, n
 
 Khi cầu Rạch Miễu hoàn thành năm 2009, phà dừng lại. Nhưng trong ký ức nhiều người miền Tây, “qua Rạch Miễu” vẫn là một câu nói quen thuộc.
 
-4. **Phà Hàm Luông - nhịp nối miền sông nước**
+### 4. **Phà Hàm Luông - nhịp nối miền sông nước**
 
 {{< figure src="/images/pha-ham-luong.webp" alt="những chuyến phà miền tây" caption="Phà Hàm Luông" class="center" >}}
 
@@ -70,7 +71,7 @@ Phà Hàm Luông từng nối trung tâm Bến Tre với các huyện phía tron
 
 Giờ đây cầu Hàm Luông thay thế, nhưng với người lớn tuổi, ký ức chờ phà giữa buổi chiều mưa vẫn còn nguyên.
 
-5. **Phà Cổ Chiên - cửa ngõ Trà Vinh**
+### 5. **Phà Cổ Chiên - cửa ngõ Trà Vinh**
 
 {{< figure src="/images/pha-co-chien.webp" alt="những chuyến phà miền tây" caption="Phà Cổ Chiên" class="center" >}}
 

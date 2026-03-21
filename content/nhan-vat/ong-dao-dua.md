@@ -8,13 +8,13 @@ image = '/images/dao-dua.jpg'
 +++
 Đạo Dừa là một tôn giáo được sáng lập tại miền Nam Việt Nam, mang phong cách độc đáo và giàu tính biểu tượng - một phần thú vị trong lịch sử văn hóa tâm linh của xứ Nam Bộ. Tôn giáo này được biết đến với cái tên “Hòa Đồng Tôn Giáo”, do Nguyễn Thành Nam, tức Ông Đạo Dừa, sáng lập tại Bến Tre vào giữa thế kỷ 20. 
 {{< figure src="/images/dao-dua.webp" alt="Đạo dừa tôn giáo độ đáo ở miền nam" caption="Đạo dừa - Tôn giáo độc đáo ở miền Nam" class="center" >}}
-# Nguồn gốc và người sáng lập
+## Nguồn gốc và người sáng lập
 
 Ông Nguyễn Thành Nam sinh ngày 25/12/1910 tại xã Phước Thạnh, huyện Châu Thành, tỉnh Bến Tre (khi đó thuộc tỉnh Kiến Hòa). Ông xuất thân từ một gia đình khá giả và từng du học tại Pháp, tốt nghiệp kỹ sư hóa học trước khi trở về nước. 
 
 Sau khi du học và trải qua nhiều biến cố cuộc đời, ông Nam quyết định từ bỏ đời sống thế tục để theo con đường tu hành. Ông đi tu trong nhiều năm, sống kham khổ và hành đạo bằng thiền định, ăn chay - biểu tượng từ đó gắn với quả dừa (ông chủ yếu ăn dừa và uống nước dừa), nên mới có biệt danh Ông Đạo Dừa. 
 {{< figure src="/images/dao-dua-2.webp" alt="Đạo dừa tôn giáo độ đáo ở miền nam" caption="Đạo dừa - Tôn giáo độc đáo ở miền Nam" class="center" >}}
-# Giáo lý và thực hành
+## Giáo lý và thực hành
 
 Đạo Dừa không giống các tôn giáo truyền thống về mặt nghi lễ. Những điểm cốt lõi bao gồm:
 
@@ -26,17 +26,17 @@ Tự lực - tự cường - khuyến khích con người sống đạm bạc, t
 
 Ông Đạo Dừa còn từng dùng hình ảnh chuột và mèo sống chung trong cùng một lồng như một biểu tượng cho hòa bình và khả năng chung sống giữa những đối nghịch. 
 {{< figure src="/images/dao-dua-3.webp" alt="Đạo dừa tôn giáo độ đáo ở miền nam" caption="Đạo dừa - Tôn giáo độc đáo ở miền Nam" class="center" >}}
-# Đạo Dừa ở Bến Tre
+## Đạo Dừa ở Bến Tre
 
 Năm 1963, Ông Đạo Dừa đến Cồn Phụng (xã Tân Thạch, Châu Thành, Bến Tre) và lập nên nơi hành đạo - gọi là chùa Nam Quốc Phật. Tại đây, ông xây dựng một khu vực sinh hoạt tôn giáo gồm nhiều kiến trúc mang tính biểu tượng. 
 
 Không chỉ thu hút tín đồ trong nước, nơi đây còn có những người nước ngoài theo Đạo Dừa, trong đó có con trai nhà văn John Steinbeck - tác giả đoạt giải Nobel Văn học. 
 
-# Đạo Dừa và chính trị
+## Đạo Dừa và chính trị
 
 Ông Đạo Dừa từng vận động tranh cử vào chức Tổng thống Việt Nam Cộng hòa năm 1967, nhằm cổ vũ cho hòa bình và thống nhất đất nước. Mặc dù chẳng bao giờ chiến thắng, hành động này phần nào phản ánh tâm nguyện hòa đồng - hòa bình trong giáo lý của ông. 
 
-# Di sản & những điều còn lại
+## Di sản & những điều còn lại
 
 Hiện nay, Cồn Phụng và khu vực nơi Đạo Dừa từng hành đạo đã trở thành điểm tham quan du lịch tâm linh và văn hóa ở Bến Tre. Một số di tích còn lưu giữ, kết hợp với không gian văn hóa dừa đặc trưng của vùng đất này, tạo nên một nét độc đáo trong hành trình du lịch miền Tây. 
 

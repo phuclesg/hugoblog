@@ -10,30 +10,30 @@ image = '/images/huyen-sy.jpg'
 featured = true
 +++
 **Kỳ 1: Nhất Sỹ**
-### Huyện Sỹ – Điền chủ giàu có bậc nhất Nam Kỳ
+## Huyện Sỹ – Điền chủ giàu có bậc nhất Nam Kỳ
 
 Trong lịch sử Nam Bộ cuối thế kỷ XIX, cái tên **Huyện Sỹ** (tên thật ***Lê Phát Đạt***, 1841–1900) luôn được nhắc đến như một biểu tượng giàu sang và quyền thế. Ông không chỉ là một trong những điền chủ sở hữu nhiều ruộng đất nhất Nam Kỳ, mà còn để lại dấu ấn sâu đậm qua gia tộc và những công trình mang giá trị văn hóa – tôn giáo.
 
 {{< figure src="/images/huyen-sy.webp" alt="Huyện Sỹ" caption="Huyện Sỹ và gia đình" class="center" >}}
 
-### Xuất thân và con đường làm giàu
+## Xuất thân và con đường làm giàu
 
 **Huyện Sỹ** sinh năm 1841 tại làng Cầu Kho, Sài Gòn. Ông xuất thân trong một gia đình bình thường, không thuộc hàng quan lại hay quyền quý lớn. Tuy nhiên, với sự tháo vát và tầm nhìn rộng, Lê Phát Đạt sớm thành công trên con đường buôn bán, rồi đầu tư vào ruộng đất.
 
 Chỉ trong một thời gian ngắn, ông đã trở thành một trong những địa chủ lớn nhất Nam Bộ, sở hữu hàng chục nghìn mẫu ruộng, trải dài từ Gia Định đến tận miền Tây Nam Kỳ. Nhờ vậy, ông được xếp vào hàng “tứ đại phú hộ” của đất Nam Kỳ.
 
-### Danh xưng "Huyện Sỹ"
+## Danh xưng "Huyện Sỹ"
 
 Trong quá trình cộng tác với chính quyền Pháp, ông được bổ nhiệm chức Tri huyện, sau đó thăng lên Phó tổng đốc. Tuy nhiên, người dân quen gọi ông là Huyện Sỹ, và cái tên này đã gắn liền với ông, trở thành một phần lịch sử Sài Gòn.
 
-### Gia đình và hậu duệ
+## Gia đình và hậu duệ
 
 **Huyện Sỹ** kết hôn với bà **Huỳnh Thị Tài**. Hai ông bà sinh được 4 người con, trong đó nổi bật nhất là bà Lê Thị Bình – về sau chính là bà ngoại của Hoàng hậu Nam Phương.
 {{< figure src="/images/nam-phuong-hoang-hau.webp" alt="Nam phương hoàng hậu" caption="Cháu ngoại Huyện Sỹ - Nam Phương Hoàng Hậu" class="center" >}}
 
 Nhờ các cuộc hôn nhân và quan hệ chính trị, gia tộc Huyện Sỹ trở thành một trong những dòng họ có ảnh hưởng lớn nhất Nam Kỳ. Việc cháu ngoại của ông trở thành hoàng hậu cuối cùng của triều Nguyễn đã minh chứng cho thế lực và tầm vóc của gia đình.
 
-### Nhà thờ Huyện Sỹ – Dấu ấn còn mãi
+## Nhà thờ Huyện Sỹ – Dấu ấn còn mãi
 
 Một công trình gắn liền với tên tuổi ông chính là nhà thờ **Huyện Sỹ**, tọa lạc tại trung tâm Quận 1, TP. Hồ Chí Minh ngày nay. Nhà thờ được gia đình xây dựng và cũng là nơi an táng vợ chồng ông.
 
