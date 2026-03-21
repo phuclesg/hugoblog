@@ -11,6 +11,27 @@
 body {
   font-family: 'Quicksand', sans-serif;
 }
+.featured-left {
+  grid-area: left;
+}
+.featured-main {
+  grid-area: main;
+}
+.featured-right {
+  grid-area: right;
+}
+.featured-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas: "left main main right"
+                        "left main main right";
+  align-items: stretch;
+  height: 100%;
+  background-color:#fff ;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
 .prose img.full {
   position: relative;
   left: 50%;
@@ -141,4 +162,12 @@ blockquote p::before {
     width: 100%;
     max-width: 100%;
   }
+  .featured-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:  "left"
+                        "main"
+                        "right";
+  align-items: stretch;
+}
 }
