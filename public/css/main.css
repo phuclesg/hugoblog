@@ -230,33 +230,6 @@
   .col-span-1 {
     grid-column: span 1 / span 1;
   }
-  .col-span-2 {
-    grid-column: span 2 / span 2;
-  }
-  .col-start-1 {
-    grid-column-start: 1;
-  }
-  .col-start-2 {
-    grid-column-start: 2;
-  }
-  .col-start-3 {
-    grid-column-start: 3;
-  }
-  .col-start-4 {
-    grid-column-start: 4;
-  }
-  .col-start-5 {
-    grid-column-start: 5;
-  }
-  .row-span-2 {
-    grid-row: span 2 / span 2;
-  }
-  .row-start-1 {
-    grid-row-start: 1;
-  }
-  .row-start-2 {
-    grid-row-start: 2;
-  }
   .mx-2 {
     margin-inline: calc(var(--spacing) * 2);
   }
@@ -829,8 +802,8 @@
   .w-30 {
     width: calc(var(--spacing) * 30);
   }
-  .w-auto {
-    width: auto;
+  .w-\[80\%\] {
+    width: 80%;
   }
   .w-full {
     width: 100%;
@@ -1574,19 +1547,14 @@
       width: 600px;
     }
   }
+  .md\:w-auto {
+    @media (width >= 48rem) {
+      width: auto;
+    }
+  }
   .md\:w-full {
     @media (width >= 48rem) {
       width: 100%;
-    }
-  }
-  .md\:grid-flow-col {
-    @media (width >= 48rem) {
-      grid-auto-flow: column;
-    }
-  }
-  .md\:auto-rows-fr {
-    @media (width >= 48rem) {
-      grid-auto-rows: minmax(0, 1fr);
     }
   }
   .md\:grid-cols-2 {
@@ -1597,11 +1565,6 @@
   .md\:grid-cols-3 {
     @media (width >= 48rem) {
       grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-  }
-  .md\:grid-cols-6 {
-    @media (width >= 48rem) {
-      grid-template-columns: repeat(6, minmax(0, 1fr));
     }
   }
   .md\:grid-rows-2 {
@@ -2069,6 +2032,11 @@ blockquote p::before {
     font-size: 2rem;
   }
   .prose img.full {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+  }
+  blockquote {
     position: relative;
     width: 100%;
     max-width: 100%;
