@@ -4,7 +4,6 @@ draft = false
 title = 'Nhà thờ Đức Bà - Chứng nhân trăm năm giữa Sài Gòn'
 slug = 'nha-tho-duc-ba-chung-nhan-tram-nam-giua-sai-gon'
 description = 'Nhà thờ Đức Bà Sài Gòn là một trong những công trình kiến trúc tiêu biểu của Sài Gòn, được xây dựng từ thời Pháp thuộc với phong cách Roman cổ kính. Nơi đây không chỉ là địa điểm tôn giáo mà còn là biểu tượng văn hóa và lịch sử gắn liền với ký ức của người dân thành phố.'
-comment = true
 author = 'Phúc Mập'
 image = '/images/nha-tho-duc-ba.jpg'
 tags = ['feature']
