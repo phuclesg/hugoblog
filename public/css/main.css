@@ -1989,6 +1989,32 @@ div#backtop button.visible {
 .ancestor {
   color: rgb(0, 0, 0);
 }
+blockquote {
+  position: relative;
+  width: 100ch;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 110ch;
+  display: flex;
+  justify-content: center;
+  border-inline-start: none;
+  font-family: "Merriweather", serif;
+}
+blockquote::before {
+  content: "❝";
+  position: absolute;
+  top: -4rem;
+  left: 10px;
+  font-size: 6rem;
+  color: #fcc464;
+}
+blockquote p {
+  font-size: 2rem;
+  padding-left: 4rem;
+}
+blockquote p::before {
+  content: "";
+}
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
