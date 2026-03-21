@@ -1,5 +1,5 @@
 baseURL = 'https://namkyxua.com/'
-languageCode = 'vi-vietnam'
+languageCode = 'vi-vn'
 title = 'Nam Kỳ Xưa'
 theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
@@ -64,8 +64,8 @@ uglyURLs = false
   [services.googleAnalytics]
     id = 'G-BBNTN7HEBR'   
 [permalinks]
-    mon-ngon = '/mon-ngon/:slug/'
-    nhan-vat = '/nhan-vat/:slug/'
+    mon-ngon = '/mon-ngon/:slug'
+    nhan-vat = '/nhan-vat/:slug'
     cuoc-song = '/doi-song/:slug'
     hinh-anh = '/hinh-anh-nam-ky-xua/:slug'
     tag = '/tags/:slug/'
@@ -95,5 +95,18 @@ home = ["HTML", "JSON"]
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
 
+  [markup.goldmark.parser]
+    autoHeadingID = true
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    style = "monokai"
 
