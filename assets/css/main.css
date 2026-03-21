@@ -136,5 +136,8 @@ blockquote p::before {
   width: 100%;
   max-width: 100%;
 }
-
+  blockquote {
+    position: relative;
+    max-width: 100%;
+  }
 }
