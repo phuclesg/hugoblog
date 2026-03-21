@@ -6,7 +6,7 @@ slugs = 'xe-lam-la-gi-ky-uc-xe-lam-sai-gon-xua'
 description = 'Xe lam! chiếc xe đã chở rất nhiều thứ từ còn người, hàng hóa và hôm nay nó còn chở những hoài niệm một thời Sài Gòn xưa!!'
 image = '/images/xemlam.jpg'
 +++
-{{< figure src="/images/xe-lam.webp" alt="Xe lam đang cho học sinh trên đường" caption="Xe lam cho học sinh trên đường" class="center" >}}
+{{< figure src="/images/xe-lam.webp" alt="Xe lam đang chở học sinh trên đường" caption="Xe lam chở học sinh trên đường" class="center" >}}
 
 Hồi xưa, Sài Gòn chưa có nhiều xe cộ chen chúc như bây giờ. Đường thì còn thoáng, người đi lại cũng chậm rãi hơn. Trong cái nhịp sống đó, có một thứ phương tiện mà ai từng sống qua thời đó chắc khó mà quên được - chiếc xe lam.
 
