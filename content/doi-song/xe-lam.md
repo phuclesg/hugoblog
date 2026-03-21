@@ -4,7 +4,7 @@ draft = false
 title = 'Xe lam là gì? Ký ức xe lam Sài Gòn xưa'
 slugs = 'xe-lam-la-gi-ky-uc-xe-lam-sai-gon-xua'
 description = 'Xe lam! chiếc xe đã chở rất nhiều thứ từ còn người, hàng hóa và hôm nay nó còn chở những hoài niệm một thời Sài Gòn xưa!!'
-image = '/images/xemlam.jpg'
+image = '/images/xelam.jpg'
 +++
 {{< figure src="/images/xe-lam.webp" alt="Xe lam đang chở học sinh trên đường" caption="Xe lam chở học sinh trên đường" class="center" >}}
 
