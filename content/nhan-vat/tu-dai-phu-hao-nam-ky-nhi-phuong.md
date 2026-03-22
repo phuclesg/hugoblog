@@ -8,7 +8,7 @@ slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
 comment = true
 image = '/images/do-doc-phuong.jpg'
 +++
-## Tứ đại phú hộ nam kỳ xưa - Kỳ 2:
+**Tứ đại phú hộ nam kỳ xưa - Kỳ 2:**
 ## Nhì Phương – Đỗ Hữu Phương, vị phú hộ nhiều quyền thế ở Nam Kỳ
 ### 1. Xuất thân và con đường lập thân
 
@@ -19,6 +19,7 @@ image = '/images/do-doc-phuong.jpg'
 ### 2. Bước vào hàng ngũ phú hộ
 
 Từ khi Pháp chiếm Nam Kỳ, Đỗ Hữu Phương nhanh chóng chứng tỏ năng lực và sự khéo léo trong ứng xử. Ông được bổ nhiệm làm Đốc phủ sứ rồi Đô đốc quản hạt Chợ Lớn, trở thành một mắt xích quan trọng trong bộ máy cai trị của Pháp.
+
 Song song với quan lộ, ông mở rộng việc kinh doanh, mua sắm ruộng đất, lập hãng buôn. Nhờ nhạy bén trong thương trường và có quan hệ mật thiết với giới chức Pháp, chỉ trong vài thập niên, ông vươn lên thành một trong những đại điền chủ – thương gia giàu nhất Nam Kỳ.
 
 Người đời xếp ông vào hàng “Nhì Phương” trong Tứ đại phú hộ, chỉ sau “Nhứt Sĩ” Lê Phát Đạt.
