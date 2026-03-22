@@ -66,9 +66,9 @@ uglyURLs = false
 [permalinks]
     mon-ngon = '/mon-ngon/:slug'
     nhan-vat = '/nhan-vat/:slug'
-    cuoc-song = '/doi-song/:slug'
+    doi-song = '/doi-song/:slug'
     hinh-anh = '/hinh-anh-nam-ky-xua/:slug'
-    tag = '/tags/:slug/'
+    tag = '/tags/:slug'
 [menus]
     [[menus.main]]
         name = 'Trang chủ'

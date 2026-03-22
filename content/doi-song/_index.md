@@ -1,5 +1,5 @@
 +++
-title = 'Cuộc sống'
-slugs = 'cuoc-song-nguoi-nam-ky-xua'
+title = 'Đời sống'
+slugs = 'doi-song'
 menus = 'main'
 +++
