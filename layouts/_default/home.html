@@ -47,7 +47,7 @@
     <div class="featured-main px-3">
       {{ range $main }}
       <section class="relative group flex flex-col rounded-lg hover:bg-[{{ $color }}]/30">
-        <figure class="w-full aspect-video overflow-hidden rounded-2xl border">
+        <figure class="w-full aspect-video overflow-hidden rounded-lg border">
 
           {{- if .Params.image }}
 
@@ -80,7 +80,7 @@
     <div class="featured-right">
       {{ range $other_right }}
       <section class="relative group flex flex-col mb-2.5 rounded-lg hover:bg-[{{ $color }}]/30">
-        <figure class="w-full aspect-video overflow-hidden rounded-2xl border">
+        <figure class="w-full aspect-video overflow-hidden rounded-lg border">
 
           {{- if .Params.image }}
 
