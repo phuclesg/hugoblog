@@ -5,5 +5,5 @@
          {{ with .Get "title" }}title="{{ . }}"{{ end }}
          {{ with .Get "style" }}style="{{ . }}"{{ end }}>
     </a>
-    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+    {{ with .Get "alt" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>
