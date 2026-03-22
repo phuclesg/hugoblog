@@ -7,7 +7,6 @@ description = 'Lịch sử tỉnh Kiến Hòa từ Sắc lệnh 143 năm 1956 đ
 image = '/images/tinh-kien-hoa-2.jpg'
 +++
 
-## Kiến Hòa: Sắc Lệnh 143 Và Hành Trình 20 Năm Định Danh Tỉnh Dừa
 Trong dòng chảy lịch sử của vùng đất Nam Kỳ Lục tỉnh, cái tên Kiến Hòa dẫu chỉ tồn tại chính thức trong khoảng 20 năm (1956 – 1976), nhưng đã kịp để lại những dấu ấn sâu đậm về một thời kỳ biến động và phát triển rực rỡ của xứ dừa Bến Tre xưa.
 
 {{< figure src="/images/tinh-kien-hoa-2.webp" alt="Chợ Trúc Giang" class="center" >}}
