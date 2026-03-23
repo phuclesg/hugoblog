@@ -25,7 +25,7 @@ Chính lớp mỡ này làm cho nước canh béo nhẹ một cách tự nhiên 
 
 {{< figure src="/images/canh-chua-ca-bong-lau.webp" alt="Cá bông lau" caption="Cá bông lau" class="center" >}}
 
-### Cá thường được:
+**Cá thường được:**
 
 - Cắt khúc vừa ăn
 
@@ -35,7 +35,7 @@ Chính lớp mỡ này làm cho nước canh béo nhẹ một cách tự nhiên 
 
 - Chỉ cần xử lý đơn giản vậy thôi là đủ giữ được vị ngọt đặc trưng của cá.
 
-## Trái bần - thứ quà mộc mạc của miền sông nước
+**Trái bần - thứ quà mộc mạc của miền sông nước**
 
 {{< figure src="/images/canh-chua-ca-bong-lau-2.webp" alt="Trái bần" caption="Trái bần" class="center" >}}
 
@@ -62,7 +62,7 @@ Cách nấu canh chua cá bông lau trái bần đúng chất miền Tây
 
 - Nêm nước mắm và chút đường cho tròn vị
 
-## Sau đó cho thêm:
+**Sau đó cho thêm:**
 
 - Bạc hà
 
@@ -76,7 +76,7 @@ Cách nấu canh chua cá bông lau trái bần đúng chất miền Tây
 
 {{< figure src="/images/canh-chua-ca-bong-lau-3.webp" alt="Canh chua cá trái bần cá bông lau" caption="Canh chua trái bần cá bông lau" class="center" >}}
 
-## Vị của quê trong một tô canh
+**Vị của quê trong một tô canh**
 
 Tô canh chua cá bông lau trái bần bưng ra còn nghi ngút khói.
 

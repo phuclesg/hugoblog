@@ -40,7 +40,7 @@
     </header>
 
     <div id="content" class="mb-14 prose lg:prose-lg">
-      {{ if ne .Params.toc false }}
+      {{ if and (ne .Params.toc false) (gt (len (findRE "li" .TableOfContents)) 0) }}
         <div class="toc">
           <h2>Mục lục:</h2>
           {{ .TableOfContents }}

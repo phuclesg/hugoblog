@@ -17,20 +17,20 @@ Hãy cùng khám phá và thưởng thức món ăn đặc sản này để cả
 
 {{< figure src="/images/canhchuacalinh.jpg" alt="Canh chua cá linh"  caption="Canh Chua Cá Linh" class="tc center">}}
 
-**Cách Nấu Canh Chua Cá Linh Bông Điên Điển**
-* Bước 1: Chuẩn Bị Nguyên Liệu
+## Cách Nấu Canh Chua Cá Linh Bông Điên Điển
+### Bước 1: Chuẩn Bị Nguyên Liệu
 Rửa sạch cá linh, để ráo nước. Nếu cá quá lớn, có thể cắt thành từng miếng nhỏ. Rửa sạch bông điên điển, cắt bỏ phần cuống cứng. Cắt cà chua thành múi cau, hành tím và tỏi băm nhỏ, ớt thái lát.
 
-* Bước 2: Nấu Nước Lèo
+### Bước 2: Nấu Nước Lèo
 Đun sôi nước trong nồi, cho một ít muối để tạo độ ngọt cho nước dùng. Khi nước sôi, thêm hành tím và tỏi băm vào để tạo mùi thơm.
 
-* Bước 3: Nấu Canh
+### Bước 3: Nấu Canh
 Thêm cá linh vào nồi, đun cho đến khi cá chín và bắt đầu chảy nước ngọt. Cho cà chua vào, tiếp tục nấu cho đến khi cà chua mềm. Nêm nếm với me hoặc dưa chua, nước mắm, đường và ớt cho đến khi đạt được độ chua ngọt phù hợp.
 
-* Bước 4: Hoàn Thiện
+### Bước 4: Hoàn Thiện
 Khi cá và cà chua đã chín, cho bông điên điển vào nồi. Đun trong vài phút cho đến khi bông điên điển chín nhưng vẫn giữ được độ giòn. Nếm lại gia vị, điều chỉnh cho vừa ăn.
 
 {{< figure src="/images/canhchuacalinh2.jpg" alt="Canh chua cá linh"  class="center tc" caption="Canh Chua Cá Linh" >}}
 
-* Bước 5: Trình Bày và Thưởng Thức
+### Bước 5: Trình Bày và Thưởng Thức
 Múc canh ra tô, rắc thêm ít ngò gai và húng quế nếu thích. Canh chua cá linh bông điên điển thường được thưởng thức nóng cùng cơm trắng hoặc bún.

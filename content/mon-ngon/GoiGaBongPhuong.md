@@ -42,7 +42,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 - Bạn có thể hỏi những người dân xung quanh để biết thêm vị trí trồng cây phượng tại khu vực mình sinh sống. 
 
 ## Cách chế biến gỏi gà hoa phượng
-**Bước 1**: Sơ chế và luộc thịt gà-
+### Bước 1: Sơ chế và luộc thịt gà-
 
 {{< figure src="/images/goi-ga-hoa-phuong4.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
@@ -50,7 +50,7 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 - Rửa gà lần nữa để đảm bảo sạch. Luộc gà trong nước sôi khoảng 30-40 phút hoặc cho đến khi thịt gà chín.
 - Sau khi luộc xong bạn hãy để gà nguội.
 
-**Bước 2:** Sơ chế các nguyên liệu khác
+### Bước 2: Sơ chế các nguyên liệu khác
 
 {{< figure src="/images/goi-ga-hoa-phuong6.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
@@ -60,18 +60,18 @@ Lưu ý: Lượng gia vị như đường, muối, và bột ngọt sẽ tùy th
 - Lấy nước cốt chanh từ quả chanh .
 - Giã dập đậu phộng.
 
-**Bước 3:** Xé thịt gà
+### Bước 3: Xé thịt gà
 
 {{< figure src="/images/goi-ga-hoa-phuong1.jpeg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
 
 Bạn xé gà luộc thành từng miếng vừa ăn hoặc miếng mỏng, tùy theo sở thích.
-**Bước 4:** Pha mắm trộn gỏi gà hoa phượng
+### Bước 4: Pha mắm trộn gỏi gà hoa phượng
 Bạn pha nước mắm với đường và nước cốt chanh theo khẩu vị. Thông thường bạn có thể sử dụng khoảng 2 muỗng canh nước mắm, 2 muỗng nước cốt chanh và 2 muỗng đường.
 
-**Bước 5:** Trộn gỏi gà hoa phượng
+### Bước 5: Trộn gỏi gà hoa phượng
 Lúc này bạn lấy một tô lớn và cho thịt gà, thân chuối non, hoa phượng, ớt đỏ, hành tím, đậu phộng giã dập và nước trộn gỏi vào. Sau đó, trộn đều tất cả thành phần này với nhau.
 
-**Bước 6:** Thành phẩm
+### Bước 6: Thành phẩm
 Thành phẩm
 
 {{< figure src="/images/goi-ga-hoa-phuong5.jpg" alt="Gỏi gà Bông Phượng" caption="Gỏi gà bông phượng" class="center tc" >}}
