@@ -5,6 +5,7 @@ title = 'Kiến Hòa: 20 Năm Định Danh Và Hành Trình Của Một Tỉnh L
 slug = 'kien-hoa-20-nam-dinh-danh-va-hanh-trinh-cua-mot-tinh-ly'
 description = 'Lịch sử tỉnh Kiến Hòa từ Sắc lệnh 143 năm 1956 đến quá trình sáp nhập năm 2025. Khám phá 10 quận cũ và đời sống Trúc Giang (Bến Tre) xưa.'
 image = '/images/tinh-kien-hoa-2.jpg'
+banner = '/images/tinh-kien-hoa-2.jpg'
 +++
 
 Trong dòng chảy lịch sử của vùng đất Nam Kỳ Lục tỉnh, cái tên Kiến Hòa dẫu chỉ tồn tại chính thức trong khoảng 20 năm (1956 – 1976), nhưng đã kịp để lại những dấu ấn sâu đậm về một thời kỳ biến động và phát triển rực rỡ của xứ dừa Bến Tre xưa.

@@ -46,7 +46,7 @@
 					{{ .CurrentSection.Title }}
 				</h3>
 
-				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ .Date.Format "02/01/2006" }}</time>
+				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2"></span>{{ .Date.Format "02/01/2006" }}</time>
 			</div>
 			<h3 class="my-4 text-xl font-bold">{{ .LinkTitle }}</h3>
 

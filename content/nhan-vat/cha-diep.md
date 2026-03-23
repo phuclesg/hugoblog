@@ -5,6 +5,7 @@ title = 'Cha Diệp - Vị linh mục kính mến của miền Tây Nam bộ'
 slugs = 'Cha-diep-vi-linh-muc-kinh-men-mien-tay-nam-bo'
 description = 'Tiểu sử Cha Phanxicô Xaviê Trương Bửu Diệp - vị linh mục gắn liền với nhà thờ Tắc Sậy, được nhiều người kính nhớ tại miền Tây Nam Bộ'
 image = '/images/cha-diep.jpg'
+banner = '/images/cha-diep.jpg'
 +++
 ## Giới thiệu
 

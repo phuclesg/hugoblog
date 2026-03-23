@@ -14,7 +14,7 @@
   {{- $color := index .Site.Params.section_color .Section -}}
     <div class="featured-left">
       {{ range $other_left }}
-      <section class="relative group flex flex-col rounded-lg mb-2.5 hover:bg-[{{ $color }}]/30">
+      <section class="relative group flex flex-col rounded-lg mb-8 hover:bg-[{{ $color }}]/30">
         <figure class="w-full aspect-video overflow-hidden rounded-lg border">
 
           {{- if .Params.image }}
@@ -38,7 +38,7 @@
         </figure>
         <div class="mt-2 ml-2 self-center">
           <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold">{{ .Date.Format "02 tháng 01,2006" }}</span></time>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2 font-bold"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
         </div>
       </section>
 
@@ -70,8 +70,8 @@
         </figure>
         <div class="mt-2 ml-2 self-center">
           <h2 class="text-1xl line-clamp-3 md:text-2xl lg:text-3xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold">{{ .Date.Format "02 tháng 01,2006" }}</span></time>
-          <p class="text-normal leading-normal text-zinc-500 line-clamp-2">{{ .Params.description }}</p>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
+          <p class="hidden md:block text-normal leading-normal text-zinc-500 line-clamp-4">{{ .Params.description }}</p>
         </div>
       </section>
 
@@ -79,7 +79,7 @@
     </div>
     <div class="featured-right">
       {{ range $other_right }}
-      <section class="relative group flex flex-col mb-2.5 rounded-lg hover:bg-[{{ $color }}]/30">
+      <section class="relative group flex flex-col mb-8 rounded-lg hover:bg-[{{ $color }}]/30">
         <figure class="w-full aspect-video overflow-hidden rounded-lg border">
 
           {{- if .Params.image }}
@@ -103,7 +103,7 @@
         </figure>
         <div class="mt-2 ml-2 self-center">
           <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold">{{ .Date.Format "02 tháng 01,2006" }}</span></time>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
         </div>
       </section>
       {{ end -}}
