@@ -16,7 +16,7 @@ Ba khía - Cái món mà ngày xưa chỉ dành cho người nghèo. Nhớ hoài
 
 ## Ba khía sống ở đâu?
 
-Nói về ba khía thì chúng xuất hiện nhiều nhất vào tầm tháng bảy tháng tám âm lịch bò lên cây đước để kiếm ăn. Ba khía sống ở vùng nước lợ, mặn những bãi bồi ven biển hay là rặng mắm, rặng đước. Theo nhiều người cho biết thì chắc là do khí hậu thổ nhưỡng đặc trưng của rừng và biển mà ba khía vùng Rạch Gốc Cà Mau là ngon nức tiếng.
+Nói về ba khía thì chúng xuất hiện nhiều nhất vào tầm tháng bảy tháng tám âm lịch, trời chập chạng tối là tụi nó bò lên cây đước để kiếm ăn. Ba khía sống ở vùng nước lợ, mặn những bãi bồi ven biển hay là rặng mắm, rặng đước. Theo nhiều người cho biết thì chắc là do khí hậu thổ nhưỡng đặc trưng của rừng và biển mà ba khía vùng Rạch Gốc Cà Mau là ngon nức tiếng.
 
 {{< figure src="/images/con-ba-khia.webp" alt="Con ba khía" >}} 
 
