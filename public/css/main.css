@@ -43,7 +43,6 @@
     --font-weight-bold: 700;
     --font-weight-extrabold: 800;
     --leading-normal: 1.5;
-    --radius-md: 0.375rem;
     --radius-lg: 0.5rem;
     --radius-xl: 0.75rem;
     --radius-2xl: 1rem;
@@ -820,9 +819,6 @@
   .h-20 {
     height: calc(var(--spacing) * 20);
   }
-  .h-30 {
-    height: calc(var(--spacing) * 30);
-  }
   .h-\[200px\] {
     height: 200px;
   }
@@ -857,9 +853,6 @@
     max-width: var(--container-md);
   }
   .flex-shrink-0 {
-    flex-shrink: 0;
-  }
-  .shrink-0 {
     flex-shrink: 0;
   }
   .basis-1\/2 {
@@ -1015,9 +1008,6 @@
   }
   .rounded-lg {
     border-radius: var(--radius-lg);
-  }
-  .rounded-md {
-    border-radius: var(--radius-md);
   }
   .rounded-xl {
     border-radius: var(--radius-xl);

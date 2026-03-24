@@ -1,0 +1,36 @@
++++
+date = '2026-03-24T20:33:44+07:00'
+draft = false
+title = 'Ba khía muối - Hương vị thời khai hoang nghèo khó'
+slug = 'ba-khia-muoi-huong-vi-thoi-khai-hoang-ngheo-kho'
+description = 'Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng quơ đại mớ rau đồng là có bửa cơm ngon lành'
+images = '/images/con-ba-khia.jpg'
+banner = '/images/bn-bakhia2.webp'
++++
+Hôm nay ghé thăm nhà thằng bạn học chung. Sau khi hàn huyên tâm sự xong nó rủ ở lại ăn cơm lúc dọn mâm thì vừa thấy món ba khía trộn khế là tui biết rồi... kiểu gì cũng bể cái nồi cơm
+
+{{< figure src="/images/con-ba-khia-3.webp" alt="Ba khía muối" >}}
+
+Ba khía - Cái món mà ngày xưa chỉ dành cho người nghèo. Nhớ hoài cái cảnh ba mẹ đi mần ruộng đem theo cơm nguội và một ít ba khía muối, có khi chỉ là vài củ khoai lang. Vậy thôi đó chứ ngon dữ lắm à nghen.
+
+Nói về ba khía thì chúng xuất hiện nhiều nhất vào tầm tháng bảy tháng tám âm lịch bò lên cây đước để kiếm ăn. Ba khía sống ở vùng nước lợ, mặn những bãi bồi ven biển hay là rặng mắm, rặng đước . Theo nhiều người cho biết thì chắc là do khí hậu thổ nhưỡng đặc trưng của rừng và biển mà ba khía vùng Rạch Gốc Cà Mau là ngon nức tiếng.
+
+{{< figure src="/images/con-ba-khia.webp" alt="Con ba khía" >}} 
+
+Người ta đi bắt ba khía thì cũng không cần phải có công cụ gì cầu kỳ, chỉ cần một cái đèn soi, một đôi bao tay (tránh để ba khía kẹp) và một cái thùng nhựa để đựng ba khía. Ba khía sau khi bắt người ta chế biến được nhiều món lắm à nghen...
+- Ba khía luộc nước dừa chấm muối tiêu chanh thì còn gì bằng.
+- Ba khía rang me nè chua ngọt mặn đủ hương vị.
+- Gỏi ba khía trộn đu đủ
+- Canh chua ba khía..v..v..
+
+{{< figure src="/images/con-ba-khia-2.webp" alt="Con ba khía" >}}
+
+Nhưng đặt sắc nhất vẫn là món ba khía muối. Vào cuối năm 2009 nghề *"muối ba khía"* được công nhận là *" Di sản văn hóa phi vật thể Quốc Gia"*. Cũng từ đó mà con ba khía đã thoát khỏi cái "mác" món ăn dành cho người nghèo. Ba khía bắt đầu được nhiều người biết và tìm đến để thưởng thức hương vị của món đặc sản này.
+
+Giờ đây ba khía đã ở một vị thế mới không còn là món ăn chỉ dành cho người nghèo nữa, mà nó đã len lõi vào các quán ăn nhà hàng rồi.
+Nếu có dịp về Cà Mau thì hãy thử món ba khía muối Rạch Gốc một lần cho biết.
+
+> Lời bà kể thuở xa xăm,  
+> Cơm nắm theo bước chân trần khai hoang.  
+> Bữa cơm ăn vội, ăn vàng,  
+> Dăm con ba khía là sang nhất rồi.  
