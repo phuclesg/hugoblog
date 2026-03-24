@@ -4,7 +4,7 @@ draft = false
 title = 'Ba khía muối - Hương vị thời khai hoang nghèo khó'
 slug = 'ba-khia-muoi-huong-vi-thoi-khai-hoang-ngheo-kho'
 description = 'Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng quơ đại mớ rau đồng là có bửa cơm ngon lành'
-images = '/images/con-ba-khia.jpg'
+image = '/images/con-ba-khia.jpg'
 banner = '/images/bn-bakhia2.webp'
 +++
 Hôm nay ghé thăm nhà thằng bạn học chung. Sau khi hàn huyên tâm sự xong nó rủ ở lại ăn cơm lúc dọn mâm thì vừa thấy món ba khía trộn khế là tui biết rồi... kiểu gì cũng bể cái nồi cơm
