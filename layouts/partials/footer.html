@@ -42,9 +42,11 @@
           {{ range first 3 .Site.RegularPages }}
           <li class="flex gap-3 items-center">
             <a href="{{ .RelPermalink }}">
+            <div class="w-20 h-20 aspect-square my-4 flex-shrink-0">
             {{ with .Params.image }}
-              <img src="{{ $.Site.Params.mediaBaseURL }}{{ . }}" class="w-20 h-20 object-cover rounded-md shrink-0 my-4" style="margin-right: 1rem;">
+              <img src="{{ $.Site.Params.mediaBaseURL }}{{ . }}" class="w-full h-full object-cover" style="margin-right: 0.5rem;">
             {{ end }}
+            </div>
              </a>
             <a href="{{ .RelPermalink }}" class="text-sm hover:underline">
               {{ .Title }}

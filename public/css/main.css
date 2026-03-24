@@ -820,6 +820,9 @@
   .h-20 {
     height: calc(var(--spacing) * 20);
   }
+  .h-30 {
+    height: calc(var(--spacing) * 30);
+  }
   .h-\[200px\] {
     height: 200px;
   }
@@ -852,6 +855,9 @@
   }
   .max-w-md {
     max-width: var(--container-md);
+  }
+  .flex-shrink-0 {
+    flex-shrink: 0;
   }
   .shrink-0 {
     flex-shrink: 0;
