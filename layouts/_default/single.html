@@ -47,7 +47,7 @@
     <div id="content" class="mb-14 prose lg:prose-lg">
       {{ if and (ne .Params.toc false) (gt (len (findRE "li" .TableOfContents)) 0) }}
         <div class="toc">
-          <h2>Mục lục:</h2>
+          <h2>Xem nhanh:</h2>
           {{ .TableOfContents }}
         </div>
       {{ end }}
