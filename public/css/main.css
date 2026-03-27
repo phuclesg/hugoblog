@@ -238,11 +238,20 @@
   .right-0 {
     right: calc(var(--spacing) * 0);
   }
+  .right-1\/2 {
+    right: calc(1 / 2 * 100%);
+  }
   .bottom-0 {
     bottom: calc(var(--spacing) * 0);
   }
   .left-0 {
     left: calc(var(--spacing) * 0);
+  }
+  .left-1\/2 {
+    left: calc(1 / 2 * 100%);
+  }
+  .left-\[50\%\] {
+    left: 50%;
   }
   .z-\[-100\] {
     z-index: -100;
@@ -819,8 +828,17 @@
   .h-20 {
     height: calc(var(--spacing) * 20);
   }
+  .h-48 {
+    height: calc(var(--spacing) * 48);
+  }
   .h-\[200px\] {
     height: 200px;
+  }
+  .h-\[300px\] {
+    height: 300px;
+  }
+  .h-\[400px\] {
+    height: 400px;
   }
   .h-full {
     height: 100%;
@@ -843,11 +861,23 @@
   .w-\[80\%\] {
     width: 80%;
   }
+  .w-\[110ch\] {
+    width: 110ch;
+  }
+  .w-auto {
+    width: auto;
+  }
   .w-full {
     width: 100%;
   }
+  .w-screen {
+    width: 100vw;
+  }
   .max-w-7xl {
     max-width: var(--container-7xl);
+  }
+  .max-w-\[110ch\] {
+    max-width: 110ch;
   }
   .max-w-md {
     max-width: var(--container-md);
@@ -866,6 +896,28 @@
   }
   .border-collapse {
     border-collapse: collapse;
+  }
+  .-translate-1\/2 {
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+  .translate-\[-50\%\] {
+    --tw-translate-x: -50%;
+    --tw-translate-y: -50%;
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+  .translate-x-1\/2 {
+    --tw-translate-x: calc(1 / 2 * 100%);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+  .translate-x-\[-50\%\] {
+    --tw-translate-x: -50%;
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+  .translate-y-1\/2 {
+    --tw-translate-y: calc(1 / 2 * 100%);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
   }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -1126,6 +1178,9 @@
   }
   .object-cover {
     object-fit: cover;
+  }
+  .object-center {
+    object-position: center;
   }
   .p-1\.5 {
     padding: calc(var(--spacing) * 1.5);
@@ -2112,6 +2167,16 @@ blockquote p {
 blockquote p::before {
   content: "";
 }
+.img-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  width: 110ch;
+  max-width: 110ch;
+  left: 50%;
+  transform: translateX(-50%);
+}
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
@@ -2135,6 +2200,21 @@ blockquote p::before {
     grid-template-areas: "left" "main" "right";
     align-items: stretch;
   }
+}
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
 }
 @property --tw-rotate-x {
   syntax: "*";
@@ -2385,6 +2465,9 @@ blockquote p::before {
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
       --tw-rotate-x: initial;
       --tw-rotate-y: initial;
       --tw-rotate-z: initial;

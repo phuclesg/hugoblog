@@ -142,8 +142,17 @@ blockquote p {
 blockquote p::before {
   content: "";
 }
+.img-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  width: 110ch;
+  max-width: 110ch;
+  left: 50%;
+  transform: translateX(-50%);
 
-
+}
 
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
