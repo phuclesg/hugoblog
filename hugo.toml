@@ -17,7 +17,7 @@ uglyURLs = false
     languageName = 'vietnames'
     weight = 1
 [pagination]
-    pagerSize = 4
+    pagerSize = 5
 [params]
     selfHosted = true
     mainSections = ["mon-ngon",'nhan-vat','doi-song']

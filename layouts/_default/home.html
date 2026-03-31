@@ -121,17 +121,77 @@
 
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-10">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10 bg-[#ede8dc] p-3">
 
     {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ $relatedPost := first 1 (after 1 $paginator.Pages) }}
+    {{ $relatedBottom := first 3 (after 2 $paginator.Pages) }}
+      
+     <div class="grid-cols-1 md:col-span-2 md:flex relative">
+    {{ range $paginator.Pages | first 1 }}
+      <div class="mt-2 ml-2 ">
+          <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
+          <p class="text-normal leading-normal text-zinc-500 line-clamp-3 p-2">{{ .Params.description }}</p>
+        </div>
+      <figure class="w-full md:w-60 md:h-60 aspect-video md:aspect-square rounded-lg border">
 
-    {{ range $paginator.Pages }}
+          {{- if .Params.image }}
 
-      {{- partial "content/card" . -}}
+            {{- if (strings.HasPrefix .Params.image "http") }}
 
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
+
+            {{- else if (strings.HasPrefix .Params.image "/" )}}
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}" >
+            {{- else }}
+              {{- with $imgfeature := resources.Get .Params.image }}
+                {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
+                <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width }}" height="{{ $imgfeature.Height }}">
+              {{- end }}
+
+            {{- end }}
+
+          {{- end }}
+
+        </figure>
     {{ end }}
+       </div>
+       <div class="grid-cols-1 md:col-span-1 relative">
+    {{ range $relatedPost }}
+      <figure class="w-full h-60 aspect-video overflow-hidden rounded-lg border">
 
+          {{- if .Params.image }}
+
+            {{- if (strings.HasPrefix .Params.image "http") }}
+
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
+
+            {{- else if (strings.HasPrefix .Params.image "/" )}}
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}" >
+            {{- else }}
+              {{- with $imgfeature := resources.Get .Params.image }}
+                {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
+                <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width }}" height="{{ $imgfeature.Height }}">
+              {{- end }}
+
+            {{- end }}
+
+          {{- end }}
+
+        </figure>
+        <div class="mt-2 ml-2 ">
+          <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
+          <p class="text-normal leading-normal text-zinc-500 line-clamp-3">{{ .Params.description }}</p>
+        </div>
+    {{ end }}
+       </div>
+          {{ range $relatedBottom }}
+          {{- partial "content/card" . -}}
+          {{ end }}
     </div>
+    
     {{ range site.Params.homeBlocks }}
     {{ $pages := where site.RegularPages "Section" .section | first .limit }}
 
