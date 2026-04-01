@@ -11,27 +11,6 @@
 body {
   font-family: 'Quicksand', sans-serif;
 }
-.featured-left {
-  grid-area: left;
-}
-.featured-main {
-  grid-area: main;
-}
-.featured-right {
-  grid-area: right;
-}
-.featured-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-areas: "left main main right"
-                        "left main main right";
-  align-items: stretch;
-  height: 100%;
-  background-color:#ede8dc ;
-  padding: 1rem;
-  border-radius: 1rem;
-}
-
 .prose img.full {
   position: relative;
   left: 50%;
@@ -82,13 +61,17 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 3rem 3rem;
 }
 .title-site h1 {
-  font-size: 4rem;
+  font-size: 6rem;
   font-family: 'Courier New', Courier, monospace;
-  font-weight: 700;
+  font-weight: 900;
   margin: 0 0 1rem;
+  line-height: 6rem;
+  font-style: italic;
+}
+.title-site h1 span {
+  color: #c4632e;
 }
 .title-site p {
   font-size: 1.5rem;

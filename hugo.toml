@@ -30,10 +30,10 @@ uglyURLs = false
     logos = '/images/logo.png'
     mediaBaseURL = 'https://media.namkyxua.com'
 [params.section_color]
-    mon-ngon = "#cc2c60"
-    nhan-vat = "#5a51bf"
+    mon-ngon = "#fca2bf"
+    nhan-vat = "#bab3ff"
     doi-song = "#b07e44"
-    default = "#348993"
+    default = "#f4f1e8"
 [related]
   includeNewer = true
   threshold = 20

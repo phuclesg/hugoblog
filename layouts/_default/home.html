@@ -1,21 +1,21 @@
 {{ define "main" }}
+<div class="hero-site md:flex md:flex-row gap-10 justify-between justify-center py-20">
 <!-- site-title -->
-<div class="title-site">
-	<h1>Nam Kỳ Xưa</h1>
-	<p>Lịch sử, văn hóa và con người Nam Bộ thuở trước.</p>
-</div>
+  <div class="title-site basis-1/2">
+    <h1>Những câu chuyện <span>đáng đọc</span></h1>
+    <p>Ẩm thực, lịch sử, văn hóa và con người Nam Bộ thuở trước.</p>
+  </div>
 <!-- Feature post by tag = "feature" -->
- <h1 style="color:black;font-size:2rem;font-weight: 600;margin: 1rem 1rem;">Featured</h1>
- <div class="featured-grid gap-2 mt-3">
+ <div class="gap-2 mt-3 basis-1/2 bg-linear-to-br from-amber-900 to-black px-8 py-2 h-full">
   {{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "feature") -}}
-  {{- $other_left := first 2 $featured -}}
+  {{- $other_left := first 1 $featured -}}
   {{- $main := first 1 (after 2 $featured) -}}
   {{- $other_right := first 2 (after 3 $featured) -}}
   {{- $color := index .Site.Params.section_color .Section -}}
-    <div class="featured-left">
       {{ range $other_left }}
+      <h2 class="text-[0.8rem] text-[#d4a843] py-1">✦ Bài viết nổi bật</h2>
       <section class="relative group flex flex-col rounded-lg mb-8 hover:bg-[{{ $color }}]/30">
-        <figure class="w-full aspect-video overflow-hidden rounded-lg border">
+        <figure class="w-full h-36 aspect-video overflow-hidden rounded-lg border">
 
           {{- if .Params.image }}
 
@@ -36,15 +36,16 @@
           {{- end }}
 
         </figure>
-        <div class="mt-2 ml-2 self-center">
-          <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2 font-bold"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
+        <div class="mt-2 ">
+          <h2 class="text-1xl line-clamp-2 md:text-xl text-white lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
+          <time class="text-white" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2 font-bold text-white"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
         </div>
+        <p class="text-normal leading-normal text-white line-clamp-3">{{ .Params.description }}</p>
       </section>
 
       {{ end -}}
-    </div>
-    <div class="featured-main px-3">
+  </div>
+    <!-- <div class="featured-main px-3">
       {{ range $main }}
       <section class="relative group flex flex-col rounded-lg hover:bg-[{{ $color }}]/30">
         <figure class="w-full aspect-video overflow-hidden rounded-lg border">
@@ -107,7 +108,7 @@
         </div>
       </section>
       {{ end -}}
-      </div>
+      </div> -->
 </div>
 
 <!-- / End feature post  -->
@@ -121,13 +122,13 @@
 
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10 bg-[#ede8dc] p-3">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-2 gap-y-2 p-3">
 
     {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ $relatedPost := first 1 (after 1 $paginator.Pages) }}
     {{ $relatedBottom := first 3 (after 2 $paginator.Pages) }}
       
-     <div class="grid-cols-1 md:col-span-2 md:flex relative">
+     <div class="grid-cols-1 md:col-span-2 md:flex relative p-3 bg-[#ede8dc]">
     {{ range $paginator.Pages | first 1 }}
       <div class="mt-2 ml-2 ">
           <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
@@ -157,7 +158,7 @@
         </figure>
     {{ end }}
        </div>
-       <div class="grid-cols-1 md:col-span-1 relative">
+       <div class="grid-cols-1 md:col-span-1 relative bg-[#ede8dc] p-3">
     {{ range $relatedPost }}
       <figure class="w-full h-60 aspect-video overflow-hidden rounded-lg border">
 
