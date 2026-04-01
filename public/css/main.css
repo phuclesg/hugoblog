@@ -860,6 +860,9 @@
   .max-w-7xl {
     max-width: var(--container-7xl);
   }
+  .max-w-full {
+    max-width: 100%;
+  }
   .max-w-md {
     max-width: var(--container-md);
   }
@@ -880,9 +883,6 @@
   }
   .border-collapse {
     border-collapse: collapse;
-  }
-  .-rotate-10 {
-    rotate: calc(10deg * -1);
   }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -1390,17 +1390,9 @@
     transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
     transition-duration: var(--tw-duration, var(--default-transition-duration));
   }
-  .duration-100 {
-    --tw-duration: 100ms;
-    transition-duration: 100ms;
-  }
   .duration-200 {
     --tw-duration: 200ms;
     transition-duration: 200ms;
-  }
-  .duration-300 {
-    --tw-duration: 300ms;
-    transition-duration: 300ms;
   }
   .duration-500 {
     --tw-duration: 500ms;
@@ -1459,10 +1451,33 @@
       }
     }
   }
+  .group-hover\:text-white {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        color: var(--color-white);
+      }
+    }
+  }
   .group-hover\:underline {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {
         text-decoration-line: underline;
+      }
+    }
+  }
+  .group-hover\:duration-0 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-duration: 0ms;
+        transition-duration: 0ms;
+      }
+    }
+  }
+  .group-hover\:duration-1 {
+    &:is(:where(.group):hover *) {
+      @media (hover: hover) {
+        --tw-duration: 1ms;
+        transition-duration: 1ms;
       }
     }
   }
@@ -1566,6 +1581,13 @@
       }
     }
   }
+  .hover\:origin-bottom-right {
+    &:hover {
+      @media (hover: hover) {
+        transform-origin: 100% 100%;
+      }
+    }
+  }
   .hover\:-translate-1 {
     &:hover {
       @media (hover: hover) {
@@ -1579,20 +1601,6 @@
     &:hover {
       @media (hover: hover) {
         rotate: calc(1deg * -1);
-      }
-    }
-  }
-  .hover\:-rotate-2 {
-    &:hover {
-      @media (hover: hover) {
-        rotate: calc(2deg * -1);
-      }
-    }
-  }
-  .hover\:-rotate-10 {
-    &:hover {
-      @media (hover: hover) {
-        rotate: calc(10deg * -1);
       }
     }
   }
@@ -1617,6 +1625,24 @@
       }
     }
   }
+  .hover\:bg-linear-to-br {
+    &:hover {
+      @media (hover: hover) {
+        --tw-gradient-position: to bottom right;
+        @supports (background-image: linear-gradient(in lab, red, red)) {
+          --tw-gradient-position: to bottom right in oklab;
+        }
+        background-image: linear-gradient(var(--tw-gradient-stops));
+      }
+    }
+  }
+  .hover\:\!text-white {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-white) !important;
+      }
+    }
+  }
   .hover\:text-black {
     &:hover {
       @media (hover: hover) {
@@ -1628,6 +1654,13 @@
     &:hover {
       @media (hover: hover) {
         color: var(--color-red-300);
+      }
+    }
+  }
+  .hover\:text-white {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-white);
       }
     }
   }
