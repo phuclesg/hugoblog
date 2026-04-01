@@ -1019,8 +1019,14 @@
   .rounded-\[1\.5rem\] {
     border-radius: 1.5rem;
   }
+  .rounded-\[5px\] {
+    border-radius: 5px;
+  }
   .rounded-\[16px\] {
     border-radius: 16px;
+  }
+  .rounded-\[20\[x\]\] {
+    border-radius: 20[x];
   }
   .rounded-\[20px\] {
     border-radius: 20px;
@@ -1090,6 +1096,9 @@
   }
   .border-zinc-400 {
     border-color: var(--color-zinc-400);
+  }
+  .bg-\[\#C46A2D\] {
+    background-color: #C46A2D;
   }
   .bg-\[\#b07e44\] {
     background-color: #b07e44;
@@ -1235,9 +1244,6 @@
   }
   .py-14 {
     padding-block: calc(var(--spacing) * 14);
-  }
-  .py-20 {
-    padding-block: calc(var(--spacing) * 20);
   }
   .pt-1 {
     padding-top: calc(var(--spacing) * 1);
@@ -2118,6 +2124,7 @@ body {
   margin: 0 0 1rem;
   line-height: 6rem;
   font-style: italic;
+  word-spacing: -30px;
 }
 .title-site h1 span {
   color: #c4632e;

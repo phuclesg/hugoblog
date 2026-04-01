@@ -69,7 +69,7 @@ body {
   margin: 0 0 1rem;
   line-height: 6rem;
   font-style: italic;
-}
+  word-spacing: -30px;}
 .title-site h1 span {
   color: #c4632e;
 }
