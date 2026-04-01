@@ -198,6 +198,7 @@
       "md:pr-8",
       "md:px-6",
       "md:py-14",
+      "md:py-20",
       "md:shadow-[0_-10px_30px_rgba(0,0,0,0.1)]",
       "md:text-2xl",
       "md:text-4xl",
@@ -251,6 +252,7 @@
       "py-2.5",
       "py-20",
       "py-3",
+      "py-4",
       "py-6",
       "py-8",
       "relative",
@@ -312,6 +314,7 @@
       "w-[80%]",
       "w-full",
       "whitespace-nowrap",
+      "z-1",
       "z-[-100]"
     ],
     "ids": [
