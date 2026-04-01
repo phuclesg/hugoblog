@@ -2,7 +2,7 @@
 <div class="hero-site md:flex md:flex-row gap-10 justify-between justify-center py-4 md:py-20">
 <!-- site-title -->
   <div class="title-site basis-1/2">
-    <h1>Những mảnh ký ức về <span><br />Nam bộ</span></h1>
+    <h1>Chuyện xưa <span><br />Nam bộ</span></h1>
     <p>Ẩm thực, lịch sử, văn hóa và con người Nam Bộ thuở trước.</p>
   </div>
 <!-- Feature post by tag = "feature" -->
@@ -239,9 +239,9 @@
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center justify-between mb-6">
 
-      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Nhân vật</h2></a>
+      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-black">Nhân vật</h2></a>
 
-      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 text-white bg-[{{ $color }}] hover:bg-blue-100 hover:text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
+      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-[{{ $color }}] hover:bg-blue-100 text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
@@ -261,9 +261,9 @@
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center justify-between mb-6">
 
-      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Đời sống</h2></a>
+      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-black">Đời sống</h2></a>
 
-      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 text-white bg-[{{ $color }}] hover:bg-blue-100 hover:text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
+      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-[{{ $color }}] hover:bg-blue-100 text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
@@ -284,9 +284,9 @@
     {{- $color := index .Site.Params.section_color $cat | default .Site.Params.section_color.default -}}
     <div class="flex items-center justify-between mb-6">
 
-      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-[{{ $color }}]">Món ngon</h2></a>
+      <a href="{{ printf "/%s" $cat | absURL }}"><h2 class="text-3xl md:text-4xl font-bold mr-auto text-black">Món ngon</h2></a>
 
-      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 text-white bg-[{{ $color }}] hover:bg-blue-100 hover:text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
+      <a class="border border-[#e5e7eb] rounded-full py-2 px-4 md:px-6 bg-[{{ $color }}] hover:bg-blue-100 text-black" href="{{ printf "/%s" $cat | absURL }}">View All</a>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
