@@ -6,7 +6,7 @@
     <p>Ẩm thực, lịch sử, văn hóa và con người Nam Bộ thuở trước.</p>
   </div>
 <!-- Feature post by tag = "feature" -->
- <div class="gap-2 mt-3 basis-1/2 bg-linear-to-br from-amber-900 to-black px-8 py-2 h-full rounded-[5px]">
+ <div class="gap-2 mt-3 basis-1/2 bg-linear-to-br from-amber-900 to-black px-8 py-2 h-full transition-all ease-in duration-200 hover:origin-bottom hover:-rotate-1 rounded-[5px]">
   {{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "feature") -}}
   {{- $other_left := first 1 $featured -}}
   {{- $main := first 1 (after 2 $featured) -}}
