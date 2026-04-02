@@ -27,17 +27,17 @@ Theo thời gian, đờn ca tài tử phát triển mạnh mẽ và lan rộng k
 
 **Một số nhạc cụ phổ biến gồm:**
 
-- Đàn kìm
+- Đàn kìm.
 
-- Đàn cò
+- Đàn cò.
 
-- Đàn tranh
+- Đàn tranh.
 
-- Đàn bầu
+- Đàn bầu.
 
-- Sáo trúc
+- Sáo trúc.
 
-- Guitar phím lõm
+- Guitar phím lõm.
 
 {{< figure src="/images/don-ca-tai-tu-6.webp" alt="nhạc cụ đờn ca tài tử Nam Bộ" caption="nhạc cụ đờn ca tài tử Nam Bộ" class="center" >}}
 
