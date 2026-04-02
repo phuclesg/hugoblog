@@ -138,6 +138,14 @@ blockquote p::before {
 
 }
 
+/* responsive */
+@media (orientation: landscape) and (max-width: 932px) {
+  #scroll {
+    display: none;
+  }
+}
+
+
 @media (max-width: 768px) {
   div#content h1, div#content h2 {
     font-size: 1.2rem !important;
