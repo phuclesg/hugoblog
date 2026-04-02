@@ -165,14 +165,14 @@ fetch("/index.json")
 	</div>
 </div></header>
   <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 ">
-<div class="hero-site md:flex md:flex-row gap-10 justify-between justify-center py-4 md:py-20">
+<div class="hero-site min-h-[calc(100vh-160px)] md:flex md:flex-row gap-10 justify-between items-center py-4 md:py-20">
 
   <div class="title-site basis-1/2">
     <h1>Chuyện xưa <span><br />Nam bộ</span></h1>
     <p>Ẩm thực, lịch sử, văn hóa và con người Nam Bộ thuở trước.</p>
   </div>
 
- <div class="gap-2 mt-3 basis-1/2 bg-linear-to-br from-amber-900 to-black px-8 py-2 h-full transition-all ease-in duration-200 hover:origin-bottom hover:-rotate-1 rounded-[5px]">
+ <div class="gap-2 mt-3 basis-1/2 self-center bg-linear-to-br from-amber-900 to-black px-8 py-2 transition-all ease-in duration-200 hover:origin-bottom hover:-rotate-1 rounded-[5px]">
       <h2 class="text-[0.8rem] text-[#d4a843] py-1">✦ Bài viết nổi bật</h2>
       <section class="relative group flex flex-col rounded-lg mb-8 hover:bg-[]/30">
         <figure class="w-full h-36 aspect-video overflow-hidden rounded-lg border">
@@ -186,10 +186,26 @@ fetch("/index.json")
         <p class="text-normal leading-normal text-white line-clamp-3">Đờn ca tài tử Nam Bộ là loại hình âm nhạc truyền thống nổi tiếng của miền Nam Việt Nam, được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại.</p>
       </section>
 
-      </div>
-    
-</div>
+      </div>  
+     <div id="scroll" class="hidden max-w-7xl mx-auto md:flex flex-col items-center absolute bottom-2 right-[50%] transition-all duration-300">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="animate-bounce size-8">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 13.5 12 21m0 0-7.5-7.5M12 21V3" />
+</svg>
 
+    <p>Cuộn xuống</p>
+  </div>  
+</div>
+<script>
+  const scroll = document.getElementById("scroll");
+  window.addEventListener("scroll",() => {
+    if (window.scrollY > 20) {
+      scroll.classList.add("opacity-0");
+    }
+      else {
+        scroll.classList.remove("opacity-0");
+      }
+    })
+</script>
 
 
 
@@ -201,7 +217,7 @@ fetch("/index.json")
 
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-2 gap-y-2 p-3">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-2 gap-y-2">
 
     
     
