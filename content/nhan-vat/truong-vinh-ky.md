@@ -35,7 +35,7 @@ Chính môi trường đa văn hóa này đã nhào nặn nên một "nhà bác 
 # 4. Những năm cuối đời cô độc
 Dù đạt đến đỉnh cao danh vọng về học thuật, những năm cuối đời của Trương Vĩnh Ký lại khá buồn bã và cô đơn. Ông rời bỏ chốn quan trường, sống bằng nghề viết lách và dạy học tại Chợ Quán. Nhưng ông bị những người chia phe phái nói ra vào để giảm lương. Có lẽ câu "Trong thế giới người mù thằng chột sẽ được làm vua. Còn trong thế giới người gù thì kẻ thẳng lưng sẽ bị coi là dị dạng" rất đúng với ông, ông chỉ sống theo thời thế mà thôi.
 
-{{< figure src="/images/truong-vinh-ky-2.webp" alt=Đền thờ Trương Vĩnh Ký" class="center" >}}
+{{< figure src="/images/truong-vinh-ky-2.webp" alt="Đền thờ Trương Vĩnh Ký" class="center" >}}
 
 > Qanh quanh quẩn quẩn lối đường quai,  
 > Xô đẩy người vô giữa cuộc đời.  
