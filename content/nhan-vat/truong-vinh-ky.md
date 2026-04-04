@@ -37,13 +37,13 @@ Dù đạt đến đỉnh cao danh vọng về học thuật, những năm cuố
 
 {{< figure src="/images/truong-vinh-ky-2.webp" alt=Đền thờ Trương Vĩnh Ký" class="center" >}}
 
-> Qanh quanh quẩn quẩn lối đường quai,
-> Xô đẩy người vô giữa cuộc đời.
-> Học thức gửi tên con mọt sách,
-> Công danh rốt cuộc cái quan tài.
-> Dạo hòn, lũ kiến men chân bước,
-> Bò xối, con sùng chắt lưỡi hoài!
-> Cuốn sổ bình sanh công với tội,
-> Tìm nơi thẩm phán để thừa khai.
+> Qanh quanh quẩn quẩn lối đường quai,  
+> Xô đẩy người vô giữa cuộc đời.  
+> Học thức gửi tên con mọt sách,  
+> Công danh rốt cuộc cái quan tài.  
+> Dạo hòn, lũ kiến men chân bước,  
+> Bò xối, con sùng chắt lưỡi hoài!  
+> Cuốn sổ bình sanh công với tội,  
+> Tìm nơi thẩm phán để thừa khai.  
 
 Ông qua đời ngày 1 tháng 9 năm 1898 tại Sài Gòn. Mộ phần của ông hiện vẫn nằm ở góc đường Trần Hưng Đạo và Trần Bình Trọng (Quận 5, TP.HCM) như một chứng nhân lặng lẽ cho một giai đoạn lịch sử đầy biến động.
