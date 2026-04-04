@@ -86,7 +86,7 @@
       <div class="mt-2 ml-2">
           <h2 class="text-1xl text-black group-hover:text-white line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
-          <p class="text-normal leading-normal text-zinc-500 group-hover:text-white  line-clamp-3 p-2">{{ .Params.description }}</p>
+          <p class="text-normal leading-normal text-zinc-500 group-hover:text-white line-clamp-2 overflow-hidden my-2">{{ .Params.description }}</p>
         </div>
       <figure class="w-full md:w-60 md:h-60 aspect-video md:aspect-square rounded-lg border">
 

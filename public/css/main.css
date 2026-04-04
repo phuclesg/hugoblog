@@ -1013,6 +1013,9 @@
   .overflow-x-auto {
     overflow-x: auto;
   }
+  .overflow-x-scroll {
+    overflow-x: scroll;
+  }
   .rounded {
     border-radius: 0.25rem;
   }
@@ -1782,13 +1785,6 @@
       box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
     }
   }
-  .md\:max-xl\:flex {
-    @media (width >= 48rem) {
-      @media (width < 80rem) {
-        display: flex;
-      }
-    }
-  }
   .lg\:sticky {
     @media (width >= 64rem) {
       position: sticky;
@@ -2060,22 +2056,10 @@
       line-height: var(--tw-leading, var(--text-xl--line-height));
     }
   }
-  .landscape\:hidden {
-    @media (orientation: landscape) {
-      display: none;
-    }
-  }
   .landscape\:text-\[0\.8rem\]\/8 {
     @media (orientation: landscape) {
       font-size: 0.8rem;
       line-height: calc(var(--spacing) * 8);
-    }
-  }
-  .sm\:landscape\:hidden {
-    @media (width >= 40rem) {
-      @media (orientation: landscape) {
-        display: none;
-      }
     }
   }
 }
