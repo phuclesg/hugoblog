@@ -1088,6 +1088,9 @@
   .border-\[\#f4f1e8\] {
     border-color: #f4f1e8;
   }
+  .border-\[\#ffffff\] {
+    border-color: #ffffff;
+  }
   .border-amber-200 {
     border-color: var(--color-amber-200);
   }
