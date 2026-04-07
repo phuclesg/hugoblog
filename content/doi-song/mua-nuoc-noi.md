@@ -34,7 +34,7 @@ Sau khi con nước rút đi, thì còn lại là phù sa cho đất đai màu m
 {{< figure src="/images/mua-nuoc-noi-4.webp" alt="Đẩy côn bắt cá" class="center" >}}
 
 ## Phát triển làm cho con nước không còn
-Dần dà theo thời gian thì mua nước nổi không còn như xưa nữa. Cá, tôm cũng ít dần đi.
+Dần dà theo thời gian thì mùa nước nổi không còn như xưa nữa. Cá, tôm cũng ít dần đi.
 Có thể là do người ta đô thị hết rồi, bê tông cốt thép đã thay thế những cánh đồng xưa.
 Và cũng là yếu tố con người, dần dần mọi người đều di chuyển làm việc ở thành thị nhiều hơn. Không còn ai còn bám trụ với cái nghề đánh bắt tôm cá nữa.
 
