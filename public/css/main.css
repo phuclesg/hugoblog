@@ -2074,6 +2074,14 @@
 body {
   font-family: 'Quicksand', sans-serif;
 }
+ul#results li {
+  margin: 10px 0;
+}
+ul#results li:hover {
+  transform: translateX(5px);
+  transition: all ease-in 0.3s;
+  color: #c4632e;
+}
 .prose img.full {
   position: relative;
   left: 50%;
