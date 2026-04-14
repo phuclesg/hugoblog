@@ -11,7 +11,7 @@ image = '/images/ut-tra-on-2.webp'
 {{< figure src="/images/ut-tra-on-2.webp" alt="Danh ca Út Trà Ôn" class="center" >}}
 
 ## Thời niên thiếu
-Cha mẹ mất sớm nên ông phải lăn lộn ngoài ruộng đồng lúc 13 tuổi. Việc đồng án nhọc nhằn cực khổ, nên ông lấy việc ca hát làm niềm vui giữa cái nắng oi bức trên đồng ruộng. Giọng hát thiên phú của ông được bạn bè yêu thích và dần dà đến tai của dân làng. Nên mỗi khi có Hội cúng Kỳ Yên, ông được nhờ đứng ra xương danh cho hương chức hội tề cúng lễ.
+Cha mẹ mất sớm nên ông phải lăn lộn ngoài ruộng đồng lúc 13 tuổi. Việc đồng án nhọc nhằn cực khổ, nên ông lấy việc ca hát làm niềm vui giữa cái nắng oi bức trên đồng ruộng. Giọng hát thiên phú của ông được bạn bè yêu thích và dần dà đến tai của dân làng. Nên mỗi khi có Hội cúng Kỳ Yên, ông được nhờ đứng ra xướng danh cho hương chức hội tề cúng lễ.
 
 {{< figure src="/images/ut-tra-on.webp" alt="Danh ca Út Trà Ôn" class="center" >}}
 
@@ -22,6 +22,7 @@ Bản vọng cổ "Thức trót canh thâu" là một bước đệm lớn để
 Năm 1959, bài vọng cổ "Tình anh bán chiếu" của soan giả Viễn Châu, đã được Út Trà Ôn thể hiện một cách xuất sắc. Từ đó để lại trong lòng khán giả ấn tượng khó quên.
 
 Khi băng hát "Tình anh bán chiếu" được phát hành rộng rãi. Bài ca đã thâm nhập mọi ngõ ngách ở miền Nam, từ ông chèo đò chú ông dân làm ruộng điểu ngân nga câu hát 
+
 *"Hò ơ! Chiếu Cà Mau nhuộm màu tươi thắm, công tôi cực lắm mưa nắng dãi dầu. Chiếu này tôi chẳng bán đâu, tìm cô không gặp, hò ơi, tôi gối đầu mỗi đêm."*
 
 ## Thành tựu
