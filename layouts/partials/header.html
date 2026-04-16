@@ -1,8 +1,9 @@
 <div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
-	<div class="flex items-center">
+	<div class="flex items-center justify-center">
 		<div class="flex items-center">
-			<div class="relative rounded-full py-1.5 px-6 text-[#4b4641] text-xl font-bold uppercase mx-2">
-				{{ if .IsHome}}<h1><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+			<div class="relative flex flex-col items-center rounded-full py-1.5 px-6 text-[#4b4641] uppercase mx-2">
+				{{ if .IsHome}}<h1 class="text-2xl font-bold"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+				<p class="text-[0.7rem]">ẩm thực - lịch sử - văn hóa nam bộ</p>
 			{{ else }}<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>{{ end }}
 			</div>
 		</div>
