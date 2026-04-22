@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/hugoblog # Thay bằng repo của bạn
+  repo: phuclesg/hugoblog # Thay bằng repo của bạn
   branch: main
   base_url: https://callback.lhp0988.workers.dev # URL của Cloudflare Worker xử lý OAuth
 
