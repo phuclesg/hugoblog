@@ -8,19 +8,57 @@ media_folder: "static/images"
 public_folder: "/images"
 
 collections:
-  - name: "blog"
-    label: "Bài viết"
-    folder: "content/posts"
+  # Collection cho Món Ngon
+  - name: "mon_ngon"
+    label: "Món Ngon"
+    folder: "content/mon-ngon"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Tiêu đề", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { label: "Mô tả", name: "description", widget: "text" }
       - { 
           label: "Chuyên mục", 
           name: "categories", 
           widget: "list", 
-          default: ["tin-tuc"] 
+          default: ["mon-ngon"] 
         }
+      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
       - { label: "Nội dung", name: "body", widget: "markdown" }
+
+  # Collection cho Nhân Vật
+  - name: "nhan_vat"
+    label: "Nhân Vật"
+    folder: "content/nhan-vat"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Tên nhân vật", name: "title", widget: "string" }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { 
+          label: "Chuyên mục", 
+          name: "categories", 
+          widget: "list", 
+          default: ["nhan-vat"] 
+        }
+      - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
+      - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
+      
+# Collection cho đời sống
+  - name: "doi_song"
+    label: "Đời sống"
+    folder: "content/doi-song"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Tên nhân vật", name: "title", widget: "string" }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { 
+          label: "Chuyên mục", 
+          name: "categories", 
+          widget: "list", 
+          default: ["nhan-vat"] 
+        }
+      - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
+      - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
+      

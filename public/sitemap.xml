@@ -231,9 +231,5 @@
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
