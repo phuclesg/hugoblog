@@ -21,7 +21,7 @@ collections:
           label: "Đường dẫn tĩnh", 
           name: "slug", 
           widget: "string", 
-          required: "false",
+          required: false,
           hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
@@ -40,7 +40,7 @@ collections:
           label: "Đường dẫn tĩnh", 
           name: "slug", 
           widget: "string", 
-          required: "false",
+          required: false,
           hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
@@ -59,7 +59,7 @@ collections:
           label: "Đường dẫn tĩnh", 
           name: "slug", 
           widget: "string", 
-          required: "false",
+          required: false,
           hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
