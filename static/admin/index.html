@@ -36,5 +36,42 @@
   }
 });
   </script>
+  <script>
+    const MEDIA_BASE_URL = "https://media.namkyxua.com";
+
+CMS.registerPreviewTemplate("posts", createClass({
+  render: function() {
+    const entry = this.props.entry;
+    let image = entry.getIn(['data', 'image']);
+
+    // Fix riêng cho preview
+    if (typeof image === 'string' && image.trim() !== '') {
+      if (!/^https?:\/\//.test(image)) {
+        const base = MEDIA_BASE_URL.replace(/\/+$/, '');
+        const path = image.replace(/^\/+/, '');
+        image = `${base}/${path}`;
+      }
+    } else {
+      image = null;
+    }
+
+    return h('div', { style: { padding: '20px' } },
+      h('h1', {}, entry.getIn(['data', 'title'])),
+
+      image
+        ? h('img', {
+            src: image,
+            style: { width: '100%', borderRadius: '8px' },
+            onError: (e) => {
+              e.target.style.display = 'none';
+            }
+          })
+        : h('p', { style: { color: '#999' } }, 'Không có ảnh preview'),
+
+      h('div', {}, this.props.widgetFor('body'))
+    );
+  }
+}));
+  </script>
   </body>
 </html>
