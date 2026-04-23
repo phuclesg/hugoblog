@@ -19,7 +19,7 @@
     {name: 'class', label: 'Chèn class', widget: 'string'}
   ],
   // Đoạn regex này giúp Decap "nhận diện" lệnh figure trong file .md
-  pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" class="([^"]*")" >}}/,
+  pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" class="([^"]*)" >}}/,
   fromBlock: function(match) {
     return { src: match[1], caption: match[2], alt: match[3], match[4] };
   },
