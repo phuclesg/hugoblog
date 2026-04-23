@@ -7,6 +7,34 @@
 </head>
 <body>
 
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js">
+    CMS.registerEditorComponent({
+  id: "figure",
+  label: "Chèn Ảnh (Figure)",
+  fields: [
+    {name: 'src', label: 'Đường dẫn ảnh', widget: 'string'},
+    {name: 'caption', label: 'Chú thích ảnh', widget: 'string'},
+    {name: 'alt', label: 'Mô tả (SEO)', widget: 'string'}
+    {name: 'class', label: 'Chèn class', widget: 'string'}
+  ],
+  // Đoạn regex này giúp Decap "nhận diện" lệnh figure trong file .md
+  pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" >}}/,
+  fromBlock: function(match) {
+    return { src: match[1], caption: match[2], alt: match[3] };
+  },
+  toBlock: function(obj) {
+    return `{{< figure src="${obj.src}" caption="${obj.caption}" alt="${obj.alt}" >}}`;
+  },
+  // Đây là phần giúp nó hiện ra ảnh trong cửa sổ soạn thảo
+  toPreview: function(obj) {
+    return `
+      <figure>
+        <img src="https://media.namkyxua.com${obj.src}" style="max-width:100%; height:auto;">
+        <figcaption style="${obj.class}">${obj.caption}</figcaption>
+      </figure>
+    `;
+  }
+});
+  </script>
   </body>
 </html>
