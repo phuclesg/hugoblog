@@ -18,10 +18,11 @@ collections:
       - { label: "Tiêu đề", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime" }
       - { 
-          label: "Chuyên mục", 
-          name: "categories", 
-          widget: "list", 
-          default: ["mon-ngon"] 
+          label: "Đường dẫn tĩnh", 
+          name: "slug", 
+          widget: "string", 
+          required: "false",
+          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
       - { label: "Nội dung", name: "body", widget: "markdown" }
@@ -36,10 +37,11 @@ collections:
       - { label: "Tên nhân vật", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime" }
       - { 
-          label: "Chuyên mục", 
-          name: "categories", 
-          widget: "list", 
-          default: ["nhan-vat"] 
+          label: "Đường dẫn tĩnh", 
+          name: "slug", 
+          widget: "string", 
+          required: "false",
+          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
       - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
@@ -54,10 +56,11 @@ collections:
       - { label: "Tên nhân vật", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime" }
       - { 
-          label: "Chuyên mục", 
-          name: "categories", 
-          widget: "list", 
-          default: ["nhan-vat"] 
+          label: "Đường dẫn tĩnh", 
+          name: "slug", 
+          widget: "string", 
+          required: "false",
+          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
       - { label: "Tiểu sử tóm tắt", name: "description", widget: "text" }
       - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
