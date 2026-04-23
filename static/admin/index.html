@@ -21,7 +21,7 @@
   // Đoạn regex này giúp Decap "nhận diện" lệnh figure trong file .md
   pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" class="([^"]*)" >}}/,
   fromBlock: function(match) {
-    return { src: match[1], caption: match[2], alt: match[3], match[4] };
+    return { src: match[1], caption: match[2], alt: match[3], class: match[4] };
   },
   toBlock: function(obj) {
     return `{{< figure src="${obj.src}" caption="${obj.caption}" alt="${obj.alt}" class="${obj.class}" >}}`;
