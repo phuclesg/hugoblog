@@ -44,7 +44,7 @@ collections:
           required: false,
           hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
-      - { label: "Ảnh minh họa", nam: "image", widget: "image", required: false }
+      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
       - { label: "Mô tả ngắn", name: "description", widget: "text" }
       - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
       
@@ -64,7 +64,7 @@ collections:
           required: false,
           hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
         }
-      - { label: "Ảnh minh họa", nam: "image", widget: "image", required: false }
+      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
       - { label: "Mô tả ngắn", name: "description", widget: "text" }
       - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
       
