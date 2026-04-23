@@ -15,16 +15,16 @@
   fields: [
     {name: 'src', label: 'Đường dẫn ảnh', widget: 'string'},
     {name: 'caption', label: 'Chú thích ảnh', widget: 'string'},
-    {name: 'alt', label: 'Mô tả (SEO)', widget: 'string'}
+    {name: 'alt', label: 'Mô tả (SEO)', widget: 'string'},
     {name: 'class', label: 'Chèn class', widget: 'string'}
   ],
   // Đoạn regex này giúp Decap "nhận diện" lệnh figure trong file .md
-  pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" >}}/,
+  pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" class="([^"]*")" >}}/,
   fromBlock: function(match) {
-    return { src: match[1], caption: match[2], alt: match[3] };
+    return { src: match[1], caption: match[2], alt: match[3], match[4] };
   },
   toBlock: function(obj) {
-    return `{{< figure src="${obj.src}" caption="${obj.caption}" alt="${obj.alt}" >}}`;
+    return `{{< figure src="${obj.src}" caption="${obj.caption}" alt="${obj.alt}" class="${obj.class}" >}}`;
   },
   // Đây là phần giúp nó hiện ra ảnh trong cửa sổ soạn thảo
   toPreview: function(obj) {
