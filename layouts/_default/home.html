@@ -81,13 +81,13 @@
     {{ $relatedPost := first 1 (after 1 $paginator.Pages) }}
     {{ $relatedBottom := first 3 (after 2 $paginator.Pages) }}
       
-     <div class="grid-cols-1 shadow-md group md:col-span-2 md:flex relative p-3 bg-[#ede8dc] hover:bg-linear-to-br from-amber-900 to-black hover:text-white hover:-translate-1 transition-all ease-in duration-200">
+  <div class="grid-cols-1 shadow-md group md:col-span-2 md:flex md:justify-between relative p-3 bg-[#ede8dc] hover:bg-linear-to-br from-amber-900 to-black hover:text-white hover:-translate-1 transition-all ease-in duration-200">
     {{ range $paginator.Pages | first 1 }}
       <div class="mt-2 ml-2">
           <h2 class="text-1xl text-black group-hover:text-white line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold before:content-['•'] mr-2"></span>{{ .Date.Format "02 tháng 01 2006" }}</time>
           <p class="text-normal leading-normal text-zinc-500 group-hover:text-white line-clamp-2 overflow-hidden my-2">{{ .Params.description }}</p>
-        </div>
+      </div>
       <figure class="w-full md:w-60 md:h-60 aspect-video md:aspect-square rounded-lg border">
 
           {{- if .Params.image }}
@@ -108,9 +108,9 @@
 
           {{- end }}
 
-        </figure>
+      </figure>
     {{ end }}
-       </div>
+    </div>
        <div class="grid-cols-1 shadow-md md:col-span-1 relative bg-[#ede8dc] p-3">
     {{ range $relatedPost }}
       <figure class="w-full h-60 aspect-video overflow-hidden rounded-lg border">

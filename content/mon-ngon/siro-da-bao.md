@@ -5,7 +5,7 @@ title: Siro Đá bào món thức uống của tuổi thơ
 slug: siro-da-bao-mon-thuc-uong-cua-tuoi-tho
 author: Phúc Mập
 image: /images/siro-da-bao.webp
-description: Món thức uống của tuổi thơ, thức uống tuyệt vời cho những buổi trưa
+description:  Món thức uống của tuổi thơ, thức uống tuyệt vời cho những buổi trưa
   nóng nực oi bức
 ---
 Tuổi thơ có những món ăn vặt không thể nào quên được hương vị, nhưng có một món là cứu tinh của những trưa nắng oi bức: “siro đá bào”.

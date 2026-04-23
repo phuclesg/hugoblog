@@ -197,6 +197,7 @@
       "md:h-60",
       "md:h-[600px]",
       "md:hidden",
+      "md:justify-between",
       "md:my-8",
       "md:pr-8",
       "md:px-6",
