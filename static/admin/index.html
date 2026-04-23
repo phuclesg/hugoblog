@@ -13,25 +13,24 @@
   id: "figure",
   label: "Chèn Ảnh (Figure)",
   fields: [
-    {name: 'src', label: 'Đường dẫn ảnh', widget: 'string'},
-    {name: 'caption', label: 'Chú thích ảnh', widget: 'string'},
+    {name: 'src', label: 'Link hình ảnh', widget: 'string'},
     {name: 'alt', label: 'Mô tả (SEO)', widget: 'string'},
     {name: 'class', label: 'Chèn class', widget: 'string'}
   ],
   // Đoạn regex này giúp Decap "nhận diện" lệnh figure trong file .md
   pattern: /{{< figure src="([^"]*)" caption="([^"]*)" alt="([^"]*)" class="([^"]*)" >}}/,
   fromBlock: function(match) {
-    return { src: match[1], caption: match[2], alt: match[3], class: match[4] };
+    return { src: match[1], caption: match[2], alt: match[2], class: match[3] };
   },
   toBlock: function(obj) {
-    return `{{< figure src="${obj.src}" caption="${obj.caption}" alt="${obj.alt}" class="${obj.class}" >}}`;
+    return `{{< figure src="${obj.src}" caption="${obj.alt}" alt="${obj.alt}" class="${obj.class}" >}}`;
   },
   // Đây là phần giúp nó hiện ra ảnh trong cửa sổ soạn thảo
   toPreview: function(obj) {
     return `
       <figure>
         <img src="https://media.namkyxua.com${obj.src}" style="max-width:100%; height:auto;">
-        <figcaption class="${obj.class}">${obj.caption}</figcaption>
+        <figcaption style="text-align:center;">${obj.alt}</figcaption>
       </figure>
     `;
   }
