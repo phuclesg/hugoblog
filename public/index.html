@@ -145,7 +145,10 @@
 		</button>
 	</form>
 </div>
-<ul id="results" class="text-black !mt-[10px] !ml-[10px]"></ul>
+<div class="relative bg-amber-300">
+  <ul id="results" class="text-black !mt-[10px] !ml-[10px]">
+  </ul>
+</div>
 
 <script src="https://unpkg.com/fuse.js@6.6.2"></script>
 
@@ -245,12 +248,13 @@ fetch("/index.json")
   <div class="grid-cols-1 shadow-md group md:col-span-2 md:flex md:justify-between relative p-3 bg-[#ede8dc] hover:bg-linear-to-br from-amber-900 to-black hover:text-white hover:-translate-1 transition-all ease-in duration-200">
     
       <div class="mt-2 ml-2">
-          <h2 class="text-1xl text-black group-hover:text-white line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/mon-ngon/siro-da-bao-mon-thuc-uong-cua-tuoi-tho/">Siro Đá bào món thức uống của tuổi thơ</a></h2>
-          <time datetime="2026-04-19T21:50:32&#43;07:00"><span class="font-bold before:content-['•'] mr-2"></span>19 tháng 04 2026</time>
-          <p class="text-normal leading-normal text-zinc-500 group-hover:text-white line-clamp-2 overflow-hidden my-2">Món thức uống của tuổi thơ, thức uống tuyệt vời cho những buổi trưa nóng nực oi bức</p>
+          <h2 class="text-1xl text-black group-hover:text-white line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/doi-song/banh-mi-viet-nam-mon-an-danh-cho-nguoi-ngheo-that-khong/">Bánh mì Việt Nam - Món ăn dành cho người nghèo thật không?</a></h2>
+          <time datetime="2026-04-24T16:44:00&#43;07:00"><span class="font-bold before:content-['•'] mr-2"></span>24 tháng 04 2026</time>
+          <p class="text-normal leading-normal text-zinc-500 group-hover:text-white line-clamp-2 overflow-hidden my-2">Bánh mì việt nam có thật sự là dành cho người nghèo không? Hãy cũng tìm hiểu lịch sử, nguồn gốc của bánh mì và hành trình từ món ăn bình dân trở thành biểu tượng ẩm thực thế giới</p>
       </div>
       <figure class="w-full md:w-60 md:h-60 aspect-video md:aspect-square rounded-lg border">
-              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="https://media.namkyxua.com/images/siro-da-bao.webp" alt="Nam Kỳ Xưa" >
+
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="https://media.namkyxua.com/images/banh-mi-4.webp" alt="Nam Kỳ Xưa">
 
       </figure>
     
@@ -258,17 +262,42 @@ fetch("/index.json")
        <div class="grid-cols-1 shadow-md md:col-span-1 relative bg-[#ede8dc] p-3">
     
       <figure class="w-full h-60 aspect-video overflow-hidden rounded-lg border">
-              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="https://media.namkyxua.com/images/ut-tra-on-2.webp" alt="Nam Kỳ Xưa" >
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="https://media.namkyxua.com/images/siro-da-bao.webp" alt="Nam Kỳ Xưa" >
 
         </figure>
         <div class="mt-2 ml-2 ">
-          <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/nhan-vat/ut-tra-on-danh-ca-noi-tieng-mien-nam-xua/">Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa</a></h2>
-          <time datetime="2026-04-13T15:09:37&#43;07:00"><span class="font-bold before:content-['•'] mr-2"></span>13 tháng 04 2026</time>
-          <p class="text-normal leading-normal text-zinc-500 line-clamp-3">Út Trà Ôn - từ người nông dân nghèo cho đến hào quang của một đệ nhất danh ca. Hãy cùng tìm hiểu về cuộc đời tài danh của ông</p>
+          <h2 class="text-1xl line-clamp-2 md:text-xl lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="http://localhost:1313/mon-ngon/siro-da-bao-mon-thuc-uong-cua-tuoi-tho/">Siro Đá bào món thức uống của tuổi thơ</a></h2>
+          <time datetime="2026-04-19T21:50:32&#43;07:00"><span class="font-bold before:content-['•'] mr-2"></span>19 tháng 04 2026</time>
+          <p class="text-normal leading-normal text-zinc-500 line-clamp-3">Món thức uống của tuổi thơ, thức uống tuyệt vời cho những buổi trưa nóng nực oi bức</p>
         </div>
     
        </div>
-          <a href="http://localhost:1313/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
+          <a href="http://localhost:1313/nhan-vat/ut-tra-on-danh-ca-noi-tieng-mien-nam-xua/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
+	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
+		<figure class="w-full aspect-video overflow-hidden">
+				
+				<img class="object-cover cursor-pointer" 
+					src="https://media.namkyxua.com/images/ut-tra-on-2.webp" 
+					alt="Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa" 
+					style="width: 100%; height: 100%; object-fit: cover;">
+
+		</figure>
+
+		<div class="p-6">
+			<div class="flex">
+				<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#ffffff]">
+					Nhân vật
+				</h3>
+
+				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="2026-04-13T15:09:37&#43;07:00"><span class="before:content-['•'] mr-2"></span>13/04/2026</time>
+			</div>
+			<h3 class="my-4 text-xl font-bold">Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa</h3>
+
+			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Út Trà Ôn - từ người nông dân nghèo cho đến hào quang của một đệ nhất danh ca. Hãy cùng tìm hiểu về cuộc đời tài danh của ông</p>
+
+		</div>
+	</article>
+</a><a href="http://localhost:1313/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
 	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
 		<figure class="w-full aspect-video overflow-hidden">
 				
@@ -315,31 +344,6 @@ fetch("/index.json")
 			<h3 class="my-4 text-xl font-bold">Trương Vĩnh Ký - Nhà bác học của Nam Kỳ xưa</h3>
 
 			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Ông là người am tường trên nhiều lĩnh vực văn hóa cổ kim Đông Tây. Ông để lại hơn 100 tác phẩm về văn học, lịch sử, địa lý, từ điển và dịch thuật,... Riêng đối với báo chí viết bằng chữ Quốc ngữ tại Việt Nam, ông được coi là người tiên phong vì đã sáng lập, là Tổng biên tập tờ báo viết chữ quốc ngữ đầu tiên mang tên là Gia Định báo.</p>
-
-		</div>
-	</article>
-</a><a href="http://localhost:1313/doi-song/ba-khia-muoi-huong-vi-thoi-khai-hoang-ngheo-kho/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
-	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
-		<figure class="w-full aspect-video overflow-hidden">
-				
-				<img class="object-cover cursor-pointer" 
-					src="https://media.namkyxua.com/images/con-ba-khia.jpg" 
-					alt="Ba khía muối - Hương vị thời khai hoang nghèo khó" 
-					style="width: 100%; height: 100%; object-fit: cover;">
-
-		</figure>
-
-		<div class="p-6">
-			<div class="flex">
-				<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#ffffff]">
-					Đời sống
-				</h3>
-
-				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="2026-03-24T20:33:44&#43;07:00"><span class="before:content-['•'] mr-2"></span>24/03/2026</time>
-			</div>
-			<h3 class="my-4 text-xl font-bold">Ba khía muối - Hương vị thời khai hoang nghèo khó</h3>
-
-			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng quơ đại mớ rau đồng là có bữa cơm ngon lành</p>
 
 		</div>
 	</article>
@@ -459,7 +463,32 @@ fetch("/index.json")
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    <a href="http://localhost:1313/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
+    <a href="http://localhost:1313/doi-song/banh-mi-viet-nam-mon-an-danh-cho-nguoi-ngheo-that-khong/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
+	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
+		<figure class="w-full aspect-video overflow-hidden">
+				
+				<img class="object-cover cursor-pointer" 
+					src="https://media.namkyxua.com/images/banh-mi-4.webp" 
+					alt="Bánh mì Việt Nam - Món ăn dành cho người nghèo thật không?" 
+					style="width: 100%; height: 100%; object-fit: cover;">
+
+		</figure>
+
+		<div class="p-6">
+			<div class="flex">
+				<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#ffffff]">
+					Đời sống
+				</h3>
+
+				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="2026-04-24T16:44:00&#43;07:00"><span class="before:content-['•'] mr-2"></span>24/04/2026</time>
+			</div>
+			<h3 class="my-4 text-xl font-bold">Bánh mì Việt Nam - Món ăn dành cho người nghèo thật không?</h3>
+
+			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Bánh mì việt nam có thật sự là dành cho người nghèo không? Hãy cũng tìm hiểu lịch sử, nguồn gốc của bánh mì và hành trình từ món ăn bình dân trở thành biểu tượng ẩm thực thế giới</p>
+
+		</div>
+	</article>
+</a><a href="http://localhost:1313/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
 	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
 		<figure class="w-full aspect-video overflow-hidden">
 				
@@ -506,31 +535,6 @@ fetch("/index.json")
 			<h3 class="my-4 text-xl font-bold">Ba khía muối - Hương vị thời khai hoang nghèo khó</h3>
 
 			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng quơ đại mớ rau đồng là có bữa cơm ngon lành</p>
-
-		</div>
-	</article>
-</a><a href="http://localhost:1313/doi-song/kien-hoa-20-nam-dinh-danh-va-hanh-trinh-cua-mot-tinh-ly/" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
-	<article class="shadow-md relative h-full transition-all group-hover:bg-[#f4f1e8]/30 rounded-lg border-t-[4px] border-[#f4f1e8]">
-		<figure class="w-full aspect-video overflow-hidden">
-				
-				<img class="object-cover cursor-pointer" 
-					src="https://media.namkyxua.com/images/tinh-kien-hoa-2.jpg" 
-					alt="Kiến Hòa: 20 Năm Định Danh Và Hành Trình Của Một Tỉnh Lỵ" 
-					style="width: 100%; height: 100%; object-fit: cover;">
-
-		</figure>
-
-		<div class="p-6">
-			<div class="flex">
-				<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#ffffff]">
-					Đời sống
-				</h3>
-
-				<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="2026-03-22T16:11:22&#43;07:00"><span class="before:content-['•'] mr-2"></span>22/03/2026</time>
-			</div>
-			<h3 class="my-4 text-xl font-bold">Kiến Hòa: 20 Năm Định Danh Và Hành Trình Của Một Tỉnh Lỵ</h3>
-
-			<p class="text-normal leading-normal text-zinc-500 line-clamp-2">Lịch sử tỉnh Kiến Hòa từ Sắc lệnh 143 năm 1956 đến quá trình sáp nhập năm 2025. Khám phá 10 quận cũ và đời sống Trúc Giang (Bến Tre) xưa.</p>
 
 		</div>
 	</article>
@@ -703,6 +707,19 @@ fetch("/index.json")
         <ul class="space-y-3">
           
           <li class="flex gap-3 items-center">
+            <a href="/doi-song/banh-mi-viet-nam-mon-an-danh-cho-nguoi-ngheo-that-khong/">
+            <div class="w-20 h-20 aspect-square my-4 flex-shrink-0">
+            
+              <img src="https://media.namkyxua.comhttps://media.namkyxua.com/images/banh-mi-4.webp" class="w-full h-full object-cover" style="margin-right: 0.5rem;">
+            
+            </div>
+             </a>
+            <a href="/doi-song/banh-mi-viet-nam-mon-an-danh-cho-nguoi-ngheo-that-khong/" class="text-sm hover:underline">
+              Bánh mì Việt Nam - Món ăn dành cho người nghèo thật không?
+            </a>
+          </li>
+          
+          <li class="flex gap-3 items-center">
             <a href="/mon-ngon/siro-da-bao-mon-thuc-uong-cua-tuoi-tho/">
             <div class="w-20 h-20 aspect-square my-4 flex-shrink-0">
             
@@ -725,19 +742,6 @@ fetch("/index.json")
              </a>
             <a href="/nhan-vat/ut-tra-on-danh-ca-noi-tieng-mien-nam-xua/" class="text-sm hover:underline">
               Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa
-            </a>
-          </li>
-          
-          <li class="flex gap-3 items-center">
-            <a href="/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/">
-            <div class="w-20 h-20 aspect-square my-4 flex-shrink-0">
-            
-              <img src="https://media.namkyxua.com/images/mua-nuoc-noi-thumb.jpg" class="w-full h-full object-cover" style="margin-right: 0.5rem;">
-            
-            </div>
-             </a>
-            <a href="/doi-song/mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong/" class="text-sm hover:underline">
-              Mùa nước nổi - Mùa thiên nhiên ban tặng phù sa cho ruộng đồng
             </a>
           </li>
           

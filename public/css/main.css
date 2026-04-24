@@ -10,6 +10,7 @@
     --color-red-300: oklch(80.8% 0.114 19.571);
     --color-red-500: oklch(63.7% 0.237 25.331);
     --color-amber-200: oklch(92.4% 0.12 95.746);
+    --color-amber-300: oklch(87.9% 0.169 91.605);
     --color-amber-900: oklch(41.4% 0.112 45.904);
     --color-blue-100: oklch(93.2% 0.032 255.585);
     --color-blue-500: oklch(62.3% 0.214 259.815);
@@ -1109,6 +1110,9 @@
   .bg-\[\#ffb341\] {
     background-color: #ffb341;
   }
+  .bg-amber-300 {
+    background-color: var(--color-amber-300);
+  }
   .bg-black {
     background-color: var(--color-black);
   }
@@ -2087,6 +2091,13 @@
 }
 body {
   font-family: 'Quicksand', sans-serif;
+}
+ul#results {
+  position: absolute;
+  top: 0;
+  background-color: #dbdbdb;
+  z-index: 10;
+  padding: 0 20px;
 }
 ul#results li {
   margin: 10px 0;

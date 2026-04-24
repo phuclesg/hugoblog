@@ -2,7 +2,7 @@
 title: Bánh mì Việt Nam - Món ăn dành cho người nghèo thật không?
 date: 2026-04-24T16:44:00.000+07:00
 author: Phúc Mập
-image: /images/banh-mi-4.webp
+image: https://media.namkyxua.com/images/banh-mi-4.webp
 description: Bánh mì việt nam có thật sự là dành cho người nghèo không? Hãy cũng
   tìm hiểu lịch sử, nguồn gốc của bánh mì và hành trình từ món ăn bình dân trở
   thành biểu tượng ẩm thực thế giới

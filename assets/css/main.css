@@ -12,6 +12,14 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 /* search list */
+ul#results {
+  position: absolute;
+  top: 0;
+  background-color: #dbdbdb;
+  z-index: 10;
+  padding: 0 20px;
+  
+}
 ul#results li {
   margin: 10px 0;
 }
