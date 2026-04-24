@@ -1,12 +1,12 @@
-+++
-date = '2025-11-26T12:05:26+07:00'
-draft = false
-title = 'Cù Lao Phố - Thương cảng đầu tiên của Đồng Nai xưa'
-slug = 'cu-lao-pho-thuong-cang-dau-tien-của-dong-nai-xua'
-description = 'Cù lao Phố không chỉ là một dải đất nhỏ bé giữa lòng sông Đồng Nai; nó là chứng nhân của một thời kỳ khai mở vĩ đại'
-author = 'Mập'
-image = '/images/cu-lao-pho.jpg'
-+++
+---
+author: Mập
+date: '2025-11-26T12:05:26+07:00'
+description: Cù lao Phố không chỉ là một dải đất nhỏ bé giữa lòng sông Đồng Nai; nó là chứng nhân của một thời kỳ khai mở vĩ đại
+draft: false
+image: /images/cu-lao-pho.jpg
+slug: cu-lao-pho-thuong-cang-dau-tien-của-dong-nai-xua
+title: 'Cù Lao Phố - Thương cảng đầu tiên của Đồng Nai xưa'
+---
 
 ## Cù Lao Phố – Nơi Khai Sinh Thương Cảng Vàng Son Của Xứ Đồng Nai (1679–1776)
 Cù lao Phố không chỉ là một dải đất nhỏ bé giữa lòng sông Đồng Nai; nó là chứng nhân của một thời kỳ khai mở vĩ đại, là trung tâm thương mại quốc tế đầu tiên, sầm uất và phồn thịnh bậc nhất của Đàng Trong hơn 300 năm trước.

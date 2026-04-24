@@ -1,15 +1,18 @@
-+++
-date = '2025-09-17T08:16:34Z'
-draft = false
-title = 'Bún gỏi dà Sóc Trăng'
-slug = 'bun-goi-da-soc-trang'
-description = 'Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương bún gỏi dà.'
-author = 'Phúc mập'
-comment = true
-image = '/images/bun-goi-da.jpg'
-keywords = ['bún gỏi dà', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng']
-summary = 'Món bún gỏi dà – đặc sản dân dã Sóc Trăng với vị chua ngọt hài hòa, đậm chất miền Tây Nam Bộ.'
-+++
+---
+author: Phúc mập
+comment: true
+date: '2025-09-17T08:16:34Z'
+description: Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương bún gỏi dà.
+draft: false
+image: /images/bun-goi-da.jpg
+keywords:
+- bún gỏi dà
+- ẩm thực miền Tây
+- đặc sản Sóc Trăng
+slug: bun-goi-da-soc-trang
+summary: Món bún gỏi dà – đặc sản dân dã Sóc Trăng với vị chua ngọt hài hòa, đậm chất miền Tây Nam Bộ.
+title: Bún gỏi dà Sóc Trăng
+---
 **Bún gỏi dà – Hương vị dân dã đặc trưng Sóc Trăng - miền Tây**
 
 Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương: bún gỏi dà. Đây là món ăn tuy mộc mạc nhưng lại chinh phục thực khách bởi sự hài hòa giữa vị chua, ngọt, mặn, cay, tạo nên trải nghiệm ẩm thực khó quên.

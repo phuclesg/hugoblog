@@ -1,5 +1,5 @@
-+++
-title = 'Đời sống'
-slugs = 'doi-song'
-menus = 'main'
-+++
+---
+menus: main
+slugs: doi-song
+title: Đời sống
+---

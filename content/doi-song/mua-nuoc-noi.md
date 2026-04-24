@@ -1,11 +1,11 @@
-+++
-date = '2026-04-06T16:19:51+07:00'
-draft = false
-title = 'Mùa nước nổi - Mùa thiên nhiên ban tặng phù sa cho ruộng đồng'
-slug = 'mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong'
-description = 'Mùa nước nổi - mùa mà thiên nhiên ban tặng tôm, cá, phù sa cho đất miền Tây'
-image = '/images/mua-nuoc-noi-thumb.jpg'
-+++
+---
+date: '2026-04-06T16:19:51+07:00'
+description: 'Mùa nước nổi - mùa mà thiên nhiên ban tặng tôm, cá, phù sa cho đất miền Tây'
+draft: false
+image: /images/mua-nuoc-noi-thumb.jpg
+slug: mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong
+title: 'Mùa nước nổi - Mùa thiên nhiên ban tặng phù sa cho ruộng đồng'
+---
 Mùa nước nổi - cái mùa mà thiên nhiên ban tặng cho mảnh đất miền Tây nào là cá, tôm cho con người, phù sa cho cây trái.
 Những đứa trẻ thì vui mừng vì có thể tha hồ chơi đùa, còn người lớn thì bắt đầu chuẩn bị lưới, tum, "12 cửa ngục"... Để đi đánh bắt tôm cá. 
 

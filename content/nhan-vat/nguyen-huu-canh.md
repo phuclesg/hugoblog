@@ -1,12 +1,12 @@
-+++
-date = '2025-09-04T21:40:03+07:00'
-draft = false
-title = 'Nguyễn Hữu Cảnh'
-author = 'Phúc Mập'
-slug = 'nguyen-huu-canh'
-description = 'Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa.'
-image = '/images/nguyen-huu-canh.jpg'
-+++
+---
+author: Phúc Mập
+date: '2025-09-04T21:40:03+07:00'
+description: Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa.
+draft: false
+image: /images/nguyen-huu-canh.jpg
+slug: nguyen-huu-canh
+title: Nguyễn Hữu Cảnh
+---
 
 ## Vị danh tướng mở cõi phương Nam
 ### 1. Bối cảnh lịch sử

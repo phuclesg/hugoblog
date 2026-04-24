@@ -1,13 +1,13 @@
-+++
-date = '2025-09-27T15:09:56+07:00'
-draft = false
-title = 'Tết miền nam xưa - Những ký ức không bao giờ phai'
-description = 'Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới'
-slug = 'tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai'
-image = '/images/tet-nam-ky-xua.jpg'
-author = 'Phúc Mập'
-comment = true
-+++
+---
+author: Phúc Mập
+comment: true
+date: '2025-09-27T15:09:56+07:00'
+description: Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới
+draft: false
+image: /images/tet-nam-ky-xua.jpg
+slug: tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai
+title: 'Tết miền nam xưa - Những ký ức không bao giờ phai'
+---
 Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới, mà còn là cả một thế giới của phong tục, hương vị và tình người, nơi mỗi góc phố, mỗi con đường đều thấm đẫm ký ức.
 
 {{< figure src="/images/tet-nam-ky-xua.webp" alt="Tết nam kỳ xưa" caption="Cảnh mua bán tấp nập tết xưa" >}}

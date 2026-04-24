@@ -1,13 +1,13 @@
-+++
-date = '2026-04-13T15:09:37+07:00'
-draft = false
-title = 'Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa'
-slug = 'ut-tra-on-danh-ca-noi-tieng-mien-nam-xua'
-description = 'Út Trà Ôn - từ người nông dân nghèo cho đến hào quang của một đệ nhất danh ca. Hãy cùng tìm hiểu về cuộc đời tài danh của ông'
-image = '/images/ut-tra-on-2.webp'
-author = 'Ông Mập'
-avatar = '/images/avatar-map.png'
-+++
+---
+author: Ông Mập
+avatar: /images/avatar-map.png
+date: '2026-04-13T15:09:37+07:00'
+description: 'Út Trà Ôn - từ người nông dân nghèo cho đến hào quang của một đệ nhất danh ca. Hãy cùng tìm hiểu về cuộc đời tài danh của ông'
+draft: false
+image: /images/ut-tra-on-2.webp
+slug: ut-tra-on-danh-ca-noi-tieng-mien-nam-xua
+title: 'Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa'
+---
 Út Trà Ôn (1919 - 2001) là nghệ sĩ cải lương tài danh của miền Nam xưa. Ông tên thật là Nguyễn Thành Út, ông được sinh ra ở ấp Đông Phúc, làng Đông Hậu, quận Trà Ôn, tỉnh Cần Thơ (nay là huyện Trà Ôn, tỉnh Vĩnh Long).
 
 {{< figure src="/images/ut-tra-on-2.webp" alt="Danh ca Út Trà Ôn" class="center" >}}

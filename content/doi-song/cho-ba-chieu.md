@@ -1,12 +1,12 @@
-+++
-date = '2025-09-30T14:54:06+07:00'
-draft = false
-title = 'Chợ Bà Chiểu - Khu chợ sầm uất bậc nhất Bình Thạnh'
-slug = 'cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh'
-description = 'Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn. Chợ tọa lạc tại 40 Diên Hồng, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh'
-author = 'Phúc Mập'
-image = '/images/cho-ba-chieu.jpg'
-+++
+---
+author: Phúc Mập
+date: '2025-09-30T14:54:06+07:00'
+description: Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn. Chợ tọa lạc tại 40 Diên Hồng, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh
+draft: false
+image: /images/cho-ba-chieu.jpg
+slug: cho-ba-chieu-khu-cho-sam-uat-bac-nhat-binh-thanh
+title: 'Chợ Bà Chiểu - Khu chợ sầm uất bậc nhất Bình Thạnh'
+---
 ## Chợ Bà Chiểu là một trong những ngôi chợ lâu đời và nổi tiếng của Sài Gòn.
 Chợ tọa lạc tại trung tâm Quận Bình Thạnh, cụ thể là Phường 1, Quận Bình Thạnh, với diện tích khoảng 8.465 m² và gần 800 sạp hàng.
 

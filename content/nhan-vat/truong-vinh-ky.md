@@ -1,11 +1,11 @@
-+++
-date = '2026-04-04T20:29:06+07:00'
-draft = false
-title = 'Trương Vĩnh Ký - Nhà bác học của Nam Kỳ xưa'
-slug = 'truong-vinh-ky-nha-bac-hoc-cua-nam-ky-xua'
-description = 'Ông là người am tường trên nhiều lĩnh vực văn hóa cổ kim Đông Tây. Ông để lại hơn 100 tác phẩm về văn học, lịch sử, địa lý, từ điển và dịch thuật,... Riêng đối với báo chí viết bằng chữ Quốc ngữ tại Việt Nam, ông được coi là người tiên phong vì đã sáng lập, là Tổng biên tập tờ báo viết chữ quốc ngữ đầu tiên mang tên là Gia Định báo.'
-image = '/images/truong-vinh-ky-thumb.jpg'
-+++
+---
+date: '2026-04-04T20:29:06+07:00'
+description: Ông là người am tường trên nhiều lĩnh vực văn hóa cổ kim Đông Tây. Ông để lại hơn 100 tác phẩm về văn học, lịch sử, địa lý, từ điển và dịch thuật,... Riêng đối với báo chí viết bằng chữ Quốc ngữ tại Việt Nam, ông được coi là người tiên phong vì đã sáng lập, là Tổng biên tập tờ báo viết chữ quốc ngữ đầu tiên mang tên là Gia Định báo.
+draft: false
+image: /images/truong-vinh-ky-thumb.jpg
+slug: truong-vinh-ky-nha-bac-hoc-cua-nam-ky-xua
+title: 'Trương Vĩnh Ký - Nhà bác học của Nam Kỳ xưa'
+---
 Trương Vĩnh Ký (1837 – 1898), hay còn được biết đến với tên gọi thân thuộc Petrus Ký, là một trong những nhân vật đặc biệt và gây tranh cãi trong lịch sử Việt Nam thế kỷ 19. Cuộc đời ông trải qua thăng trầm trong sự giao thoa của hai nền văn hóa Đông - Tây
 
 ## 1. Cậu bé "thần đồng" và hành trình vươn ra thế giới

@@ -1,16 +1,20 @@
-+++
-date = '2025-09-12T16:06:42+07:00'
-draft = false
-title = 'Bún bò chóc - Một trải nghiệm ẩm thực độc đáo'
-slug = 'bun-bo-choc'
-description = 'Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh'
-keywords = ['bún bò chóc', 'ẩm thực miền Tây', 'đặc sản Sóc Trăng, Trà Vinh']
-summary = 'Món bún bò chóc – đặc sản dân dã Trà Vinh với mặn mà đậm đà, trải nghiệm ẩm thực Miền Tây Nam Bộ.'
-author = 'Phúc Mập'
-comment = true
-image = "/images/bun-bo-choc.jpg"
-tags = ['feature']
-+++
+---
+author: Phúc Mập
+comment: true
+date: '2025-09-12T16:06:42+07:00'
+description: Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh
+draft: false
+image: /images/bun-bo-choc.jpg
+keywords:
+- bún bò chóc
+- ẩm thực miền Tây
+- đặc sản Sóc Trăng, Trà Vinh
+slug: bun-bo-choc
+summary: Món bún bò chóc – đặc sản dân dã Trà Vinh với mặn mà đậm đà, trải nghiệm ẩm thực Miền Tây Nam Bộ.
+tags:
+- feature
+title: 'Bún bò chóc - Một trải nghiệm ẩm thực độc đáo'
+---
 Bạn đã bao giờ nghe đến món **bún bò chóc** chưa? Đây là một món ăn khá lạ tai nhưng lại vô cùng hấp dẫn, đặc biệt là với những ai yêu thích ẩm thực Khmer. Bún bò chóc không phổ biến như bún bò Huế, nhưng hương vị độc đáo của nó chắc chắn sẽ để lại ấn tượng khó quên.
 
 **Bún bò chóc có gì đặc biệt?**

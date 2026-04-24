@@ -1,13 +1,14 @@
-+++
-date = '2025-11-01T12:46:15+07:00'
-draft = false
-title = 'Tiếng rao giữa khuya - ký ức không quên'
-slug = 'tieng-rao-giua-khua-ky-uc-khong-quen'
-description = 'Tiếng rao giữa khuya , khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng Ai bánh mì không, Ai chưng giò gai - Sài gòn xưa - Nam kỳ xưa'
-keywords = ['tiếng rao giữa khuya, Đêm khuya sài gòn, mưu sinh giữa sài gòn, nam kỳ xưa']
-author = 'Phúc Mập'
-image = '/images/tieng-rao-khuya.jpg'
-+++
+---
+author: Phúc Mập
+date: '2025-11-01T12:46:15+07:00'
+description: 'Tiếng rao giữa khuya , khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng Ai bánh mì không, Ai chưng giò gai - Sài gòn xưa - Nam kỳ xưa'
+draft: false
+image: /images/tieng-rao-khuya.jpg
+keywords:
+- tiếng rao giữa khuya, Đêm khuya sài gòn, mưu sinh giữa sài gòn, nam kỳ xưa
+slug: tieng-rao-giua-khua-ky-uc-khong-quen
+title: 'Tiếng rao giữa khuya - ký ức không quên'
+---
 
 ## Tiếng rao - nốt nhạc khuya của đời sống chợt vang
 

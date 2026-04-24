@@ -1,12 +1,12 @@
-+++
-date = '2026-03-07T17:55:21+07:00'
-draft = false
-title = 'Cha Diệp - Vị linh mục kính mến của miền Tây Nam bộ'
-slugs = 'Cha-diep-vi-linh-muc-kinh-men-mien-tay-nam-bo'
-description = 'Tiểu sử Cha Phanxicô Xaviê Trương Bửu Diệp - vị linh mục gắn liền với nhà thờ Tắc Sậy, được nhiều người kính nhớ tại miền Tây Nam Bộ'
-image = '/images/cha-diep.jpg'
-banner = '/images/cha-diep.jpg'
-+++
+---
+banner: /images/cha-diep.jpg
+date: '2026-03-07T17:55:21+07:00'
+description: 'Tiểu sử Cha Phanxicô Xaviê Trương Bửu Diệp - vị linh mục gắn liền với nhà thờ Tắc Sậy, được nhiều người kính nhớ tại miền Tây Nam Bộ'
+draft: false
+image: /images/cha-diep.jpg
+slugs: Cha-diep-vi-linh-muc-kinh-men-mien-tay-nam-bo
+title: 'Cha Diệp - Vị linh mục kính mến của miền Tây Nam bộ'
+---
 ## Giới thiệu
 
 Phanxicô Xaviê Trương Bửu Diệp (1897 - 1946), thường được người dân gọi thân mật là Cha Diệp, là một linh mục Công giáo nổi tiếng tại miền Tây Nam Bộ. Cuộc đời của ông gắn liền với giáo xứ Tắc Sậy và cộng đồng giáo dân nghèo ở vùng Bạc Liêu - Cà Mau.

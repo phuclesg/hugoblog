@@ -1,13 +1,14 @@
-+++
-date = '2025-09-09T15:31:30+07:00'
-draft = false
-title = 'Công tử Bạc Liêu – Hào hoa và giai thoại một thời'
-author = 'Phúc Mập'
-description = 'Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ'
-slug = 'cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi'
-image = '/images/cong-tu-bac-lieu.jpg'
-tags = ['feature']
-+++
+---
+author: Phúc Mập
+date: '2025-09-09T15:31:30+07:00'
+description: Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ
+draft: false
+image: /images/cong-tu-bac-lieu.jpg
+slug: cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi
+tags:
+- feature
+title: Công tử Bạc Liêu – Hào hoa và giai thoại một thời
+---
 Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ. Dù đã đi vào dĩ vãng, cái tên này vẫn gợi nhắc về một thời vàng son của vùng đất trù phú phương Nam.
 
 ## 1. Công tử Bạc Liêu là ai?

@@ -1,11 +1,11 @@
-+++
-date = '2026-02-25T15:58:31+07:00'
-draft = false
-title = 'Những chuyến phà miền Tây'
-slugs = 'nhung-chuyen-pha-mien-tay'
-description = 'Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.'
-image = '/images/pha-ham-luong.jpg'
-+++
+---
+date: '2026-02-25T15:58:31+07:00'
+description: Vùng Đồng bằng sông Cửu Long chằng chịt sông rạch. Mỗi tỉnh gần như được “ngăn cách” bởi một dòng nước lớn. Từ Sài Gòn đi về các tỉnh như Cần Thơ, Vĩnh Long, Bến Tre hay Trà Vinh, người ta đều phải dừng lại ở bến phà.
+draft: false
+image: /images/pha-ham-luong.jpg
+slugs: nhung-chuyen-pha-mien-tay
+title: Những chuyến phà miền Tây
+---
 
 ## Khi con sông là ranh giới của hành trình
 

@@ -38,9 +38,6 @@ collections:
         name: "image"
         widget: "image"
         required: false
-        media_library:
-          config:
-            public_folder: "https://media.namkyxua.com/images" 
 
       - label: "Mô tả ngắn"
         name: "description" 
@@ -57,8 +54,14 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string" 
+
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime"
+
       - label: "Đường dẫn tĩnh"
         name: "slug"
         widget: "string"

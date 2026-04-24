@@ -1,6 +1,5 @@
-+++
-title = 'Món ngon'
-slugs = 'mon-ngon'
-menus = 'main'
-
-+++
+---
+menus: main
+slugs: mon-ngon
+title: Món ngon
+---

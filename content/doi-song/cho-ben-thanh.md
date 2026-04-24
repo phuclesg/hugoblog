@@ -1,14 +1,13 @@
-+++
-date = '2025-11-07T17:37:28+07:00'
-draft = false
-title = 'Chợ Bến Thành - biểu tượng Sài Gòn xưa'
-description = 'Giữa nhịp sống hiện đại của Sài Gòn hôm nay, giữa những tòa nhà cao tầng, trung tâm thương mại và dòng người vội vã, chợ Bến Thành vẫn đứng đó - bền bỉ, trầm mặc và đầy sức sống'
-keywords = "chợ bến thành, lịch sử hình thành chợ bến thành, chợ bến thành được xây năm nào"
-slug = 'cho-ben-thanh-bieu-tuong-sai-gon-xua'
-author = 'Phúc Mập'
-image = '/images/cho-ben-thanh.jpg'
-
-+++
+---
+author: Phúc Mập
+date: '2025-11-07T17:37:28+07:00'
+description: 'Giữa nhịp sống hiện đại của Sài Gòn hôm nay, giữa những tòa nhà cao tầng, trung tâm thương mại và dòng người vội vã, chợ Bến Thành vẫn đứng đó - bền bỉ, trầm mặc và đầy sức sống'
+draft: false
+image: /images/cho-ben-thanh.jpg
+keywords: chợ bến thành, lịch sử hình thành chợ bến thành, chợ bến thành được xây năm nào
+slug: cho-ben-thanh-bieu-tuong-sai-gon-xua
+title: 'Chợ Bến Thành - biểu tượng Sài Gòn xưa'
+---
 ## Chợ Bến Thành - biểu tượng Sài Gòn xưa
 
 Giữa nhịp sống hiện đại của Sài Gòn hôm nay, giữa những tòa nhà cao tầng, trung tâm thương mại và dòng người vội vã, chợ Bến Thành vẫn đứng đó - bền bỉ, trầm mặc và đầy sức sống. Ngôi chợ trăm năm tuổi này không chỉ là nơi mua bán, mà còn là ký ức của bao thế hệ người dân Nam Bộ, là biểu tượng không thể thiếu khi nhắc đến Sài Gòn xưa.

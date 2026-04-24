@@ -1,13 +1,13 @@
-+++
-date = '2026-02-14T20:48:08+07:00'
-draft = false
-title = 'Lái Thiêu - "Vùng đất trái ngọt Gốm xưa"'
-slug = 'lai-thieu-vung-dat-trai-ngot-gom-xua'
-description = 'Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu – một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian'
-comment = true
-author = 'Phúc Mập'
-image = '/images/lai-thieu.jpg'
-+++
+---
+author: Phúc Mập
+comment: true
+date: '2026-02-14T20:48:08+07:00'
+description: Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu – một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian
+draft: false
+image: /images/lai-thieu.jpg
+slug: lai-thieu-vung-dat-trai-ngot-gom-xua
+title: 'Lái Thiêu - "Vùng đất trái ngọt Gốm xưa"'
+---
 
 ## Lái Thiêu: Từ Vùng Đất "Trái Ngọt Gốm Xưa" Đến Phường Đô Thị Sầm Uất
 Khi nhắc đến Bình Dương, người ta không thể không nhớ đến Lái Thiêu - một cái tên đã đi vào lòng người qua những vườn trái cây trĩu quả, những lò gốm rực lửa và những câu chuyện lịch sử nhuốm màu thời gian. Hôm nay, hãy cùng nhìn lại hành trình từ một ngôi chợ ven sông đến một phường trung tâm hiện đại của Thành phố Thuận An.

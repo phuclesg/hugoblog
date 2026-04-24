@@ -1,13 +1,13 @@
-+++
-date = '2025-09-03T12:12:19Z'
-draft = false
-title = 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đất Lúa Non'
-description = 'Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo'
-slug = 'chuot-dong-mien-tay'
-author = 'Phúc Mập'
-comments = true
-image = '/images/chuot-dong-nuong2.jpg'
-+++
+---
+author: Phúc Mập
+comments: true
+date: '2025-09-03T12:12:19Z'
+description: Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo
+draft: false
+image: /images/chuot-dong-nuong2.jpg
+slug: chuot-dong-mien-tay
+title: 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đất Lúa Non'
+---
 
 Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo. Trong những món ăn đặc sắc của vùng đất này, "Chuột Đồng Miền Tây" nổi bật như một biểu tượng của sự sáng tạo và đa dạng văn hóa ẩm thực.<!--more-->
 

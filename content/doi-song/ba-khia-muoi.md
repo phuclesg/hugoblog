@@ -1,13 +1,11 @@
 ---
-date: 2026-03-24T20:33:44+07:00
-draft: false
-title: Ba khía muối - Hương vị thời khai hoang nghèo khó
-slug: ba-khia-muoi-huong-vi-thoi-khai-hoang-ngheo-kho
-image: /images/con-ba-khia.jpg
-description: Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai
-  hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng
-  quơ đại mớ rau đồng là có bữa cơm ngon lành
 banner: /images/bn-bakhia2.webp
+date: '2026-03-24T20:33:44+07:00'
+description: Ba khía muối, cái món ăn mà thời xưa lúc còn nghèo khó, khi khai hoang mở cõi. Chỉ cần xới theo tô cơm nguội và vài con ba khía muối đi ra đồng quơ đại mớ rau đồng là có bữa cơm ngon lành
+draft: false
+image: /images/con-ba-khia.jpg
+slug: ba-khia-muoi-huong-vi-thoi-khai-hoang-ngheo-kho
+title: 'Ba khía muối - Hương vị thời khai hoang nghèo khó'
 ---
 Hôm nay ghé thăm nhà thằng bạn học chung. Sau khi hàn huyên tâm sự xong, nó rủ ở lại ăn cơm. Tới lúc dọn mâm, vừa thấy món ba khía trộn khế là tui biết rồi... kiểu gì cũng bể cái nồi cơm
 

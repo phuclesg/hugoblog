@@ -1,12 +1,12 @@
-+++
-date = '2025-11-13T15:13:20+07:00'
-draft = false
-title = 'Bác Ba Phi - Hình tượng dân gian Nam Bộ với những câu chuyện cười trứ danh'
-slug = 'bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh'
-description = 'Bác Ba Phi là một nhân vật dân gian nổi tiếng của vùng Cà Mau – Nam Bộ, được người dân truyền miệng qua nhiều thế hệ với những câu chuyện tiếu lâm phóng đại, hài hước,dân giã'
-author = 'Phúc Mập'
-image = '/images/bac-ba-phi.jpg'
-+++
+---
+author: Phúc Mập
+date: '2025-11-13T15:13:20+07:00'
+description: Bác Ba Phi là một nhân vật dân gian nổi tiếng của vùng Cà Mau – Nam Bộ, được người dân truyền miệng qua nhiều thế hệ với những câu chuyện tiếu lâm phóng đại, hài hước,dân giã
+draft: false
+image: /images/bac-ba-phi.jpg
+slug: bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh
+title: 'Bác Ba Phi - Hình tượng dân gian Nam Bộ với những câu chuyện cười trứ danh'
+---
 ## 1. Giới thiệu chung
 
 Bác Ba Phi - tên thật là Nguyễn Long Phi - sinh năm 1884, mất năm 1964, là một nhân vật nổi bật trong kho tàng văn hóa dân gian Nam Bộ. Ông được biết đến không chỉ vì chuyện đời hoạt động từ khẩn hoang, khai phá vùng rừng U Minh (Cà Mau) mà còn vì những câu chuyện “nói dóc” hóm hỉnh, có tính văn hóa rất riêng, khiến người nghe vừa bật cười vừa cảm nhận nét đời Nam Bộ. 

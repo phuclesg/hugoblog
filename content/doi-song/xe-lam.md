@@ -1,11 +1,11 @@
-+++
-date = '2026-03-21T13:07:28+07:00'
-draft = false
-title = 'Xe lam là gì? Ký ức xe lam Sài Gòn xưa'
-slugs = 'xe-lam-la-gi-ky-uc-xe-lam-sai-gon-xua'
-description = 'Xe lam! chiếc xe đã chở rất nhiều thứ từ còn người, hàng hóa và hôm nay nó còn chở những hoài niệm một thời Sài Gòn xưa!!'
-image = '/images/xelam.jpg'
-+++
+---
+date: '2026-03-21T13:07:28+07:00'
+description: Xe lam! chiếc xe đã chở rất nhiều thứ từ còn người, hàng hóa và hôm nay nó còn chở những hoài niệm một thời Sài Gòn xưa!!
+draft: false
+image: /images/xelam.jpg
+slugs: xe-lam-la-gi-ky-uc-xe-lam-sai-gon-xua
+title: Xe lam là gì? Ký ức xe lam Sài Gòn xưa
+---
 {{< figure src="/images/xe-lam.webp" alt="Xe lam đang chở học sinh trên đường" caption="Xe lam chở học sinh trên đường" class="center" >}}
 
 Hồi xưa, Sài Gòn chưa có nhiều xe cộ chen chúc như bây giờ. Đường thì còn thoáng, người đi lại cũng chậm rãi hơn. Trong cái nhịp sống đó, có một thứ phương tiện mà ai từng sống qua thời đó chắc khó mà quên được - chiếc xe lam.

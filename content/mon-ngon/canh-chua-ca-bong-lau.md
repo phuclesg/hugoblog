@@ -1,12 +1,12 @@
-+++
-date = '2026-02-27T21:03:27+07:00'
-draft = false
-title = 'Canh chua trái bần cá bông lau'
-slugs = 'canh-chua-trai-ban-ca-bong-lau'
-description = 'Canh chua cá bông lau trái bần là món ăn đậm chất miền Tây với nước lèo chua thanh, béo nhẹ tự nhiên. Hương vị của dòng sông, của rặng bần ven bến nước.'
-image = '/images/canh-chua-ca-bong-lau-3.jpg'
-banner = '/images/canh-chua-ca-bong-lau-3.jpg'
-+++
+---
+banner: /images/canh-chua-ca-bong-lau-3.jpg
+date: '2026-02-27T21:03:27+07:00'
+description: Canh chua cá bông lau trái bần là món ăn đậm chất miền Tây với nước lèo chua thanh, béo nhẹ tự nhiên. Hương vị của dòng sông, của rặng bần ven bến nước.
+draft: false
+image: /images/canh-chua-ca-bong-lau-3.jpg
+slugs: canh-chua-trai-ban-ca-bong-lau
+title: Canh chua trái bần cá bông lau
+---
 ## Canh chua cá bông lau trái bần - món ăn của bến sông
 
 Nếu nói canh chua là linh hồn của bữa cơm miền Tây, thì trái bần chính là cái vị làm nên bản sắc.

@@ -1,11 +1,11 @@
-+++
-date = '2026-02-05T18:01:51+07:00'
-draft = false
-title = 'Hồ Con Rùa - Một góc Sài Gòn xưa giữa vòng xoay thời gian'
-description = 'Hồ Con Rùa là một trong những địa điểm mang đậm dấu ấn lịch sử và ký ức đô thị của Sài Gòn. Nằm tại giao lộ giữa các tuyến đường Phạm Ngọc Thạch - Võ Văn Tần - Trần Cao Vân'
-slug = 'ho-con-rua-mot-goc-sai-gon-xua-giua-vong-xoay-thoi-gian'
-image = '/images/ho-con-rua-v2.jpg'
-+++
+---
+date: '2026-02-05T18:01:51+07:00'
+description: 'Hồ Con Rùa là một trong những địa điểm mang đậm dấu ấn lịch sử và ký ức đô thị của Sài Gòn. Nằm tại giao lộ giữa các tuyến đường Phạm Ngọc Thạch - Võ Văn Tần - Trần Cao Vân'
+draft: false
+image: /images/ho-con-rua-v2.jpg
+slug: ho-con-rua-mot-goc-sai-gon-xua-giua-vong-xoay-thoi-gian
+title: 'Hồ Con Rùa - Một góc Sài Gòn xưa giữa vòng xoay thời gian'
+---
 *Hồ Con Rùa là một trong những địa điểm mang đậm dấu ấn lịch sử và ký ức đô thị của Sài Gòn. Nằm tại giao lộ giữa các tuyến đường Phạm Ngọc Thạch - Võ Văn Tần - Trần Cao Vân, nơi đây không chỉ là một vòng xoay giao thông mà còn là một biểu tượng quen thuộc gắn liền với nhiều thế hệ người Sài Gòn.*
 
 ## Từ hồ nước nhỏ đến biểu tượng đô thị

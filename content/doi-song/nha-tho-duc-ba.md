@@ -1,13 +1,14 @@
-+++
-date = '2025-10-02T11:01:46Z'
-draft = false
-title = 'Nhà thờ Đức Bà - Chứng nhân trăm năm giữa Sài Gòn'
-slug = 'nha-tho-duc-ba-chung-nhan-tram-nam-giua-sai-gon'
-description = 'Nhà thờ Đức Bà Sài Gòn là một trong những công trình kiến trúc tiêu biểu của Sài Gòn, được xây dựng từ thời Pháp thuộc với phong cách Roman cổ kính. Nơi đây không chỉ là địa điểm tôn giáo mà còn là biểu tượng văn hóa và lịch sử gắn liền với ký ức của người dân thành phố.'
-author = 'Phúc Mập'
-image = '/images/nha-tho-duc-ba.jpg'
-tags = ['feature']
-+++
+---
+author: Phúc Mập
+date: '2025-10-02T11:01:46Z'
+description: Nhà thờ Đức Bà Sài Gòn là một trong những công trình kiến trúc tiêu biểu của Sài Gòn, được xây dựng từ thời Pháp thuộc với phong cách Roman cổ kính. Nơi đây không chỉ là địa điểm tôn giáo mà còn là biểu tượng văn hóa và lịch sử gắn liền với ký ức của người dân thành phố.
+draft: false
+image: /images/nha-tho-duc-ba.jpg
+slug: nha-tho-duc-ba-chung-nhan-tram-nam-giua-sai-gon
+tags:
+- feature
+title: 'Nhà thờ Đức Bà - Chứng nhân trăm năm giữa Sài Gòn'
+---
 Giữa trung tâm Sài Gòn, nơi phố xá tấp nập và dòng người hối hả, có một công trình vẫn lặng lẽ đứng đó hơn trăm năm nay: **Nhà thờ Đức Bà**. Với người Sài Gòn, hình ảnh hai tháp chuông đỏ vươn cao đã trở thành một phần quen thuộc, đi vào ký ức bao thế hệ.
 
 Nhà thờ được người Pháp khởi công năm 1877 và hoàn thành năm 1880. Tất cả gạch ngói, kính màu đều chở từ Marseille, Pháp sang, nên đến nay sắc gạch vẫn đỏ au, chưa cần tô lại. Kiến trúc theo phong cách Roman pha Gothic, bên trong có thể chứa đến hơn ngàn giáo dân. Đến năm 1895, hai tháp chuông mới được dựng hoàn chỉnh, cao gần 60 mét – từng là điểm cao nhất Sài Gòn thuở ấy.

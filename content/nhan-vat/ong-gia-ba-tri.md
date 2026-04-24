@@ -1,14 +1,20 @@
-+++
-date = '2025-09-28T11:12:25+07:00'
-draft = false
-title = 'Ông già Ba Tri – Biểu tượng của lòng kiên trì và công lý'
-description = 'Câu chuyện ông già Ba Tri – Thái Hữu Kiểm ở Bến Tre, biểu tượng cho tinh thần đấu tranh của người Nam Bộ xưa.'
-keywords = ['ông già Ba Tri', 'Thái Hữu Kiểm', 'giai thoại ông già Ba Tri', 'lịch sử Bến Tre', 'Nam Kỳ xưa', 'văn hóa dân gian Nam Bộ']
-slug = 'ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly'
-author = 'Phúc Mập'
-comment = true
-image = '/images/ong-gia-ba-tri.jpg'
-+++
+---
+author: Phúc Mập
+comment: true
+date: '2025-09-28T11:12:25+07:00'
+description: Câu chuyện ông già Ba Tri – Thái Hữu Kiểm ở Bến Tre, biểu tượng cho tinh thần đấu tranh của người Nam Bộ xưa.
+draft: false
+image: /images/ong-gia-ba-tri.jpg
+keywords:
+- ông già Ba Tri
+- Thái Hữu Kiểm
+- giai thoại ông già Ba Tri
+- lịch sử Bến Tre
+- Nam Kỳ xưa
+- văn hóa dân gian Nam Bộ
+slug: ong-gia-ba-tri-bieu-tuong-long-kien-ky-va-cong-ly
+title: Ông già Ba Tri – Biểu tượng của lòng kiên trì và công lý
+---
 ## Tiểu sử và nguồn gốc
 
 “Ông già Ba Tri” (còn gọi là Già Ba Tri) là tên gọi dân gian của Thái Hữu Kiểm (còn gọi là Cả Kiểm), người sống vào đầu thời Minh Mạng (đầu thế kỷ XIX). 

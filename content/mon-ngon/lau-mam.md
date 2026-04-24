@@ -1,12 +1,12 @@
-+++
-date = '2026-03-09T17:05:31+07:00'
-draft = false
-title = 'Hương vị lẩu mắm miền tây'
-slugs = 'huong-vi-lau-mam-mien-tay'
-description = 'Nếu có dịp về miền Tây, ngồi bên một nồi lẩu mắm nóng hổi giữa buổi chiều gió sông thổi nhẹ, mới thấy hết cái thú của ẩm thực miền Nam - giản dị nhưng khó quên'
-image = '/images/lau-mam.jpeg'
-author = 'Phúc mập'
-+++
+---
+author: Phúc mập
+date: '2026-03-09T17:05:31+07:00'
+description: 'Nếu có dịp về miền Tây, ngồi bên một nồi lẩu mắm nóng hổi giữa buổi chiều gió sông thổi nhẹ, mới thấy hết cái thú của ẩm thực miền Nam - giản dị nhưng khó quên'
+draft: false
+image: /images/lau-mam.jpeg
+slugs: huong-vi-lau-mam-mien-tay
+title: Hương vị lẩu mắm miền tây
+---
 Nếu có một món ăn nào gói trọn hương vị của miền Tây Nam Bộ thì nhiều người sẽ nghĩ ngay đến lẩu mắm. Đây không chỉ là một món ăn ngon mà còn là cả một câu chuyện về đất, về người và về cách người miền Tây tận dụng những gì thiên nhiên ban tặng.
 
 {{< figure src="/images/lau-mam.webp" alt="Lẩu mắm miền Tây" cation="Lẩu mắm miền Tây" class="center" >}}

@@ -1,14 +1,15 @@
-+++
-date = '2025-10-26T20:08:10+07:00'
-draft = false
-title = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
-author = 'Phúc Mập'
-description = 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
-keywords = "lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa"
-slug = 'ta-quan-le-van-duyet'
-tags = ['feature']
-image = '/images/le-van-duyet.jpg'
-+++
+---
+author: Phúc Mập
+date: '2025-10-26T20:08:10+07:00'
+description: 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
+draft: false
+image: /images/le-van-duyet.jpg
+keywords: lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa
+slug: ta-quan-le-van-duyet
+tags:
+- feature
+title: 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
+---
 ## I. Tiểu sử và bối cảnh lịch sử
 {{< figure src="/images/le-van-duyet2.webp" atl="Tả quân Lê Văn Duyệt" caption="Tả quân Lê Văn Duyệt" class="center" >}}
 Lê Văn Duyệt sinh khoảng năm 1763 tại vùng Vàm Trà Lọt, thuộc tỉnh Định Tường xưa (nay là Tiền Giang). Gia đình ông vốn gốc Quảng Ngãi, ông nội là Lê Văn Hiếu vào Nam khai khẩn lập nghiệp. Từ nhỏ, Lê Văn Duyệt đã nổi tiếng thông minh, cương trực và có chí lớn.

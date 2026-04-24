@@ -5,6 +5,7 @@ theme = 'pehtheme-hugo-main'
 defaultContentLanguage = "vi"
 removePathAccents = true
 uglyURLs = false
+metaDataFormat = "yaml"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5

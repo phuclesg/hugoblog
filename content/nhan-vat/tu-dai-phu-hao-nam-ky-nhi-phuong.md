@@ -1,13 +1,13 @@
-+++
-date = '2025-09-22T06:32:35Z'
-draft = false
-title = 'Nhì Phương | Tứ đại phú hào Nam Kỳ xưa'
-description = 'Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn '
-author = 'Phúc Mập'
-slug = 'nhi-phuong-tu-dai-phu-hao-nam-ky-xua'
-comment = true
-image = '/images/do-doc-phuong.jpg'
-+++
+---
+author: Phúc Mập
+comment: true
+date: '2025-09-22T06:32:35Z'
+description: 'Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn '
+draft: false
+image: /images/do-doc-phuong.jpg
+slug: nhi-phuong-tu-dai-phu-hao-nam-ky-xua
+title: Nhì Phương | Tứ đại phú hào Nam Kỳ xưa
+---
 **Tứ đại phú hộ nam kỳ xưa - Kỳ 2:**
 ## Nhì Phương – Đỗ Hữu Phương, vị phú hộ nhiều quyền thế ở Nam Kỳ
 ### 1. Xuất thân và con đường lập thân

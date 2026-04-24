@@ -1,11 +1,11 @@
-+++
-date = '2026-03-04T10:33:34+07:00'
-draft = false
-title = 'Trường Pétrus Ký - Lịch sử và dấu ấn tại Sài Gòn'
-slugs = 'truong-petrus-ky-sai-gon'
-description = 'Tìm hiểu lịch sử Trường Pétrus Ký - tiền thân của Chuyên Lê Hồng Phong TP.HCM, ngôi trường danh tiếng bậc nhất Sài Gòn trước 1975.'
-image = '/images/truong-petrusky.jpg'
-+++
+---
+date: '2026-03-04T10:33:34+07:00'
+description: 'Tìm hiểu lịch sử Trường Pétrus Ký - tiền thân của Chuyên Lê Hồng Phong TP.HCM, ngôi trường danh tiếng bậc nhất Sài Gòn trước 1975.'
+draft: false
+image: /images/truong-petrusky.jpg
+slugs: truong-petrus-ky-sai-gon
+title: 'Trường Pétrus Ký - Lịch sử và dấu ấn tại Sài Gòn'
+---
 **Nhắc tới trường Pétrus Ký xưa (nay là trường THPT Chuyên Lê Hồng Phong) là cả một bầu trời ký ức của dân Sài Gòn - Gia Định**
 
 ## Trường Pétrus Ký - Lịch sử ngôi trường danh tiếng bậc nhất Sài Gòn

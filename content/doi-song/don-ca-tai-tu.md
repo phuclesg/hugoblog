@@ -1,12 +1,13 @@
-+++
-date = '2026-03-12T21:24:49+07:00'
-draft = false
-title = 'Đờn Ca Tài Tử Nam Bộ - Nét Văn Hóa Của Miền Sông Nước'
-slugs = 'don-ca-tai-tu-nam-bo-net-van-hoa-mien-song-nuoc'
-description = 'Đờn ca tài tử Nam Bộ là loại hình âm nhạc truyền thống nổi tiếng của miền Nam Việt Nam, được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại.'
-image = '/images/don-ca-tai-tu-5.jpeg'
-tags = ['feature']
-+++
+---
+date: '2026-03-12T21:24:49+07:00'
+description: Đờn ca tài tử Nam Bộ là loại hình âm nhạc truyền thống nổi tiếng của miền Nam Việt Nam, được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại.
+draft: false
+image: /images/don-ca-tai-tu-5.jpeg
+slugs: don-ca-tai-tu-nam-bo-net-van-hoa-mien-song-nuoc
+tags:
+- feature
+title: 'Đờn Ca Tài Tử Nam Bộ - Nét Văn Hóa Của Miền Sông Nước'
+---
 Đờn ca tài tử Nam Bộ là một loại hình nghệ thuật dân gian đặc sắc của vùng Nam Bộ, phản ánh đời sống tinh thần phong phú của người dân miền sông nước. Với giai điệu sâu lắng, lời ca mộc mạc và cách biểu diễn gần gũi, loại hình nghệ thuật này đã trở thành một phần quan trọng trong văn hóa truyền thống của người Việt.
 
 {{< figure src="/images/don-ca-tai-tu-5.webp" alt="Đờn ca tài tử Nam Bộ" caption="Đờn ca tài tử Nam Bộ" class="center" >}}

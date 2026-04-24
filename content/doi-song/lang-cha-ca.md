@@ -1,12 +1,12 @@
-+++
-date = '2025-10-19T14:23:16+07:00'
-draft = false
-title = 'Lăng Cha Cả - Di tích và địa danh chuyển mình của Sài Gòn xưa'
-description = 'Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ của vị giáo sĩ người Pháp Pierre Joseph Georges Pigneau de Béhaine tiếng Việt thường gọi là Bá Đa Lộc'
-slug = 'lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua'
-comment = true
-image = '/images/lang-cha-ca.jpg'
-+++
+---
+comment: true
+date: '2025-10-19T14:23:16+07:00'
+description: Cái tên “Lăng Cha Cả” bắt nguồn từ lăng mộ của vị giáo sĩ người Pháp Pierre Joseph Georges Pigneau de Béhaine tiếng Việt thường gọi là Bá Đa Lộc
+draft: false
+image: /images/lang-cha-ca.jpg
+slug: lang-cha-ca-di-tich-dia-danh-chuyen-minh-sai-gon-xua
+title: 'Lăng Cha Cả - Di tích và địa danh chuyển mình của Sài Gòn xưa'
+---
 {{< figure src="/images/lang-cha-ca.webp" alt="Lăng cha cả" caption="Lăng Cha Cả" class="center" >}}
 ## Nguồn gốc & nhân vật “Cha Cả”
 
