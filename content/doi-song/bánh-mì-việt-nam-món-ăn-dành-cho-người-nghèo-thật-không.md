@@ -7,7 +7,7 @@ description: Bánh mì việt nam có thật sự là dành cho người nghèo 
   tìm hiểu lịch sử, nguồn gốc của bánh mì và hành trình từ món ăn bình dân trở
   thành biểu tượng ẩm thực thế giới
 ---
-Đang ngồi lướt facebook thì phải khựng lại trước một bài viết của một tiktoker trẻ tuổi, bạn này chê ỏng chê ẹo bánh mì Việt Nam là món ăn chỉ dành cho người nghèo. Coi xong clip đó thì mình dừng lại một lát, để ngẫm về câu của bạn nói.
+Đang ngồi lướt tiktok thì phải khựng lại trước một bài viết của một tiktoker trẻ tuổi, bạn này chê ỏng chê ẹo bánh mì Việt Nam là món ăn chỉ dành cho người nghèo. Coi xong clip đó thì mình dừng lại một lát, để ngẫm về câu của bạn nói.
 
 Theo mình nghĩ thì bánh mì dành cho người nghèo cũng đúng, nhưng mà người giàu cũng ăn mà. Nó đã giúp bao nhiêu người công nhân, sinh viên, học sinh thỏa mãn cái bụng đói meo của mình, để bắt đầu một ngày mới. 
 
@@ -31,7 +31,7 @@ Do giá cả lúa mì nhập khẩu thời điểm này giá cao nên bánh mì 
 
 Giá bánh mì cũng thế mà rẻ hơn người bình dân cũng có thể tiếp cận được, đến những năm đầu thế kỷ 20 những ổ bánh mì nhỏ (petit pain) bắt đầu được bán trên đường phố Việt Nam.
 
-{{< figure src="/images/banh-mi-2.webp" caption="Bánh mì Việt Nam" alt="Bánh mì Việt Nam" class="center" >}}
+{{< figure src="/images/banh-mi-2.webp" caption="Bánh mì Việt Nam" alt="Bánh mì Việt Nam" class="Bánh mì Việt Nam" >}}
 
 ## Biến tấu của bánh mì
 
@@ -39,7 +39,7 @@ Sau khi người Pháp rời đi, đây là lúc người Sài Gòn biến ở b
 
 Do pha trộn với bột gạo nên bánh mì lúc này vỏ mỏng hơn, ruột xốp hơn, trước đó thì bánh mì chỉ ăn với bơ, thịt nguội hoặc soup.
 
-{{< figure src="/images/banh-mi-4.webp" caption="Bánh mì thịt" alt="Bánh mì thịt" class="center" >}}
+{{< figure src="/images/banh-mi-4.webp" caption="Bánh mì thịt" alt="Bánh mì thịt" class="Bánh mì thịt" >}}
 
 Nhưng giờ đây người Sài Gòn cũng bắt đầu nhét đủ thứ vô ổ bánh mì (do ruột xốp rỗng), nào là paté, thịt nguội, đồ chua, rau thơm và ớt. Thế là một món kết hợp Đông - Tây ra đời.
 
@@ -53,7 +53,7 @@ Tại Mỹ, Úc, Canada bánh mì Việt Nam trở thành món ăn phổ biến.
 
 Năm 2011 từ “banh mi” được thêm vào từ điển tiếng Anh Oxford.
 
-{{< figure src="/images/banh-mi-3.webp" caption="Bánh mì chả cá" alt="Bánh mì chả cá" class="center" >}}
+{{< figure src="/images/banh-mi-3.webp" caption="Bánh mì chả cá" alt="Bánh mì chả cá" class="Bánh mì chả cá" >}}
 
 Giờ đây bánh mì còn nhiều biến tấu hơn nữa, bánh mì chả cá, bánh mì cá hộp, bánh mì nướng muối ớt….
 
