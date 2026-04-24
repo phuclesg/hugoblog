@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /tags/
-Disallow: /keywords/
-
-Sitemap: https://namkyxua.com/sitemap.xml
