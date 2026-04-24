@@ -5,7 +5,7 @@ backend:
   base_url: https://callback.lhp0988.workers.dev # URL của Cloudflare Worker xử lý OAuth
 
 media_folder: "static/images"
-public_folder: "https://media.namkyxua.com/images"
+public_folder: "/images"
 site_url: https://namkyxua.com
 
 collections:

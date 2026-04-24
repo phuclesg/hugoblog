@@ -36,6 +36,32 @@
   }
 });
   </script>
-
+<script>
+CMS.registerEditorComponent({
+  id: "image",
+  label: "Image",
+  fields: [
+    { name: "src", label: "Image", widget: "image" },
+    { name: "alt", label: "Alt Text", widget: "string", required: false }
+  ],
+  pattern: /!\[(.*?)\]\((.*?)\)/,
+  fromBlock: function(match) {
+    return {
+      src: match[2],
+      alt: match[1]
+    };
+  },
+  toBlock: function(obj) {
+    const base = "https://media.namkyxua.com/images/";
+    const src = obj.src.startsWith("http") ? obj.src : base + obj.src;
+    return `![${obj.alt || ""}](${src})`;
+  },
+  toPreview: function(obj) {
+    const base = "https://media.namkyxua.com/images/";
+    const src = obj.src.startsWith("http") ? obj.src : base + obj.src;
+    return `<img src="${src}" alt="${obj.alt || ""}" />`;
+  }
+});
+</script>
   </body>
 </html>
