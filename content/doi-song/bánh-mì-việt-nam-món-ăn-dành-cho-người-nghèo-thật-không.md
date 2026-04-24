@@ -15,7 +15,7 @@ Nói cho nó rõ gọn sòng phẳng để cho bạn trẻ hiểu luôn, giờ b
 
 ## Nguồn gốc và lịch sử bánh mì
 
-Theo một số ý kiến thì bánh mì có nguồn gốc từ banh baguette của Pháp, được mang vào Việt Nam thời kỳ pháp thuộc địa, khoảng giữa thế kỷ 19
+Theo một số ý kiến thì bánh mì có nguồn gốc từ bánh baguette của Pháp, được mang vào Việt Nam thời kỳ pháp thuộc địa, khoảng giữa thế kỷ 19
 
 {{< figure src="/images/banh-mi.webp" caption="Bánh mì baguette" alt="Bánh mì baguette" class="Bánh mì baguette" >}}
 
