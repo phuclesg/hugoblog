@@ -6,6 +6,7 @@ backend:
 
 media_folder: "static/images"
 public_folder: "/images"
+site_url: https://namkyxua.com
 
 collections:
   # Collection cho Món Ngon
