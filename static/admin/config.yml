@@ -16,19 +16,39 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { 
-          label: "Đường dẫn tĩnh", 
-          name: "slug", 
-          widget: "string", 
-          required: false,
-          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
-        }
-      - { label: "Tác giả", name: "author", widget: "string" }
-      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
-      - { label: "Mô tả ngắn", name: "description", widget: "text" }
-      - { label: "Nội dung", name: "body", widget: "markdown" }
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime"
+        
+      - label: "Đường dẫn tĩnh" 
+        name: "slug"
+        widget: "string"
+        required: false
+        hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
+
+      - label: "Tác giả"
+        name: "author"
+        widget: "string"
+
+      - label: "Ảnh minh họa"
+        name: "image"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            public_folder: "https://media.namkyxua.com/images" 
+
+      - label: "Mô tả ngắn"
+        name: "description" 
+        widget: "text" 
+
+      - label: "Nội dung"
+        name: "body"
+        widget: "markdown"
 
   # Collection cho Nhân Vật
   - name: "nhan_vat"
@@ -39,17 +59,28 @@ collections:
     fields:
       - { label: "Tiêu đề", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { 
-          label: "Đường dẫn tĩnh", 
-          name: "slug", 
-          widget: "string", 
-          required: false,
-          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
-        }
-      - { label: "Tác giả", name: "author", widget: "string" }
-      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
-      - { label: "Mô tả ngắn", name: "description", widget: "text" }
-      - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
+      - label: "Đường dẫn tĩnh"
+        name: "slug"
+        widget: "string"
+        required: false
+        hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
+
+      - label: "Tác giả"
+        name: "author"
+        widget: "string"
+
+      - label: "Ảnh minh họa"
+        name: "image"
+        widget: "image"
+        required: false
+
+      - label: "Mô tả ngắn"
+        name: "description"
+        widget: "text" 
+
+      - label: "Nội dung chi tiết"
+        name: "body" 
+        widget: "markdown"
       
 # Collection cho đời sống
   - name: "doi_song"
@@ -58,17 +89,34 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { 
-          label: "Đường dẫn tĩnh", 
-          name: "slug", 
-          widget: "string", 
-          required: false,
-          hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
-        }
-      - { label: "Tác giả", name: "author", widget: "string" }
-      - { label: "Ảnh minh họa", name: "image", widget: "image", required: false }
-      - { label: "Mô tả ngắn", name: "description", widget: "text" }
-      - { label: "Nội dung chi tiết", name: "body", widget: "markdown" }
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime" 
+
+      - label: "Đường dẫn tĩnh"
+        name: "slug"
+        widget: "string"
+        required: false
+        hint: "Bỏ trống sẽ tự tạo mặc định theo tên"
+
+      - label: "Tác giả"
+        name: "author"
+        widget: "string" 
+
+      - label: "Ảnh minh họa"
+        name: "image"
+        widget: "image"
+        required: false 
+
+      - label: "Mô tả ngắn"
+        name: "description"
+        widget: "text"
+
+      - label: "Nội dung chi tiết"
+        name: "body"
+        widget: "markdown"
       
