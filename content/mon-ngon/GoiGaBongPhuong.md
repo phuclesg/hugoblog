@@ -5,7 +5,7 @@ comments: true
 date: '2025-09-04T00:01:16+07:00'
 description: Gỏi gà bông phượng là một món ăn độc đáo trong ẩm thực Việt Nam. Món ăn này thường được thưởng thức vào mùa hè khi bông phượng nở rộ ở khắp nơi.
 draft: false
-image: /images/goi-ga-hoa-phuong3.jpg
+image: /images/thumbnails/goi-ga-bong-phuong-thumb.jpg
 slug: goi-ga-bong-phuong
 title: Gỏi Gà Bông Phượng
 ---

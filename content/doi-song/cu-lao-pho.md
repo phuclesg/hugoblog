@@ -3,7 +3,7 @@ author: Mập
 date: '2025-11-26T12:05:26+07:00'
 description: Cù lao Phố không chỉ là một dải đất nhỏ bé giữa lòng sông Đồng Nai; nó là chứng nhân của một thời kỳ khai mở vĩ đại
 draft: false
-image: /images/cu-lao-pho.jpg
+image: /images/thumbnails/cu-lao-pho-thumb.jpg
 slug: cu-lao-pho-thuong-cang-dau-tien-của-dong-nai-xua
 title: 'Cù Lao Phố - Thương cảng đầu tiên của Đồng Nai xưa'
 ---

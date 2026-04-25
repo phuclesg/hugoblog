@@ -4,7 +4,7 @@ avatar: /images/avatar-map.png
 date: '2026-04-13T15:09:37+07:00'
 description: 'Út Trà Ôn - từ người nông dân nghèo cho đến hào quang của một đệ nhất danh ca. Hãy cùng tìm hiểu về cuộc đời tài danh của ông'
 draft: false
-image: /images/ut-tra-on-2.webp
+image: /images/thumbnails/ut-tra-on-thumb.jpg
 slug: ut-tra-on-danh-ca-noi-tieng-mien-nam-xua
 title: 'Út Trà Ôn - Danh ca nổi tiếng miền Nam xưa'
 ---

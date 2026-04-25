@@ -4,7 +4,7 @@ comments: true
 date: '2025-09-03T12:12:19Z'
 description: Miền Tây, vùng đất của những cánh đồng lúa bát ngát và sông nước hữu tình, không chỉ gây ấn tượng với khung cảnh hữu tình mà còn là địa điểm quyến rũ với ẩm thực độc đáo
 draft: false
-image: /images/chuot-dong-nuong2.jpg
+image: /images/thumbnails/chuot-dong-nuong-thumb.jpg
 slug: chuot-dong-mien-tay
 title: 'Chuột Đồng Miền Tây - Hương Vị Độc Đáo Từ Vùng Đất Lúa Non'
 ---

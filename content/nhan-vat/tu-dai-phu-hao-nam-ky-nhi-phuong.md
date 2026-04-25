@@ -4,7 +4,7 @@ comment: true
 date: '2025-09-22T06:32:35Z'
 description: 'Đỗ Hữu Phương (1841–1914), thường được gọi là Đốc phủ Phương, sau thăng chức Đô đốc, sinh ra tại vùng Chợ Lớn '
 draft: false
-image: /images/do-doc-phuong.jpg
+image: /images/thumbnails/do-doc-phuong-thumb.jpg
 slug: nhi-phuong-tu-dai-phu-hao-nam-ky-xua
 title: Nhì Phương | Tứ đại phú hào Nam Kỳ xưa
 ---

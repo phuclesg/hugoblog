@@ -4,7 +4,7 @@ comment: true
 date: '2025-09-27T15:09:56+07:00'
 description: Có những ký ức về Tết mà chỉ cần nhắc lại, hương vị, âm thanh và ánh sáng của ngày xuân xưa lại hiện về một cách sống động. Ở miền Nam, Tết xưa không chỉ là dịp đón năm mới
 draft: false
-image: /images/tet-nam-ky-xua.jpg
+image: /images/thumbnails/tet-nam-ky-xua-thumb.jpg
 slug: tet-mien-nam-xua-nhung-ky-uc-khong-bao-gio-phai
 title: 'Tết miền nam xưa - Những ký ức không bao giờ phai'
 ---

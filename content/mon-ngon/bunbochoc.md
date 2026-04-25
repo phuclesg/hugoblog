@@ -4,7 +4,7 @@ comment: true
 date: '2025-09-12T16:06:42+07:00'
 description: Bún bò chóc. Món bún ngon từ Sóc Trăng, Trà Vinh
 draft: false
-image: /images/bun-bo-choc.jpg
+image: /images/thumbnails/bun-bo-choc-thumb.jpg
 keywords:
 - bún bò chóc
 - ẩm thực miền Tây

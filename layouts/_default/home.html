@@ -24,7 +24,7 @@
               <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
 
             {{- else if (strings.HasPrefix .Params.image "/" )}}
-              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}">
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
             {{- else }}
               {{- with $imgfeature := resources.Get .Params.image }}
                 {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
@@ -97,7 +97,7 @@
               <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
 
             {{- else if (strings.HasPrefix .Params.image "/" )}}
-              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}" >
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}" >
             {{- else }}
               {{- with $imgfeature := resources.Get .Params.image }}
                 {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
@@ -122,7 +122,7 @@
               <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
 
             {{- else if (strings.HasPrefix .Params.image "/" )}}
-              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Site.Params.mediaBaseURL }}{{ .Params.image }}" alt="{{ $.Name }}" >
+              <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}" >
             {{- else }}
               {{- with $imgfeature := resources.Get .Params.image }}
                 {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}

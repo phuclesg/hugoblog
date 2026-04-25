@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-11-07T17:37:28+07:00'
 description: 'Giữa nhịp sống hiện đại của Sài Gòn hôm nay, giữa những tòa nhà cao tầng, trung tâm thương mại và dòng người vội vã, chợ Bến Thành vẫn đứng đó - bền bỉ, trầm mặc và đầy sức sống'
 draft: false
-image: /images/cho-ben-thanh.jpg
+image: /images/thumbnails/cho-ben-thanh-thumb.jpg
 keywords: chợ bến thành, lịch sử hình thành chợ bến thành, chợ bến thành được xây năm nào
 slug: cho-ben-thanh-bieu-tuong-sai-gon-xua
 title: 'Chợ Bến Thành - biểu tượng Sài Gòn xưa'

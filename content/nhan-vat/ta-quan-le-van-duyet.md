@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-10-26T20:08:10+07:00'
 description: 'Tả quân Lê Văn Duyệt - Vị Tổng trấn khai sáng và giữ yên đất Nam Bộ'
 draft: false
-image: /images/le-van-duyet.jpg
+image: /images/thumbnails/le-van-duyet-thumb.jpg
 keywords: lê văn duyệt, tả quân, nam kỳ xưa, nam bộ xưa
 slug: ta-quan-le-van-duyet
 tags:

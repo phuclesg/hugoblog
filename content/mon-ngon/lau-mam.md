@@ -3,7 +3,7 @@ author: Phúc mập
 date: '2026-03-09T17:05:31+07:00'
 description: 'Nếu có dịp về miền Tây, ngồi bên một nồi lẩu mắm nóng hổi giữa buổi chiều gió sông thổi nhẹ, mới thấy hết cái thú của ẩm thực miền Nam - giản dị nhưng khó quên'
 draft: false
-image: /images/lau-mam.jpeg
+image: /images/thumbnails/lau-mam-thumb.jpg
 slugs: huong-vi-lau-mam-mien-tay
 title: Hương vị lẩu mắm miền tây
 ---

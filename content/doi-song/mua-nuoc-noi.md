@@ -2,7 +2,7 @@
 date: '2026-04-06T16:19:51+07:00'
 description: 'Mùa nước nổi - mùa mà thiên nhiên ban tặng tôm, cá, phù sa cho đất miền Tây'
 draft: false
-image: /images/mua-nuoc-noi-thumb.jpg
+image: /images/thumbnails/mua-nuoc-noi-thumb.jpg
 slug: mua-nuoc-noi-mua-thien-nhien-ban-tang-phu-sa-cho-ruong-dong
 title: 'Mùa nước nổi - Mùa thiên nhiên ban tặng phù sa cho ruộng đồng'
 ---

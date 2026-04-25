@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2026-04-19T21:50:32+07:00'
 description: Món thức uống của tuổi thơ, thức uống tuyệt vời cho những buổi trưa nóng nực oi bức
 draft: false
-image: /images/siro-da-bao.webp
+image: /images/thumbnails/siro-da-bao-thumb.jpg
 slug: siro-da-bao-mon-thuc-uong-cua-tuoi-tho
 title: Siro Đá bào món thức uống của tuổi thơ
 ---

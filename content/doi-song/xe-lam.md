@@ -2,7 +2,7 @@
 date: '2026-03-21T13:07:28+07:00'
 description: Xe lam! chiếc xe đã chở rất nhiều thứ từ còn người, hàng hóa và hôm nay nó còn chở những hoài niệm một thời Sài Gòn xưa!!
 draft: false
-image: /images/xelam.jpg
+image: /images/thumbnails/xe-lam-thumb.jpg
 slugs: xe-lam-la-gi-ky-uc-xe-lam-sai-gon-xua
 title: Xe lam là gì? Ký ức xe lam Sài Gòn xưa
 ---

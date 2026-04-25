@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-09-09T15:31:30+07:00'
 description: Khi nhắc đến miền Nam xưa, đặc biệt là miền Tây Nam Bộ, ít ai không nghe qua cái tên Công tử Bạc Liêu – nhân vật nổi tiếng với lối sống xa hoa, hào phóng và nhiều giai thoại ly kỳ
 draft: false
-image: /images/cong-tu-bac-lieu.jpg
+image: /images/thumbnails/cong-tu-bac-lieu-thumb.jpg
 slug: cong-tu-bac-lieu-hao-hoa-va-giai-thoai-mot-thoi
 tags:
 - feature

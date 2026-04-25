@@ -3,7 +3,7 @@ banner: /images/tinh-kien-hoa-2.jpg
 date: '2026-03-22T16:11:22+07:00'
 description: Lịch sử tỉnh Kiến Hòa từ Sắc lệnh 143 năm 1956 đến quá trình sáp nhập năm 2025. Khám phá 10 quận cũ và đời sống Trúc Giang (Bến Tre) xưa.
 draft: false
-image: /images/tinh-kien-hoa-2.jpg
+image: /images/thumbnails/tinh-kien-hoa-thumb.jpg
 slug: kien-hoa-20-nam-dinh-danh-va-hanh-trinh-cua-mot-tinh-ly
 title: 'Kiến Hòa: 20 Năm Định Danh Và Hành Trình Của Một Tỉnh Lỵ'
 ---

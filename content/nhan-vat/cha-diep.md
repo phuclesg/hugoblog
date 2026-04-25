@@ -3,7 +3,7 @@ banner: /images/cha-diep.jpg
 date: '2026-03-07T17:55:21+07:00'
 description: 'Tiểu sử Cha Phanxicô Xaviê Trương Bửu Diệp - vị linh mục gắn liền với nhà thờ Tắc Sậy, được nhiều người kính nhớ tại miền Tây Nam Bộ'
 draft: false
-image: /images/cha-diep.jpg
+image: /images/thumbnails/cha-diep-thumb.jpg
 slugs: Cha-diep-vi-linh-muc-kinh-men-mien-tay-nam-bo
 title: 'Cha Diệp - Vị linh mục kính mến của miền Tây Nam bộ'
 ---

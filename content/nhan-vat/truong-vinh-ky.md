@@ -2,7 +2,7 @@
 date: '2026-04-04T20:29:06+07:00'
 description: Ông là người am tường trên nhiều lĩnh vực văn hóa cổ kim Đông Tây. Ông để lại hơn 100 tác phẩm về văn học, lịch sử, địa lý, từ điển và dịch thuật,... Riêng đối với báo chí viết bằng chữ Quốc ngữ tại Việt Nam, ông được coi là người tiên phong vì đã sáng lập, là Tổng biên tập tờ báo viết chữ quốc ngữ đầu tiên mang tên là Gia Định báo.
 draft: false
-image: /images/truong-vinh-ky-thumb.jpg
+image: /images/thumbnails/truong-vinh-ky-thumb.jpg
 slug: truong-vinh-ky-nha-bac-hoc-cua-nam-ky-xua
 title: 'Trương Vĩnh Ký - Nhà bác học của Nam Kỳ xưa'
 ---

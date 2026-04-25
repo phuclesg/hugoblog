@@ -2,7 +2,7 @@
 date: '2026-03-04T10:33:34+07:00'
 description: 'Tìm hiểu lịch sử Trường Pétrus Ký - tiền thân của Chuyên Lê Hồng Phong TP.HCM, ngôi trường danh tiếng bậc nhất Sài Gòn trước 1975.'
 draft: false
-image: /images/truong-petrusky.jpg
+image: /images/thumbnails/truong-petrusky-thumb.jpg
 slugs: truong-petrus-ky-sai-gon
 title: 'Trường Pétrus Ký - Lịch sử và dấu ấn tại Sài Gòn'
 ---

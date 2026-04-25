@@ -2,7 +2,7 @@
 date: '2026-01-27T19:19:42+07:00'
 description: Bùi Giáng sinh ngày 17-12-1926, quê tại làng Thanh Châu, xã Vĩnh Trinh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông sinh ra trong một gia đình nông dân trung lưu, sớm tiếp xúc với chữ Hán và văn hóa truyền thống.
 draft: false
-image: /images/bui-giang.jpg
+image: /images/thumbnails/bui-giang-thumb.jpg
 slug: bui-giang-ke-dien-hay-bac-ky-tai
 title: 'Bùi Giáng - Kẻ điên hay bậc kỳ tài'
 ---

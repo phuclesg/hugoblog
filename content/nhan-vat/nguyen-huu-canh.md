@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-09-04T21:40:03+07:00'
 description: Vào thế kỷ XVII, đất Nam Bộ vẫn còn là vùng hoang vu, thưa thớt dân cư. Nơi đây chủ yếu là đất rừng, sông rạch chằng chịt, cư dân bản địa là người Khmer và một số cộng đồng người Chăm, người Hoa.
 draft: false
-image: /images/nguyen-huu-canh.jpg
+image: /images/thumbnails/nguyen-huu-canh-thumb.jpg
 slug: nguyen-huu-canh
 title: Nguyễn Hữu Cảnh
 ---

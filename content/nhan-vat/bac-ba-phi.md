@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-11-13T15:13:20+07:00'
 description: Bác Ba Phi là một nhân vật dân gian nổi tiếng của vùng Cà Mau – Nam Bộ, được người dân truyền miệng qua nhiều thế hệ với những câu chuyện tiếu lâm phóng đại, hài hước,dân giã
 draft: false
-image: /images/bac-ba-phi.jpg
+image: /images/thumbnails/bac-ba-phi-thumb.jpg
 slug: bac-ba-phi-va-nhung-chuyen-cuoi-tru-danh
 title: 'Bác Ba Phi - Hình tượng dân gian Nam Bộ với những câu chuyện cười trứ danh'
 ---

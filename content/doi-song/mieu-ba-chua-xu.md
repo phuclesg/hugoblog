@@ -2,7 +2,7 @@
 date: '2025-12-09T13:21:47+07:00'
 description: Miếu Bà Chúa Xứ Núi Sam nằm dưới chân Núi Sam thuộc phường Vĩnh Tế, thành phố Châu Đốc, tỉnh An Giang. Đây là một trong những địa điểm hành hương nổi tiếng và linh thiêng nhất miền Tây Nam Bộ
 draft: false
-image: /images/mieu-ba-chua-xu.jpg
+image: /images/thumbnails/mieu-ba-chua-xu-thumb.jpg
 slug: mieu-ba-chua-xu-nui-sam-an-giang
 title: 'Miếu Bà Chúa Xứ núi Sam - An Giang'
 ---

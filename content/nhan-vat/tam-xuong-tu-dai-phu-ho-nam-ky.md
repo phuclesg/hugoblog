@@ -3,7 +3,7 @@ comment: true
 date: '2025-10-09T14:49:59+07:00'
 description: Bá Hộ Xường – Phú hộ Nam Kỳ và Những Dấu Ấn Lịch Sử Còn Lại
 draft: false
-image: /images/tam-xuong.jpg
+image: /images/thumbnails/tam-xuong-thumb.jpg
 slug: tam-xuong-tu-dai-phu-ho-nam-ky-xua
 title: 'Tam Xường - Tứ đại phú hộ Nam Kỳ xưa'
 ---

@@ -4,7 +4,7 @@ comment: true
 date: '2025-10-18T13:06:49+07:00'
 description: Huỳnh Văn Hoa (1845 – 1901), thường được biết đến với tên gọi Chú Hỏa, là một thương nhân người Việt gốc Hoa, có quốc tịch Pháp
 draft: false
-image: /images/chu-hoa4.jpg
+image: /images/thumbnails/chu-hoa-thumb.jpg
 keywords:
 - chú hỏa
 - huỳnh văn hoa

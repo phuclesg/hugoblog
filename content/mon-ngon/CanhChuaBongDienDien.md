@@ -4,7 +4,7 @@ comments: true
 date: '2025-09-02'
 description: Canh chua cá linh bông điên điển mang đến cho bạn một trải nghiệm ẩm thực độc đáo với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon từ thiên nhiên.
 draft: false
-image: /images/canhchuacalinh.jpg
+image: /images/thumbnails/canhchuacalinh-thumb.jpg
 slug: canh-chua-ca-linh-bong-dien-dien
 title: Canh chua cá linh bông điên điển
 ---

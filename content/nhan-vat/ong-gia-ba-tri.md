@@ -4,7 +4,7 @@ comment: true
 date: '2025-09-28T11:12:25+07:00'
 description: Câu chuyện ông già Ba Tri – Thái Hữu Kiểm ở Bến Tre, biểu tượng cho tinh thần đấu tranh của người Nam Bộ xưa.
 draft: false
-image: /images/ong-gia-ba-tri.jpg
+image: /images/thumbnails/ong-gia-ba-tri-thumb.jpg
 keywords:
 - ông già Ba Tri
 - Thái Hữu Kiểm

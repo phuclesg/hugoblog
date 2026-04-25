@@ -4,7 +4,7 @@ comment: true
 date: '2025-09-17T08:16:34Z'
 description: Nếu có dịp về miền Tây, bạn chắc chắn sẽ được người dân nơi đây giới thiệu một món ăn đặc biệt mang đậm hương vị quê hương bún gỏi dà.
 draft: false
-image: /images/bun-goi-da.jpg
+image: /images/thumbnails/bun-goi-da-thumb.jpg
 keywords:
 - bún gỏi dà
 - ẩm thực miền Tây

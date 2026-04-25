@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-11-01T12:46:15+07:00'
 description: 'Tiếng rao giữa khuya , khi xe cộ đã vắng hơn và ánh đèn đường nhạt đi, tiếng Ai bánh mì không, Ai chưng giò gai - Sài gòn xưa - Nam kỳ xưa'
 draft: false
-image: /images/tieng-rao-khuya.jpg
+image: /images/thumbnails/tieng-rao-khuya-thumb.jpg
 keywords:
 - tiếng rao giữa khuya, Đêm khuya sài gòn, mưu sinh giữa sài gòn, nam kỳ xưa
 slug: tieng-rao-giua-khua-ky-uc-khong-quen

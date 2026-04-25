@@ -3,7 +3,7 @@ author: Phúc Mập
 date: '2025-10-02T11:01:46Z'
 description: Nhà thờ Đức Bà Sài Gòn là một trong những công trình kiến trúc tiêu biểu của Sài Gòn, được xây dựng từ thời Pháp thuộc với phong cách Roman cổ kính. Nơi đây không chỉ là địa điểm tôn giáo mà còn là biểu tượng văn hóa và lịch sử gắn liền với ký ức của người dân thành phố.
 draft: false
-image: /images/nha-tho-duc-ba.jpg
+image: /images/thumbnails/nha-tho-duc-ba-thumb.jpg
 slug: nha-tho-duc-ba-chung-nhan-tram-nam-giua-sai-gon
 tags:
 - feature

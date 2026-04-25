@@ -5,7 +5,7 @@ date: '2025-09-18T13:06:58+07:00'
 description: Trong lịch sử Nam Bộ cuối thế kỷ XIX, cái tên Huyện Sỹ(tên thật Lê Phát Đạt, 1841–1900) luôn được nhắc đến như một biểu tượng giàu sang và quyền thế
 draft: false
 featured: true
-image: /images/huyen-sy.jpg
+image: /images/thumbnails/huyen-sy-thumb.jpg
 slug: nhat-sy-nhi-phuong-tam-xuong-tu-hoa-tu-dai-phu-hao-nam-ky-xua
 title: 'Nhất Sỹ - nhì Phương - tam Xường - tứ Hoả | Tứ đại phú hào Nam Kỳ xưa'
 ---
