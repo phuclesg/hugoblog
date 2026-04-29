@@ -214,7 +214,6 @@
       "justify-end",
       "landscape:max-md:text-[1rem]",
       "landscape:text-[0.8rem]/8",
-      "landscape:text-[1rem]",
       "last:after:content-none",
       "leading-7",
       "leading-8",

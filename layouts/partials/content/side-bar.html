@@ -9,7 +9,7 @@
     <h2 class="text-2xl mt-5 mb-6"><span class="text-[#b8882a]">✦</span> Xem nhiều nhất</h2>
     {{ range $index, $page := where .Site.RegularPages ".Params.tags" "intersect" (slice "feature") | first 5}}
     <h3 class="line-clamp-1 mb-2 group"><a class="flex items-center font-bold group-hover:text-[#b8882a] text-[#2c1a0e]" href="{{ .Permalink }}">
-        <span class="landscape:max-md:text-[1rem] md:text-2xl mr-3 text-[#b8882a] opacity-20 group-hover:opacity-100">{{ printf "%02d" (add $index 1) }}.</span>{{ .LinkTitle }}</a></h3>
+        <span class="md:text-xl mr-3 text-[#b8882a] opacity-20 group-hover:opacity-100">{{ printf "%02d" (add $index 1) }}.</span>{{ .LinkTitle }}</a></h3>
     <p class="border-b-1 border-[#ede0c4] mb-6 pl-10 pb-3 text-[0.7rem]">{{ .CurrentSection.Title }}</p>
      {{ end }}
 </div>
