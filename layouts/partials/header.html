@@ -1,15 +1,17 @@
-<div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
-	<div class="flex items-center">
-		<div class="flex items-center">
-			<div class="relative flex flex-col items-center rounded-full py-1.5 px-6 text-[#4b4641] uppercase mx-2">
-				{{ if .IsHome}}<h1 class="text-2xl font-bold"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-				<p class="text-[0.7rem]">ẩm thực - lịch sử - văn hóa nam bộ</p>
-			{{ else }}<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>{{ end }}
+	<div class="max-w-sreen mx-auto px-4 md:px-6 lg:px-8 flex flex-col bg-[#2c1a0e] py-20 border-b-[4px] border-[#b8882a]">
+		<div class="flex items-center justify-center">
+			<div class="flex items-center">
+				<div class="relative flex flex-col items-center rounded-full py-1.5 px-6 text-[#f5edd8] uppercase mx-2">
+					{{ if .IsHome}}<h1 class="text-xl md:text-4xl font-bold text-center"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+					<p class="text-[1rem] leading-8 md:leading-20 text-center mt-5">Nơi quá khứ gặp gỡ hiện tại - Nơi ký ức trở thành bất tử</p>
+				{{ else }}<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>{{ end }}
+				</div>
 			</div>
 		</div>
 	</div>
-	<div class="navi-search grid grid-cols-1 md:grid-cols-2">
-		<div class="col-pan-1">{{- partial "menu.html" (dict "menuID" "main" "page" .) -}}</div>
-		<div class="col-span-1">{{ if not .IsPage }}{{- partial "search.html" . -}}{{ end }} </div>
+	<div class="max-w-screen mx-auto px-4 md:px-6 lg:px-8 bg-[#5c3e1d] border-b-[2px] border-[#b8882a]">
+		<div class="navi-search md:flex items-center">
+			<div class="md:flex-3/4">{{- partial "menu.html" (dict "menuID" "main" "page" .) -}}</div>
+			<div class="md:flex-1/4 mt-3 md:mt-0">{{ if not .IsPage }}{{- partial "search.html" . -}}{{ end }} </div>
+		</div>
 	</div>
-</div>

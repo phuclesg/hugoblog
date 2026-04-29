@@ -1,0 +1,58 @@
+{{- $currentSection := .Section -}}
+{{- $sectionColors := .Site.Params.section_color -}}
+{{- $color := index $sectionColors $currentSection | default $sectionColors.default -}}
+<div class="md:flex md:flex-col">
+<a href="{{ .Permalink }}" class="group block bg-[#ede8dc] rounded-lg hover:origin-bottom hover:-translate-1 transition-all ease-in duration-200">
+		<article class="shadow-md grid grid-cols-[auto_1fr] relative h-full transition-all group-hover:bg-[{{ $color }}]/30 rounded-lg border-t-[4px] border-[{{ $color }}]">
+			<figure class="w-60 h-34 overflow-hidden">
+
+				{{- if .Params.image }}
+				
+				{{- $img := .Params.image -}}
+
+				{{- if strings.HasPrefix $img "http" }}
+					<!-- Nếu là URL hoàn chỉnh, dùng nguyên -->
+					<img class="object-cover cursor-pointer" 
+						src="{{ $img }}" 
+						alt="{{ .Title }}" 
+						style="width: 100%; height: 100%; object-fit: cover;">
+
+				{{- else if strings.HasPrefix $img "/" }}
+					<!-- Nếu là path bắt đầu bằng / (ví dụ /images/...), nối mediaBaseURL -->
+					<img class="object-cover cursor-pointer" 
+						src="{{ $img }}" 
+						alt="{{ .Title }}" 
+						style="width: 100%; height: 100%; object-fit: cover;">
+
+				{{- else }}
+					<!-- Nếu là local resource Hugo -->
+					{{- with $imgRes := resources.Get $img -}}
+					{{- $imgRes := $imgRes.Process "resize 750x" -}}
+					<img class="object-cover cursor-pointer" 
+						src="{{ $imgRes.Permalink }}" 
+						alt="{{ .Title }}" 
+						width="{{ $imgRes.Width }}" 
+						height="{{ $imgRes.Height }}">
+					{{- end }}
+				{{- end }}
+
+				{{- end }}
+
+			</figure>
+
+			<div class="p-6">
+				<div class="flex">
+					<h3 class="mr-[1rem] border text-[1rem]/10 landscape:text-[0.8rem]/8 rounded-[1.5rem] px-[1rem] py-0 border-[#ffffff]">
+						{{ .CurrentSection.Title }}
+					</h3>
+
+					<time class="text-[1rem]/10 landscape:text-[0.8rem]/8" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2"></span>{{ .Date.Format "02/01/2006" }}</time>
+				</div>
+				<h3 class="my-4 text-xl font-bold">{{ .LinkTitle }}</h3>
+
+				<p class="text-normal leading-normal text-zinc-500 line-clamp-2">{{ .Params.description }}</p>
+
+			</div>
+		</article>
+</a>
+</div>

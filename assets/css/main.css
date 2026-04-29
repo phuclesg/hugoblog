@@ -15,6 +15,7 @@ body {
 ul#results {
   position: absolute;
   top: 0;
+  left: 0;
   background-color: #dbdbdb;
   z-index: 10;
   padding: 0 20px;
@@ -97,6 +98,8 @@ ul#results li:hover {
   font-family:'Courier New', Courier, monospace;
   font-weight: 500;
 }
+
+
 div.button-btt > button {
   border-radius: 50%;
   position: fixed;

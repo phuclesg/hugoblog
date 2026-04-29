@@ -1,6 +1,6 @@
 baseURL: "https://namkyxua.com/"
 languageCode: "vi-vn"
-title: "Nam Kỳ Xưa"
+title: "Nam Kỳ Xưa - Lịch sử, văn hóa và con người Nam Bộ"
 theme: "pehtheme-hugo-main"
 defaultContentLanguage: "vi"
 removePathAccents: true
@@ -20,7 +20,7 @@ languages:
     weight: 1
 
 pagination:
-  pagerSize: 5
+  pagerSize: 4
 
 params:
   selfHosted: true
@@ -28,7 +28,7 @@ params:
     - "mon-ngon"
     - "nhan-vat"
     - "doi-song"
-  description: "Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây tại NamKyXua.com – nơi lưu giữ ký ức Nam Kỳ xưa sống động."
+  description: "Khám phá Sài Gòn xưa, ẩm thực miền Nam, văn hóa và phong tục miền Tây - nơi lưu giữ ký ức Nam Kỳ xưa sống động."
   dateFormat: "02 January 2006"
   comments: true
   facebook: "phucsg.lhp"

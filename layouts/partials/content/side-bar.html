@@ -1,0 +1,41 @@
+
+<div class="about_me border-t-[2px] border-[#2c1a0e] mb-10">
+    <h2 class="text-2xl text-[#2c1a0e] mt-5 mb-6"><span class="text-[#b8882a]">❧</span> Về Chúng Tôi</h2>
+    <img class="my-10" src="/images/logo_web_namky.png" alt="">
+    <p class="italic">Nam Kỳ Xưa là nơi ghi chép lại những trang sử, phong tục, con người và cảnh vật của vùng đất phương Nam một thời. 
+        Chúng tôi tin rằng quá khứ không bao giờ thực sự qua đi.</p>
+</div>
+<div class="related_post border-t-[2px] border-[#2c1a0e]">
+    <h2 class="text-2xl mt-5 mb-6"><span class="text-[#b8882a]">✦</span> Xem nhiều nhất</h2>
+    {{ range $index, $page := where .Site.RegularPages ".Params.tags" "intersect" (slice "feature") | first 5}}
+    <h3 class="line-clamp-1 mb-2 group"><a class="flex items-center font-bold group-hover:text-[#b8882a] text-[#2c1a0e]" href="{{ .Permalink }}">
+        <span class="text-2xl mr-3 text-[#b8882a] opacity-20 group-hover:opacity-100">{{ printf "%02d" (add $index 1) }}.</span>{{ .LinkTitle }}</a></h3>
+    <p class="border-b-1 border-[#ede0c4] mb-6 pl-10 pb-3 text-[0.7rem]">{{ .CurrentSection.Title }}</p>
+     {{ end }}
+</div>
+
+<div class="relative time_line border-t-[2px] border-[#2c1a0e] mb-10">
+    <h2 class="text-2xl text-[#2c1a0e] mt-5 mb-6">Biên niên sử Nam Kỳ</h2>
+    <div class="border-l-[2px] border-[#b8882a]">
+        <div class="w-3 h-3 bg-[#b8882a] rotate-45 absolute -left-[5px] mt-2"></div>
+        <div class="ml-6 text-[#8b3a1e]">1859</div>
+        <p class="ml-6 font-bold text-lg">Pháp chiếm thành Gia Định</p>
+        <p class="ml-6 italic text-[0.8rem] text-[#8c7355] mb-6">Một trang sử mới mở ra, đánh dấu bước ngoặt trong vận mệnh của mảnh đất phương Nam</p>
+
+        <div class="w-3 h-3 bg-[#b8882a] rotate-45 absolute -left-[5px] mt-2"></div>
+        <div class="ml-6 text-[#8b3a1e]">1862</div>
+        <p class="ml-6 font-bold text-lg">Hiệp ước Nhâm Tuất - Nam Kỳ thuộc Pháp</p>
+        <p class="ml-6 italic text-[0.8rem] text-[#8c7355] mb-6">Ba tỉnh miền Đông Nam Kỳ chính thức nhượng cho Pháp, mở đầu thời kỳ thuộc địa kéo dài gần một thế kỷ.</p>
+
+        <div class="w-3 h-3 bg-[#b8882a] rotate-45 absolute -left-[5px] mt-2"></div>
+        <div class="ml-6 text-[#8b3a1e]">1891</div>
+        <p class="ml-6 font-bold text-lg">Chợ Bến Thành đầu tiên được xây dựng</p>
+        <p class="ml-6 italic text-[0.8rem] text-[#8c7355] mb-6">Trung tâm thương mại sầm uất nhất Sài Gòn ra đời, trở thành biểu tượng không thể tách rời của thành phố.</p>
+
+        <div class="w-3 h-3 bg-[#b8882a] rotate-45 absolute -left-[5px] mt-2"></div>
+        <div class="ml-6 text-[#8b3a1e]">1914 — 1929</div>
+        <p class="ml-6 font-bold text-lg">Thời Kỳ Phồn Vinh - Sài Gòn Hòn Ngọc Viễn Đông</p>
+        <p class="ml-6 italic text-[0.8rem] text-[#8c7355]">Kinh tế phát triển vượt bậc, văn hóa Đông-Tây giao thoa, Sài Gòn trở thành đô thị sầm uất bậc nhất Đông Nam Á.</p>
+    </div>
+    </div>
+</div>
