@@ -1,0 +1,60 @@
+---
+date : '2026-05-01T11:41:02+07:00'
+draft : false
+title : 'Chợ Lớn - Khu phố người Hoa lâu đời nhất Sài Gòn'
+description : 'Khám phá Chợ Lớn - Khu phố người Hoa trăm năm tuổi. Trung tâm thương mại lớn nhất Nam Kỳ và vẫn còn lưu giữ nét văn hóa đặc trưng giữa Sài Gòn hiện đại.'
+slug : 'cho-lon-khu-pho-nguoi-hoa-lau-doi-nhat-sai-gon'
+image : '/images/thumbnails/cho-lon.jpg'
+---
+
+Chợ Lớn là khu tập trung nhiều người Hoa sinh sống, nằm dọc theo kênh tàu hủ và trải dài trên địa bàn quận 5, 6 phía nam tới quận 8, phía bắc tới quận 10, 11. Khu vực này trước kia thành lập thành phố riêng biệt với Sài Gòn.
+
+Trong những năm 1930-1950 do quá trình đô thị hóa, Sài Gòn và Chợ Lớn dần dần sát nhập lại với nhau. Khi đó Chợ Lớn còn được gọi là khu phố người Hoa.
+
+{{< figure src="/images/cho-lon.webp" alt="Chợ Lớn" class="center" >}}
+
+## Xuất xứ cái tên Chợ Lớn
+
+Cái tên Chợ Lớn cũng gây ra nhiều tranh cãi sau này, theo giáo sư Trần Chính Hoằng sở nghiên cứu chỉnh lý cổ tịch, đại học Phục Đán, Trung Quốc viết Đề Ngạn (堤岸) chính là bờ đê (đê Ngạn) Sài Gòn.
+
+{{< figure src="/images/cho-lon-2.webp" alt="Chợ Lớn" class="center" >}}
+
+Tuy nhiên, học giả An Chi bác bỏ quan điểm này. Ông cho rằng cách giải thích này “ngớ ngẩn” vì Sài Gòn không hề có đê. Theo ông, ban đầu chữ Đề Ngạn được Hoa Kiều tại Chợ Lớn viết là 提岸 với chữ Đề 提 có bộ "thủ" 扌mà sau này vì cố muốn hiểu là bờ đê nên người ta mới đổi cách viết thành Đê Ngạn 堤岸 với chữ Đê 堤 có bộ "thổ" 土. Cả 提岸 và 堤岸 đều đồng âm và đọc là "Thầy Ngòn" trong tiếng Quảng Đông, và đều là cách phiên âm địa danh "Sài Gòn" trong tiếng Việt.
+
+## Từng là thủ phủ lúa gạo của Nam Kỳ
+
+Ít ai biết rằng, Chợ Lớn từng giữ vai trò quan trọng trong kinh tế Nam Kỳ.
+
+- Là trung tâm thu mua và phân phối lúa gạo lớn nhất Đông Dương.
+
+- Là nơi tập trung các thương nhân người Hoa giàu có.
+
+- Là đầu mối giao thương với nước ngoài.
+
+Có thời, người ta còn xem Chợ Lớn là thủ phủ lúa gạo lớn nhất của vùng Nam Bộ.
+
+{{< figure src="/images/cho-lon-3.webp" alt="Chợ Lớn" class="center" >}}
+
+## Chợ Bình Tây -  Biểu tượng của Chợ Lớn.
+
+Chợ được một thương gia người Hoa là Quách Đàm xây dựng năm 1928, rồi tặng cho chính quyền thành phố lúc bấy giờ, chợ khánh thành năm 1930.
+
+{{< figure src="/images/cho-binh-tay.webp" alt="Chợ Lớn" class="center" >}}
+
+Chợ Bình Tây được xây dựng theo phong cách kiến trúc Á Đông và phương Tây.
+
+- Có mái ngói âm dương
+
+- Tháp đồng hồ trung tâm
+
+- Không gian mua bán rộng rãi
+
+Chợ Bình Tây là đầu mối sỉ hàng hóa lớn của Sài Gòn. Hàng hóa ở đây được đưa đi phân phối khắp nơi trong cả nước, thậm chí bán sỉ sang thị trường Cambodia và nhiều nước khác. Chợ cũng là nơi thu hút nhiều du khách trong và ngoài nước tham quan.
+
+## Nơi văn hóa Việt - Hoa giao thoa
+
+Tiếng Quảng Đông ở đây vẫn được sử dụng phổ biến ở nơi đây, các hội quán miếu cổ trăm năm vẫn còn. Phong tục tín ngưỡng cũng được gìn giữ gần như không thay đổi.
+
+Có chùa Thiên Mậu, chùa ông Bổn, Chợ Lớn như thế vô tình trở thành “bảo tàng sống” về văn hóa Việt - Hoa.
+
+> Giữa nhịp sống đổi thay từng ngày của Sài Gòn, Chợ Lớn vẫn ở đó - lặng lẽ giữ lại những gì xưa cũ nhất.
