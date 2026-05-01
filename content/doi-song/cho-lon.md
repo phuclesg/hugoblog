@@ -17,7 +17,7 @@ Trong những năm 1930-1950 do quá trình đô thị hóa, Sài Gòn và Chợ
 
 Cái tên Chợ Lớn cũng gây ra nhiều tranh cãi sau này, theo giáo sư Trần Chính Hoằng sở nghiên cứu chỉnh lý cổ tịch, đại học Phục Đán, Trung Quốc viết Đề Ngạn (堤岸) chính là bờ đê (đê Ngạn) Sài Gòn.
 
-{{< figure src="/images/cho-lon-2.webp" alt="Chợ Lớn" class="center" >}}
+{{< figure src="/images/cho-lon-2.webp" alt="Tiệm kinh doanh tại khu Chợ Lớn" class="center" >}}
 
 Tuy nhiên, học giả An Chi bác bỏ quan điểm này. Ông cho rằng cách giải thích này “ngớ ngẩn” vì Sài Gòn không hề có đê. Theo ông, ban đầu chữ Đề Ngạn được Hoa Kiều tại Chợ Lớn viết là 提岸 với chữ Đề 提 có bộ "thủ" 扌mà sau này vì cố muốn hiểu là bờ đê nên người ta mới đổi cách viết thành Đê Ngạn 堤岸 với chữ Đê 堤 có bộ "thổ" 土. Cả 提岸 và 堤岸 đều đồng âm và đọc là "Thầy Ngòn" trong tiếng Quảng Đông, và đều là cách phiên âm địa danh "Sài Gòn" trong tiếng Việt.
 
@@ -33,13 +33,13 @@ Tuy nhiên, học giả An Chi bác bỏ quan điểm này. Ông cho rằng các
 
 Có thời, người ta còn xem Chợ Lớn là thủ phủ lúa gạo lớn nhất của vùng Nam Bộ.
 
-{{< figure src="/images/cho-lon-3.webp" alt="Chợ Lớn" class="center" >}}
+{{< figure src="/images/cho-lon-3.webp" alt="Kiến trúc hoài cổ" class="center" >}}
 
 ## Chợ Bình Tây -  Biểu tượng của Chợ Lớn.
 
 Chợ được một thương gia người Hoa là Quách Đàm xây dựng năm 1928, rồi tặng cho chính quyền thành phố lúc bấy giờ, chợ khánh thành năm 1930.
 
-{{< figure src="/images/cho-binh-tay.webp" alt="Chợ Lớn" class="center" >}}
+{{< figure src="/images/cho-binh-tay.webp" alt="Chợ Bình Tậy - Biểu tượng của Chợ Lớn" class="center" >}}
 
 Chợ Bình Tây được xây dựng theo phong cách kiến trúc Á Đông và phương Tây.
 
