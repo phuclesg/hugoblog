@@ -1,9 +1,9 @@
 ---
 date : '2026-05-01T11:41:02+07:00'
 draft : false
-title : 'Chợ Lớn - Khu phố người Hoa lâu đời nhất Sài Gòn'
+title : 'Chợ Lớn Sài Gòn là gì? Lịch sử khu phố người Hoa hơn 300 năm'
 description : 'Khám phá Chợ Lớn - Khu phố người Hoa trăm năm tuổi. Trung tâm thương mại lớn nhất Nam Kỳ và vẫn còn lưu giữ nét văn hóa đặc trưng giữa Sài Gòn hiện đại.'
-slug : 'cho-lon-khu-pho-nguoi-hoa-lau-doi-nhat-sai-gon'
+slug : 'cho-lon-sai-gon-la-gi-lich-su-khu-pho-nguoi-hoa-hon-300-nam'
 image : '/images/thumbnails/cho-lon.jpg'
 ---
 
