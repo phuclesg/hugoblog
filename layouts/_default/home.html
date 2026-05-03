@@ -63,7 +63,7 @@
           
         
         {{ range $paginator.Pages }}
-        <div class="border-t-2 border-[#ede0c4] hover:border-[#a0784a] transition-all ease-in-out duration-300 relative pt-4 mb-4">
+        <div class="border-t-2 border-[#ede0c4] hover:border-[#a0784a] hover:-translate-1 transition-all ease-in-out duration-300 relative pt-4 mb-4">
           <article class="grid md:col-span-8">
             <figure class="w-full aspect-video overflow-hidden border">
 
@@ -137,7 +137,7 @@
         <div class="grid grid-cols-1 gap-x-6 gap-y-4">
           {{ $cat := "nhan-vat" }}
           {{ range where site.RegularPages "Section" $cat | first 3 }}
-          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] transition-all ease-in-out duration-300 relative pb-4 mb-4">
+          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] hover:-translate-1 transition-all ease-in-out duration-300 relative pb-4 mb-4">
             <article class="flex gap-x-3">
               <figure class="w-36 h-36 flex-shrink-0 aspect-square overflow-hidden border">
 
@@ -188,7 +188,7 @@
         <div class="grid grid-cols-1 gap-x-6 gap-y-4">
           {{ $cat := "doi-song" }}
           {{ range where site.RegularPages "Section" $cat | first 3 }}
-          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] transition-all ease-in-out duration-300 relative pb-4 mb-4">
+          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] hover:-translate-1 transition-all ease-in-out duration-300 relative pb-4 mb-4">
             <article class="flex gap-x-3">
               <figure class="w-36 h-36 flex-shrink-0 aspect-square overflow-hidden border">
 
@@ -239,7 +239,7 @@
         <div class="grid grid-cols-1 gap-x-6 gap-y-4">
           {{ $cat:= "mon-ngon"}}
           {{ range where site.RegularPages "Section" "mon-ngon" | first 3 }}
-          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] transition-all ease-in-out duration-300 relative pb-4 mb-4">
+          <div class="border-b-2 border-[#ede0c4] hover:border-[#a0784a] hover:-translate-1 transition-all ease-in-out duration-300 relative pb-4 mb-4">
             <article class="flex gap-x-3">
               <figure class="w-36 h-36 flex-shrink-0 aspect-square overflow-hidden border">
 
