@@ -15,7 +15,7 @@ Nam đầu thế kỷ XX. Ra đời giữa lúc thị trường đang bị lũng
 quốc, "Cô Ba" đã vươn lên trở thành một huyền thoại gắn liền với hình ảnh người phụ nữ Nam Bộ hiền
 hậu và vẻ đẹp thuần khiết.
 
-{{< figure src="xa-bong-co-ba.webp" alt="Xà bông Cô Ba" class="center" >}}
+{{< figure src="/images/xa-bong-co-ba.webp" alt="Xà bông Cô Ba" class="center" >}}
 
 ### 1. Người khai sinh và sứ mệnh "Người Việt dùng hàng Việt"
 Cha đẻ của Xà bông Cô Ba là ông Trương Văn Bền (1883 - 1956), một doanh nhân tài ba tại Chợ Lớn.
@@ -29,7 +29,7 @@ Năm 1932, ông thành lập nhà máy Trương Văn Bền và Các con với mo
 Hình ảnh một người phụ nữ Nam Bộ búi tóc cao, gương mặt phúc hậu, đeo dây chuyền vàng đã trở thành nhận diện thương hiệu quyền lực nhất thời bấy giờ.
 Có nhiều giai thoại về nguyên mẫu của nhân vật này. Người ta cho rằng đó chính là vợ ông Trương Văn Bền, hoặc một người phụ nữ nức tiếng xinh đẹp tại Trà Vinh. Dù là ai, hình ảnh đó đã tạo nên sự gần gũi tuyệt đối, đánh trúng vào tâm lý tôn vinh vẻ đẹp truyền thống của người dân Nam Kỳ.
 
-{{< figure src="xa-bong-co-ba-2.webp" alt="Xà bông Cô Ba" class="center" >}}
+{{< figure src="/images/xa-bong-co-ba-2.webp" alt="Xà bông Cô Ba" class="center" >}}
 
 ### 3. Chất lượng vang danh quốc tế
 Không chỉ mạnh về hình thức, Xà bông Cô Ba còn được đánh giá cao về chất lượng. Thành phần chính của xà bông được chiết xuất từ dầu dừa tinh khiết - nguồn nguyên liệu dồi dào của miền Tây. Nhờ vậy, xà bông có độ tạo bọt tốt, làm sạch sâu và giữ được mùi thơm tự nhiên bền lâu.
