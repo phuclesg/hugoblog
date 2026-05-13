@@ -34,7 +34,7 @@ params:
   facebook: "phucsg.lhp"
   instagram: "lphuc88"
   x: "p__lux"
-  logos: "/images/logo.png"
+  logo: "/images/logo.png"
   mediaBaseURL: "https://media.namkyxua.com"
   
   section_color:
