@@ -12,13 +12,6 @@ sitemap:
   priority: 0.5
   filename: "sitemap.xml"
 
-languages:
-  vi:
-    locale: "vi-vietnam"
-    direction: "ltr"
-    label: "vietnames"
-    weight: 1
-
 pagination:
   pagerSize: 4
 
