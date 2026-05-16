@@ -1,13 +1,13 @@
 ---
 date: 2026-05-16T12:50:20+07:00
 draft: false
-title: Văn hóa Óc Eo - Và tầm ảnh hưởng trong lịch sử Nam Bộ
-slug: van-hoa-oc-eo-va-tam-anh-huong-trong-van-hoa-nam-bo
-author: Phúc Mập
-image: /images/thumbnails/van-hoa-oc-eo.jpg
-description: Tồn tại từ thế kỷ 1 đến thế kỷ 7, văn hóa Óc Eo không chỉ là một
+title: 'Văn hóa Óc Eo - Và tầm ảnh hưởng trong lịch sử Nam Bộ'
+slug: 'van-hoa-oc-eo-va-tam-anh-huong-trong-van-hoa-nam-bo'
+author: 'Phúc Mập'
+image: '/images/thumbnails/van-hoa-oc-eo.jpg'
+description: 'Tồn tại từ thế kỷ 1 đến thế kỷ 7, văn hóa Óc Eo không chỉ là một
   nền văn minh bản địa mà còn là cầu nối giao thương sầm uất giữa Đông và Tây
-  trên con đường tơ lụa biển.
+  trên con đường tơ lụa biển.'
 ---
 ## 1. Không gian văn hóa và Tầm ảnh hưởng
 Văn hóa Óc Eo không chỉ gói gọn tại di chỉ Óc Eo - Ba Thê (An Giang) mà là một nền văn hóa bản địa gắn liền với vương quốc Phù Nam, trải rộng khắp Nam Bộ Việt Nam và ảnh hưởng đến tận Campuchia, Thái Lan, Myanmar và Malaysia
