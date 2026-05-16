@@ -1,8 +1,7 @@
 baseURL: "https://namkyxua.com/"
-locale: "vi-vn"
+languageCode: "vi-VN"
 title: "Nam Kỳ Xưa - Lịch sử, văn hóa và con người Nam Bộ"
 theme: "pehtheme-hugo-main"
-defaultContentLanguage: "vi"
 removePathAccents: true
 uglyURLs: false
 metaDataFormat: "yaml"
