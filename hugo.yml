@@ -1,7 +1,8 @@
 baseURL: "https://namkyxua.com/"
-languageCode: "vi-VN"
-title: "Nam Kỳ Xưa - Lịch sử, văn hóa và con người Nam Bộ"
+languageCode: "vi-vn"
+title: "Nam Kỳ Xưa"
 theme: "pehtheme-hugo-main"
+defaultContentLanguage: "vi"
 removePathAccents: true
 uglyURLs: false
 metaDataFormat: "yaml"
@@ -11,6 +12,13 @@ sitemap:
   priority: 0.5
   filename: "sitemap.xml"
 
+languages:
+  vi:
+    languageCode: "vi-vietnam"
+    languageDirection: "ltr"
+    languageName: "vietnames"
+    weight: 1
+    
 pagination:
   pagerSize: 4
 
