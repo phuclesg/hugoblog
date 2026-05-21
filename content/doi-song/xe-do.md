@@ -3,7 +3,7 @@ date : '2026-05-18T11:40:10+07:00'
 draft : false
 title : 'Xe đò: Chuyến xe chở những kỷ niệm thời xa xưa'
 slug : 'xe-do-chuyen-xe-cho-nhung-ky-niem-thoi-xa-xua'
-descrtiption : 'Những âm thanh ồn ào, những dòng người chen chúc, mùi dầu máy khét lẹt, một chuyến hành trình dài liên tỉnh. Đó là những hình ảnh trong ký ức của người Nam Kỳ và Sài gòn xưa khi nói về Xe Đò'
+description : 'Những âm thanh ồn ào, những dòng người chen chúc, mùi dầu máy khét lẹt, một chuyến hành trình dài liên tỉnh. Đó là những hình ảnh trong ký ức của người Nam Kỳ và Sài gòn xưa khi nói về Xe Đò'
 image : '/images/thumbnails/xe-do.jpg'
 ---
 Nếu có một hình ảnh nào gói trọn cả cái bình dị, nhộn nhịp và đôi khi là cả sự nhọc nhằn của miền Nam xưa, thì đó chắc chắn là những chiếc xe đò. Đối với người dân Nam Kỳ và Sài Gòn xưa, tiếng còi xe, mùi dầu máy và những bến bãi ồn ào không chỉ là phương tiện đi lại, mà còn là cả một miền ký ức không thể nào quên.
