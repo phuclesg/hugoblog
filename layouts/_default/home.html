@@ -5,11 +5,9 @@
     <!-- Feature post by tag = "feature" -->
     <div class="gap-2 basis-1/2 self-center">
       {{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "feature") -}}
-      {{- $other_left := first 1 $featured -}}
-      {{- $main := first 1 (after 2 $featured) -}}
-      {{- $other_right := first 2 (after 3 $featured) -}}
+      {{- $random := first 1 (shuffle $featured) -}}
       {{- $color := index .Site.Params.section_color .Section -}}
-          {{ range $other_left }}
+          {{ range $random}}
           <h2 class="text-[0.8rem] text-[#d4a843] py-2">✦ Bài viết nổi bật</h2>
           <section class="relative group flex flex-col rounded-lg mb-8 hover:bg-[{{ $color }}]/30">
             <figure class="w-full aspect-video overflow-hidden border-t-[20px] border-[#54371b] border-b-[20px]">
