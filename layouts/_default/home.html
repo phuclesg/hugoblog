@@ -3,44 +3,66 @@
   <div class="col-span-8">
     <div class="hero-site col-span-8 gap-10 justify-between items-center py-4 md:py-15">
     <!-- Feature post by tag = "feature" -->
-    <div class="gap-2 basis-1/2 self-center">
-      {{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "feature") -}}
-      {{- $random := first 1 (shuffle $featured) -}}
-      {{- $color := index .Site.Params.section_color .Section -}}
-          {{ range $random}}
-          <h2 class="text-[0.8rem] text-[#d4a843] py-2">✦ Bài viết nổi bật</h2>
-          <section class="relative group flex flex-col rounded-lg mb-8 hover:bg-[{{ $color }}]/30">
-            <figure class="w-full aspect-video overflow-hidden border-t-[20px] border-[#54371b] border-b-[20px]">
-
-              {{- if .Params.image }}
-
-                {{- if (strings.HasPrefix .Params.image "http") }}
-
-                  <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
-
-                {{- else if (strings.HasPrefix .Params.image "/" )}}
-                  <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
-                {{- else }}
-                  {{- with $imgfeature := resources.Get .Params.image }}
-                    {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
-                    <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width }}" height="{{ $imgfeature.Height }}">
-                  {{- end }}
-
+      <div class="gap-2 basis-1/2 self-center">
+        {{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "feature") -}}
+        {{- $color := index .Site.Params.section_color .Section | default "#ffffff" -}}
+        
+        {{- if gt (len $featured) 0 -}}
+      <h2 class="text-[0.8rem] text-[#d4a843] py-2">✦ Bài viết nổi bật</h2>
+      
+        {{ range $index, $item := $featured }}
+        <section class="featured-item hidden relative group flex flex-col rounded-lg mb-8" 
+                data-index="{{ $index }}"
+                onmouseenter="this.style.backgroundColor='{{ $color }}4D'" 
+                onmouseleave="this.style.backgroundColor='transparent'"
+                style="transition: background-color 0.3s;">
+          
+          <figure class="w-full aspect-video overflow-hidden border-t-[20px] border-[#54371b] border-b-[20px]">
+            {{- if .Params.image }}
+              {{- if (strings.HasPrefix .Params.image "http") }}
+                <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
+              {{- else if (strings.HasPrefix .Params.image "/" )}}
+                <img class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}">
+              {{- else }}
+                {{- with $imgfeature := resources.Get .Params.image }}
+                  {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
+                  <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width }}" height="{{ $imgfeature.Height }}">
                 {{- end }}
-
               {{- end }}
+            {{- end }}
+          </figure>
 
-            </figure>
-            <div class="px-2 bg-white py-6">
-              <h2 class="text-[#4a2e18] my-4 relative after:h-[1px] after:w-[200px] after:bg-[#e5d3a1] after:inline-block after:align-middle after:ml-3">{{ .CurrentSection.Title }}</h2>
-              <h2 class="text-1xl line-clamp-2 md:text-xl text-[#4a2e18] lg:text-xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title }}</a></h2>
-              <p class="text-[#4a2e18] mb-3"><time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="before:content-['•'] mr-2 font-bold text-[#4a2e18]"></span>{{ .Date.Format "02-01-2006" }}</time></p>
-              <p class="text-normal leading-normal text-[#4a2e18] line-clamp-5">{{ .Params.description }}</p>
-            </div>
-          </section>
+          <div class="px-2 bg-white py-6">
+            <h2 class="text-[#4a2e18] my-4 relative after:h-[1px] after:w-[200px] after:bg-[#e5d3a1] after:inline-block after:align-middle after:ml-3">{{ .CurrentSection.Title }}</h2>
+            <h2 class="text-1xl line-clamp-2 md:text-xl text-[#4a2e18] lg:text-xl font-bold mb-4">
+              <a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ $item.Title }}</a>
+            </h2>
+            <p class="text-[#4a2e18] mb-3">
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+                <span class="before:content-['•'] mr-2 font-bold text-[#4a2e18]"></span>{{ .Date.Format "02-01-2006" }}
+              </time>
+            </p>
+            <p class="text-normal leading-normal text-[#4a2e18] line-clamp-5">{{ .Params.description }}</p>
+          </div>
+        </section>
+      {{ end -}}
+    {{- end -}}
+  </div>  
 
-          {{ end -}}
-      </div>  
+      <script>
+        // Chạy đoạn bốc thăm bài viết ngẫu nhiên theo ngày
+        (function() {
+          const items = document.querySelectorAll(".featured-item");
+          if (items.length === 0) return; // Nếu không có bài nào thì dừng, tránh lỗi toán học
+
+          const today = new Date();
+          // Mỗi 6 tiếng thay đổi bài viết một lần dựa trên thuật toán của bạn
+          const seed = today.getFullYear() + today.getMonth() + Math.floor(Date.now() / (1000 * 60 * 60 * 6));
+          
+          const selectedIndex = seed % items.length;
+          items[selectedIndex].classList.remove("hidden");
+        })();
+      </script>
     </div>
   
     <!-- / End feature post  -->
