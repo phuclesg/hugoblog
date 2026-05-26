@@ -50,13 +50,12 @@
   </div>  
 
       <script>
-        // Chạy đoạn bốc thăm bài viết ngẫu nhiên theo ngày
         (function() {
           const items = document.querySelectorAll(".featured-item");
-          if (items.length === 0) return; // Nếu không có bài nào thì dừng, tránh lỗi toán học
+          if (items.length === 0) return; // Nếu không có bài nào thì dừng
 
           const today = new Date();
-          // Mỗi 6 tiếng thay đổi bài viết một lần dựa trên thuật toán của bạn
+          // Mỗi 6 tiếng thay đổi bài viết một lần 
           const seed = today.getFullYear() + today.getMonth() + Math.floor(Date.now() / (1000 * 60 * 60 * 6));
           
           const selectedIndex = seed % items.length;
