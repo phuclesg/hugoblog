@@ -59,7 +59,9 @@ Nếu tô canh chua là linh hồn thì đĩa cua rang tiêu chính là điểm 
 **Những Biến Tấu Mát Lành Từ Cua Đồng**
 
 Ngoài món canh chua, người miền Tây còn có món canh cua nấu rau tập tàn (tổng hợp rau dền, mùng tơi, bồ ngót...) hoặc canh mướp mùng tơi. Với món này, cua thường được xay nhuyễn, lọc lấy nước để nấu thành những mảng riêu cua mềm tan, ngọt thanh. 
+
 Vị ngọt của cua hòa quyện cùng vị mát của rau đồng khiến người ta ăn đến đâu "mát lòng mát dạ" đến đó.
 
 Dù là món canh chua dân dã hay nồi lẩu cua đồng thịnh soạn để đãi khách, những món ngon từ con cua đồng luôn chứa đựng tình yêu gia đình và sự chân chất của con người miền sông nước. 
+
 Một lần thưởng thức miếng thịt cua ngọt lịm chấm muối ớt, hay chan miếng nước canh chua đậm đà, bạn sẽ hiểu vì sao "tha hương anh vẫn một lòng nhớ quê"
