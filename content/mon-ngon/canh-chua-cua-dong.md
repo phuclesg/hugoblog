@@ -30,13 +30,13 @@ Món canh chua này hấp dẫn bởi sự hài hòa giữa vị chua thanh củ
 - Gia vị: Muối, đường, nước mắm ngon
 
 Cách làm:
-Sơ chế cua: Phi thơm hành tỏi, cho cua vào xào sơ đến khi chuyển màu đỏ ao thì nêm một ít muối.
+- Sơ chế cua: Phi thơm hành tỏi, cho cua vào xào sơ đến khi chuyển màu đỏ ao thì nêm một ít muối.
 
-Nấu nước canh: Chế lượng nước vừa phải vào nồi cua, nấu sôi. Khi nước sôi, cho nước tắc vào để tạo vị chua thanh.
+- Nấu nước canh: Chế lượng nước vừa phải vào nồi cua, nấu sôi. Khi nước sôi, cho nước tắc vào để tạo vị chua thanh.
 
-Nấu rau: Cho rau muống chẻ vào trước. Khi nước sôi trở lại và rau vừa chín tới, tiếp tục cho bông so đũa vào trộn đều rồi tắt bếp ngay vì bông so đũa rất mau chín.
+- Tiếp đến cho rau muống chẻ vô trước. Khi nước sôi trở lại và rau vừa chín tới, tiếp tục cho bông so đũa vô dùng vá đè nhẹ cho rau chìm xuống rồi tắt bếp ngay vì bông so đũa rất mau chín.
 
-Hoàn thiện: Nêm nếm lại với nước mắm, đường cho đậm đà, sau đó thêm rau thơm và ớt xắt để món canh dậy mùi đặc trưng của miền Tây.
+- Hoàn thiện: Nêm nếm lại với nước mắm, đường cho đậm đà, sau đó thêm rau thơm và ớt xắt để món canh dậy mùi đặc trưng của miền Tây.
 
 **Bí Quyết Làm Cua Đồng Rang Tiêu Đậm Đà**
 
@@ -46,18 +46,20 @@ Nếu tô canh chua là linh hồn thì đĩa cua rang tiêu chính là điểm 
 
 *Cách làm:*
 
-Phi thơm gốc hành lá băm nhuyễn, cho phần thịt cua đồng vào chảo.
+- Phi thơm gốc hành lá băm nhuyễn, cho phần thịt cua đồng vào chảo.
 
-Nêm nếm đường, muối và một muỗng nước mắm ngon, trộn đều cho cua thấm gia vị.
+- Nêm nếm đường, muối và một muỗng nước mắm ngon, trộn đều cho cua thấm gia vị.
 
-Nếu sợ cháy, bạn có thể thêm nửa chén nước nhỏ, để lửa riu riu cho cua chín từ bên trong và thấm đều.
+- Nếu sợ cháy, bạn có thể thêm nửa chén nước nhỏ, để lửa riu riu cho cua chín từ bên trong và thấm đều.
 
-Khi nước trong chảo đã rút gần hết, hãy đổ phần gạch cua đã khều riêng vào, trộn đều để cái béo của gạch áo quanh từng con cua.
+- Khi nước trong chảo đã rút gần hết, hãy đổ phần gạch cua đã khều riêng vào, trộn đều để cái béo của gạch áo quanh từng con cua.
 
-Cuối cùng, thêm tiêu xanh đập dập vào để tăng vị cay nồng, rồi nhắc xuống.
+- Cuối cùng, thêm tiêu xanh đập dập vào để tăng vị cay nồng, rồi nhắc xuống.
 
-Những Biến Tấu Mát Lành Từ Cua Đồng
+**Những Biến Tấu Mát Lành Từ Cua Đồng**
 
-Ngoài món canh chua, người miền Tây còn có món canh cua nấu rau tập tàn (tổng hợp rau dền, mùng tơi, bồ ngót...) hoặc canh mướp mùng tơi. Với món này, cua thường được xay nhuyễn, lọc lấy nước để nấu thành những mảng riêu cua mềm tan, ngọt thanh. Vị ngọt của cua hòa quyện cùng vị mát của rau đồng khiến người ta ăn đến đâu "mát lòng mát dạ" đến đó.
+Ngoài món canh chua, người miền Tây còn có món canh cua nấu rau tập tàn (tổng hợp rau dền, mùng tơi, bồ ngót...) hoặc canh mướp mùng tơi. Với món này, cua thường được xay nhuyễn, lọc lấy nước để nấu thành những mảng riêu cua mềm tan, ngọt thanh. 
+Vị ngọt của cua hòa quyện cùng vị mát của rau đồng khiến người ta ăn đến đâu "mát lòng mát dạ" đến đó.
 
-Dù là món canh chua dân dã hay nồi lẩu cua đồng thịnh soạn để đãi khách, những món ngon từ con cua đồng luôn chứa đựng tình yêu gia đình và sự chân chất của con người miền sông nước. Một lần thưởng thức miếng thịt cua ngọt lịm chấm muối ớt, hay chan miếng nước canh chua đậm đà, bạn sẽ hiểu vì sao "tha hương anh vẫn một lòng nhớ quê"
+Dù là món canh chua dân dã hay nồi lẩu cua đồng thịnh soạn để đãi khách, những món ngon từ con cua đồng luôn chứa đựng tình yêu gia đình và sự chân chất của con người miền sông nước. 
+Một lần thưởng thức miếng thịt cua ngọt lịm chấm muối ớt, hay chan miếng nước canh chua đậm đà, bạn sẽ hiểu vì sao "tha hương anh vẫn một lòng nhớ quê"
