@@ -4,8 +4,8 @@ backend:
   branch: main
   base_url: https://callback.lhp0988.workers.dev # URL của Cloudflare Worker xử lý OAuth
 
-media_folder: "static/images/thumbnails/"
-public_folder: "/images"
+media_folder: "static/images/thumbnails"
+public_folder: "/images/thumbnails"
 site_url: https://namkyxua.com
 
 collections:
