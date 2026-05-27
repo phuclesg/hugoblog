@@ -6,7 +6,7 @@ slug: 'cua-dong-mien-tay-vi-ngot-que-huong-trong-nhung-bua-com-chieu'
 description: 'Khi những cơn mưa đầu mùa trút xuống xứ Phương Nam, cũng là lúc những con cua đồng trong hang mò ra ngoài kiếm ăn và sinh sản. Thì cũng là lúc người dân nơi đây có những món ngon từ cua đồng để thưởng thức'
 image: '/images/thumbnails/cua-dong-thumb.jpg'
 ---
-Phương Nam đang vào mùa mưa, những cơn mưa bất chợt trút xuống làm tiết trời trở nên se lạnh. Trong cái không khí ấy, chẳng có gì ấm lòng hơn là được quây quần bên mâm cơm gia đình với tô canh chua cua đồng bốc khói nghi ngút và đĩa cua rang tiêu đậm đà. Những món ăn giản dị, mộc mạc nhưng gói gọn cả một trời thương nhớ của những người con xa xứ.
+Phương Nam đang vào mùa mưa, những cơn mưa bất chợt trút xuống làm tiết trời trở nên se lạnh. Trong cái không khí ấy, chẳng có gì ấm lòng hơn là được quây quần bên mâm cơm gia đình với tô canh chua cua đồng bốc khói nghi ngút và dĩa cua rang tiêu đậm đà. Những món ăn giản dị, mộc mạc nhưng gói gọn cả một trời thương nhớ của những người con xa xứ.
 
 {{< figure src="/images/cua-dong.webp" alt="Cua đồng miền tây" class="center" >}}
 
@@ -14,7 +14,7 @@ Phương Nam đang vào mùa mưa, những cơn mưa bất chợt trút xuống 
 
 Bữa cơm miền Tây bắt đầu từ buổi chợ sớm của các bà, các mẹ. Nguyên liệu chuẩn bị cũng thật đơn giản: một mớ rau muống đồng được chẻ đôi, cắt khúc; vài nhánh bông so đũa trắng ngần được lặt sạch nhụy; và quan trọng nhất chính là những con cua đồng chắc nụi, bóng bẩy.
 
-Cua đồng mang về được chà rửa sạch bùn đất, phần gạch cua béo ngậy được khều riêng ra chén để tạo nên mùi thơm đặc trưng sau cùng cho món ăn. Chỉ cần bấy nhiêu thôi, từ bàn tay tần tảo của người nội trợ, một bữa cơm "hạp cảnh, hạp tình" đã sẵn sàng được thắp lửa.
+Cua đồng mang về được chà rửa sạch bùn đất, phần gạch cua béo ngậy được khều riêng ra chén để tạo nên mùi thơm đặc trưng sau cùng cho món ăn. Chỉ cần bấy nhiêu thôi, qua bàn tay tần tảo của người nội trợ sẽ có một bửa cơm ngon lành cho cả nhà.
 
 **Cách Nấu Canh Chua Cua Đồng Rau Muống & Bông So Đũa.** 
 
