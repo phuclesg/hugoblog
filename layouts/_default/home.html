@@ -50,7 +50,7 @@
   </div>  
 
       <script>
-        (function() {
+        function baivietnoibat() {
           const items = document.querySelectorAll(".featured-item");
           if (items.length === 0) return; // Nếu không có bài nào thì dừng
 
@@ -59,8 +59,11 @@
           const seed = today.getFullYear() + today.getMonth() + Math.floor(Date.now() / (1000 * 60 * 60 * 3));
           
           const selectedIndex = seed % items.length;
+          items.forEach(item => item.classList.add("hidden"));
           items[selectedIndex].classList.remove("hidden");
-        })();
+        };
+          baivietnoibat();
+          setInterval(baivietnoibat, 1000 * 60 * 60 * 3);
       </script>
     </div>
   
