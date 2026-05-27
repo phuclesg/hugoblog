@@ -56,14 +56,14 @@
 
           const today = new Date();
           // Mỗi 3 tiếng thay đổi bài viết một lần 
-          const seed = today.getFullYear() + today.getMonth() + Math.floor(Date.now() / (1000 * 60 * 60 * 3));
+          const seed = today.getFullYear() + today.getMonth() + Math.floor(Date.now() / (1000 * 60 * 5));
           
           const selectedIndex = seed % items.length;
           items.forEach(item => item.classList.add("hidden"));
           items[selectedIndex].classList.remove("hidden");
         };
           baivietnoibat();
-          setInterval(baivietnoibat, 1000 * 60 * 15);
+          setInterval(baivietnoibat, 1000 * 60 * 5);
       </script>
     </div>
   
