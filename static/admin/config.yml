@@ -14,7 +14,7 @@ collections:
     label: "Món Ngon"
     folder: "content/mon-ngon"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - label: "Tiêu đề"
         name: "title"
@@ -52,7 +52,7 @@ collections:
     label: "Nhân Vật"
     folder: "content/nhan-vat"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - label: "Tiêu đề"
         name: "title"
@@ -90,7 +90,7 @@ collections:
     label: "Đời sống"
     folder: "content/doi-song"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - label: "Tiêu đề"
         name: "title"
