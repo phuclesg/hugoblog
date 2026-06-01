@@ -21,7 +21,7 @@ Phan Thanh Giản (1796–1867), tự Tĩnh Bá, Đạm Như, hiệu Mai Xuyên,
 
 Với tài năng và đức độ, Phan Thanh Giản đã kinh qua nhiều chức vụ quan trọng dưới ba triều vua: Minh Mạng, Thiệu Trị và Tự Đức. Ông từng giữ các trọng trách như Thượng thư bộ Hộ, bộ Lại, bộ Binh, bộ Lễ, và là Chánh tổng tài Quốc sử quán, trực tiếp chỉ đạo biên soạn bộ Khâm định Việt Sử thông giám cương mục.
 
-{{< figure src="/images/phan-thanh-gian-2.webp" alt="Cụ Phan Thanh Giản ngồi giữa các quan lại khác" class="center" >}}
+{{< figure src="/images/phan-thanh-gian-3.webp" alt="Cụ Phan Thanh Giản ngồi giữa các quan lại khác" class="center" >}}
 
 Năm 1852, vua Tự Đức đã ban tặng cho ông một tấm kim khánh khắc bốn chữ: "Liêm, Bình, Cần, Cán" (Thanh liêm, công bằng, cần mẫn, tài giỏi) để ghi nhận những đóng góp và phẩm hạnh của ông. Trong mắt người đương thời và ngay cả các quan chức Pháp sau này, ông luôn hiện lên là một vị quan thanh liêm, giản dị và hết lòng vì nước.
 
@@ -37,7 +37,7 @@ Lịch sử từng có những giai đoạn đánh giá rất khắt khe về ô
 
 Không chỉ là một chính trị gia, Phan Thanh Giản còn để lại một khối lượng tác phẩm văn học và sử học đồ sộ như Lương Khê thi thảo, Tây phù nhật ký, và vai trò chủ biên các bộ chính sử quan trọng.
 
-{{< figure src="/images/phan-thanh-gian-3.webp" alt="Đình thần Phan Thanh Giản" class="center" >}}
+{{< figure src="/images/phan-thanh-gian-2.webp" alt="Đình thần Phan Thanh Giản" class="center" >}}
 
 Ngày nay, tên của ông vẫn được đặt cho nhiều con đường và trường học tại khu vực miền Nam, đặc biệt là tại quê hương Bến Tre và các tỉnh miền Tây, như một sự tri ân đối với một nhân sĩ tài năng và một nhân cách cao thượng dù phải sống trong một giai đoạn lịch sử đầy bi kịch.
 
