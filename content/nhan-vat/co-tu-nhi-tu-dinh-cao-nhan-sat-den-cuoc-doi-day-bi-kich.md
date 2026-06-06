@@ -1,5 +1,5 @@
 ---
-title: Cô Tư Nhị - Từ đỉnh cao nhan sắt đến cuộc đời đầy bi kịch
+title: Cô Tư Nhị - Từ đỉnh cao nhan sắc đến cuộc đời đầy bi kịch
 date: 2026-06-06T16:08:00.000+07:00
 slug: co-tu-nhi-tu-dinh-cao-nhan-sat-den-cuoc-doi-day-bi-kich
 author: Phúc Mập
