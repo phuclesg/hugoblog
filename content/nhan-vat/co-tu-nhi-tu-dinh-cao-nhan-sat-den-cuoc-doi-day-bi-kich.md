@@ -1,7 +1,7 @@
 ---
 title: Cô Tư Nhị - Từ đỉnh cao nhan sắc đến cuộc đời đầy bi kịch
 date: 2026-06-06T16:08:00.000+07:00
-slug: co-tu-nhi-tu-dinh-cao-nhan-sat-den-cuoc-doi-day-bi-kich
+slug: co-tu-nhi-tu-dinh-cao-nhan-sac-den-cuoc-doi-day-bi-kich
 author: Phúc Mập
 image: /images/thumbnails/co-tu-nhi.jpg
 description: Tư Nhị là một trong những mỹ nhân tiếng tăm nhất giới ăn chơi Sài
