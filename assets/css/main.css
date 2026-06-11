@@ -193,4 +193,14 @@ blockquote p::before {
                         "right";
   align-items: stretch;
 }
+.img-row {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+}
+.img-row img {
+  aspect-ratio: 16/9;
+}
 }
