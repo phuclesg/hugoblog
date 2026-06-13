@@ -7,17 +7,17 @@ image: /images/thumbnails/xe-loi.webp
 description: Xe lôi xuất hiện ở miền Tây chắc tầm khoảng năm 1930, xe lôi người
   lái ngồi phía trước thùng xe nằm sau và không có mái che.
 ---
-Đang ngồi gặm ổ bánh mì thịt, hớp thêm hớp cà phê tại quán bà sáu, thấy các cô các bà xách giỏ đi chợ qua lại nói chuyện rôm rả. Những hình ảnh đó làm chợt nhớ về mẹ và bà đi chợ khi còn nhỏ, do nhà cách chợ một quãng cũng xa, nên phải di chuyển bằng xe lôi. Một phương tiện di chuyển được coi là dấu ấn của miền Tây.
+Đang ngồi gặm ổ bánh mì thịt, hớp thêm hớp cà phê tại quán bà Sáu, thấy các cô các bà xách giỏ đi chợ qua lại nói chuyện rôm rả. Những hình ảnh đó làm chợt nhớ về mẹ và bà đi chợ khi còn nhỏ, do nhà cách chợ một quãng cũng xa, nên phải di chuyển bằng xe lôi. Một phương tiện di chuyển được coi là dấu ấn của miền Tây.
 
 {{< figure src="/images/xe-loi.webp" caption="Xe lôi đạp" alt="Xe lôi đạp" class="Xe lôi đạp" >}}
 
 Cũng như miền Đông thì có xe xích lô, thì miền Tây có xe lôi. Xe lôi cũng có hai loại như xích lô là xe lôi đạp và xe lôi máy. Xe lôi xuất hiện ở miền Tây chắc tầm khoảng năm 1930, khác với xe xích lô là người lái ngồi phía sau có thùng xe nằm phía trước có mái che nhỏ cong xuống che cho khách, thì xe lôi người lái ngồi phía trước thùng xe nằm sau và không có mái che.
 
-Có thể nguồn gốc của xe lôi là sản phẩm chế thêm để cho tiện cho việc di chuyển hơn, người lái xe ngồi trước đạp thì kiêu là xe lôi đạp, lấy cái xe máy rồi gắn thêm cái thùng để lôi thì kiêu là xe lôi máy. Thùng xe phía sau thường được đóng bằng gỗ có 1 hàng ghế dài hoặc 2 hàng ghế dài đối diện nhau nếu là thùng xe lớn.
+Có thể nguồn gốc của xe lôi là sản phẩm chế thêm để cho tiện cho việc di chuyển hơn, người lái xe ngồi trước đạp thì kêu là xe lôi đạp, lấy cái xe máy rồi gắn thêm cái thùng để lôi thì kêu là xe lôi máy. Thùng xe phía sau thường được đóng bằng gỗ có 1 hàng ghế dài hoặc 2 hàng ghế dài đối diện nhau nếu là thùng xe lớn.
 
 {{< figure src="/images/xe-loi-2.webp" caption="Xe lôi máy" alt="Xe lôi máy" class="Xe lôi máy" >}}
 
-Đó cũng là những kỷ niệm thuở nhỏ của bao đứa trẻ miền Tây xưa kia, tiếng thở hì hục của tài xế đạp xe khi lên những đoạn dốc, mồ hôi ướt hết cả lưng áo. Gặp khách sở lởi là nhảy xuống phụ đẩy qua con dốc rồi mới leo lên. Còn xe lôi máy thì thôi cái tiếng pô xe phành phạch, tành tành từ đầu ngõ là đã nghe thấy.
+Đó cũng là những kỷ niệm thuở nhỏ của bao đứa trẻ miền Tây xưa kia, tiếng thở hì hục của tài xế đạp xe khi lên những đoạn dốc, mồ hôi ướt hết cả lưng áo. Gặp khách sởi lởi là nhảy xuống phụ đẩy qua con dốc rồi mới leo lên. Còn xe lôi máy thì thôi cái tiếng pô xe phành phạch, tành tành từ đầu ngõ là đã nghe thấy.
 
 {{< figure src="/images/xe-loi-3.webp" caption="Bến xe lôi máy" alt="Bến xe lôi máy" class="Bến xe lôi máy" >}}
 
